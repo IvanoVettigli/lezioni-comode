@@ -1,0 +1,4495 @@
+{
+  "schemaVersion": 1,
+  "competitionId": "test-veterinaria",
+  "description": "Prove nazionali ufficiali MUR pre-riforma di Medicina Veterinaria (Sessioni Maggio e Luglio 2024).",
+  "items": [
+    {
+      "id": "mur-veterinaria-2024-mag-q05",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "esponenziali-logaritmi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Quale tra le seguenti proposizioni è logicamente equivalente a A ⋁ B ?",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q06",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q6",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Sia data la seguente tavola di verità: Quale proposizione possiamo mettere al posto di X?",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q07",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q7",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: La negazione dell’affermazione Tutti i filosofi sono greci è:",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q08",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q8",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Nel regolamento di un circolo molto esclusivo sono elencate le seguenti clausole: C1: l’accesso ai locali del circolo è vietato ai non…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q09",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q9",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Per raggiungere casa sua in macchina dall’ufficio, Diana si dirige a ovest per 3 km su Corso Italia, poi per 2 km in direzione nord su Via…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q10",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q10",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "chimica-organica-biochimica",
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: A quale classe di enzimi appartengono le deidrogenasi?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q11",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q11",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "chimica-organica-biochimica",
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: La demolizione del glicogeno è stimolata:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q12",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q12",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Il fruttosio è un:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q13",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q13",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "chimica-organica-biochimica",
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: La regolazione dell’attività enzimatica mediante modificazione covalente avviene quando:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q14",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q14",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale delle seguenti formule chimiche corrisponde a quella di un acido grasso saturo?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q15",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q15",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Che cosa comprende la fase M del ciclo cellulare di una cellula eucariotica?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q16",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q16",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale fra le seguenti entità biologiche non possiede i mitocondri?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q17",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q17",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Nei gatti, il gene per il colore arancio del pelo si trova sul cromosoma X. E’ un gene recessivo, il cui allele dominante dà pelo nero. Le gatte eterozigoti per…",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q18",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q18",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale fra le seguenti entità biologiche può avere un genoma a RNA?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q19",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q19",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: La meiosi è composta da:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q20",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q20",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "anatomia-fisiologia",
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Nell’uomo, quale dei seguenti meccanismi viene usato per produrre nuove cellule di un tessuto?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q21",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q21",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Secondo la teoria cellulare:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q22",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q22",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [
+        "acidi-basi-ph"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale parte della molecola degli amminoacidi influenza significativamente la struttura del polipeptide che li contiene?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q23",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q23",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Nel nucleo di una cellula eucariotica:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q24",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q24",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: I cromatidi fratelli:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q25",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q25",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Nella dominanza incompleta:",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q26",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q26",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Cosa s’intende per struttura primaria di una proteina?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q27",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q27",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale tra le seguenti affermazioni riferite agli acidi nucleici presenti in una cellula eucariotica NON è corretta?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q28",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q28",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: In quale parte della cellula animale avviene la fosforilazione ossidativa?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q29",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q29",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Un estere ha formula generica:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q30",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q30",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: In base alla teoria di Brønsted–Lowry, l’acqua è una molecola:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q31",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q31",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [
+        "termochimica-cinetica-equilibrio",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: La legge di Gay-Lussac afferma che “a volume costante la pressione esercitata da un gas è…” ?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q32",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q32",
+      "primaryTopic": "termochimica-cinetica-equilibrio",
+      "secondaryTopics": [
+        "stechiometria-moli"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Chi formulò l’enunciato: “La pressione totale di una miscela di gas è pari alla somma delle pressioni parziali dei singoli componenti”, noto come “Legge delle…",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q33",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q33",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quanti elettroni di un atomo neutro di fosforo (Z=15) occupano orbitali di tipo p?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q34",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q34",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale tra i seguenti composti è un acido secondo la teoria di Lewis?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q35",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q35",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quali molecole organiche contengono sempre gruppo carbonilico?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q36",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q36",
+      "primaryTopic": "termochimica-cinetica-equilibrio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale affermazione è vera per una reazione spontanea?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q37",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q37",
+      "primaryTopic": "stechiometria-moli",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Cosa esprime il Numero di Avogadro?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q38",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q38",
+      "primaryTopic": "termochimica-cinetica-equilibrio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: In una reazione chimica che avviene a pressione costante, il calore scambiato si identifica con:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q39",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q39",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Le costanti di dissociazione dell’acido acetico e dell’acido formico a 25°C sono rispettivamente 1,8 × 10−5 M e 1,8 × 10−4 M. Identificare la considerazione corretta.",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q40",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q40",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "legami-nomenclatura",
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il pH di una soluzione acquosa di HBr è pari a 2. Se la soluzione viene diluita 100 volte il suo pH diventa approssimativamente pari a?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q41",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q41",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: E’ possibile neutralizzare 25 mL di soluzione 0,04 M di KOH utilizzando:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q42",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q42",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: La sostanza A è un acido più forte della sostanza B se:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q43",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q43",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il numero di equivalenti di soluto in 1 litro di soluzione viene detto:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q44",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q44",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale di queste sostanze è poco o per nulla solubile in acqua?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q45",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q45",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il legame presente nella molecola di Cloro (Cl2) è:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q46",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q46",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il composto HClO2 è:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q47",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q47",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: La solubilità di un gas in una soluzione:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q48",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q48",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "equazioni-secondo-grado",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: L’equazione x3 + 2x2 + 4x + 3 = 0 ha tra le sue soluzioni:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q49",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q49",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale dei seguenti polinomi assume il valore 25 per x = 5 ?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q50",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q50",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "equazioni-secondo-grado",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: L’insieme delle soluzioni della disequazione 2x ≥ x2 − 2x è:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q51",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q51",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: In un sistema di assi cartesiani ortogonali e monometrici con origine O, si consideri la retta r di equazione y = −x + 2 . Siano A e B i punti di…",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q52",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q52",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "equazioni-secondo-grado",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: L’insieme delle soluzioni della disequazione x2 − 1 ≤ (x + 1)2 è:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q53",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q53",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una circonferenza passa per i quattro vertici di un rettangolo che ha lati di lunghezza 6 e 12. Qual è l’area del cerchio delimitato da questa…",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q54",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q54",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quanto vale la variazione di entropia nella fusione di una massa di 1 kg di ferro a pressione atmosferica (noto che il calore latente di fusione è…",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q55",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q55",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale delle seguenti grandezze è vettoriale:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q56",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q56",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Un corpo di massa m che si muove con velocità v ha la seguente quantità di moto:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q57",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q57",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale delle seguenti uguaglianze è corretta?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q58",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q58",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: La traiettoria di un punto materiale si definisce come:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q59",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q59",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Determinare quale delle seguenti affermazioni relative al prodotto vettoriale tra due vettori è falsa:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-mag-q60",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Maggio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Maggio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-maggio.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q60",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Ponendo in parallelo due condensatori di capacità uguale a 80 microfarad ciascuno, la capacità totale vale:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q05",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: In un ipotetico linguaggio in codice, al codice S1L5M3 corrisponde la parola SALUMI e al codice V1S4 corrisponde la parola VASO. Quale sarà…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q06",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q6",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Un negozio vende tre tipi di maglie: rosse, verdi e blu, e le vende sempre a coppie. Si può acquistare insieme una maglia blu e una verde al…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q07",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q7",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Tre tipi di prodotto (B, C, D) sono costituiti dalla stessa tipologia di componenti. Per produrre B servono 2 componenti, per produrre C ne…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q08",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q8",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "successioni-serie"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Per ampliare il proprio organico, una azienda ha assunto alcune figure professionali. Il caporeparto è stato assunto subito dopo il…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q09",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Ragionamento logico e problemi",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q9",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento logico e problemi: Chi riposa è tranquillo. Chi scrive è tranquillo. Livio scrive. Se le precedenti affermazioni sono corrette, quante delle seguenti…",
+      "keywords": [
+        "ragionamento logico e problemi",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q10",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q10",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale tra gli elementi elencati NON è un bioelemento?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q11",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q11",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo",
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale tra le componenti dell’elenco presenta dimensioni maggiori?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q12",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q12",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale delle seguenti strutture NON è presente nei batteri?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q13",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q13",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale delle seguenti affermazioni sulla parete cellulare è FALSA?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q14",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q14",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale gruppo di organismi tra i seguenti NON fa parte del dominio eukaryota?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q15",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q15",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: La membrana nucleare è strettamente collegata con quale delle seguenti strutture?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q16",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q16",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale delle seguenti strutture cellulari è responsabile dello smistamento delle proteine neosintetizzate provenienti dal reticolo endoplasmatico?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q17",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q17",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale delle seguenti affermazioni sugli acidi nucleici è VERA?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q18",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q18",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: A quale livello strutturale delle proteine appartengono le Alfa-eliche?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q19",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q19",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Cosa s'intende con il termine \"codone\" nel codice genetico?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q20",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q20",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Cosa s'intende con il termine \"apoptosi\"?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q21",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q21",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Come si chiama la membrana che riveste e protegge il cuore?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q22",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q22",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Quale ormone è rilasciato nel sangue in maggiore quantità dalla tiroide?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q23",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q23",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Dove viene prodotta l'arginina vasopressina?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q24",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q24",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Che funzione ha l'ormone luteinizzante nel maschio?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q25",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q25",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Cosa s'intende per \"livello trofico\"?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q26",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q26",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Qual è il termine corretto per descrivere un organismo con due copie identiche di un allele per un particolare gene?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q27",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q27",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Se una pianta con fiori rosa (RR) viene incrociata con una pianta con fiori bianchi (rr), qual è la probabilità che la loro progenie abbia fiori rosa?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q28",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Biologia",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q28",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biologia: Le ossa lunghe sono costituite da tessuto osseo compatto in corrispondenza di quale struttura ossea?",
+      "keywords": [
+        "biologia",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q29",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q29",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "legami-nomenclatura",
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: La scala del pH va da 0 a 14. Quando una soluzione ha pH = 12 è:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q30",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q30",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Individuare la formula chimica dello ione ipobromito.",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q31",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q31",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [
+        "termochimica-cinetica-equilibrio",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il comportamento di un gas reale può essere considerato assai simile a quello di un gas ideale:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q32",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q32",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Tra i composti organici, i più semplici sono:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q33",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q33",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: I legami tripli sono legami formati da:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q34",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q34",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Indicare quale dei seguenti elementi si trova nel primo gruppo (IA) e nel secondo periodo della tavola periodica.",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q35",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q35",
+      "primaryTopic": "stechiometria-moli",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Per determinare la percentuale in peso di un elemento in un composto è necessario calcolare:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q36",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q36",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale dei seguenti composti è aromatico?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q37",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q37",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Indicare quale delle seguenti sostanze è un alcol.",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q38",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q38",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il composto che ha formula bruta HBr è:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q39",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q39",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale delle seguenti molecole è apolare?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q40",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q40",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: A 0°C e 1 atm, qual è il volume occupato da 2,5 mol di cloro allo stato elementare?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q41",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q41",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "legami-nomenclatura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Il composto AlCl3 è formato da un atomo di Alluminio e tre atomi di Cloro legati tra loro da legami covalenti. poichè l'alluminio è nel gruppo 13 possiamo supporre…",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q42",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q42",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [
+        "chimica-organica-biochimica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quanti elettroni non condivisi sono presenti nello strato più esterno di un atomo di fluoro della molecola HF?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q43",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q43",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [
+        "termochimica-cinetica-equilibrio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Una reazione avviene spontaneamente quando:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q44",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q44",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Quale tra le seguenti reazioni chimiche è una reazione di scambio semplice (o spostamento)?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q45",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q45",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Indicare quale tra le seguenti formule è quella del butano:",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q46",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q46",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Tra i seguenti composti del fosforo, qual è l’acido ortofosforico?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q47",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Chimica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q47",
+      "primaryTopic": "stechiometria-moli",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Chimica: Come viene definita la mole?",
+      "keywords": [
+        "chimica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q48",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q48",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Qual è il termine usato per descrivere il flusso continuo a traiettorie rettilinee di un fluido senza turbolenze nemmeno a livello microscopico?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q49",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q49",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "geometria-solida-volumi",
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Un fluido si muove in un tubo con una velocità di 5 m/s. Se l'area trasversale del tubo è di 0.2 m2, quanto vale la portata volumetrica?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q50",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q50",
+      "primaryTopic": "statica-equilibrio",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una forza di 20 N è applicata perpendicolarmente ad un'asta, lunga 1,5 m in una delle sue estremità. Qual è il momento torcente sull'asta se il suo asse…",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q51",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q51",
+      "primaryTopic": "vettori-trasformazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Due vettori hanno modulo rispettivamente pari a 10 e 5 e formano tra loro un angolo di 45 gradi. Quanto vale il prodotto scalare tra i due vettori?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q52",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q52",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "magnetismo-elettromagnetismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Qual è il processo che coinvolge il trasferimento di energia tra due corpi tramite l'emissione e l'assorbimento di onde elettromagnetiche?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q53",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q53",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "magnetismo-elettromagnetismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Cosa sono le superfici equipotenziali in un campo elettrico?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q54",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q54",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Il polinomio abc2 + 8abc + 16ab può essere scomposto come:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q55",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q55",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Il triangolo ABC ha il lato AB di lunghezza 6 cm e angoli α e β di ampiezza 60° e 75°, rispettivamente. Quanto è la lunghezza del lato BC?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q56",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q56",
+      "primaryTopic": "funzioni-quadratiche-coniche",
+      "secondaryTopics": [
+        "geometria-analitica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quali sono le intersezioni tra la parabola di equazione y = x2 + 2x − 8 e la retta di equazione y = 2x + 1?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q57",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q57",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale delle seguenti proprietà è comune a tutti i triangoli rettangoli?",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q58",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q58",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "funzioni-quadratiche-coniche",
+        "sistemi-equazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Il polinomio (x + y)2 − (x − y)2 − (y − x) · (y + x) può essere semplificato come:",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q59",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q59",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "geometria-analitica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Individuare l’affermazione corretta analizzando il seguente gruppo di rette: a) y = x + 1/3 b) y = 1/3 x c) y = 1/3x + 1/3 d) y = 1/3",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-veterinaria-2024-lug-q60",
+      "competitionId": "test-veterinaria",
+      "edition": "Test Medicina Veterinaria MUR 2024 — Sessione Luglio",
+      "year": 2024,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoVeterinaria2024Luglio.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-veterinaria/2024/mur-veterinaria-2024-luglio.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Veterinaria MUR (pre-riforma)",
+      "questionNumber": "Q60",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Calcolare il risultato della seguente operazione: −3/4 − {5/8 − [−1/3 − (−5/6)]}",
+      "keywords": [
+        "fisica e matematica",
+        "veterinaria",
+        "mur",
+        "test ingresso"
+      ],
+      "notes": "Fascicolo ufficiale MUR: la risposta esatta è convenzionalmente la lettera A) in tutti i quesiti.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    }
+  ]
+}

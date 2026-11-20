@@ -35,6 +35,7 @@
   "competitions": [
     {
       "id": "invalsi",
+      "category": "scuola_competizioni",
       "name": "Prove INVALSI (Matematica)",
       "shortName": "INVALSI",
       "organizer": "INVALSI — Istituto Nazionale per la Valutazione del Sistema Educativo",
@@ -51,6 +52,7 @@
     },
     {
       "id": "ocse-pisa",
+      "category": "scuola_competizioni",
       "name": "Prove OCSE PISA (Matematica e Scienze)",
       "shortName": "OCSE PISA",
       "organizer": "OECD / INVALSI Italia",
@@ -66,6 +68,7 @@
     },
     {
       "id": "olimpiadi-matematica",
+      "category": "scuola_competizioni",
       "name": "Olimpiadi e Giochi della Matematica",
       "shortName": "Olimpiadi Matematica",
       "organizer": "UMI — Unione Matematica Italiana (Giochi di Archimede, Febbraio, Cesenatico)",
@@ -75,11 +78,12 @@
       "subjectDomains": ["matematica"],
       "typicalLevels": ["biennio", "triennio"],
       "sourceFile": "data/catalogo/sources/olimpiadi-matematica.json",
-      "status": "pilot",
-      "notes": "Include Giochi di Archimede (biennio e triennio), Gara di Febbraio e Cesenatico. Espandibile con Kangourou e Giochi Bocconi."
+      "status": "active",
+      "notes": "Giochi di Archimede 2025, 2024 e 2023 (Biennio e Triennio completi) + Gara di Febbraio 2025 completa (scelta multipla, numerici e dimostrativi) con PDF ufficiali UMI di testi e soluzioni."
     },
     {
       "id": "olimpiadi-fisica",
+      "category": "scuola_competizioni",
       "name": "Olimpiadi / Campionati della Fisica",
       "shortName": "Olimpiadi Fisica",
       "organizer": "AIF — Associazione per l'Insegnamento della Fisica (OliFis)",
@@ -89,67 +93,203 @@
       "subjectDomains": ["fisica"],
       "typicalLevels": ["unico", "biennio", "triennio"],
       "sourceFile": "data/catalogo/sources/olimpiadi-fisica.json",
-      "status": "pilot",
-      "notes": "Include Gara di Primo Livello (fase d'istituto, test a risposta multipla) e Gara di Secondo Livello (problemi analitici)."
+      "status": "active",
+      "notes": "Gara di Primo Livello (Dicembre 2025 e Dicembre 2024, 40 quesiti ciascuna) e Gara di Secondo Livello (2026, 2025 e 2024, 10 quesiti + 4 problemi analitici ciascuna) con testi e soluzioni ufficiali AIF."
     },
     {
       "id": "olimpiadi-informatica",
+      "category": "scuola_competizioni",
       "name": "Olimpiadi e Giochi di Informatica (OII & Bebras)",
       "shortName": "Olimpiadi Informatica",
-      "organizer": "AICA / MIM (OII) e Università di Milano (Bebras Italia)",
+      "organizer": "AICA / MIM (OII) e SSII / Bebras (Castoro Informatico in italiano)",
       "officialWebsites": [
         "https://www.olimpiadi-informatica.it",
         "https://training.olinfo.it/scolastiche",
-        "https://bebras.it"
+        "https://bebras.it",
+        "https://www.castoro-informatico.ch"
       ],
       "subjectDomains": ["informatica", "matematica"],
       "typicalLevels": ["biennio", "triennio", "unico"],
       "sourceFile": "data/catalogo/sources/olimpiadi-informatica.json",
-      "status": "planned",
-      "notes": "Include Selezioni Scolastiche OII (logica, combinatoria, lettura codice) e Bebras dell'Informatica (pensiero computazionale)."
+      "status": "active",
+      "notes": "Selezioni Scolastiche OII 2022 e 2021 (logica, pseudocodice, algoritmi) e quesiti ufficiali Bebras / Castoro Informatico 2025 e 2024 in italiano per Biennio e Triennio con soluzioni commentate."
     },
     {
       "id": "giochi-chimica",
+      "category": "scuola_competizioni",
       "name": "Giochi e Campionati della Chimica",
       "shortName": "Giochi Chimica",
       "organizer": "SCI — Società Chimica Italiana",
       "officialWebsites": [
-        "https://www.societachimica.it"
+        "https://www.societachimica.it/giochi_della_chimica/edizioni",
+        "https://www.pianetachimica.it/giochi/test_giochi.htm"
       ],
       "subjectDomains": ["chimica", "fisica"],
       "typicalLevels": ["biennio", "triennio"],
       "sourceFile": "data/catalogo/sources/giochi-chimica.json",
-      "status": "planned",
-      "notes": "Classi A (biennio), B (triennio non chimico) e C (triennio indirizzo chimico). Eventuali archivi commentati di terzi sono etichettati esplicitamente."
+      "status": "active",
+      "notes": "Prove ufficiali SCI 2026 (Fase d'Istituto e Finale Regionale, Classi A/B/C) e 2025 (Fase d'Istituto, Classi A/B/C) scaricate da societachimica.it, abbinate alle griglie delle risposte ufficiali digitalizzate da pianetachimica.it."
     },
     {
       "id": "olimpiadi-scienze-naturali",
-      "name": "Campionati / Olimpiadi delle Scienze Naturali",
+      "category": "scuola_competizioni",
+      "name": "Campionati / Olimpiadi delle Scienze Naturali (IBO & IESO)",
       "shortName": "Scienze Naturali",
-      "organizer": "ANISN — Associazione Nazionale Insegnanti Scienze Naturali",
+      "organizer": "ANISN (Italia) / IBO (Biologia) / USESO-IESO (Scienze della Terra)",
       "officialWebsites": [
-        "http://olimpiadi.anisn.it/nazionali/"
+        "https://www.anisn.it",
+        "https://www.ibo-info.org/en/info/papers.html",
+        "https://www.useso.org/past-exams/"
       ],
       "subjectDomains": ["scienze-naturali", "chimica", "fisica"],
       "typicalLevels": ["biennio", "triennio"],
       "sourceFile": "data/catalogo/sources/olimpiadi-scienze-naturali.json",
-      "status": "planned",
-      "notes": "Categorie Biennio, Triennio Biologia e Triennio Scienze della Terra."
+      "status": "active",
+      "notes": "Prove ufficiali internazionali/nazionali di riferimento per le due sezioni dei Campionati (CLIL in inglese): Scienze della Terra USESO/IESO 2026 e 2025 + Biologia IBO 2020 con soluzioni commentate ufficiali (in attesa del ripristino online di olimpiadi.anisn.it per i fascicoli italiani)."
     },
     {
       "id": "robotica",
+      "category": "scuola_competizioni",
       "name": "Campionati di Robotica e RoboCup Junior",
       "shortName": "Robotica",
-      "organizer": "MIM / Scuola di Robotica e RoboCup Junior Italia",
+      "organizer": "MIM / IG Students (Campionati di Robotica) e RoboCup Junior Italia / International",
       "officialWebsites": [
         "https://www.campionatidirobotica.it",
-        "https://www.robocupjunior.it"
+        "https://www.robocupjra.it",
+        "https://junior.robocup.org"
       ],
       "subjectDomains": ["robotica", "informatica", "fisica"],
       "typicalLevels": ["biennio", "triennio", "unico"],
       "sourceFile": "data/catalogo/sources/robotica.json",
-      "status": "planned",
-      "notes": "Tracce ufficiali, regolamenti tecnici e sfide di robotica educativa (ideali per compiti di realtà su sensori, ingranaggi, cinematica e controllo)."
+      "status": "active",
+      "notes": "Regolamenti tecnici e tracce ufficiali 2024–2026: Campionati Italiani di Robotica 2025/2026, RoboCup Junior Italia Bando 2026, OnStage First Steps 2025, Rescue Line Entry 2024, Rescue Maze Entry 2024 e Soccer Entry 2026 (anche CLIL EN)."
+    },
+    {
+      "id": "semestre-filtro-medicina",
+      "category": "ingresso_universita",
+      "name": "Semestre Filtro Medicina, Odontoiatria e Veterinaria",
+      "shortName": "Semestre Filtro Medicina",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca (riforma accesso a.a. 2025/2026)",
+      "officialWebsites": [
+        "https://www.mur.gov.it",
+        "https://www.semestreaperto-medodovet.it",
+        "https://testbuddy.it/simulazioni-ufficiali/medicina/2025"
+      ],
+      "subjectDomains": ["fisica", "chimica", "scienze-naturali"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/semestre-filtro-medicina.json",
+      "status": "active",
+      "notes": "Appelli nazionali del Semestre Filtro a.a. 2025/2026 (1° appello 20/11/2025 e 2° appello 10/12/2025): Biologia, Chimica e Propedeutica Biochimica, Fisica (31 quesiti per materia tra scelta multipla e completamento). Fascicoli archiviati da TestBuddy con risposte ufficiali MUR (marcati trasparentemente come Archivio Terzi)."
+    },
+    {
+      "id": "test-medicina",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Medicina e Chirurgia / Odontoiatria (MUR pre-riforma)",
+      "shortName": "Test Medicina (MUR)",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca (Accesso Programmato)",
+      "officialWebsites": [
+        "https://accessoprogrammato.mur.gov.it"
+      ],
+      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-medicina.json",
+      "status": "active",
+      "notes": "Prove ufficiali nazionali MUR pre-riforma (Maggio 2024, Luglio 2024 e Settembre 2022) con tutti i quesiti STEM e di ragionamento logico. Nei fascicoli ufficiali MUR la risposta esatta è convenzionalmente posizionata alla lettera A."
+    },
+    {
+      "id": "test-professioni-sanitarie",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Professioni Sanitarie (CINECA / Atenei)",
+      "shortName": "Professioni Sanitarie",
+      "organizer": "CINECA / Università degli Studi di Bologna (UniBo) & Università di Torino (UniTo)",
+      "officialWebsites": [
+        "https://corsi.unibo.it/laurea/Infermieristica/test-di-ammissione-anni-passati",
+        "https://www.medicina.unito.it"
+      ],
+      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-professioni-sanitarie.json",
+      "status": "active",
+      "notes": "Prove ufficiali d'ateneo per Professioni Sanitarie: plichi CINECA UniBo 2025 e 2024 (risposta esatta = lettera A) + prova ufficiale UniTo 2025 (con correttore) per Biologia, Chimica, Fisica, Matematica e Logica."
+    },
+    {
+      "id": "test-imat",
+      "category": "ingresso_universita",
+      "name": "IMAT — Medicina in Lingua Inglese (MUR, CLIL)",
+      "shortName": "IMAT (Medicina EN)",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca",
+      "officialWebsites": [
+        "https://accessoprogrammato.mur.gov.it"
+      ],
+      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-imat.json",
+      "status": "active",
+      "notes": "Prove ufficiali MUR dell'International Medical Admissions Test (IMAT 2024 e 2023) interamente in lingua inglese: bacino ideale per preparazione medica internazionale e percorsi CLIL. Risposta corretta alla lettera A nei fascicoli MUR."
+    },
+    {
+      "id": "test-veterinaria",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Medicina Veterinaria (MUR pre-riforma)",
+      "shortName": "Test Veterinaria (MUR)",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca (Accesso Programmato)",
+      "officialWebsites": [
+        "https://accessoprogrammato.mur.gov.it"
+      ],
+      "subjectDomains": ["chimica", "scienze-naturali", "fisica", "matematica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-veterinaria.json",
+      "status": "active",
+      "notes": "Prove ufficiali nazionali MUR di Medicina Veterinaria pre-riforma (Sessioni Maggio e Luglio 2024; dal 2025/26 il corso confluisce nel Semestre Filtro). Risposta esatta posizionata alla lettera A nei PDF MUR."
+    },
+    {
+      "id": "test-architettura",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Architettura (MUR / TEST-ARCHED)",
+      "shortName": "Test Architettura",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca / CISIA ARCHED",
+      "officialWebsites": [
+        "https://accessoprogrammato.mur.gov.it",
+        "https://www.cisiaonline.it/altri-test/test-arched"
+      ],
+      "subjectDomains": ["matematica", "fisica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-architettura.json",
+      "status": "active",
+      "notes": "Prove nazionali ufficiali MUR di Architettura (2019 e 2018) focalizzate su Ragionamento Logico, Disegno e Rappresentazione (geometria descrittiva/solida/scale), Fisica e Matematica. Risposta corretta alla lettera A."
+    },
+    {
+      "id": "test-ingegneria-scienze-tolc",
+      "category": "ingresso_universita",
+      "name": "Ingegneria, Scienze & Economia (PoliMi TOL / Politest & TOLC-E)",
+      "shortName": "Ingegneria & TOLC",
+      "organizer": "Politecnico di Milano (TOL / POLItest), Università Ca' Foscari Venezia (TOLC-E) & CISIA",
+      "officialWebsites": [
+        "https://www.cisiaonline.it",
+        "https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/tol-test-on-line/come-prepararsi-al-tol",
+        "https://www.unive.it"
+      ],
+      "subjectDomains": ["matematica", "fisica", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/test-ingegneria-scienze-tolc.json",
+      "status": "active",
+      "notes": "Test ufficiali di Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi ufficiali POLItest Matematica e Fisica del Politecnico di Milano (con soluzioni svolte) e Simulazione ufficiale TOLC-E Matematica Ca' Foscari Venezia. Per i simulatori interattivi TOLC-I/S/F/B è inoltre disponibile gratuitamente l'Area Esercitazioni su cisiaonline.it."
+    },
+    {
+      "id": "scuole-eccellenza",
+      "category": "ingresso_universita",
+      "name": "Scuole Universitarie di Eccellenza (SNS & Sant'Anna Pisa)",
+      "shortName": "Normale & Sant'Anna",
+      "organizer": "Scuola Normale Superiore (SNS) & Scuola Superiore Sant'Anna di Pisa",
+      "officialWebsites": [
+        "https://www.sns.it/it/prove-desame-degli-anni-precedenti-ordinario",
+        "https://www.santannapisa.it/it/programma-di-studio-e-prove-precedenti-ingegneria"
+      ],
+      "subjectDomains": ["matematica", "fisica", "chimica", "scienze-naturali", "informatica"],
+      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/scuole-eccellenza.json",
+      "status": "active",
+      "notes": "Prove scritte ufficiali di ammissione al I anno del Corso Ordinario: SNS Classe di Scienze 2026, 2025 e 2024 (Matematica, Fisica, Chimica, Biologia) + esercizi di autovalutazione SNS + Scuola Superiore Sant'Anna Ingegneria (2025, 2024, 2023) e Scienze Mediche. Serbatoio d'eccellenza per problemi aperti e dimostrativi di Livello 3."
     }
   ]
 }

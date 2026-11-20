@@ -15,6 +15,7 @@ Tutti gli script di base funzionano con la sola libreria standard di **Python 3.
 | `new_uda.py` | Genera una nuova UDA uniforme partendo dai modelli in `templates/` | `python tools/new_uda.py --subject matematica --slug m01-notazione-scientifica --title "Notazione scientifica e conversioni" --year 1` |
 | `build_catalog.py` | Compila `data/catalogo/catalog-index.json` aggregando tutti i file in `data/catalogo/sources/` | `python tools/build_catalog.py` |
 | `validate_catalog.py` | Verifica schema, tassonomia argomenti, livelli, ufficialità e integrità dei PDF locali del catalogo | `python tools/validate_catalog.py` |
+| `check_catalog_links.py` | Verifica l'apertura dei PDF locali, la validità di tutti i `#page=N` tramite PyMuPDF, l'assenza di PDF orfani e (con `--online`) la raggiungibilità degli URL sorgenti | `python tools/check_catalog_links.py` |
 
 ---
 

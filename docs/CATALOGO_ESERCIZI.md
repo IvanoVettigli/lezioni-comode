@@ -43,7 +43,7 @@ data/catalogo/
 ├── competitions.json            # Registro competizioni + configurazione defaultMinYear
 ├── levels.json                  # Livelli scolastici normalizzati
 ├── topics.json                  # Tassonomia controllata (macro-aree, argomenti, sinonimi)
-├── sources/                     # Un file JSON per competizione (facilissimo da aggiornare per step)
+├── sources/                     # Un file JSON per competizione/test (facilissimo da aggiornare per step)
 │   ├── invalsi.json
 │   ├── ocse-pisa.json
 │   ├── olimpiadi-matematica.json
@@ -51,7 +51,15 @@ data/catalogo/
 │   ├── olimpiadi-informatica.json
 │   ├── giochi-chimica.json
 │   ├── olimpiadi-scienze-naturali.json
-│   └── robotica.json
+│   ├── robotica.json
+│   ├── semestre-filtro-medicina.json
+│   ├── test-medicina.json
+│   ├── test-professioni-sanitarie.json
+│   ├── test-imat.json
+│   ├── test-veterinaria.json
+│   ├── test-architettura.json
+│   ├── test-ingegneria-scienze-tolc.json
+│   └── scuole-eccellenza.json
 └── catalog-index.json           # Indice aggregato generato da tools/build_catalog.py
 ```
 

@@ -24,10 +24,24 @@ const FORMAT_LABELS = {
   mista: "Formato misto"
 };
 
+const LANGUAGE_LABELS = {
+  it: "Italiano",
+  en: "Inglese · CLIL"
+};
+
+const COMPETITION_CATEGORIES = [
+  { id: "scuola_competizioni", label: "🏫 Prove Nazionali & Competizioni Scolastiche" },
+  { id: "ingresso_universita", label: "🎓 Test d'Ingresso Universitari & Semestre Filtro" }
+];
+
+const PAGE_SIZE = 40;
+
 let catalog = null;
 let selectedTopics = new Set();
 let lastDisplayedItems = [];
+let visibleLimit = PAGE_SIZE;
 let randomSeedTick = 0;
+let searchDebounceTimer = null;
 
 function escapeHtml(str) {
   return String(str ?? "")
@@ -80,27 +94,42 @@ function renderTopStats() {
   const totalComps = (catalog.competitions || []).length;
   const years = catalog.stats?.years || [];
   const yearRange = years.length ? `${Math.min(...years)}–${Math.max(...years)}` : "In avvio";
+  const enCount = catalog.stats?.byLanguage?.en ?? 0;
 
   mount.innerHTML = `
     <span class="badge badge-exp">📄 ${total} quesiti catalogati</span>
     <span class="badge">🏅 ${activeComps} / ${totalComps} competizioni con quesiti</span>
     <span class="badge">🏷 ${(catalog.topics || []).length} argomenti in tassonomia</span>
     <span class="badge">📅 Anni coperti: ${escapeHtml(yearRange)}</span>
+    ${enCount > 0 ? `<span class="badge badge-clil">🇬🇧 ${enCount} quesiti CLIL (EN)</span>` : ""}
   `;
 }
 
 function populateSelectFilters() {
   const compSelect = document.querySelector("[data-filter-competition]");
   const levelSelect = document.querySelector("[data-filter-level]");
+  const langSelect = document.querySelector("[data-filter-language]");
+  const formatSelect = document.querySelector("[data-filter-format]");
 
   if (compSelect) {
-    const options = (catalog.competitions || [])
-      .map(
-        (c) =>
-          `<option value="${escapeHtml(c.id)}">${escapeHtml(c.shortName)} (${c.questionCount || 0})</option>`
-      )
-      .join("");
-    compSelect.innerHTML = `<option value="">Tutte le competizioni</option>${options}`;
+    const comps = catalog.competitions || [];
+    const hasCategories = comps.some((c) => c.category);
+    if (hasCategories) {
+      const groupsHtml = COMPETITION_CATEGORIES.map((cat) => {
+        const groupComps = comps.filter((c) => (c.category || "scuola_competizioni") === cat.id);
+        if (!groupComps.length) return "";
+        const opts = groupComps
+          .map((c) => `<option value="${escapeHtml(c.id)}">${escapeHtml(c.shortName)} (${c.questionCount || 0})</option>`)
+          .join("");
+        return `<optgroup label="${escapeHtml(cat.label)}">${opts}</optgroup>`;
+      }).join("");
+      compSelect.innerHTML = `<option value="">Tutte le prove e competizioni</option>${groupsHtml}`;
+    } else {
+      const options = comps
+        .map((c) => `<option value="${escapeHtml(c.id)}">${escapeHtml(c.shortName)} (${c.questionCount || 0})</option>`)
+        .join("");
+      compSelect.innerHTML = `<option value="">Tutte le prove e competizioni</option>${options}`;
+    }
   }
 
   if (levelSelect) {
@@ -111,6 +140,24 @@ function populateSelectFilters() {
       )
       .join("");
     levelSelect.innerHTML = `<option value="">Tutti i livelli</option>${options}`;
+  }
+
+  if (langSelect) {
+    const byLang = catalog.stats?.byLanguage || {};
+    const langs = Object.keys(byLang).sort((a, b) => (a === "it" ? -1 : b === "it" ? 1 : a.localeCompare(b)));
+    const options = langs
+      .map((code) => `<option value="${escapeHtml(code)}">${escapeHtml(LANGUAGE_LABELS[code] || code.toUpperCase())} (${byLang[code]})</option>`)
+      .join("");
+    langSelect.innerHTML = `<option value="">Tutte le lingue</option>${options}`;
+  }
+
+  if (formatSelect) {
+    const byFmt = catalog.stats?.byResponseFormat || {};
+    const fmts = Object.keys(FORMAT_LABELS).filter((k) => (byFmt[k] || 0) > 0);
+    const options = fmts
+      .map((k) => `<option value="${escapeHtml(k)}">${escapeHtml(FORMAT_LABELS[k])} (${byFmt[k]})</option>`)
+      .join("");
+    formatSelect.innerHTML = `<option value="">Tutti i formati</option>${options}`;
   }
 
   // Applica eventuale defaultMinYear da configurazione (null = tutti gli anni)
@@ -197,8 +244,11 @@ function filterAndExtractItems() {
   const searchVal = normalizeStr(document.querySelector("[data-filter-search]")?.value?.trim() || "");
   const compVal = document.querySelector("[data-filter-competition]")?.value || "";
   const levelVal = document.querySelector("[data-filter-level]")?.value || "";
+  const langVal = document.querySelector("[data-filter-language]")?.value || "";
+  const formatVal = document.querySelector("[data-filter-format]")?.value || "";
   const sourceTypeVal = document.querySelector("[data-filter-source-type]")?.value || "";
   const visualsVal = document.querySelector("[data-filter-visuals]")?.value || "";
+  const topicMatchMode = document.querySelector("[data-topic-match-mode]")?.value || "or";
   const yearMinRaw = document.querySelector("[data-filter-year-min]")?.value;
   const yearMaxRaw = document.querySelector("[data-filter-year-max]")?.value;
   const includeArchived = Boolean(document.querySelector("[data-include-archived]")?.checked);
@@ -216,6 +266,8 @@ function filterAndExtractItems() {
     if (!includeArchived && item.archived) return false;
     if (compVal && item.competitionId !== compVal) return false;
     if (levelVal && !(item.levels || []).includes(levelVal)) return false;
+    if (langVal && (item.language || "it") !== langVal) return false;
+    if (formatVal && (item.responseFormat || "scelta_multipla") !== formatVal) return false;
     if (yearMin !== null && Number.isFinite(yearMin) && item.year < yearMin) return false;
     if (yearMax !== null && Number.isFinite(yearMax) && item.year > yearMax) return false;
 
@@ -240,7 +292,11 @@ function filterAndExtractItems() {
 
     if (selectedTopics.size > 0) {
       const itemTopics = item.allTopics || [item.primaryTopic, ...(item.secondaryTopics || [])];
-      const matchesTopic = Array.from(selectedTopics).some((tid) => itemTopics.includes(tid));
+      const selectedArr = Array.from(selectedTopics);
+      const matchesTopic =
+        topicMatchMode === "and"
+          ? selectedArr.every((tid) => itemTopics.includes(tid))
+          : selectedArr.some((tid) => itemTopics.includes(tid));
       if (!matchesTopic) return false;
     }
 
@@ -303,44 +359,18 @@ function filterAndExtractItems() {
   return { items: matched, totalMatched };
 }
 
-function renderResults() {
-  const mount = document.querySelector("[data-catalog-results]");
-  const counterEl = document.querySelector("[data-results-counter]");
-  if (!mount || !catalog) return;
-
-  const { items, totalMatched } = filterAndExtractItems();
-  lastDisplayedItems = items;
-
-  if (counterEl) {
-    counterEl.textContent =
-      items.length === totalMatched
-        ? `${totalMatched} quesiti`
-        : `Mostrati ${items.length} di ${totalMatched} quesiti trovati`;
-  }
-
-  if (items.length === 0) {
-    mount.innerHTML = `
-      <div class="card">
-        <h3>Nessun quesito trovato con i filtri attuali</h3>
-        <p class="muted" style="margin-bottom:0;">
-          Prova ad allargare i filtri (es. rimuovere un argomento o includere più anni/competizioni). Ricorda che il
-          catalogo viene popolato step dopo step: controlla la tabella di copertura in fondo alla pagina!
-        </p>
-      </div>
-    `;
-    return;
-  }
-
+function renderItemCards(items) {
   const compMap = getCompetitionMap();
   const topicMap = getTopicMap();
   const levelMap = getLevelMap();
   const sourceMeta = catalog.sourceTypeMeta || {};
 
-  mount.innerHTML = items
+  return items
     .map((item) => {
       const comp = compMap[item.competitionId];
       const st = sourceMeta[item.sourceType] || { badge: item.sourceType, isOfficial: false };
       const sourceBadgeClass = st.isOfficial ? "badge-source-official" : "badge-source-thirdparty";
+      const isEn = (item.language || "it") === "en";
 
       const visualsHtml = (item.visuals || [])
         .filter((v) => v !== "nessuno" && VISUAL_BADGES[v])
@@ -397,12 +427,17 @@ function renderResults() {
           ? `<a class="btn btn-success" href="${escapeHtml(item.originalSolutionsUrl)}" target="_blank" rel="noopener">✅ Apri soluzioni (sito)</a>`
           : `<span class="muted"><small>Soluzioni non ancora allegate</small></span>`;
 
+      const noteHtml = item.notes
+        ? `<p class="catalog-item-note">📝 ${escapeHtml(item.notes)}</p>`
+        : "";
+
       return `
         <article class="card catalog-item-card">
           <div class="catalog-item-top">
             <div class="catalog-item-badges">
               <span class="badge badge-exp">${escapeHtml(comp?.shortName || item.competitionId)} · ${item.year}</span>
               <span class="badge ${sourceBadgeClass}" title="${escapeHtml(st.description || "")}">${escapeHtml(st.badge)}</span>
+              ${isEn ? `<span class="badge badge-clil" title="Quesito in lingua inglese utile per percorsi CLIL">🇬🇧 EN · CLIL</span>` : ""}
               ${levelsHtml}
               ${visualsHtml}
             </div>
@@ -422,6 +457,8 @@ function renderResults() {
           <div class="catalog-topic-chip-list" style="margin-bottom:0.85rem;">
             ${topicsHtml}
           </div>
+
+          ${noteHtml}
 
           <div class="catalog-item-actions no-print">
             ${questionsButtons}
@@ -444,6 +481,64 @@ function renderResults() {
     .join("");
 }
 
+function paintDisplayedResults() {
+  const mount = document.querySelector("[data-catalog-results]");
+  if (!mount) return;
+
+  const slice = lastDisplayedItems.slice(0, visibleLimit);
+  const remaining = lastDisplayedItems.length - slice.length;
+
+  const loadMoreHtml =
+    remaining > 0
+      ? `
+        <div class="catalog-load-more no-print">
+          <span class="muted">Visualizzati <strong>${slice.length}</strong> di <strong>${lastDisplayedItems.length}</strong> quesiti estratti.</span>
+          <button type="button" class="btn btn-primary" data-load-more="page">
+            Mostra altri ${Math.min(PAGE_SIZE, remaining)} quesiti
+          </button>
+          <button type="button" class="btn btn-ghost" data-load-more="all">
+            Mostra tutti (${lastDisplayedItems.length})
+          </button>
+        </div>
+      `
+      : "";
+
+  mount.innerHTML = renderItemCards(slice) + loadMoreHtml;
+}
+
+function renderResults({ resetPagination = true } = {}) {
+  const mount = document.querySelector("[data-catalog-results]");
+  const counterEl = document.querySelector("[data-results-counter]");
+  if (!mount || !catalog) return;
+
+  const { items, totalMatched } = filterAndExtractItems();
+  lastDisplayedItems = items;
+  if (resetPagination) {
+    visibleLimit = PAGE_SIZE;
+  }
+
+  if (counterEl) {
+    counterEl.textContent =
+      items.length === totalMatched
+        ? `${totalMatched} quesiti`
+        : `Estratti ${items.length} di ${totalMatched} quesiti trovati`;
+  }
+
+  if (items.length === 0) {
+    mount.innerHTML = `
+      <div class="card">
+        <h3>Nessun quesito trovato con i filtri attuali</h3>
+        <p class="muted" style="margin-bottom:0;">
+          Prova ad allargare i filtri (es. rimuovere un argomento, passare a modalità OR oppure includere più anni/competizioni).
+        </p>
+      </div>
+    `;
+    return;
+  }
+
+  paintDisplayedResults();
+}
+
 function renderCoverageSummary() {
   const mount = document.querySelector("[data-coverage-summary]");
   if (!mount || !catalog) return;
@@ -454,40 +549,57 @@ function renderCoverageSummary() {
     planned: { label: "⏳ In arrivo", cls: "" }
   };
 
-  const rows = (catalog.competitions || [])
-    .map((c) => {
-      const st = statusMeta[c.status] || { label: c.status, cls: "" };
-      const count = c.questionCount || 0;
-      const years = c.coveredYears || [];
-      const yearsHtml = years.length
-        ? years
-            .map(
-              (y) =>
-                `<button type="button" class="topic-chip" data-quick-comp="${escapeHtml(c.id)}" data-quick-year="${y}" title="Filtra ${escapeHtml(c.shortName)} (${y})">${y}</button>`
-            )
-            .join("")
-        : `<span class="muted"><small>Nessuna prova ancora caricata</small></span>`;
+  const comps = catalog.competitions || [];
+  const hasCategories = comps.some((c) => c.category);
 
-      return `
-        <tr>
-          <td>
-            <button type="button" class="catalog-comp-link" data-quick-comp="${escapeHtml(c.id)}" title="Mostra tutti i quesiti di ${escapeHtml(c.shortName)}">
-              <strong>${escapeHtml(c.shortName)}</strong>
-            </button>
-          </td>
-          <td><span class="badge ${st.cls}">${st.label}</span></td>
-          <td style="font-family:var(--font-mono); font-weight:700;">${count}</td>
-          <td><div class="catalog-topic-chip-list">${yearsHtml}</div></td>
+  const renderRow = (c) => {
+    const st = statusMeta[c.status] || { label: c.status, cls: "" };
+    const count = c.questionCount || 0;
+    const years = c.coveredYears || [];
+    const yearsHtml = years.length
+      ? years
+          .map(
+            (y) =>
+              `<button type="button" class="topic-chip" data-quick-comp="${escapeHtml(c.id)}" data-quick-year="${y}" title="Filtra ${escapeHtml(c.shortName)} (${y})">${y}</button>`
+          )
+          .join("")
+      : `<span class="muted"><small>Nessuna prova ancora caricata</small></span>`;
+
+    return `
+      <tr>
+        <td>
+          <button type="button" class="catalog-comp-link" data-quick-comp="${escapeHtml(c.id)}" title="Mostra tutti i quesiti di ${escapeHtml(c.shortName)}">
+            <strong>${escapeHtml(c.shortName)}</strong>
+          </button>
+        </td>
+        <td><span class="badge ${st.cls}">${st.label}</span></td>
+        <td style="font-family:var(--font-mono); font-weight:700;">${count}</td>
+        <td><div class="catalog-topic-chip-list">${yearsHtml}</div></td>
+      </tr>
+    `;
+  };
+
+  let rows = "";
+  if (hasCategories) {
+    rows = COMPETITION_CATEGORIES.map((cat) => {
+      const groupComps = comps.filter((c) => (c.category || "scuola_competizioni") === cat.id);
+      if (!groupComps.length) return "";
+      const groupHeader = `
+        <tr class="catalog-coverage-group-row">
+          <td colspan="4"><strong>${escapeHtml(cat.label)}</strong></td>
         </tr>
       `;
-    })
-    .join("");
+      return groupHeader + groupComps.map(renderRow).join("");
+    }).join("");
+  } else {
+    rows = comps.map(renderRow).join("");
+  }
 
   mount.innerHTML = `
     <table class="catalog-coverage-table">
       <thead>
         <tr>
-          <th>Competizione</th>
+          <th>Competizione / Test</th>
           <th>Stato</th>
           <th>Quesiti</th>
           <th>Anni presenti a catalogo</th>
@@ -561,12 +673,20 @@ function buildMarkdownExport(items) {
 }
 
 function bindEvents() {
+  const searchInput = document.querySelector("[data-filter-search]");
+  searchInput?.addEventListener("input", () => {
+    window.clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = window.setTimeout(() => renderResults(), 150);
+  });
+
   const rerenderSelectors = [
-    "[data-filter-search]",
     "[data-filter-competition]",
     "[data-filter-level]",
+    "[data-filter-language]",
+    "[data-filter-format]",
     "[data-filter-source-type]",
     "[data-filter-visuals]",
+    "[data-topic-match-mode]",
     "[data-filter-year-min]",
     "[data-filter-year-max]",
     "[data-include-archived]",
@@ -576,15 +696,27 @@ function bindEvents() {
 
   rerenderSelectors.forEach((sel) => {
     const el = document.querySelector(sel);
-    el?.addEventListener("input", renderResults);
-    el?.addEventListener("change", renderResults);
+    el?.addEventListener("input", () => renderResults());
+    el?.addEventListener("change", () => renderResults());
   });
 
   document.querySelector("[data-topic-search]")?.addEventListener("input", (e) => {
+    const accordion = document.querySelector(".catalog-topic-accordion");
+    if (accordion && e.target.value.trim()) {
+      accordion.open = true;
+    }
     renderTopicGroups(e.target.value);
   });
 
   document.addEventListener("click", (event) => {
+    const loadMoreBtn = event.target.closest("[data-load-more]");
+    if (loadMoreBtn) {
+      const mode = loadMoreBtn.dataset.loadMore;
+      visibleLimit = mode === "all" ? lastDisplayedItems.length : visibleLimit + PAGE_SIZE;
+      paintDisplayedResults();
+      return;
+    }
+
     const quickCompBtn = event.target.closest("[data-quick-comp]");
     if (quickCompBtn) {
       const cid = quickCompBtn.dataset.quickComp || "";
@@ -629,6 +761,13 @@ function bindEvents() {
         if (maxEl) maxEl.value = "";
       }
       renderResults();
+    }
+  });
+
+  window.addEventListener("beforeprint", () => {
+    if (lastDisplayedItems.length > visibleLimit && lastDisplayedItems.length <= 200) {
+      visibleLimit = lastDisplayedItems.length;
+      paintDisplayedResults();
     }
   });
 
@@ -683,10 +822,19 @@ function bindEvents() {
       const el = document.querySelector(s);
       if (el) el.value = "";
     });
-    ["[data-filter-competition]", "[data-filter-level]", "[data-filter-source-type]", "[data-filter-visuals]"].forEach((s) => {
+    [
+      "[data-filter-competition]",
+      "[data-filter-level]",
+      "[data-filter-language]",
+      "[data-filter-format]",
+      "[data-filter-source-type]",
+      "[data-filter-visuals]"
+    ].forEach((s) => {
       const el = document.querySelector(s);
       if (el) el.value = "";
     });
+    const mode = document.querySelector("[data-topic-match-mode]");
+    if (mode) mode.value = "or";
     const lim = document.querySelector("[data-extract-limit]");
     if (lim) lim.value = "all";
     const strat = document.querySelector("[data-extract-strategy]");
@@ -732,4 +880,15 @@ async function initCatalogPage() {
   renderResults();
 }
 
-window.addEventListener("ivano:ready", initCatalogPage);
+let catalogInitialized = false;
+function startCatalogPage() {
+  if (catalogInitialized) return;
+  catalogInitialized = true;
+  initCatalogPage();
+}
+
+if (window.__ivanoReady) {
+  startCatalogPage();
+} else {
+  window.addEventListener("ivano:ready", startCatalogPage, { once: true });
+}

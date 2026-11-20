@@ -885,3 +885,46 @@
 .catalog-comp-link:hover {
   color: var(--accent-primary-hover);
 }
+
+.catalog-topics-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge-clil {
+  border-color: var(--accent-cs);
+  color: var(--accent-cs);
+  background: color-mix(in srgb, var(--accent-cs) 14%, transparent);
+}
+
+.catalog-item-note {
+  margin: 0 0 0.7rem;
+  font-size: 0.84rem;
+  color: var(--text-muted);
+  border-left: 3px solid var(--border-strong);
+  padding-left: 0.65rem;
+}
+
+.catalog-load-more {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: var(--space-5);
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--border-strong);
+  background: var(--bg-surface-subtle);
+}
+
+.catalog-coverage-group-row td {
+  background: var(--bg-surface-subtle);
+  color: var(--text-secondary);
+  font-size: 0.84rem;
+  letter-spacing: 0.02em;
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
+}

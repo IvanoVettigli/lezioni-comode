@@ -20,7 +20,11 @@ function initPrintButtons() {
 }
 
 async function bootstrap() {
-  await loadGamificationData();
+  try {
+    await loadGamificationData();
+  } catch (err) {
+    console.warn("[main] Impossibile caricare gamification.json, proseguo con valori predefiniti:", err);
+  }
   initSiteShell();
   initTheme();
   initPrintButtons();
@@ -30,6 +34,7 @@ async function bootstrap() {
   initInteractiveStories();
   initJinglePlayers();
 
+  window.__ivanoReady = true;
   window.dispatchEvent(new CustomEvent("ivano:ready"));
 }
 

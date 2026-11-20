@@ -40,6 +40,8 @@ def main() -> int:
     per_topic_counts: Counter[str] = Counter()
     per_level_counts: Counter[str] = Counter()
     per_source_type_counts: Counter[str] = Counter()
+    per_language_counts: Counter[str] = Counter()
+    per_format_counts: Counter[str] = Counter()
 
     for src_path in sorted(SOURCES_DIR.glob("*.json")):
         src = load_json(src_path)
@@ -73,6 +75,12 @@ def main() -> int:
             st = normalized.get("sourceType", "")
             if st:
                 per_source_type_counts[st] += 1
+            lang = normalized.get("language", "it")
+            if lang:
+                per_language_counts[lang] += 1
+            rf = normalized.get("responseFormat", "scelta_multipla")
+            if rf:
+                per_format_counts[rf] += 1
 
     # Ordina per anno decrescente, poi competizione, poi ID
     all_items.sort(key=lambda x: (-int(x.get("year", 0)), str(x.get("competitionId", "")), str(x.get("id", ""))))
@@ -107,6 +115,8 @@ def main() -> int:
             "byTopic": dict(per_topic_counts),
             "byLevel": dict(per_level_counts),
             "bySourceType": dict(per_source_type_counts),
+            "byLanguage": dict(per_language_counts),
+            "byResponseFormat": dict(per_format_counts),
         },
         "items": all_items,
     }

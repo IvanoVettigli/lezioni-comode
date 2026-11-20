@@ -1,0 +1,3025 @@
+{
+  "schemaVersion": 1,
+  "competitionId": "test-architettura",
+  "description": "Prove nazionali ufficiali MUR di Architettura (2019 e 2018): Ragionamento Logico, Disegno e Rappresentazione, Fisica e Matematica.",
+  "items": [
+    {
+      "id": "mur-architettura-2019-q13",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q13",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Uno dei seguenti abbinamenti non è coerente con gli altri. Quale?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q14",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q14",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Nel passaggio da stato liquido a stato solido il volume di una massa di acqua aumenta di 1/11. Di quanto diminuisce il volume della stessa massa di…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q15",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q15",
+      "primaryTopic": "probabilita-condizionata-bayes",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Il supermercato frequentato da Alice e Giorgio offre un gadget per ogni 30 € di spesa. Sapendo che in totale i gadget offerti sono 24, che a Giorgio…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q16",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q16",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Giorgio deve nutrire i suoi pesci, 20 in tutto, divisi in due acquari. Se per ogni pesce del primo acquario Giorgio deve usare cinque larve, mentre per…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q17",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q17",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Quante sono le coppie di numeri interi positivi m, n (con m > n) tali che m2 = n2 + 60?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q18",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q18",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Assegnato un triangolo isoscele ABC si consideri il triangolo ABD avente la stessa base AB e il vertice sul prolungamento dell’altezza CH. Se l’altezza…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q19",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q19",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Dalle premesse: tutti gli esami del quarto anno di architettura sono molto impegnativi, nessun esame molto impegnativo ha meno di sei crediti, quale…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q20",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q20",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella",
+        "circuito"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Le tavole di verità sono tabelle usate nella logica per determinare se, attribuiti i valori di verità alle proposizioni che la compongono, una…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q21",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q21",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Dalla lettura del Brano 1 si possono dedurre le seguenti affermazioni: P1 Incuria e disordine incrementano i comportamenti antisociali. P2 I “vandali”…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q39",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q39",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Abbinare correttamente le figure in assonometria isometrica con le corrispondenti proiezioni ortogonali.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q40",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q40",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Data l’immagine tridimensionale di una sedia, individuare la coppia di proiezioni ortogonali (vista frontale e vista laterale) esattamente…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q41",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q41",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Dato un solido in proiezione ortogonale (pianta e prospetto laterale) individuare la esatta assonometria corrispondente.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q42",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q42",
+      "primaryTopic": "funzioni-quadratiche-coniche",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Sezionando un cono circolare retto con un piano, si otterranno rispettivamente:",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q43",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q43",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Quale delle figure solide in basso, capovolta e unita a quella in alto, può ricostituire il cubo completo?",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q44",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q44",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Abbinare ai coni tagliati il relativo sviluppo.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q45",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q45",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Facendo riferimento al piano sezione che taglia la composizione di solidi rappresentati in pianta e prospetto, individuare la pianta sezionata…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q46",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q46",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Facendo riferimento al piano che seziona l’insieme dei solidi, individuare la sezione in proiezioni ortogonali corretta.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q47",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q47",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Date due viste di un cubo le cui facce hanno delle figure, individuare il corretto sviluppo.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q48",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q48",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Abbinare correttamente le immagini fotografiche degli edifici con le corrispondenti piante.",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q49",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q49",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Sul diametro AB = 2r di un semicerchio si fissi un punto qualsiasi C (distinto dagli estremi) e si descrivano due semicirconferenze di diametri AC e CB…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q50",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q50",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale/i, fra le seguenti coppie di funzioni: C1: x x g x x f cos ) ( cos ) ( = = C2 x x g x x f sin ) ( sin ) ( = = C3 x x g x x f tan ) ( tan ) ( = =…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q51",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q51",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale/i è/sono la/e soluzione/i reale/i dell’equazione: 3 = x ?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q52",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q52",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quali sono le soluzioni dell’equazione cos sin = + x x con π < ≤x ?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q53",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q53",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Qual è l’insieme delle soluzioni reali della disequazione ln ln < + x x ?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q54",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q54",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Assegnate le tre rette del piano xy di equazione y = x, 2x – y – 1 = 0, 4y – x – 3 = 0, quale delle seguenti affermazioni è vera?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q55",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q55",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: In base al secondo principio della dinamica, quale delle seguenti affermazioni è corretta?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q56",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q56",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "geometria-analitica",
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Nel piano cartesiano xOy (sugli assi è utilizzata la stessa unità di misura: cm) una carica q1 = -4 x 10-7C è posta nel punto (3,0), una seconda carica…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q57",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q57",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "statica-equilibrio",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Ad un’asta omogenea orizzontale lunga 2,6 m di peso 6 N, incernierata ad un estremo, è applicata nell’altro estremo una forza F formante con l’asta un…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q58",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q58",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Due blocchi di massa m1 = 2 kg e m2 = 3 kg, collegati da una fune, giacciono su un piano orizzontale privo di attrito. Se una forza di 10 N viene…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q59",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q59",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una forza di intensità F (misurata in N) variabile nel tempo secondo la legge F(t) = t/3 viene applicata a un punto materiale per 12 secondi a partire…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2019-q60",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2019 — Prova Nazionale",
+      "year": 2019,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2019/mur-architettura-2019.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q60",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "lavoro-energia-potenza",
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una molla di costante k = 800 N/m è compressa di 10 cm. Qual è il modulo del lavoro eseguito per comprimere la molla?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q01",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q1",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: “Tutti gli Italiani sono amanti dell’arte. Nessun amante dell’arte è un vigliacco” Quindi:",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q02",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q2",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Individua, tra i termini seguenti, quello che intrattiene relazioni di sinonimia tanto con «osservazione» quanto con «altura»",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q03",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: alfa : X come Y : fine",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q04",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q4",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Per frequentare un circolo tennistico si paga una quota mensile più una tariffa oraria per ogni ora di utilizzo dei campi. Se i giocatori dividono…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q05",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q5",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: In un settore circolare AOB di raggio 10 cm e ampiezza 90° è inscritto il rettangolo OCDE avente il lato OC sul raggio OA, il lato OE sul lato OB e il…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q06",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q6",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Le tavole di verità sono tabelle usate nella logica per determinare se, attribuiti i valori di verità alle proposizioni che la compongono, una…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q07",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q7",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Quale/i delle seguenti regole di sostituzione è/sono corretta/e: 1 tutti gli X sono Y ⇒ tutti i non Y sono non X 2 tutti gli X sono Y ⇒ tutti i non X…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q08",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q8",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Alice deve inserire il numero mancante nell’ultima tabella in modo che tutte le tabelle rispettino lo stesso criterio di riempimento. Quale numero deve…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q09",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q9",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Una scatola è suddivisa in cinque scomparti rettangolari uguali disposti in modo tale che un lato maggiore di un solo scomparto sia a contatto con il…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q10",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q10",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Quando l’area di un cerchio aumenta del 44%, di quanto aumenta, in percentuale, la lunghezza della sua circonferenza?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q11",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q11",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Quale/i dei seguenti sillogismi è/sono vero/i? S1 qualche X è Y, ogni Z è X, allora ogni Z è Y; S2 ogni X è Y, qualche Z non è Y, allora ogni Z non è X…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q12",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q12",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Se: a ◊ b = ab e a  b = a/b, quale delle seguenti operazioni ha lo stesso risultato di (a ◊ b)  (a ◊ a)?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q13",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q13",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "esponenziali-logaritmi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: “Se Nicolò si iscrivesse al corso di downhill bike a Bormio nella settimana di Carnevale Alice passerebbe i pomeriggi di quella settimana alle Terme”…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q14",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q14",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Nel quadrato Q di lato 7 cm considerare i due quadrati di lato 3 cm aventi i lati paralleli ai lati di Q aventi: - il primo lo stesso centro di Q - il…",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q15",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q15",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Scelto un numero naturale n a caso, quale è la probabilità che il numero n2 termini con la cifra 4?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q16",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q16",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: A Giorgio viene chiesto di continuare la sequenza: 2– 3 – 5 – 9 – 17 – 33 – ……… Qual è il prossimo numero che Giorgio dovrà inserire?",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q17",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Ragionamento Logico",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q17",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ragionamento Logico: Sulla base del brano 1, l’Alberti:",
+      "keywords": [
+        "ragionamento logico",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q37",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q37",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Chi partecipò con Brunelleschi al concorso per la formella della porta del Battistero di Firenze?",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q38",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q38",
+      "primaryTopic": "pitagora-similitudine",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Chi è l’autore del Museo Guggenheim di Bilbao?",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q39",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q39",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Associa ad ogni solido archimedeo il relativo sviluppo nel piano.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q40",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q40",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: In un triangolo cinque punti notevoli sono: 1 - baricentro 2 - circoncentro 3 - incentro 4 - ortocentro 5 - di minima distanza dai vertici…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q41",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q41",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Date le piante e le assonometrie di architetture contemporanee, individuare la serie che abbina correttamente le piante con le rispettive…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q42",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q42",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Dato il disegno assonometrico della STELMAN CHAIR di G.T. Rietveld, individuare la corrispondente corretta coppia di proiezioni ortogonali…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q43",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q43",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Dato un volume architettonico in proiezioni ortogonali (pianta e prospetti), individuare la assonometria corrispondente alle proiezioni…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q44",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q44",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Facendo riferimento al piano che seziona il gruppo di solidi dato (in pianta e prospetto), individuare la sezione corretta.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q45",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q45",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Facendo riferimento al piano che seziona l’insieme dei solidi, individuare la sezione corretta.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q46",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q46",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Abbinare alla pianta il corrispondente prospetto frontale.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q47",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q47",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Abbinare alla assonometria del volume dato la corrispondente pianta.",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q48",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Disegno e Rappresentazione",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q48",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "successioni-serie"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disegno e Rappresentazione: Date le viste fotografiche di architetture e le relative piante individuare la serie che abbina correttamente pianta e vista fotografica di…",
+      "keywords": [
+        "disegno e rappresentazione",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q49",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q49",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: La temperatura in gradi Kelvin di un gas ideale aumenta da 3K a 6K mentre la sua pressione resta costante. Il volume del gas:",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q50",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q50",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: I guardrail delle autostrade sono costruiti in acciaio (coefficiente di dilatazione lineare λ = 1,7 10-5 °C-1). Quale variazione di lunghezza subisce un…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q51",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q51",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Un oggetto partendo dalla quiete, muovendosi con accelerazione costante, percorre nel primo secondo 5 m. Qual è la distanza percorsa nel successivo…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q52",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q52",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Tre sferette conduttrici A, B e C hanno lo stesso raggio. La sferetta A possiede una carica 2q, la sferetta B una carica q mentre C è neutra. La…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q53",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q53",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "statica-equilibrio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una lamina omogenea ha la forma di un triangolo ABC rettangolo in A con Ĉ = 30°. La lamina viene appesa ad un filo verticale passante per il vertice",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q54",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q54",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: La base di un triangolo e l’altezza ad essa relativa misurano rispettivamente 25 cm e 12 cm. Noto che le altezze relative agli altri due lati sono 15 cm…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q55",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q55",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Qual è la soluzione della disequazione: 3 2x x − < ?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q56",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q56",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Una scatola contiene 4 palline rosse, 5 palline arancio, 5 palline viola e 6 palline gialle. Qual è la probabilità che, estraendo una dopo l’altra due…",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q57",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q57",
+      "primaryTopic": "esponenziali-logaritmi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Quale valore assume la somma log log log log + + + ?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q58",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q58",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Le misure dei lati di un triangolo ABC sono 12 cm, 10 cm, 3 cm. Che tipo di triangolo è ABC?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q59",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q59",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Qual è il valore dell’area del quadrilatero avente per vertici i punti A(1,5) B(3,5) C(3,-3) D(-4,0)?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-architettura-2018-q60",
+      "competitionId": "test-architettura",
+      "edition": "Test Architettura MUR 2018 — Prova Nazionale",
+      "year": 2018,
+      "phase": "Fisica e Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoArchitettura2018.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-architettura/2018/mur-architettura-2018.pdf",
+      "solutionsPage": 23,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Test Architettura MUR",
+      "questionNumber": "Q60",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fisica e Matematica: Nel triangolo rettangolo ABC il seno di uno degli angoli acuti è 8/17, qual è il valore del seno dell’altro angolo acuto?",
+      "keywords": [
+        "fisica e matematica",
+        "architettura",
+        "arched",
+        "geometria",
+        "disegno",
+        "mur"
+      ],
+      "notes": "Fascicolo ufficiale MUR di Architettura: risposta esatta alla lettera A). Include sezioni Logica, Disegno/Geometria e Fisica-Matematica.",
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    }
+  ]
+}

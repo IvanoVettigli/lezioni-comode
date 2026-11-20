@@ -2,6 +2,4244 @@
   "schemaVersion": 1,
   "competitionId": "olimpiadi-scienze-naturali",
   "lastUpdated": "2026-11-20",
-  "notes": "Da popolare nello Step 7 (Campionati / Olimpiadi delle Scienze Naturali ANISN — Biennio, Triennio Biologia e Scienze della Terra).",
-  "items": []
+  "notes": "Step 7b completato: 114 quesiti e problemi ufficiali di Scienze Naturali (64 di Scienze della Terra dalle selezioni USESO / IESO 2026 e 2025 + 50 di Biologia dall'IBO 2020 Theoretical Exam 1, tutti con griglie/soluzioni commentate ufficiali e adatti anche per attività CLIL in inglese). Nota: il sottodominio italiano olimpiadi.anisn.it risultava non raggiungibile (timeout) al momento della raccolta; le prove ANISN in italiano saranno integrate appena nuovamente accessibili.",
+  "items": [
+    {
+      "id": "natsci-2026-useso-s1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 1",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: associare tre idrogrammi di piena a bacini idrografici urbanizzati, boschivi rurali o regolati da diga.",
+      "keywords": [
+        "idrogrammi",
+        "alluvioni",
+        "urbanizzazione",
+        "idrosfera"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 2",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: analisi del rapporto P/Ep tra precipitazioni ed evapotraspirazione potenziale rispetto a quella reale.",
+      "keywords": [
+        "evapotraspirazione",
+        "bilancio idrico",
+        "clima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 3",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "magnetismo-elettromagnetismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: confrontare il campo magnetico planetario di Mercurio e della Terra in relazione a nucleo e rotazione.",
+      "keywords": [
+        "mercurio",
+        "campo magnetico planetario",
+        "dinamo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 4",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: legge di Darcy e portata di un acquifero saturo al variare di permeabilità (sabbia vs limo) e gradiente idraulico.",
+      "keywords": [
+        "acquifero",
+        "permeabilita",
+        "darcy",
+        "falda"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 5",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: effetti climatici radiativi e sulla formazione delle nubi degli aerosol di solfati troposferici di origine antropica.",
+      "keywords": [
+        "aerosol",
+        "solfati",
+        "nubi",
+        "raffreddamento climatico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 6",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: principi di stratigrafia e intersezione su foto di un affioramento igneo con intrusione magmatica.",
+      "keywords": [
+        "stratigrafia",
+        "intrusioni ignee",
+        "datazione relativa"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 7",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: effetto della forza di Coriolis e del trasporto di Ekman sulla circolazione oceanica di un pianeta con rotazione retrograda.",
+      "keywords": [
+        "coriolis",
+        "correnti oceaniche",
+        "ekman",
+        "upwelling"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 8",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: interpretare profili termici verticali di un corso d'acqua alimentato da falda (gaining stream) in inverno.",
+      "keywords": [
+        "fiumi",
+        "falda acquifera",
+        "profilo termico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 9",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: indice chimico di alterazione (CIA) dei suoli basato su ossidi di Al, Ca, Na, K per stimare l'intensità del weathering.",
+      "keywords": [
+        "weathering chimico",
+        "alterazione rocce",
+        "suoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 10",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: confronto di salinità, temperatura e densità superficiale nell'Oceano Atlantico tra l'equatore e 20° N.",
+      "keywords": [
+        "salinita",
+        "oceani",
+        "evaporazione",
+        "latitudine"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 11",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "gravitazione-astronomia-fisica"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: terza legge di Keplero generalizzata con massa stellare M per individuare pianeti con uguale periodo orbitale da perielio e afelio.",
+      "keywords": [
+        "keplero",
+        "orbite",
+        "esopianeti",
+        "periodo orbitale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 12",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: successione di sedimenti oceanici profondi (argilla, fanghi silicei, fanghi calcarei) in relazione a CCD e deriva della placca.",
+      "keywords": [
+        "sedimenti marini",
+        "CCD",
+        "tettonica delle placche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 13",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: ambiente geologico di formazione di rocce metamorfiche scistose con grandi lamelle di mica (metamorfismo regionale).",
+      "keywords": [
+        "metamorfismo",
+        "scistosita",
+        "miche",
+        "rocce"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 14",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: sezione geologica con faglie: determinare il regime tettonico (compressivo vs distensivo) e le zone di erosione o deposizione.",
+      "keywords": [
+        "faglie",
+        "tettonica",
+        "sezione geologica",
+        "erosione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 15",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: ruolo del calore latente di evaporazione dell'umidità del suolo nel mitigare la severità delle ondate di calore.",
+      "keywords": [
+        "ondate di calore",
+        "calore latente",
+        "evaporazione",
+        "clima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 16",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: fattori fisici (pressione dell'acqua basale, pendenza, temperatura) che accelerano il flusso di un ghiacciaio.",
+      "keywords": [
+        "ghiacciai",
+        "criosfera",
+        "attrito basale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 17",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: lettura di un diagramma di fase P-T di minerali polimorfi per identificare facies metamorfiche.",
+      "keywords": [
+        "diagramma P-T",
+        "polimorfismo",
+        "facies metamorfiche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 18",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: origine planetaria di un meteorite ferro-roccioso (pallasite: Fe-Ni + olivina/pirosseno) al confine nucleo-mantello di un planetesimo.",
+      "keywords": [
+        "meteoriti",
+        "pallasite",
+        "differenziazione planetaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 19",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "magnetismo-elettromagnetismo",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: dedurre l'inclinazione del polo magnetico rispetto all'asse di rotazione dalla mappa di intensità delle aurore di un pianeta.",
+      "keywords": [
+        "aurore",
+        "campo magnetico",
+        "latitudine",
+        "pianeti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 20",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: interpretazione di una carta isobarica superficiale del monsone nordamericano per dedurre regimi di pressione e venti.",
+      "keywords": [
+        "monsoni",
+        "isobare",
+        "meteorologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 21",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: condizioni in cui il vento attraversa le isobare (attrito nello strato limite planetario vs equilibrio geostrofico).",
+      "keywords": [
+        "vento geostrofico",
+        "isobare",
+        "strato limite"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 22",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: profilo di rotazione differenziale interna del Sole attraverso la tacoclina fra zona radiativa e zona convettiva.",
+      "keywords": [
+        "sole",
+        "tacoclina",
+        "rotazione differenziale",
+        "astrofisica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 23",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: trasferimento di energia nell'alta troposfera sul Pacifico occidentale durante episodi di La Niña.",
+      "keywords": [
+        "la nina",
+        "ENSO",
+        "circolazione atmosferica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 24",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: petrologia delle adakiti: residuo mineralogico della fusione parziale di basalto metamorfosato in subduzione.",
+      "keywords": [
+        "fusione parziale",
+        "basalto",
+        "petrologia",
+        "subduzione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 25",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: confrontare quattro radiosondaggi atmosferici (profilo termico verticale vs adiabatica) per prevedere instabilità temporalesca.",
+      "keywords": [
+        "radiosondaggio",
+        "instabilita atmosferica",
+        "temporali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 26",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: dinamica meteorologica del 'cold air damming' sul versante sopravvento di una catena montuosa nell'emisfero nord.",
+      "keywords": [
+        "meteorologia",
+        "orografia",
+        "aria fredda"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 27",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: anomalie positive di velocità delle onde sismiche nella litosfera cratonica fredda (Scudo Canadese vs punto caldo Hawaii).",
+      "keywords": [
+        "onde sismiche",
+        "litosfera",
+        "cratoni",
+        "tomografia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 28",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "ecologia-ecosistemi",
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: trappi siberiani (vulcanismo di mantle plume), degassamento di gas serra ed estinzione di massa del Permiano-Triassico.",
+      "keywords": [
+        "trappi siberiani",
+        "estinzione di massa",
+        "vulcanismo",
+        "effetto serra"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 29",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: profilo longitudinale di un fiume dalla sorgente montana al mare: individuare i punti di massima erosione e deposizione.",
+      "keywords": [
+        "profilo fluviale",
+        "erosione",
+        "deposizione",
+        "geomorfologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 30",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "termologia-termodinamica",
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: temperatura di equilibrio radiativo di un esopianeta corpo nero (Stefan-Boltzmann) noto il flusso solare 2100 W/m² e il rapporto assorbito/riflesso 1,75.",
+      "keywords": [
+        "esopianeti",
+        "stefan-boltzmann",
+        "albedo",
+        "bilancio radiativo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s2-p01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section II (Problemi Aperti)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Problem 1 — Mid-Ocean Ridges & Subduction Magmatism",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "en",
+      "summary": "CLIL: problema strutturato su fusione del mantello a dorsali oceaniche e archi insulari, eclogitizzazione della placca in subduzione, sismicità profonda e curve solidus/adiabatica.",
+      "keywords": [
+        "dorsali oceaniche",
+        "subduzione",
+        "magmatismo",
+        "terremoti",
+        "solidus"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s2-p02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section II (Problemi Aperti)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Problem 2 — Atmospheric Circulation & Baroclinic Instability",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lavoro-energia-potenza",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "grafico",
+        "schema"
+      ],
+      "responseFormat": "aperta",
+      "language": "en",
+      "summary": "CLIL: problema quantitativo sulla cella di Hadley, trasporto meridionale di calore latente, calcolo dell'energia potenziale gravitazionale di masse d'aria e cambiamento climatico.",
+      "keywords": [
+        "cella di hadley",
+        "energia potenziale",
+        "instabilita baroclina",
+        "clima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s2-p03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section II (Problemi Aperti)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Problem 3 — Coastal Wave Refraction, Seiches & Rip Currents",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "en",
+      "summary": "CLIL: rifrazione delle onde marine su baie e promontori, erosione differenziale costiera, onde stazionarie (sesse) nelle baie e formazione di correnti di risacca (rip currents).",
+      "keywords": [
+        "rifrazione onde",
+        "coste",
+        "onde stazionarie",
+        "rip currents"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2026-useso-s2-p04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2026",
+      "year": 2026,
+      "phase": "National Open Exam — Section II (Problemi Aperti)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2026/04/2026_USESO_Open_Section-II_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2026/useso-2026-open-section-2-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Problem 4 — Exoplanet Radius Valley & Tidal Locking",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "aperta",
+      "language": "en",
+      "summary": "CLIL: gap dei raggi degli esopianeti (Kepler), fotoevaporazione atmosferica, blocco mareale (tidal locking), collasso atmosferico e curve di fase termica.",
+      "keywords": [
+        "esopianeti",
+        "fotoevaporazione",
+        "blocco mareale",
+        "atmosfere planetarie"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 1",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: scisto formato in un prisma di accrezione presso una zona di subduzione (alta pressione, bassa temperatura, assenza di fossili intatti).",
+      "keywords": [
+        "scisto",
+        "subduzione",
+        "metamorfismo HP-LT"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 2",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: confronto fra telerilevamento satellitare atmosferico per retrodiffusione (backscatter) e per occultazione.",
+      "keywords": [
+        "satelliti",
+        "telerilevamento",
+        "atmosfera"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 3",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: processi geologici che aumentano il contenuto di volatili (CO2, H2O) in una camera magmatica (intrusione in calcari, contatto con falda).",
+      "keywords": [
+        "vulcani",
+        "camera magmatica",
+        "volatili"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 4",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: profondità del termoclino nell'Oceano Pacifico orientale e occidentale durante fasi El Niño e La Niña.",
+      "keywords": [
+        "el nino",
+        "termoclino",
+        "oceano pacifico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 5",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: sequenza cronologica tipica delle nubi (cirri -> altostrati -> nembostrati) all'arrivo di un fronte caldo.",
+      "keywords": [
+        "fronte caldo",
+        "nubi",
+        "meteorologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 6",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: geomorfologia eolica di dune costiere: interazione del vento con depressioni di deflazione (blowout) da curve di livello.",
+      "keywords": [
+        "dune",
+        "erosione eolica",
+        "curve di livello"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 7",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: rischio di alluvioni lampo post-incendio e significato probabilistico del tempo di ritorno (piena centennale = 1% annuo).",
+      "keywords": [
+        "alluvioni",
+        "tempo di ritorno",
+        "probabilita",
+        "incendi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 8",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: produzione di acqua di fusione alla base di un ghiacciaio in funzione di attrito basale e spessore del ghiaccio (abbassamento punto di fusione).",
+      "keywords": [
+        "ghiacciai",
+        "fusione basale",
+        "pressione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 9",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: scelta dell'anno migliore per osservare aurore boreali a partire dal grafico storico del ciclo undecennale delle macchie solari.",
+      "keywords": [
+        "macchie solari",
+        "ciclo solare",
+        "aurore boreali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 10",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: confronto mineralogico (ematite/goethite/pirite vs quarzo/calcite/dolomite) di due suoli sopra lo stesso substrato calcareo.",
+      "keywords": [
+        "minerali",
+        "suoli",
+        "calcare",
+        "alterazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 11",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "struttura-atomica-periodica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: paleoclimatologia isotopica: interpretazione di un elevato rapporto 18O/16O in un calcare marino (oceano più freddo / glaciazione).",
+      "keywords": [
+        "isotopi ossigeno",
+        "paleoclima",
+        "glaciazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 12",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: meccanismi di retroazione chimica (alterazione dei silicati / ciclo del carbonio) durante periodi climatici 'hothouse' nel passato geologico.",
+      "keywords": [
+        "paleoclima",
+        "ciclo del carbonio",
+        "silicati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 13",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "gravitazione-astronomia-fisica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: cometa Encke (periodo 3,3 anni, perielio 0,34 UA): calcolare il semiasse maggiore con la 3ª legge di Keplero e ricavare l'afelio (~4,1 UA).",
+      "keywords": [
+        "cometa",
+        "keplero",
+        "afelio",
+        "perielio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 14",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: eutrofizzazione e formazione della 'Gulf Dead Zone' ipossica nel Golfo del Messico per afflusso di nutrienti fluviali e stratificazione.",
+      "keywords": [
+        "eutrofizzazione",
+        "ipossia",
+        "ecosistemi marini"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 15",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: lettura di una carta topografica a isoipse per individuare punti di deposizione alluvionale (placer auriferi) lungo un corso d'acqua.",
+      "keywords": [
+        "carta topografica",
+        "isoipse",
+        "deposizione fluviale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 16",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: granulometria ottimale dei sedimenti (sabbia vs argilla/ghiaia) per il trasporto per saltazione e la formazione di grandi dune desertiche.",
+      "keywords": [
+        "sedimenti",
+        "granulometria",
+        "dune"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 17",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: risonanza spin-orbita 3:2 di Mercurio: durata del giorno solare mercuriano rispetto all'anno orbitale.",
+      "keywords": [
+        "mercurio",
+        "risonanza spin-orbita",
+        "giorno solare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 18",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "termologia-termodinamica",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: dispersione del pennacchio di fumo di una ciminiera da 200 m confrontando profilo termico ambientale e gradiente adiabatico secco (9,8 °C/km).",
+      "keywords": [
+        "gradiente adiabatico",
+        "inversione termica",
+        "inquinamento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 19",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "acidi-basi-ph"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: test diagnostici per distinguere un cristallo di salgemma (NaCl) da uno di calcite (CaCO3): reazione con HCl, durezza, solubilità, sfaldatura.",
+      "keywords": [
+        "salgemma",
+        "calcite",
+        "riconoscimento minerali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 20",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: profilo della superficie freatica attorno a un fiume in clima umido temperato (falda che alimenta il fiume).",
+      "keywords": [
+        "superficie freatica",
+        "falda",
+        "idrologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 21",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: migrazione stagionale della Zona di Convergenza Intertropicale (ITCZ) e stagione delle piogge a La Paz (16,5° S) a dicembre.",
+      "keywords": [
+        "ITCZ",
+        "stagioni",
+        "emisfero australe",
+        "clima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 22",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: venti catabatici in discesa lungo un pendio: individuare la compressione adiabatica corrispondente sul diagramma pressione-volume.",
+      "keywords": [
+        "venti catabatici",
+        "compressione adiabatica",
+        "piano p-V"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 23",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "magnetismo-elettromagnetismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: condizioni geodinamiche necessarie perché un pianeta terrestre generi e sostenga un campo magnetico globale (nucleo fluido conduttore convettivo + rotazione).",
+      "keywords": [
+        "geodinamo",
+        "nucleo planetario",
+        "campo magnetico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 24",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: laghi dimittici (rimescolamento stagionale due volte l'anno grazie al massimo di densità dell'acqua a 4 °C): individuare latitudine e profondità tipiche.",
+      "keywords": [
+        "limnologia",
+        "laghi dimittici",
+        "densita acqua 4 gradi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 25",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: cicli di Milankovitch (obliquità, eccentricità, precessione) e variazione dell'escursione termica stagionale.",
+      "keywords": [
+        "milankovitch",
+        "obliquita",
+        "ere glaciali",
+        "moti terrestri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 26",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: geometria geologica di uno strato inclinato di carbone (affioramento piano 30 m vs versante inclinato a 45°): calcolo trigonometrico dello spessore apparente.",
+      "keywords": [
+        "giacitura strati",
+        "trigonometria",
+        "geologia strutturale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 27",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: trasporto di Ekman indotto dai venti superficiali nell'emisfero nord e anomalie di temperatura superficiale marina (upwelling vs downwelling).",
+      "keywords": [
+        "ekman",
+        "upwelling",
+        "downwelling",
+        "oceani"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 28",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: atmosfera di Titano (5% metano) portata ipoteticamente a 1 UA dal Sole: bilancio radiativo, effetto serra e foschia fotochimica.",
+      "keywords": [
+        "titano",
+        "metano",
+        "effetto serra",
+        "sistema solare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 29",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: carta barica in quota a 300 mb (onde di Rossby / corrente a getto): localizzare le aree di divergenza in quota e convergenza al suolo.",
+      "keywords": [
+        "corrente a getto",
+        "300 mb",
+        "convergenza",
+        "meteorologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2025-useso-s1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2025",
+      "year": 2025,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (USESO — selezione USA per IESO)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_2025_USESO_Open_Exam.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2025/04/S1_Key_2025_USESO_Open_Exam.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2025/useso-2025-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "High School — Scienze della Terra (CLIL EN)",
+      "questionNumber": "Question 30",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "CLIL: profilo di erosione differenziale in clima temperato su una sequenza stratificata di calcare, basalto e arenaria.",
+      "keywords": [
+        "erosione differenziale",
+        "calcare",
+        "basalto",
+        "arenaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q1",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "chimica-organica-biochimica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: ciclo dell'acido citrico e stereochimica della conversione citrato-isocitrato catalizzata dall'aconitasi.",
+      "keywords": [
+        "ciclo di krebs",
+        "aconitasi",
+        "stereochimica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q2",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: fosforilazione ossidativa nei mitocondri: consumo di ossigeno in presenza di ADP, disaccoppiante DNP e inibitore ATP-sintasi DCCD.",
+      "keywords": [
+        "mitocondri",
+        "ATP",
+        "respirazione cellulare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q3",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: fotosintesi nelle piante C3 e C4 distinta tramite frazionamento isotopico delta-13C e selettività di RuBisCO.",
+      "keywords": [
+        "fotosintesi",
+        "piante C3 C4",
+        "isotopi carbonio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q4",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: centrifugazione differenziale di organelli e coefficiente di sedimentazione S in funzione di massa, densità e attrito viscoso.",
+      "keywords": [
+        "centrifugazione",
+        "organelli",
+        "sedimentazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q5",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: pompa sodio-potassio ATP-dipendente nell'assone gigante di calamaro: efflusso di 24Na+ bloccato da DNP e ripristinato da ATP.",
+      "keywords": [
+        "trasporto attivo",
+        "assone",
+        "pompa Na K",
+        "ATP"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q6",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "redox-elettrochimica"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: equazione di Nernst per il potenziale di membrana (-150 mV) nelle cellule radicali: trasporto attivo vs passivo di K+ e Cl-.",
+      "keywords": [
+        "potenziale di membrana",
+        "nernst",
+        "trasporto ionico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q7",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: metabolismo secondario vegetale (glucosinolati in Arabidopsis) come difesa chimica contro insetti erbivori.",
+      "keywords": [
+        "difesa piante",
+        "metaboliti secondari",
+        "erbivoria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q8",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: adattamento fotosintetico CAM in ambiente acquatico nella pianta anfibia Isoetes howellii (fissazione notturna in malato).",
+      "keywords": [
+        "fotosintesi CAM",
+        "malato",
+        "adattamento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q9",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: inizio della traduzione dell'mRNA (codone AUG) e differenze fra mRNA policistronico procariotico e monocistronico eucariotico.",
+      "keywords": [
+        "traduzione",
+        "mRNA",
+        "procarioti eucarioti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q10",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "chimica-organica-biochimica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: deamminazione della citosina a uracile e motivo evolutivo per cui il DNA utilizza la timina al posto dell'uracile per la riparazione.",
+      "keywords": [
+        "DNA",
+        "RNA",
+        "timina",
+        "mutazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q11",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: analisi di tre alberi genealogici (pedigree A, B, C) per determinare modalità di trasmissione autosomica dominante, recessiva o legata al sesso.",
+      "keywords": [
+        "pedigree",
+        "genetica mendeliana",
+        "ereditarieta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q12",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: regolazione trascrizionale dell'operone rut di E. coli tramite il repressore RutR indotto dall'uracile.",
+      "keywords": [
+        "operoni batterici",
+        "espressione genica",
+        "repressore"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q13",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: strategie energetiche di regolazione genica batterica tramite fattori di trascrizione tra fase planctonica e biofilm.",
+      "keywords": [
+        "fattori di trascrizione",
+        "batteri",
+        "biofilm"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q14",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: scelta delle moderne biotecnologie molecolari (RT-PCR quantitativa, CRISPR-Cas9, microarray, ibridazione in situ, metagenomica) in base allo scopo sperimentale.",
+      "keywords": [
+        "biotecnologie",
+        "PCR",
+        "CRISPR",
+        "metagenomica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q15",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: regolazione ormonale della germinazione dei semi tramite gibberelline e acido abscissico in mutanti biosintetici.",
+      "keywords": [
+        "ormoni vegetali",
+        "germinazione",
+        "mutanti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q16",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: clonaggio molecolare di un gene in un vettore plasmidico con His-tag ed enzimi di restrizione (EcoRI, SmaI, SalI, HindIII): disegno di primer in frame.",
+      "keywords": [
+        "clonaggio",
+        "plasmidi",
+        "primer",
+        "enzimi di restrizione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q17",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: meccanismo molecolare del genome editing CRISPR-Cas9 (sequenza PAM NGG, taglio del doppio filamento, mutazioni frameshift da riparazione).",
+      "keywords": [
+        "CRISPR-Cas9",
+        "genome editing",
+        "frameshift"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 24,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q18",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: regolazione dell'operone triptofano (trp) in E. coli mediante attenuazione accoppiata a trascrizione-traduzione.",
+      "keywords": [
+        "operone trp",
+        "attenuazione",
+        "E. coli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q19",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: espressione del recettore del glucagone (GLR) in diversi tessuti e regolazione endocrina della glicemia (fegato, pancreas, ipotalamo).",
+      "keywords": [
+        "glucagone",
+        "glicemia",
+        "sistema endocrino"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q20",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo",
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: metabolismo muscolare e potenza meccanica dei diversi substrati energetici (ATP, fosfocreatina, glicolisi, respirazione) tra sprint e maratona.",
+      "keywords": [
+        "fisiologia muscolare",
+        "ATP",
+        "potenza",
+        "metabolismo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q21",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: malattia di Huntington (espansione triplette CAG), proteina huntingtina e trasporto assonale di vescicole sinaptiche e mitocondri.",
+      "keywords": [
+        "huntington",
+        "trasporto assonale",
+        "malattie genetiche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q22",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: osmoregolazione renale e concentrazione dell'urina nei mammiferi deserticoli in funzione della lunghezza dell'ansa di Henle.",
+      "keywords": [
+        "rene",
+        "nefrone",
+        "osmoregolazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q23",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: elettrofisiologia sinaptica: neurotrasmettitore GABA, potenziale di equilibrio del Cl- e generazione di potenziali d'azione.",
+      "keywords": [
+        "sinapsi",
+        "GABA",
+        "potenziale d'azione",
+        "neuroni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 34,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q24",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "anatomia-fisiologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: biologia dello sviluppo in Xenopus laevis: transizione di mid-blastula regolata dal rapporto volume nucleare/citoplasmatico.",
+      "keywords": [
+        "embriologia",
+        "ciclo cellulare",
+        "xenopus"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q25",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: determinazione dell'asse dorso-ventrale embrionale (organizzatore di Spemann-Mangold e segnalazione beta-catenina/GSK3beta).",
+      "keywords": [
+        "sviluppo embrionale",
+        "segnalazione cellulare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 36,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q26",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: termoregolazione negli animali endotermi ed ectotermi, ruolo dell'ipotalamo e adattamenti morfologici e comportamentali.",
+      "keywords": [
+        "termoregolazione",
+        "omeostasi",
+        "endotermi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 37,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q27",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: riprogrammazione cellulare di fibroblasti in cellule staminali pluripotenti indotte (iPS, esperimento di Yamanaka).",
+      "keywords": [
+        "cellule staminali",
+        "iPS",
+        "espressione genica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 38,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q28",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: ricombinazione somatica dei geni delle immunoglobuline nei linfociti B dimostrata tramite ibridazione DNA-mRNA (esperimento di Tonegawa).",
+      "keywords": [
+        "sistema immunitario",
+        "anticorpi",
+        "linfociti B"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 40,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q29",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: risposta degli stomi fogliari all'umidità e velocità di traspirazione confrontando aria normale e miscela elio-ossigeno (Helox).",
+      "keywords": [
+        "stomi",
+        "traspirazione",
+        "fisiologia vegetale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 41,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q30",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "figura",
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: segnalazione sistemica di difesa contro erbivori nel pomodoro mediante innesti tra mutanti difettivi in sistemina e jasmonato.",
+      "keywords": [
+        "piante",
+        "ormoni difesa",
+        "jasmonato"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q31",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q31",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: controllo della ramificazione vegetale da parte dello strigolattone analizzato con esperimenti di innesto fra mutanti max1, max2 e max4.",
+      "keywords": [
+        "strigolattone",
+        "innesti",
+        "fisiologia vegetale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q32",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 45,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q32",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: interazione fra eccesso di micronutrienti metallici (Zn2+ e Fe2+) nella crescita radicale e fogliare di Arabidopsis.",
+      "keywords": [
+        "micronutrienti",
+        "nutrizione vegetale",
+        "zinco ferro"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q33",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 46,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q33",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: genetica dello sviluppo floreale (simmetria bilaterale vs radiale nei fiori ligulati e tubulosi del girasole).",
+      "keywords": [
+        "genetica dello sviluppo",
+        "fiori",
+        "mutazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q34",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 23,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q34",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: condivisione clonale di risorse (luce vs azoto) tramite stoloni in Fragaria chiloensis su dune costiere.",
+      "keywords": [
+        "ecologia vegetale",
+        "stoloni",
+        "risorse"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q35",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 48,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q35",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: risposta cellulare vegetale a stress osmotico (sorbitolo) vs stress ionico salino (NaCl) mediata dal segnale Ca2+ intracellulare.",
+      "keywords": [
+        "osmosi",
+        "stress salino",
+        "calcio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q36",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 49,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 25,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q36",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: genetica di popolazioni e legge di equilibrio di Hardy-Weinberg (p^2 + 2pq + q^2 = 1) per stimare frequenze alleliche e genotipiche.",
+      "keywords": [
+        "hardy-weinberg",
+        "genetica popolazioni",
+        "probabilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q37",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 50,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 25,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q37",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: filogenesi molecolare dei geni duplicati ECP ed EDN nei primati: rapporto sostituzioni non sinonime/sinonime (dN/dS) e selezione positiva.",
+      "keywords": [
+        "filogenesi molecolare",
+        "selezione naturale",
+        "duplicazione genica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q38",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q38",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: ricostruzione evolutiva della famiglia genica delle opsine visive in uomo e pesce zebra tramite principio di parsimonia.",
+      "keywords": [
+        "albero filogenetico",
+        "opsine",
+        "parsimonia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q39",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 52,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q39",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: adattamento mimetico del mantello dei topi delle dune (Peromyscus polionotus) associato al gene MC1R (selezione naturale).",
+      "keywords": [
+        "selezione naturale",
+        "mimetismo",
+        "MC1R"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q40",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 53,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q40",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "ecologia-ecosistemi",
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: speciazione simpatrica per selezione sessuale e adattamento sensoriale alla luce azzurra/rossa nei ciclidi del Lago Vittoria.",
+      "keywords": [
+        "speciazione",
+        "selezione sessuale",
+        "ciclidi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q41",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 54,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q41",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: principi metodologici di filogenetica molecolare: scelta del tasso evolutivo, geni ortologhi vs paraloghi e uso dell'outgroup.",
+      "keywords": [
+        "filogenetica",
+        "ortologhi",
+        "outgroup"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q42",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 55,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q42",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: transizione evolutiva terra-mare dei cetacei dagli artiodattili terrestri, isotopi stabili, perdita dello smalto dentario e fanoni.",
+      "keywords": [
+        "evoluzione cetacei",
+        "fossili",
+        "filogenesi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q43",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 57,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q43",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "anatomia-fisiologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: collinearità dei geni omeotici Hox in Drosophila melanogaster e sviluppo dei segmenti toracici (ali e bilancieri).",
+      "keywords": [
+        "geni hox",
+        "drosophila",
+        "evo-devo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q44",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 59,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q44",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: evoluzione parallela della perdita delle spine pelviche (gene Pitx1) negli spinarelli d'acqua dolce rispetto alle popolazioni marine.",
+      "keywords": [
+        "evoluzione parallela",
+        "radiazione adattativa",
+        "Pitx1"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q45",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 60,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q45",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: dinamica di popolazioni densità-dipendente, capacità portante, punti di equilibrio stabile/instabile ed effetto Allee.",
+      "keywords": [
+        "dinamica popolazioni",
+        "effetto allee",
+        "capacita portante"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q46",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 61,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q46",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: ecologia comportamentale: ottimizzazione della dimensione del territorio animale confrontando curve di costi e benefici.",
+      "keywords": [
+        "territorialita",
+        "costi benefici",
+        "ecologia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q47",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 62,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q47",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: esperimento di campo sull'impollinazione diurna e notturna: interpretazione di medie e deviazioni standard della produzione di semi.",
+      "keywords": [
+        "impollinazione",
+        "esperimento ecologico",
+        "statistica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q48",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q48",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: evoluzione della resistenza agli insetticidi in una popolazione di zanzare: variazione delle frequenze genotipiche prima, durante e dopo il trattamento.",
+      "keywords": [
+        "resistenza insetticidi",
+        "selezione naturale",
+        "frequenze alleliche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q49",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 64,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q49",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: monitoraggio cinquantennale della biodiversità di specie di formiche tramite curve rango-abbondanza (ricchezza ed equitabilità).",
+      "keywords": [
+        "biodiversita",
+        "curve rango-abbondanza",
+        "comunita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "natsci-2020-ibo-t1-q50",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "International Biology Olympiad (IBO Challenge I) 2020",
+      "year": 2020,
+      "phase": "Theoretical Exam 1 (Biologia — gara internazionale riferimento ANISN)",
+      "sourceType": "official_exam",
+      "sourceSite": "ibo-info.org (IBO)",
+      "originalQuestionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201.pdf",
+      "originalSolutionsUrl": "https://www.ibo-info.org/files/downloads/papers/2020%20Japan%20%28IBO%20Challenge%20I%29/IBO%202020_Theory%20Exam%201%20-%20Answer%20key.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1.pdf",
+      "questionsPage": 65,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2020/ibo-2020-theory-exam-1-key.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio — Biologia (IBO / CLIL EN)",
+      "questionNumber": "Q50",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "statistica-descrittiva",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "en",
+      "summary": "CLIL: relazione tra ricchezza specifica vegetale e produzione di biomassa in prateria (complementarietà di nicchia ed effetto biodiversità).",
+      "keywords": [
+        "biodiversita",
+        "biomassa",
+        "nicchia ecologica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    }
+  ]
 }

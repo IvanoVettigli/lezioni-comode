@@ -59,4 +59,15 @@ function renderCatalog() {
     .join("")}</div>`;
 }
 
-window.addEventListener("ivano:ready", renderCatalog);
+let homeInitialized = false;
+function startHomePage() {
+  if (homeInitialized) return;
+  homeInitialized = true;
+  renderCatalog();
+}
+
+if (window.__ivanoReady) {
+  startHomePage();
+} else {
+  window.addEventListener("ivano:ready", startHomePage, { once: true });
+}

@@ -2,6 +2,3278 @@
   "schemaVersion": 1,
   "competitionId": "olimpiadi-informatica",
   "lastUpdated": "2026-11-20",
-  "notes": "Da popolare nello Step 6 (Selezioni Scolastiche OII e Bebras dell'Informatica — categorie superiori).",
-  "items": []
+  "notes": "Step 6 completato: 85 quesiti ufficiali di Informatica e Pensiero Computazionale in italiano — 40 esercizi dalle Selezioni Scolastiche OII 2022 e 2021 (olimpiadi-informatica.it, completi di soluzioni ufficiali) + 45 quesiti unici ufficiali Bebras / Castoro Informatico 2025 e 2024 per le scuole superiori (castoro-informatico.ch, SSII partner ufficiale Bebras International, completi di soluzioni e spiegazioni informatiche).",
+  "items": [
+    {
+      "id": "oii-2022-scol-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #1",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Criptaritmetica: nella sottrazione in colonna 2XYY - 1YX3 = 644 determinare le cifre X e Y e la loro somma.",
+      "keywords": [
+        "criptaritmetica",
+        "cifre",
+        "sottrazione",
+        "logica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #2",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Enigma logico su 4 amici che giocano a calcetto in cui esattamente uno dice la verità: individuare chi è il più forte.",
+      "keywords": [
+        "logica deduttiva",
+        "verita e menzogna",
+        "analisi per casi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #3",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Sistemi di numerazione in base non decimale: sapendo che 17 + 12 = 30 in base b, ricavare la base b (b = 9) e calcolare 17 * 3 nella stessa base.",
+      "keywords": [
+        "basi numeriche",
+        "sistema posizionale",
+        "aritmetica in base b"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #4",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Variante del problema delle uova del Liber Abaci di Fibonacci: trovare il minimo intero F con resto 1 modulo 5 e 6 e divisibile per 7 (teorema cinese del resto).",
+      "keywords": [
+        "fibonacci",
+        "aritmetica modulare",
+        "resti",
+        "mcm"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Compilare la tabella di verità a 8 righe dell'espressione booleana (B AND (NOT A)) OR (NOT C) esprimendola come stringa binaria di 8 bit.",
+      "keywords": [
+        "algebra booleana",
+        "tabelle di verita",
+        "and or not",
+        "stringa binaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #6",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Tracciamento di una funzione ricorsiva in pseudocodice f(n) con casi n < 10, n = 10, n > 10: calcolare f(13).",
+      "keywords": [
+        "ricorsione",
+        "pseudocodice",
+        "tracciamento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #7",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Analisi di una funzione in pseudocodice con diramazioni condizionali if/else e operatore mod 2: determinare il valore minimo restituibile per ogni intero x.",
+      "keywords": [
+        "if else",
+        "modulo",
+        "minimo",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #8",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Tracciare un ciclo while che scambia gli elementi simmetrici v[i] e v[j-i-1] di un array di 9 interi (inversione dell'array) e determinare l'output.",
+      "keywords": [
+        "array",
+        "ciclo while",
+        "inversione vettore",
+        "scambio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #9",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ricorsione mutua tra due funzioni f(n) e g(n): contare il numero totale di chiamate effettuate per valutare f(7).",
+      "keywords": [
+        "ricorsione mutua",
+        "chiamate ricorsive",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #10",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ricostruire l'ordine corretto di 16 righe mescolate di un programma che confronta il numero di elementi negativi e positivi in un vettore (Parsons problem).",
+      "keywords": [
+        "parsons problem",
+        "riordinamento codice",
+        "cicli",
+        "condizioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #11",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Debugging di pseudocodice su matrice n x n per trovare la sottomatrice quadrata positiva massima in (0,0): individuare la riga con l'errore (j <- j - 1 invece di j + 1).",
+      "keywords": [
+        "debug",
+        "matrici",
+        "cicli annidati",
+        "errore logico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #12",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Riconoscere l'algoritmo di Euclide per il MCD con sottrazioni nella funzione f(a) con b = 42 e trovare il minimo a > 0 tale che f(a) = 28.",
+      "keywords": [
+        "algoritmo di euclide",
+        "MCD",
+        "reverse engineering codice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #13",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Conteggio delle cifre dei numeri di pagina: se per numerare un libro dalla pagina 1 si impiegano 483 cifre decimali, calcolare il numero totale di pagine P.",
+      "keywords": [
+        "cifre",
+        "pagine",
+        "conteggio",
+        "equazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #14",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Algoritmo greedy tipo codifica di Huffman: calcolare il costo minimo per sommare a coppie l'insieme {7, 11, 5, 9, 23, 15} fondendo sempre i due elementi minimi.",
+      "keywords": [
+        "greedy",
+        "huffman",
+        "ottimizzazione",
+        "albero binario"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #15",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Permutazione periodica dei cavalieri della Tavola Rotonda: seguire il ciclo della permutazione inversa per trovare chi occupa il posto 2 all'ottava riunione.",
+      "keywords": [
+        "permutazioni",
+        "cicli",
+        "periodicita",
+        "tabella"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #16",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Problema classico della somma massima di sottovettore contiguo (algoritmo di Kadane) su un array di 16 interi positivi e negativi.",
+      "keywords": [
+        "maximum subarray",
+        "kadane",
+        "programmazione dinamica",
+        "array"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #17",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Problema del resto minimo (coin change / programmazione dinamica) con tagli non canonici {1, 2, 6, 10, 13, 17} per formare 84 elboni.",
+      "keywords": [
+        "coin change",
+        "programmazione dinamica",
+        "ottimizzazione",
+        "monete"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q18",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #18",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ricerca con backtracking su 8 stanze con salti di lunghezza distinta 1..7 ('fagioli magici' di Harry Porter): individuare le ultime due stanze visitate.",
+      "keywords": [
+        "backtracking",
+        "ricerca esaustiva",
+        "percorsi",
+        "vincoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q19",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #19",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Problema del circuito circolare di ricarica (Gas Station / Tesla): individuare su un ciclo di 8 piazze le due stazioni da cui è possibile completare il giro orario e antiorario.",
+      "keywords": [
+        "gas station",
+        "greedy",
+        "circuito",
+        "energia",
+        "autonomia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2022-scol-q20",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2022",
+      "year": 2022,
+      "phase": "Selezione Scolastica (08/02/2022)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/199/proveScolastiche2021-22_sito.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2022/oii-2022-selezione-scolastica.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #20",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Isomorfismo di grafi: confrontando gradi dei nodi e adiacenze tra due disegni di un grafo a 12 nodi, trovare i corrispondenti dei nodi A, B ed F.",
+      "keywords": [
+        "isomorfismo grafi",
+        "grado nodi",
+        "reti",
+        "strutture dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #1",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Estrazioni con reinserimento da un mazzo di 52 carte francesi: calcolare la probabilità (1/X) che le prime due carte siano nere e la terza sia un Jack.",
+      "keywords": [
+        "probabilita",
+        "carte",
+        "eventi indipendenti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #2",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Criptaritmetica: nell'addizione in colonna 1X3Y + XXYY = 4714 ricavare le cifre X e Y e calcolarne la somma.",
+      "keywords": [
+        "criptaritmetica",
+        "cifre",
+        "addizione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #3",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "sistemi-equazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ricorrenza lineare tipo Fibonacci Gib(n) = A*Gib(n-2) + B*Gib(n-1): dai primi quattro termini 1, 2, 11, 50 determinare A, B e il quinto termine C.",
+      "keywords": [
+        "ricorrenza lineare",
+        "fibonacci",
+        "sistema lineare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #4",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Valutare la tabella di verità dell'espressione booleana (NOT P) OR (R AND (NOT Q)) su 3 variabili e scriverne la stringa binaria di 8 bit.",
+      "keywords": [
+        "algebra booleana",
+        "tabelle di verita",
+        "precedenza operatori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Diagramma di Venn a tre insiemi (treni, auto da corsa, aerei): note le cardinalità e intersezioni parziali, calcolare il numero totale di amici alla festa.",
+      "keywords": [
+        "insiemi",
+        "diagramma di venn",
+        "inclusione esclusione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #6",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Tracciamento di pseudocodice che costruisce la permutazione inversa w[v[i]] <- i di un array di 10 elementi e stampa gli elementi di w.",
+      "keywords": [
+        "array",
+        "permutazione inversa",
+        "indici",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #7",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Funzione iterativa che dimezza x se pari e sottrae 1 se dispari contando i passi: collegare il risultato alla rappresentazione binaria per trovare il minimo x con f(x) = 5.",
+      "keywords": [
+        "codifica binaria",
+        "ciclo while",
+        "parita",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #8",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "successioni-serie"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ciclo while di 9 iterazioni che accumula somme di potenze di 2 e indici progressivi (t <- t + s + i): calcolare il valore finale stampato.",
+      "keywords": [
+        "cicli",
+        "serie geometrica",
+        "potenze di 2",
+        "tracciamento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #9",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Matrice 3D m[i][j][k] che vale 1 se i*j = k: riconoscere che il programma conta i divisori di ciascun elemento di v = [4, 13, 14, 25, 72] e trovare il terzo output.",
+      "keywords": [
+        "cicli annidati",
+        "divisori",
+        "matrice 3D",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #10",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Coppia di funzioni ricorsive su divisione intera per 2 e resto mod 2 (lunghezza massima di sequenze di bit 1 consecutivi): trovare il massimo x <= 250 con g(x) = 1.",
+      "keywords": [
+        "ricorsione",
+        "rappresentazione binaria",
+        "bit consecutivi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #11",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Funzione ricorsiva f(h, i) che calcola i coefficienti binomiali del triangolo di Tartaglia/Pascal: determinare l'ultimo valore stampato dal ciclo per h = 4.",
+      "keywords": [
+        "triangolo di tartaglia",
+        "ricorsione",
+        "coefficienti binomiali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #12",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Debugging di pseudocodice che partiziona un sottoarray in due parti non vuote massimizzando s1 - s2: individuare l'errore di estremo nel ciclo (k <= j vs k < j).",
+      "keywords": [
+        "debug",
+        "sottoarray",
+        "indici",
+        "cicli annidati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #13",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Salti di Hulk di ampiezza 2^t al minuto t: interpretare la distanza D in base binaria per trovare la distanza minima con 3 salti di cui l'ultimo a t = 5.",
+      "keywords": [
+        "sistema binario",
+        "potenze di 2",
+        "codifica",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #14",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Variante del classico rompicapo del ponte e della torcia ('quattro gondole' con tempi 2, 4, 9, 13 min): trovare la sequenza di traversate a tempo minimo.",
+      "keywords": [
+        "ottimizzazione",
+        "ponte e torcia",
+        "scheduling",
+        "problem solving"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #15",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Scegliere K = 3 panini tra 9 pesi dati minimizzando max - min (ordinamento + finestra scorrevole di ampiezza 3).",
+      "keywords": [
+        "ordinamento",
+        "sliding window",
+        "minimo scarto",
+        "algoritmi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #16",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Programmazione dinamica su piramide numerica: calcolare la somma Min + Max tra il percorso di somma minima e quello di somma massima dalla cima alla base.",
+      "keywords": [
+        "programmazione dinamica",
+        "piramide numerica",
+        "cammino minimo",
+        "cammino massimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #17",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Somme binarie a costo minimo (algoritmo greedy di Huffman) sull'insieme di numeri {7, 11, 4, 8, 21, 15}.",
+      "keywords": [
+        "greedy",
+        "huffman",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q18",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #18",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Problema del Minimum Weighted Dominating Set su un grafo di 10 case di montagna per installare antenne 5G a costo complessivo minimo.",
+      "keywords": [
+        "dominating set",
+        "grafi pesati",
+        "copertura 5G",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q19",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #19",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Programmazione dinamica su griglia 8x8 con ostacoli e premi ('pirata Barbagialla', mosse solo destra/alto): trovare MAX + MIN ghinee raccoglibili.",
+      "keywords": [
+        "griglia",
+        "programmazione dinamica",
+        "cammini con ostacoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "oii-2021-scol-q20",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Olimpiadi Italiane di Informatica 2021",
+      "year": 2021,
+      "phase": "Selezione Scolastica (23/02/2021)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi-informatica.it (AICA / MIM)",
+      "originalQuestionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "originalSolutionsUrl": "https://www.olimpiadi-informatica.it/oldsite/188/Prove_scolastiche_febbraio_2021.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2021/oii-2021-selezione-scolastica.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Esercizio #20",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Congettura di Collatz (3N + 1): calcolare la lunghezza minima della sequenza fino a 1 tra i valori iniziali compresi fra 32 e 36 (32 è potenza di 2!).",
+      "keywords": [
+        "collatz",
+        "3n+1",
+        "simulazione algoritmo",
+        "potenze di 2"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 1 — Vasi di fiori",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Codifica posizionale tramite vasi pieni e vuoti per nascondere e ritrovare una chiave secondo una regola prestabilita (rappresentazione dell'informazione).",
+      "keywords": [
+        "codifica",
+        "rappresentazione dati",
+        "bebras"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 2 — Dalla foglia al legno",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Join relazionale tra tabelle di dati sugli alberi (forma foglie -> specie -> idoneità del legno): determinare l'ordine di consultazione delle tabelle.",
+      "keywords": [
+        "basi di dati",
+        "join",
+        "tabelle",
+        "relazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 3 — Arcipelago dei castori",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Grafo orientato di 7 isole collegate da traghetti: trovare il numero minimo di viaggi necessari per esplorare tutte le isole (copertura per cammini).",
+      "keywords": [
+        "grafo orientato",
+        "cammini",
+        "copertura",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 4 — Giornata nebbiosa",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Diffusione a macchia d'olio della nebbia su una griglia di regioni (visita in ampiezza / BFS) a passi orari discreti.",
+      "keywords": [
+        "BFS",
+        "visita in ampiezza",
+        "griglia",
+        "simulazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 5 — Albero genealogico",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Composizione di funzioni Padre(X) e Madre(X) su un albero genealogico per esprimere relazioni di parentela tramite chiamate annidate.",
+      "keywords": [
+        "alberi",
+        "composizione di funzioni",
+        "notazione funzionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 6 — Servizio di corriere",
+      "primaryTopic": "crittografia-sicurezza",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Crittografia visuale: ricostruire il secondo foglio trasparente di pixel per sovrapporlo al primo e rivelare un'immagine segreta.",
+      "keywords": [
+        "crittografia visuale",
+        "pixel",
+        "segreto condiviso",
+        "immagini"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 7 — L'aquilone perduto",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Ricerca deterministica con vincoli in un prato diviso in 15 aree: usare gli indizi delle aree già ispezionate per localizzare l'aquilone con un solo controllo.",
+      "keywords": [
+        "ricerca deterministica",
+        "deduzione",
+        "eliminazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 36,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 8 — Corona dell'Avvento",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Pianificazione (scheduling) dell'accensione di 4 candele in 4 domeniche affinché tutte consumino esattamente lo stesso tempo (3 accensioni ciascuna).",
+      "keywords": [
+        "scheduling",
+        "bilanciamento",
+        "algoritmi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 39,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 40,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 9 — Mappa di luminosità",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Elaborazione di immagini digitali (filtro convoluzionale sui vicini di ciascun pixel): confrontare le mappe di luminosità di quattro immagini.",
+      "keywords": [
+        "immagini digitali",
+        "pixel",
+        "filtri",
+        "convoluzione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — Trasporto farina",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ottimizzazione e scheduling di viaggi fra panetteria e mulino con due operatori aventi tassi di carico differenti e vincolo di mutua esclusione.",
+      "keywords": [
+        "scheduling",
+        "ottimizzazione",
+        "tassi",
+        "pianificazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 11 — Nero e bianco",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Compressione ricorsiva divide-et-impera di sequenze di pixel bianchi e neri (albero binario / quadtree 1D) con simboli B, N e x.",
+      "keywords": [
+        "compressione immagini",
+        "ricorsione",
+        "divide et impera",
+        "albero binario"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 53,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 12 — Riconoscimento degli indirizzi e-mail",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "schema",
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Automa a stati finiti (DFA) per validare la sintassi di un indirizzo e-mail (nome utente, chiocciola, dominio): individuare il diagramma di transizioni corretto.",
+      "keywords": [
+        "automa a stati finiti",
+        "espressioni regolari",
+        "validazione stringhe"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 55,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 56,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 13 — Biocolori",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Scambio senza variabile temporanea (XOR swap) modellato tramite miscele di biocolori con regola di combinazione equivalente allo XOR bit a bit.",
+      "keywords": [
+        "XOR",
+        "swap senza ausiliaria",
+        "algebra booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 59,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 60,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 14 — Trasporto pubblico",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Cammino minimo dipendente dal tempo (variante di Dijkstra) su una rete di 4 linee di autobus con frequenze di partenza periodiche.",
+      "keywords": [
+        "dijkstra",
+        "cammino minimo",
+        "grafi",
+        "orari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 64,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Laghi di montagna",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Flusso su reti: costruire canali di drenaggio con capacità limitata tra laghi di montagna e un bacino per evitare straripamenti.",
+      "keywords": [
+        "flussi su reti",
+        "grafi",
+        "capacita",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 67,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 68,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 16 — Parcheggi",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Modellazione di tre corsie di parcheggio cieche come pile (stack LIFO) per far uscire 9 invitati nell'ordine desiderato senza blocchi.",
+      "keywords": [
+        "pila",
+        "stack",
+        "LIFO",
+        "strutture dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 71,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 73,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 17 — Castoro Jones",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Ricerca del percorso più veloce in un corridoio con trappole periodiche sincronizzate nel tempo (grafo stato-tempo / ricerca in ampiezza).",
+      "keywords": [
+        "spazio degli stati",
+        "cammino minimo",
+        "trappole periodiche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b18",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 75,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 76,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 18 — Pianificazione degli esami",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Colorazione di grafi (numero cromatico <= 5): assegnare gli esami di maturità a 5 giornate evitando conflitti fra esami collegati da un arco.",
+      "keywords": [
+        "colorazione di grafi",
+        "conflitti",
+        "scheduling esami"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-b19",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "questionsPage": 81,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-biennio-soluzioni.pdf",
+      "solutionsPage": 82,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 19 — Intorno agli scogli",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice",
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Scrivere un breve programma con ciclo while e sensore rockRight() per guidare un castoro attorno agli scogli in tutti i laghi proposti.",
+      "keywords": [
+        "ciclo while",
+        "programmazione robot",
+        "condizioni",
+        "pseudocodice"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-t10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "questionsPage": 45,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — Scopriamo Seul!",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Problema dello zaino / orienteering su grafo: trovare un itinerario in autobus lungo al massimo 10 km che massimizzi le stelle di popolarità raccolte.",
+      "keywords": [
+        "orienteering",
+        "grafi pesati",
+        "ottimizzazione",
+        "vincolo distanza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-t15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "questionsPage": 65,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "solutionsPage": 66,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Castoro di controllo",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Codici a rilevazione e correzione d'errore (bit di parità / codice di Hamming): individuare quale castoro messaggero sventola la bandiera errata.",
+      "keywords": [
+        "bit di parita",
+        "codici correttori",
+        "hamming",
+        "codifica binaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-t16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "questionsPage": 69,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "solutionsPage": 70,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 16 — Sasso, carta, forbici",
+      "primaryTopic": "crittografia-sicurezza",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Protocollo crittografico e strategia su scambio simultaneo di scelte nel gioco sasso-carta-forbici.",
+      "keywords": [
+        "teoria dei giochi",
+        "protocolli",
+        "strategia",
+        "logica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2025-t17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2025",
+      "year": 2025,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2025/Castoro-informatico-2025-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "questionsPage": 75,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2025/bebras-castoro-2025-triennio-soluzioni.pdf",
+      "solutionsPage": 76,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 17 — Avanti e indietro",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice",
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Scrivere un algoritmo compatto con cicli while e rotazioni per raccogliere tronchi lungo mappe lacustri con ostacoli variabili.",
+      "keywords": [
+        "cicli while",
+        "controllo robot",
+        "generalizzazione algoritmica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 1 — Superbebras",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Generazione procedurale di sfondi tramite diagramma di transizione (automa/catena di Markov): individuare la sequenza di tessere impossibile.",
+      "keywords": [
+        "automa",
+        "transizioni",
+        "generazione procedurale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 2 — La biblioteca di Holzdorf",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Gestione di una coda (FIFO / scheduling dei processi) per la restituzione dei libri in biblioteca con tempi di arrivo e servizio noti.",
+      "keywords": [
+        "coda",
+        "FIFO",
+        "scheduling",
+        "simulazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 3 — Buon compleanno",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Albero decisionale / diagramma di flusso per verificare la regola completa degli anni bisestili (divisibilità per 4, 100 e 400).",
+      "keywords": [
+        "albero decisionale",
+        "flowchart",
+        "anno bisestile",
+        "divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 4 — Tour forestale",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Ordinamento topologico di un insieme di alberi a partire da confronti parziali di popolarità raccolti in tre escursioni precedenti.",
+      "keywords": [
+        "ordinamento topologico",
+        "DAG",
+        "ordinamento parziale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 5 — Note distribuite",
+      "primaryTopic": "crittografia-sicurezza",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Registro distribuito (concetto base di blockchain e consenso a maggioranza): individuare il foglio contenente l'annotazione alterata confrontando le copie dei tre amici.",
+      "keywords": [
+        "blockchain",
+        "registro distribuito",
+        "consenso",
+        "rilevamento errori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 6 — Braccialetto più lungo",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Problema classico della sottosequenza crescente più lunga (LIS — Longest Increasing Subsequence) modellato con perline numerate che escono da un tubo.",
+      "keywords": [
+        "LIS",
+        "sottosequenza crescente",
+        "programmazione dinamica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 33,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 34,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 7 — Catene di parole",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Cammino minimo su un grafo di parole (distanza di Hamming = 1): collegare due parole cambiando una sola lettera per volta.",
+      "keywords": [
+        "distanza di hamming",
+        "grafi",
+        "cammino minimo",
+        "parole"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 37,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 38,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 8 — Macchina dei palloncini",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Macchina a istruzioni toggle (gonfia/sgonfia): analizzare la parità delle occorrenze di ogni lettera-comando per riprodurre una configurazione target.",
+      "keywords": [
+        "parita",
+        "toggle",
+        "istruzioni",
+        "stato"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 41,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 42,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 9 — Pip il pirata",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ricerca binaria / teoria dell'informazione: trovare il numero minimo di domande Sì/No (log2(16) = 4) per localizzare con certezza il tesoro su una mappa 4x4.",
+      "keywords": [
+        "ricerca binaria",
+        "bit di informazione",
+        "logaritmo in base 2"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 45,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — Stesse lettere",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Ottimizzazione combinatoria su stringhe: sostituire simboli in una fila per massimizzare il punteggio dei blocchi di lettere uguali adiacenti (run-length).",
+      "keywords": [
+        "stringhe",
+        "ottimizzazione",
+        "blocchi contigui"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 49,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 11 — Crittografia delle immagini",
+      "primaryTopic": "crittografia-sicurezza",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "codifica-sistemi-numerazione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Cifratura di immagini tramite trasformazioni geometriche cicliche sui pixel (taglio orizzontale e verticale, mappa del gatto di Arnold).",
+      "keywords": [
+        "crittografia immagini",
+        "trasformazioni pixel",
+        "permutazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 53,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 54,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 12 — Giorni di sole",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Negazione di proposizioni quantificate (leggi di De Morgan sui quantificatori 'per ogni' / 'esiste'): formulare il controesempio esatto che smentisce l'affermazione di Tom.",
+      "keywords": [
+        "quantificatori",
+        "negazione logica",
+        "controesempio",
+        "de morgan"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 57,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 58,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 13 — Mappa del tesoro",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Grafo duale di una mappa geografica (regioni -> nodi, confini -> archi): riconoscere la rappresentazione a grafo isomorfa alla mappa delle 7 province.",
+      "keywords": [
+        "grafo planare",
+        "grafo duale",
+        "isomorfismo",
+        "mappe"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 61,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 62,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 14 — Palline",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Decodifica di una sequenza binaria costruita tramite parità delle somme suffisse (somma cumulativa modulo 2) procedendo da destra verso sinistra.",
+      "keywords": [
+        "codifica binaria",
+        "parita",
+        "somme prefisse",
+        "decodifica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 65,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 66,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Macchina per lo spostamento di blocchi",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Simulazione di un algoritmo di ordinamento meccanico a scambi adiacenti (tipo Gnome sort / Insertion sort) fino allo stato di arresto.",
+      "keywords": [
+        "algoritmi di ordinamento",
+        "simulazione",
+        "invarianti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 69,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 70,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 16 — Frowny",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Teoria dei giochi e alberi di gioco (variante bidimensionale di Chomp / Nim): trovare la mossa vincente che costringe l'avversario a prendere il biscotto avvelenato.",
+      "keywords": [
+        "teoria dei giochi",
+        "chomp",
+        "nim",
+        "strategia vincente"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 73,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 74,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 17 — Esplorazione",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Completamento dell'algoritmo di visita in profondità (DFS con marcatori e backtracking) per esplorare un arcipelago di isole sconosciuto.",
+      "keywords": [
+        "DFS",
+        "visita in profondita",
+        "backtracking",
+        "grafi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b18",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 77,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 78,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio) e 11–13 (Triennio)",
+      "questionNumber": "Quesito 18 — Impilaggio",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dipendenze e ordinamento topologico nella ricostruzione di una pila di mattoni rispettando il vincolo che nessun mattone poggi sul vuoto.",
+      "keywords": [
+        "dipendenze",
+        "ordinamento topologico",
+        "grafi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-b19",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "questionsPage": 83,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-biennio-soluzioni.pdf",
+      "solutionsPage": 84,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 19 — Attenzione alle rapide!",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "lettura-codice-programmazione",
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "figura",
+        "codice"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Pianificazione del percorso in un labirinto con moto inerziale sulle rapide (scivolamento fino all'ostacolo) e traduzione in sequenza di istruzioni.",
+      "keywords": [
+        "labirinto",
+        "path planning",
+        "programmazione",
+        "grafi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-t10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "questionsPage": 45,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — Giostrina di stelle",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "statica-equilibrio",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Rappresentazione ricorsiva con parentesi annidate di alberi binari bilanciati (strutture ricorsive + equilibrio dei bracci di una giostrina).",
+      "keywords": [
+        "alberi binari",
+        "strutture ricorsive",
+        "parsing",
+        "equilibrio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-t15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "questionsPage": 65,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "solutionsPage": 66,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Girare le carte",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Contatore binario con riporto modellato come fila di carte da voltare da destra a sinistra (incremento binario +1).",
+      "keywords": [
+        "contatore binario",
+        "bit",
+        "riporto",
+        "codifica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2024-t16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2024",
+      "year": 2024,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (SSII / Bebras)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2024/Castoro-informatico-2024-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "questionsPage": 71,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2024/bebras-castoro-2024-triennio-soluzioni.pdf",
+      "solutionsPage": 72,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 16 — Difesa dall'acqua",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "codice",
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Scrivere una sequenza/ciclo di istruzioni (move, removeLog, placeLog) per raccogliere e mettere in sicurezza i tronchi dietro la diga.",
+      "keywords": [
+        "programmazione",
+        "cicli",
+        "robotica virtuale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    }
+  ]
 }

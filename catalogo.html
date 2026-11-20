@@ -27,13 +27,14 @@
     </section>
 
     <section class="hero">
-      <span class="badge badge-subject-informatica">Banca Quesiti · Prove Ufficiali &amp; Competizioni</span>
+      <span class="badge badge-subject-informatica">Banca Quesiti · Prove Ufficiali, Competizioni &amp; Test Universitari</span>
       <h1 style="margin-top:0.75rem;">📚 Catalogo di Esercizi</h1>
       <p style="max-width:75ch;">
         Cerca quesiti per <strong>argomento</strong> (es. <em>equivalenze</em>, <em>probabilità</em>, <em>cinematica</em>),
-        <strong>livello scolastico</strong>, <strong>competizione</strong> e <strong>anno</strong>. Ogni scheda indica con
-        chiarezza se il materiale è <strong>ufficiale</strong> o di <strong>allenamento terzi</strong>, mostra il numero
-        esatto del quesito e offre il link diretto al <strong>PDF ospitato nel sito</strong> (domande e soluzioni) alla pagina giusta.
+        <strong>livello</strong> (incluso il percorso dedicato <strong>Ingresso Università / Test d'Ammissione</strong>),
+        <strong>competizione o test</strong> e <strong>anno</strong>. Ogni scheda indica con chiarezza se il materiale è
+        <strong>ufficiale</strong> o di <strong>archivio/allenamento terzi</strong>, mostra il numero esatto del quesito
+        e offre il link diretto al <strong>PDF ospitato nel sito</strong> alla pagina giusta.
       </p>
       <div class="catalog-kpi-row" data-catalog-stats>
         <span class="badge">Caricamento catalogo...</span>
@@ -43,8 +44,8 @@
     <!-- RIEPILOGO RAPIDO COMPETIZIONI E ANNI PRESENTI A CATALOGO -->
     <section class="card catalog-coverage-banner no-print" aria-labelledby="copertura-rapida-title">
       <div class="exercise-header" style="margin-bottom:0.75rem;">
-        <h2 id="copertura-rapida-title" style="margin:0; font-size:1.1rem;">📅 Competizioni incluse e anni presenti a catalogo</h2>
-        <span class="muted"><small>Clicca su una competizione o su un anno per filtrare subito</small></span>
+        <h2 id="copertura-rapida-title" style="margin:0; font-size:1.1rem;">📅 Competizioni, test universitari e anni presenti a catalogo</h2>
+        <span class="muted"><small>Clicca su una prova o su un anno per filtrare subito</small></span>
       </div>
       <div class="catalog-coverage-table-wrap" data-coverage-summary>
         <p class="muted" style="margin:0;">Caricamento elenco competizioni e annate...</p>
@@ -65,16 +66,23 @@
         </div>
 
         <div class="catalog-field">
-          <label for="filter-competition">Competizione / Prova</label>
+          <label for="filter-competition">Competizione / Test d'ingresso</label>
           <select id="filter-competition" class="catalog-select" data-filter-competition>
-            <option value="">Tutte le competizioni</option>
+            <option value="">Tutte le prove e competizioni</option>
           </select>
         </div>
 
         <div class="catalog-field">
-          <label for="filter-level">Livello scolastico</label>
+          <label for="filter-level">Livello (Scuola / Test Univ.)</label>
           <select id="filter-level" class="catalog-select" data-filter-level>
             <option value="">Tutti i livelli</option>
+          </select>
+        </div>
+
+        <div class="catalog-field">
+          <label for="filter-language">Lingua (anche CLIL)</label>
+          <select id="filter-language" class="catalog-select" data-filter-language>
+            <option value="">Tutte le lingue</option>
           </select>
         </div>
 
@@ -86,6 +94,13 @@
             <option value="official_exam">Solo prove ufficiali reali</option>
             <option value="official_sample">Solo esempi ufficiali (es. INVALSIopen)</option>
             <option value="third_party_all">Solo archivi / allenamento terzi</option>
+          </select>
+        </div>
+
+        <div class="catalog-field">
+          <label for="filter-format">Formato risposta</label>
+          <select id="filter-format" class="catalog-select" data-filter-format>
+            <option value="">Tutti i formati</option>
           </select>
         </div>
 
@@ -117,7 +132,13 @@
       <div class="catalog-topics-panel">
         <div class="catalog-topics-head">
           <label for="filter-topic-search"><strong>Argomenti</strong> (cerca per nome o sinonimo, es. <em>equivalenze</em>, <em>percentuali</em>, <em>fluidi</em>, <em>binario</em>):</label>
-          <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:340px;" placeholder="Filtra lista argomenti..." data-topic-search />
+          <div class="catalog-topics-controls">
+            <select id="filter-topic-mode" class="catalog-select" style="width:auto;" data-topic-match-mode aria-label="Modalità combinazione argomenti">
+              <option value="or">Abbina: almeno un argomento (OR)</option>
+              <option value="and">Abbina: tutti gli argomenti (AND)</option>
+            </select>
+            <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:280px;" placeholder="Filtra lista argomenti..." data-topic-search />
+          </div>
         </div>
         <div class="catalog-selected-topics" data-selected-topics></div>
         <details class="catalog-topic-accordion" open>

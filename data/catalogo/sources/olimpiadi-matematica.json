@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "competitionId": "olimpiadi-matematica",
   "lastUpdated": "2026-11-20",
-  "notes": "Set pilota Step 1: primi 5 quesiti verificati dai Giochi di Archimede 2025 (Gara Biennio, 27 novembre 2025). Espansione completa delle ultime edizioni (Archimede Biennio/Triennio e Febbraio) prevista nello Step 4.",
+  "notes": "Step 4 completato: 113 quesiti ufficiali UMI (Giochi di Archimede 2025, 2024 e 2023 — Biennio e Triennio completi — più Gara di Febbraio 2025 completa di quesiti a scelta multipla, numerici e dimostrativi) con tutti i PDF ufficiali di testi e soluzioni ospitati localmente in assets/catalogo-pdf/olimpiadi-matematica/.",
   "items": [
     {
       "id": "olimat-2025-arch-biennio-q01",
@@ -18,16 +18,64 @@
       "questionsPage": 1,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
       "solutionsPage": 5,
-      "levels": ["biennio"],
+      "levels": [
+        "biennio"
+      ],
       "originalLevelLabel": "Gara Biennio (1°–2° anno)",
       "questionNumber": "Quesito 1",
       "primaryTopic": "potenze-radici",
-      "secondaryTopics": ["notazione-scientifica-ordini-grandezza"],
-      "visuals": ["nessuno"],
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
       "summary": "Calcolo esatto di una frazione con somme di potenze di 10 aventi esponenti grandi (10^2025, 10^2026, 10^2027) tramite raccoglimento a fattor comune.",
-      "keywords": ["potenze di 10", "raccoglimento", "esponenti", "semplificazione"],
+      "keywords": [
+        "potenze di 10",
+        "raccoglimento",
+        "esponenti",
+        "semplificazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dall'equazione lineare 2x + 1 = 5x + 6 ricavare direttamente il valore dell'espressione 1 - 6x.",
+      "keywords": [
+        "equazione lineare",
+        "sostituzione",
+        "espressione algebrica"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -45,16 +93,255 @@
       "questionsPage": 1,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
       "solutionsPage": 5,
-      "levels": ["biennio"],
+      "levels": [
+        "biennio"
+      ],
       "originalLevelLabel": "Gara Biennio (1°–2° anno)",
       "questionNumber": "Quesito 3",
       "primaryTopic": "frazioni-proporzioni-percentuali",
-      "secondaryTopics": ["equazioni-disequazioni-lineari"],
-      "visuals": ["nessuno"],
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
       "summary": "Determinare il numero minimo di biglie gialle da aggiungere a 30 biglie rosse affinché superino il 20% del totale nella scatola.",
-      "keywords": ["percentuale sul totale", "disequazione", "biglie", "problemi con percentuali"],
+      "keywords": [
+        "percentuale sul totale",
+        "disequazione",
+        "biglie",
+        "problemi con percentuali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare la somma di tutte le cifre del numero n = 10^2025 + 10^803 + 3^4 + 2^5 scritto in base decimale.",
+      "keywords": [
+        "somma delle cifre",
+        "potenze di 10",
+        "rappresentazione decimale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo isoscele ABC con angoli A = B e C = 4A, nota l'altezza uscente da C (24 cm), determinare la lunghezza del lato BC sfruttando il triangolo 30-60-90.",
+      "keywords": [
+        "triangolo isoscele",
+        "angoli",
+        "triangolo 30 60 90",
+        "altezza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Stabilire quante potenze della forma 2025^n (con 1 <= n <= 2025) sono quadrati perfetti osservando che 2025 = 45^2.",
+      "keywords": [
+        "quadrati perfetti",
+        "potenze",
+        "2025",
+        "esponenti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i modi per suddividere 16 caramelle tra 5 persone (almeno una a testa) imponendo che tre amici ricevano lo stesso numero di caramelle.",
+      "keywords": [
+        "conteggio",
+        "partizioni",
+        "equazione diofantea",
+        "caramelle"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare quanti numeri naturali dispari minori di 1000 si possono scrivere usando solo le cifre 1, 3, 4, 5, 7 (anche ripetute).",
+      "keywords": [
+        "disposizioni con ripetizione",
+        "cifre",
+        "numeri dispari",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "sistemi-equazioni",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Problema di età in famiglia: note la somma attuale di padre e due figli (96 anni) e le relazioni di 4 anni prima, calcolare il prodotto delle età attuali dei figli.",
+      "keywords": [
+        "problema eta",
+        "sistema lineare",
+        "modellizzazione"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -72,16 +359,29 @@
       "questionsPage": 2,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
       "solutionsPage": 6,
-      "levels": ["biennio"],
+      "levels": [
+        "biennio"
+      ],
       "originalLevelLabel": "Gara Biennio (1°–2° anno)",
       "questionNumber": "Quesito 10",
       "primaryTopic": "aree-perimetri",
-      "secondaryTopics": ["pitagora-similitudine", "geometria-euclidea-piana"],
-      "visuals": ["figura"],
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
       "summary": "Calcolo dell'area (in mm²) di un quadrilatero con due lati perpendicolari noti, scomponendolo con il teorema di Pitagora in triangoli rettangoli e isosceli.",
-      "keywords": ["quadrilatero", "pitagora", "area", "triangolo isoscele", "mm2"],
+      "keywords": [
+        "quadrilatero",
+        "pitagora",
+        "area",
+        "triangolo isoscele",
+        "mm2"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -99,16 +399,28 @@
       "questionsPage": 2,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
       "solutionsPage": 6,
-      "levels": ["biennio"],
+      "levels": [
+        "biennio"
+      ],
       "originalLevelLabel": "Gara Biennio (1°–2° anno)",
       "questionNumber": "Quesito 11",
       "primaryTopic": "probabilita-base",
-      "secondaryTopics": ["geometria-solida-volumi", "calcolo-combinatorio"],
-      "visuals": ["nessuno"],
+      "secondaryTopics": [
+        "geometria-solida-volumi",
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
       "summary": "Scegliendo casualmente due vertici distinti di un cubo, calcolare la probabilità che il segmento congiungente passi per il centro del cubo (diagonale principale).",
-      "keywords": ["cubo", "vertici", "diagonali", "probabilita classica"],
+      "keywords": [
+        "cubo",
+        "vertici",
+        "diagonali",
+        "probabilita classica"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -126,16 +438,3810 @@
       "questionsPage": 2,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
       "solutionsPage": 6,
-      "levels": ["biennio"],
+      "levels": [
+        "biennio"
+      ],
       "originalLevelLabel": "Gara Biennio (1°–2° anno)",
       "questionNumber": "Quesito 12",
       "primaryTopic": "logica-proposizionale-booleana",
       "secondaryTopics": [],
-      "visuals": ["nessuno"],
+      "visuals": [
+        "nessuno"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
       "summary": "Enigma logico classico sull'isola dei cavalieri (dicono sempre il vero) e furfanti (mentono sempre) in una classe di 21 alunni.",
-      "keywords": ["cavalieri e furfanti", "deduzione", "analisi per casi", "logica"],
+      "keywords": [
+        "cavalieri e furfanti",
+        "deduzione",
+        "analisi per casi",
+        "logica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dato un numero reale k con -1 < k < 0, ordinare correttamente k, k^2 e k^3 confrontando segni e valori assoluti.",
+      "keywords": [
+        "disuguaglianze",
+        "numeri reali negativi",
+        "potenze",
+        "ordinamento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare la posizione in ordine alfabetico della parola PUNTO nell'elenco di tutti i 5! = 120 anagrammi delle sue lettere.",
+      "keywords": [
+        "anagrammi",
+        "permutazioni",
+        "ordine lessicografico",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le colorazioni distinguibili a meno di rotazioni di un cubo usando 10 colori (2 facce di un colore e 4 facce di un altro, distinguendo facce opposte e adiacenti).",
+      "keywords": [
+        "cubo",
+        "colorazioni",
+        "rotazioni",
+        "simmetria",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-biennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un parallelogramma ABCD di area 72 cm² con punti che dividono lati e segmenti in rapporti 2:1, calcolare l'area di un poligono ombreggiato per differenza di triangoli.",
+      "keywords": [
+        "parallelogramma",
+        "rapporti tra aree",
+        "scomposizione",
+        "triangoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Sviluppare (2h - 1)^2 = h(4h + 1) eliminando i termini quadratici per ricavare h e il valore di 3h + 1.",
+      "keywords": [
+        "prodotti notevoli",
+        "equazione lineare",
+        "semplificazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare il numero minimo di biglie blu da aggiungere a 40 biglie rosse affinché superino il 25% del totale nella scatola.",
+      "keywords": [
+        "percentuale",
+        "disequazione",
+        "biglie"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Stabilire quante potenze della forma 2025^(3^n) (con 1 <= n <= 2025) sono quadrati perfetti sfruttando 2025 = 45^2.",
+      "keywords": [
+        "quadrati perfetti",
+        "potenze di potenze",
+        "2025"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le suddivisioni di 17 caramelle fra 5 persone (almeno una ciascuna) con 3 amiche che ricevono lo stesso numero di caramelle.",
+      "keywords": [
+        "conteggio",
+        "partizioni",
+        "equazione diofantea"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Orologio con lancetta delle ore che ruota in senso antiorario e dei minuti in senso orario: determinare quanti incroci avvengono nell'arco di 24 ore (estremi inclusi).",
+      "keywords": [
+        "orologio",
+        "velocita angolare relativa",
+        "moto circolare",
+        "incroci"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Enigma logico su cavalieri e furfanti in una classe di 23 alunni con dichiarazioni sul numero di furfanti e sulla natura di Dino.",
+      "keywords": [
+        "cavalieri e furfanti",
+        "deduzione",
+        "logica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Un quadrato EFGH ha lati che dividono in 3 parti uguali i lati di un quadrato ABCD di lato 3 cm: calcolare l'area di EFGH mediante triangoli simili.",
+      "keywords": [
+        "quadrati",
+        "triangoli simili",
+        "pitagora",
+        "area"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare la posizione della parola NUMERO nell'elenco in ordine alfabetico di tutti i 6! = 720 anagrammi delle sue lettere.",
+      "keywords": [
+        "anagrammi",
+        "permutazioni",
+        "ordine lessicografico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dato un numero reale k con -1 < k < 0, ordinare correttamente 1/k, k^3, k^2 e 1/k^2.",
+      "keywords": [
+        "disuguaglianze",
+        "reciproci",
+        "potenze",
+        "numeri negativi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "analisi-limiti-derivate-integrali"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "I lati AB e BC di un triangolo di area 120 m² sono divisi in 3 parti uguali: minimizzare l'area di un quadrilatero ombreggiato al variare di X sul lato CA.",
+      "keywords": [
+        "ottimizzazione geometrica",
+        "aree triangoli",
+        "minimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare il valore massimo di 5a + 3b + c per terne di numeri primi (a, b, c) soddisfacenti abc = 3(a + b + c) + 1.",
+      "keywords": [
+        "numeri primi",
+        "equazione diofantea",
+        "parita",
+        "stima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Disponendo casualmente 5 libri di narrativa, 3 di poesia e 2 fotografici su uno scaffale, calcolare la probabilità che i 3 libri di poesia risultino tutti adiacenti.",
+      "keywords": [
+        "probabilita",
+        "permutazioni a blocchi",
+        "libri",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le configurazioni di monete su una griglia 4x4 (al più una per casella) in cui ogni riga e ogni colonna contengono un numero dispari di monete.",
+      "keywords": [
+        "griglia 4x4",
+        "parita",
+        "combinatoria",
+        "potenze di 2"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Tre cerchi tangenti tra loro e ai lati di un quadrato di lato 4 cm, con due cerchi di raggio uguale: calcolare il raggio del terzo cerchio tramite Pitagora.",
+      "keywords": [
+        "cerchi tangenti",
+        "quadrato",
+        "pitagora",
+        "equazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le colorazioni distinguibili di un cubo usando 7 colori in modo che 1 faccia abbia un colore, 2 un secondo colore e 3 un terzo colore.",
+      "keywords": [
+        "cubo",
+        "colorazioni",
+        "rotazioni",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-arch-triennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2025",
+      "year": 2025,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/12/archimede2025_testi_soluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/archimede-2025-testi-soluzioni.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un quadrilatero ciclico ABCD con diagonali che si intersecano in E tali che AC = 10 AE e BD = 5 BE, determinare il rapporto tra le diagonali tramite il teorema delle corde.",
+      "keywords": [
+        "quadrilatero inscritto",
+        "teorema delle corde",
+        "circonferenza",
+        "rapporti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 1",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare in quanti modi si possono colorare di verde caselle di una griglia 3x3 affinché ogni riga e ogni colonna abbiano un numero dispari di caselle verdi.",
+      "keywords": [
+        "griglia 3x3",
+        "parita",
+        "combinatoria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 2",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [
+        "successioni-serie",
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Una formica cammina a spirale nel piano cartesiano (1 destra, 2 alto, 3 sinistra, 4 basso, ...): determinare le coordinate esatte dopo 2025 giorni raggruppando a blocchi di 4.",
+      "keywords": [
+        "piano cartesiano",
+        "spirale",
+        "successioni",
+        "periodicita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 3",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due persone in una piazza quadrata hanno tre delle quattro distanze dai lati pari a 20, 50 e 80 m: calcolare la distanza massima possibile tra loro.",
+      "keywords": [
+        "quadrato",
+        "distanze dai lati",
+        "pitagora",
+        "massimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 4",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Definita f(n) come somma più prodotto delle cifre di n, contare gli interi di 3 cifre m tali che f(m) = f(m - 1) + 25 analizzando i casi con e senza riporto.",
+      "keywords": [
+        "cifre",
+        "teoria dei numeri",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 5",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "successioni-serie"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Su 100 righe si scrive il numero di primi <= n se n è pari e di non-primi <= n se n è dispari: calcolare la somma totale tramite cancellazione telescopica.",
+      "keywords": [
+        "numeri primi",
+        "sommatoria",
+        "telescopica",
+        "aritmetica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 6",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Nel triangolo isoscele ABC (AB=16, BC=CA=17) si riflettono B e C rispetto all'incentro: calcolare l'area del triangolo AB'C'.",
+      "keywords": [
+        "incentro",
+        "simmetria centrale",
+        "triangolo isoscele",
+        "area"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 7",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "calcolo-combinatorio",
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Tre studentesse rispondono a 30 quesiti Vero/Falso con coppie di risposte uguali note (17, 15, 12): determinare il punteggio complessivo massimo possibile.",
+      "keywords": [
+        "vero falso",
+        "ottimizzazione",
+        "logica",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 8",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "successioni-serie"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le sequenze di cinquanta +1 e cinquanta -1 le cui somme parziali toccano tutti gli interi da 0 a 49.",
+      "keywords": [
+        "somme parziali",
+        "cammini",
+        "combinatoria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 9",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dato p(x) = x^4 - 3x^3 - 2x^2 + 4x - 1, determinare q(4) dove q(x) è il polinomio monico che ha per radici i quadrati delle radici di p(x) (identità q(x^2) = p(x)p(-x)).",
+      "keywords": [
+        "polinomi",
+        "radici",
+        "relazioni di viete",
+        "identita algebriche"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 10",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dato n = 3^14 * 7^40, contare i divisori di n^2 minori di n che non dividono n sfruttando la simmetria delle coppie di divisori.",
+      "keywords": [
+        "divisori",
+        "fattorizzazione",
+        "simmetria",
+        "teoria dei numeri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 11",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo acutangolo ABC con AB = 13, mediana da A = 10 e altezza da B = 12, determinare l'area usando triangoli rettangoli e simmetria rispetto al punto medio.",
+      "keywords": [
+        "mediana",
+        "altezza",
+        "pitagora",
+        "area triangolo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 12",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Polinomio di quarto grado a coefficienti interi con p(1)=1, p(-1)=-1, |p(-2)| primo e p(a) >= a^3 per ogni reale a: determinare il valore minimo di p(-2).",
+      "keywords": [
+        "polinomi",
+        "disuguaglianza",
+        "numeri primi",
+        "fattorizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 13",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "In quanti modi si possono inserire 10 palline numerate da 1 a 10 in 10 cassetti numerati da 1 a 10 in modo che ogni coppia (pallina, cassetto) abbia MCD = 1?",
+      "keywords": [
+        "coprimi",
+        "MCD",
+        "permutazioni con vincoli",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 14",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "In un triangolo isoscele ABC di base BC, la bisettrice da B incontra AC in D con AD + BD = BC: determinare l'ampiezza in gradi dell'angolo in A.",
+      "keywords": [
+        "triangolo isoscele",
+        "bisettrice",
+        "caccia agli angoli",
+        "costruzione ausiliaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 15",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "sistemi-equazioni",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Dimostrativo su griglia 2025x2025 di interi: stabilire quando somme di righe/colonne, somme di coppie adiacenti e somma totale determinano univocamente tutti i numeri.",
+      "keywords": [
+        "dimostrazione",
+        "griglia",
+        "invarianti",
+        "parita",
+        "sistemi lineari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Dimostrativo di geometria sintetica su triangolo acutangolo ABC, piedi delle altezze H e K e simmetrico E di K rispetto a BC: inscrivibilità, similitudine e perpendicolarità.",
+      "keywords": [
+        "dimostrazione",
+        "quadrilatero ciclico",
+        "similitudine",
+        "simmetria",
+        "ortocentro"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2025-feb-q17",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Olimpiadi della Matematica — Gara di Febbraio 2025",
+      "year": 2025,
+      "phase": "Fase Provinciale (Gara di Febbraio)",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2025/02/SolFeb25.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2025/febbraio-2025-testi-soluzioni.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Fase Provinciale (prevalentemente Triennio)",
+      "questionNumber": "Problema 17",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Dimostrativo su equazioni diofantee con minimo comune multiplo: assenza di soluzioni per mcm(a,b)=n(a+b) e infinite soluzioni per mcm(a,b,c)=n(a+b+c).",
+      "keywords": [
+        "dimostrazione",
+        "mcm",
+        "MCD",
+        "equazioni diofantee",
+        "costruzione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare gli interi da 1 a 1000 che sono contemporaneamente multipli di 5, 6 e 9 utilizzando il minimo comune multiplo.",
+      "keywords": [
+        "mcm",
+        "multipli",
+        "divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare quante cifre decimali ha il numero 100^200 + 738 scrivendo 100^200 come potenza di 10.",
+      "keywords": [
+        "potenze di 10",
+        "numero di cifre",
+        "esponenti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Principio dei cassetti (caso peggiore): numero minimo di bustine da pescare fra 4 colori (30, 25, 33, 21) per garantire 3 biglietti di 3 colori diversi.",
+      "keywords": [
+        "principio dei cassetti",
+        "caso peggiore",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Un recipiente pieno al 75% contiene 44 litri in più rispetto a quando è pieno al 20%: calcolare la capacità totale in litri.",
+      "keywords": [
+        "percentuali",
+        "proporzioni",
+        "capacita",
+        "litri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare la millesima cifra dopo la virgola dello sviluppo decimale periodico della frazione 3/7 mediante aritmetica modulare sul periodo.",
+      "keywords": [
+        "numeri periodici",
+        "frazione",
+        "resto",
+        "modulo 6"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i modi per scegliere 2 libri di generi differenti fra 3 di poesia, 5 fantasy e 6 horror.",
+      "keywords": [
+        "combinazioni",
+        "principio di moltiplicazione",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare l'angolo convesso formato dalle lancette di un orologio alle ore 12:30 tenendo conto dell'avanzamento della lancetta delle ore.",
+      "keywords": [
+        "orologio",
+        "angoli",
+        "velocita angolare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Piramide di somme a 4 piani con 4 numeri distinti scelti tra 1..5 alla base: trovare la differenza fra valore massimo e minimo al vertice usando i pesi binomiali 1,3,3,1.",
+      "keywords": [
+        "piramide numerica",
+        "triangolo di tartaglia",
+        "massimo e minimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo isoscele RST con angolo al vertice S = 24°, calcolare l'angolo convesso formato dall'altezza uscente da R e dalla bisettrice uscente da T.",
+      "keywords": [
+        "triangolo isoscele",
+        "altezza",
+        "bisettrice",
+        "angoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i PIN di 5 cifre (da 0 a 9) formati da esattamente 4 cifre uguali e 1 cifra diversa.",
+      "keywords": [
+        "PIN",
+        "conteggio",
+        "combinatoria",
+        "cifre"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "pitagora-similitudine"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo acutangolo ABC note due altezze (20 m e 24 m) e il lato BC = 30 m, determinare il perimetro usando la formula dell'area e il teorema di Pitagora.",
+      "keywords": [
+        "altezze",
+        "area",
+        "perimetro",
+        "pitagora"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Si lanciano 5 dadi a 12 facce e il prodotto dei risultati è un numero primo: determinare la somma massima possibile dei 5 numeri.",
+      "keywords": [
+        "numeri primi",
+        "fattorizzazione",
+        "dadi",
+        "massimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Gioco di braccio di ferro con aggiornamento (a, b) -> (a+b, b) a partire da (1, 1): individuare l'invariante MCD(a, b) = 1 (algoritmo di Euclide) per trovare il punteggio compatibile con 66.",
+      "keywords": [
+        "MCD",
+        "algoritmo di euclide",
+        "invariante",
+        "coprimi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Grafo della divisibilità su 50 isole numerate da 2 a 51 (ponte se un numero divide l'altro): contare le isole con un solo ponte (grado 1).",
+      "keywords": [
+        "divisibilita",
+        "numeri primi",
+        "grafo",
+        "grado"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un rettangolo ABCD i lati sono divisi in 2 o 3 parti uguali e un punto interno T definisce 4 triangoli: note tre aree (20, 15, 13 mm²), calcolare la quarta.",
+      "keywords": [
+        "rettangolo",
+        "scomposizione aree",
+        "triangoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-biennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Passeggiata aleatoria di 3 passi da 1 km sui lati di un parco triangolare decidendo la direzione con una moneta: calcolare la probabilità di tornare al vertice iniziale.",
+      "keywords": [
+        "passeggiata aleatoria",
+        "probabilita",
+        "triangolo",
+        "moneta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare l'angolo convesso formato dalle lancette di un orologio alle ore 1:20.",
+      "keywords": [
+        "orologio",
+        "angoli",
+        "proporzioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Principio dei cassetti: numero minimo di bustine da pescare fra 4 colori (22, 17, 13, 20) per essere certi di avere almeno 3 biglietti di un colore e 3 di un altro.",
+      "keywords": [
+        "principio dei cassetti",
+        "caso peggiore",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare quante cifre ha il numero 1000^300 + 759 espresso nel sistema decimale.",
+      "keywords": [
+        "potenze di 10",
+        "numero di cifre",
+        "esponenti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Nel triangolo isoscele DEF (DE = EF, angolo E = 32°), determinare l'angolo formato dall'altezza uscente da D e dalla bisettrice uscente da F.",
+      "keywords": [
+        "triangolo isoscele",
+        "altezza",
+        "bisettrice",
+        "angoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare la millesima cifra decimale della frazione periodica 8/13 mediante la lunghezza del periodo e il resto modulo 6.",
+      "keywords": [
+        "numeri periodici",
+        "frazione",
+        "aritmetica modulare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "equazioni-secondo-grado",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare la somma delle radici reali di (2x + 1)(4x^2 - 7x - 10)((x^3 - 2)^4 + 1) = 0 sfruttando la legge di annullamento del prodotto e la somma delle radici.",
+      "keywords": [
+        "equazione prodotto",
+        "secondo grado",
+        "somma radici",
+        "polinomi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Piramide di somme a 5 piani con 5 numeri distinti scelti tra 1..6 alla base: trovare la differenza fra vertice massimo e minimo tramite i pesi 1,4,6,4,1.",
+      "keywords": [
+        "piramide numerica",
+        "coefficienti binomiali",
+        "ottimizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare gli interi da 1 a 2024 che sono multipli sia di 21 sia di 28, ma non sono multipli di 15 (principio di inclusione-esclusione con mcm).",
+      "keywords": [
+        "mcm",
+        "divisibilita",
+        "inclusione esclusione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Trovare la somma di tutti gli interi n tali che |(n - 2)(n - 20)| sia un numero primo imponendo che uno dei fattori valga +1 o -1.",
+      "keywords": [
+        "numeri primi",
+        "valore assoluto",
+        "fattorizzazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i PIN di 4 cifre (da 0 a 9) in cui compaiono esattamente due cifre distinte.",
+      "keywords": [
+        "PIN",
+        "combinatoria",
+        "conteggio",
+        "inclusione esclusione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un rettangolo ABCD con lati divisi in 2 o 3 parti uguali e un punto interno O, note le aree di tre triangoli (14, 17, 11 mm²), calcolare l'area del quarto.",
+      "keywords": [
+        "rettangolo",
+        "aree",
+        "triangoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le componenti connesse ('distretti') del grafo di divisibilità sulle 50 isole numerate da 2 a 51 (numeri primi > 25 formano componenti isolate).",
+      "keywords": [
+        "grafi",
+        "componenti connesse",
+        "divisibilita",
+        "numeri primi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Una circonferenza passa per il vertice D di un rettangolo ABCD ed è tangente ai lati AB e BC in P e Q (AP = 3 m, CQ = 4 m): calcolare l'area del rettangolo tramite Pitagora.",
+      "keywords": [
+        "circonferenza tangente",
+        "rettangolo",
+        "pitagora",
+        "area"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Passeggiata aleatoria di 4 passi lungo i lati di un parco quadrato decidendo la direzione con una moneta: calcolare la probabilità di tornare al vertice iniziale.",
+      "keywords": [
+        "passeggiata aleatoria",
+        "probabilita",
+        "quadrato",
+        "moneta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Gioco di braccio di ferro con mossa (a,b) -> (a+b,b) a partire da (1,1): usare l'invariante MCD(a,b)=1 per identificare quale punteggio di Alberto è coprimo con 9000.",
+      "keywords": [
+        "MCD",
+        "invariante",
+        "coprimi",
+        "algoritmo di euclide"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2024-arch-triennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2024",
+      "year": 2024,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2024/11/Archimede2024.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/archimede-2024-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2024/soluzioni-2024-triennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "pitagora-similitudine",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un trapezio PQRS con RT parallelo a SP e note le aree di due triangoli interni (6 e 4 m²), calcolare l'area totale del trapezio usando triangoli simili.",
+      "keywords": [
+        "trapezio",
+        "similitudine",
+        "rapporto aree"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Si lanciano un dado a 6 facce e un dado a 20 facce: calcolare la probabilità che mostrino lo stesso numero.",
+      "keywords": [
+        "dadi",
+        "probabilita classica",
+        "eventi indipendenti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i numeri di 3 cifre multipli di 4 che si possono formare usando solo le cifre 1, 2, 5, 8 (criterio di divisibilità per 4 sulle ultime due cifre).",
+      "keywords": [
+        "divisibilita per 4",
+        "conteggio",
+        "cifre"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo ABC con D su BC tale che AC = CD e AD = DB, noto l'angolo C = 16°, determinare l'angolo B con le proprietà dei triangoli isosceli.",
+      "keywords": [
+        "triangoli isosceli",
+        "angolo esterno",
+        "angoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i modi per disporre in fila 3 quaderni verdi, 2 blu e 2 rossi (tutti distinguibili) tenendo vicini quelli dello stesso colore.",
+      "keywords": [
+        "permutazioni a blocchi",
+        "fattoriale",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Data una progressione aritmetica di 6 termini con a1+a2+a3 = 7 e a4+a5+a6 = 19, calcolare a4 - a1.",
+      "keywords": [
+        "progressione aritmetica",
+        "successioni",
+        "differenza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dati x = 2^(4^6) e y = 2^(6^5), verificare quali tra quattro affermazioni su quadrati perfetti, cubi perfetti e divisibilità sono vere.",
+      "keywords": [
+        "potenze di potenze",
+        "quadrato perfetto",
+        "cubo perfetto",
+        "divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Nel triangolo ABC (A = 58°, B = 54°) si tracciano tre bisettrici successive CD, DE, EF: determinare l'ampiezza dell'angolo AFE.",
+      "keywords": [
+        "bisettrici",
+        "somma angoli triangolo",
+        "geometria piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Colorare con 3 colori le tacche da 0 a 2023 di una striscia lunga 2023 cm in modo che i multipli di 3 siano blu e due tacche adiacenti abbiano colori diversi.",
+      "keywords": [
+        "colorazioni",
+        "conteggio",
+        "potenze di 2",
+        "multipli di 3"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dati quattro reali non nulli a < b < c < d con 1/c < 1/b < 1/a < 1/d, dedurne i segni (a,b,c < 0 < d) e individuare la combinazione lineare sicuramente positiva.",
+      "keywords": [
+        "disuguaglianze",
+        "reciproci",
+        "segni",
+        "numeri reali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Isola di cavalieri, furfanti e paggi (possono dire vero o falso): 11 abitanti in cerchio dichiarano di avere vicino un cavaliere e un furfante; trovare il numero minimo di paggi.",
+      "keywords": [
+        "cavalieri furfanti paggi",
+        "logica",
+        "cerchio",
+        "minimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le coppie ordinate di interi (x, y) con -20 <= x, y <= 20 che soddisfano x^2 y^3 = 7xy, includendo i casi con x = 0 o y = 0.",
+      "keywords": [
+        "equazione diofantea",
+        "fattorizzazione",
+        "casi zero"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "pitagora-similitudine",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Traiettoria di rimbalzo su un tavolo da biliardo 280 x 140 cm (legge di riflessione): determinare il punto d'impatto sulla sponda mediante simmetria assiale e triangoli simili.",
+      "keywords": [
+        "biliardo",
+        "riflessione",
+        "simmetria",
+        "triangoli simili"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare quanti triangoli isosceli si possono costruire scegliendo 3 vertici di un poligono regolare di 25 lati.",
+      "keywords": [
+        "poligono regolare",
+        "triangoli isosceli",
+        "conteggio geometrico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "geometria-analitica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Una diagonale viene tracciata su un rettangolo quadrettato 83 x 120 cm: calcolare il numero di quadratini attraversati con la formula m + n - MCD(m, n).",
+      "keywords": [
+        "griglia",
+        "diagonale",
+        "MCD",
+        "coprimi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "grafi-strutture-dati"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le passeggiate chiuse di 6 passi (N/S/E/O) sul reticolo senza mai invertire la marcia di 180°.",
+      "keywords": [
+        "cammini su reticolo",
+        "combinatoria",
+        "passeggiate chiuse"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-biennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-biennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-biennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Gara Biennio (1°–2° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo rettangolo di cateti 30 mm e 40 mm con punti assegnati sui lati, determinare l'area del triangolo interno A'B'C' per sottrazione di aree.",
+      "keywords": [
+        "triangolo rettangolo",
+        "scomposizione aree",
+        "mm2"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In una progressione aritmetica di 6 termini con a1+a2+a3 = 11 e a4+a5+a6 = 32, determinare la ragione d = a2 - a1.",
+      "keywords": [
+        "progressione aritmetica",
+        "ragione",
+        "successioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dati x = 3^(9^4) e y = 27^(9^3), stabilire quali affermazioni su quadrati perfetti, cubi perfetti e divisibilità sono vere riducendo alla base 3.",
+      "keywords": [
+        "potenze di 3",
+        "quadrato perfetto",
+        "cubo perfetto",
+        "divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "In un triangolo ABC con AC = CD, AD = DB e angolo B = 11 C, determinare l'ampiezza dell'angolo A.",
+      "keywords": [
+        "triangoli isosceli",
+        "angoli",
+        "equazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Determinare quante volte nell'arco di 24 ore le lancette di un orologio si trovano perpendicolari fra loro.",
+      "keywords": [
+        "orologio",
+        "velocita angolare",
+        "angoli retti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare i modi per disporre in fila 2 quaderni verdi, 3 blu, 2 gialli e 1 rosso tenendo adiacenti quelli dello stesso colore.",
+      "keywords": [
+        "permutazioni a blocchi",
+        "fattoriale",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dati quattro reali non nulli a < b < c < d tali che 1/b < 1/a < 1/d < 1/c, dedurne i segni (a < b < 0 < c < d) e individuare l'espressione sempre positiva.",
+      "keywords": [
+        "disuguaglianze",
+        "reciproci",
+        "segni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "301 abitanti (cavalieri, furfanti e paggi) in cerchio dichiarano di avere vicino un cavaliere e un furfante: determinare il numero minimo di paggi con l'aritmetica modulo 3.",
+      "keywords": [
+        "cavalieri furfanti paggi",
+        "logica",
+        "modulo 3"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "pitagora-similitudine",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Biliardo 280 x 140 cm con palla al centro che compie due rimbalzi prima di entrare in buca B: determinare il punto d'impatto su AB tramite riflessioni e similitudine.",
+      "keywords": [
+        "biliardo",
+        "riflessione",
+        "simmetria",
+        "triangoli simili"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare le quintuple ordinate di interi (a, b, c, d, e) tali che abcde + 15 = 0 combinando fattorizzazione di 15 e scelta dei segni con numero dispari di fattori negativi.",
+      "keywords": [
+        "fattorizzazione",
+        "segni",
+        "permutazioni",
+        "equazione diofantea"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Colorare con 4 colori le tacche da 0 a 2023 di una striscia in modo che i multipli di 4 siano blu e tacche adiacenti abbiano colori diversi.",
+      "keywords": [
+        "colorazioni",
+        "combinatoria",
+        "potenze",
+        "multipli di 4"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Sfida al lancio di moneta al meglio di chi arriva primo a 4 punti: calcolare la probabilità che la partita termini sul punteggio di 4 a 2.",
+      "keywords": [
+        "prove ripetute",
+        "binomiale",
+        "probabilita",
+        "moneta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Nel triangolo ABC (angoli 52°, 57°, 71°), la retta parallela a BC è tangente alla circonferenza circoscritta in T: calcolare l'angolo ACT usando angoli alla circonferenza.",
+      "keywords": [
+        "circonferenza circoscritta",
+        "tangente",
+        "angoli alla circonferenza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-combinatorio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Passeggiata aleatoria di 6 passi da 1 m nelle 4 direzioni cardinali N/S/E/O: calcolare la probabilità di tornare al punto di partenza.",
+      "keywords": [
+        "passeggiata aleatoria 2D",
+        "probabilita",
+        "multinomiale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Contare quanti triangoli non scaleni (isosceli o equilateri) si possono formare scegliendo 3 vertici di un poligono regolare di 21 lati evitando il doppio conteggio degli equilateri.",
+      "keywords": [
+        "poligono regolare",
+        "triangoli isosceli",
+        "triangoli equilateri",
+        "conteggio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "geometria-analitica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare quanti quadratini unitari attraversa la diagonale di un rettangolo 78 x 114 cm usando m + n - MCD(m, n).",
+      "keywords": [
+        "griglia",
+        "diagonale",
+        "MCD",
+        "teoria dei numeri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olimat-2023-arch-triennio-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2023",
+      "year": 2023,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2023/12/Archimede2023.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/archimede-2023-triennio.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2023/soluzioni-2023-triennio.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Gara Triennio (3°–5° anno)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Quadrato ABCD di lato 1 dm con 4 archi di circonferenza centrati nei vertici: calcolare l'area del quadrilatero curvilineo centrale EFGH tramite settori circolari e triangoli equilateri.",
+      "keywords": [
+        "settori circolari",
+        "triangolo equilatero",
+        "area curvilinea",
+        "pi greco"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     }

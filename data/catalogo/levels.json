@@ -35,6 +35,13 @@
       "shortLabel": "Unico (1°–5°)",
       "order": 5,
       "description": "Competizioni con fascia unica aperta a tutti gli anni delle superiori (es. Olifis 1° Livello, Selezioni Scolastiche OII, gare di Robotica)."
+    },
+    {
+      "id": "ingresso_universita",
+      "label": "Ingresso Università / Test d'Ammissione",
+      "shortLabel": "Test Univ.",
+      "order": 6,
+      "description": "Prove di accesso ai corsi universitari, Semestre Filtro (Medicina/Odontoiatria/Veterinaria), Professioni Sanitarie, TOLC/Politecnici, Architettura, IMAT e Scuole di Eccellenza."
     }
   ]
 }

@@ -2,8 +2,123 @@
   "schemaVersion": 1,
   "competitionId": "olimpiadi-fisica",
   "lastUpdated": "2026-11-20",
-  "notes": "Set pilota Step 1: primi 4 quesiti verificati dalla Gara di Primo Livello AIF del 19 dicembre 2025 (Campionati di Fisica 2026). Espansione completa delle ultime edizioni (1° e 2° livello) prevista nello Step 5.",
+  "notes": "Step 5 completato: 122 quesiti e problemi ufficiali AIF (Gara di 1° Livello Dicembre 2025 e Dicembre 2024 complete di tutti i 40 quesiti ciascuna + Gara di 2° Livello 2026, 2025 e 2024 complete di 10 quesiti e 4 problemi analitici ciascuna) con tutti i PDF ufficiali di testi e soluzioni ospitati localmente in assets/catalogo-pdf/olimpiadi-fisica/.",
   "items": [
+    {
+      "id": "olifis-2025-1liv-q01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Sasso lanciato verso il basso con v0 = 20 m/s che arriva a terra dopo 1,1 s: calcolare l'altezza di lancio (moto uniformemente accelerato).",
+      "keywords": [
+        "caduta libera",
+        "mrua",
+        "altezza",
+        "velocita iniziale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Carrellino che scende da fermo lungo un piano inclinato e prosegue su un piano orizzontale senza attrito: individuare il grafico velocità-tempo corretto.",
+      "keywords": [
+        "piano inclinato",
+        "grafico velocita tempo",
+        "accelerazione costante"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Quattro fili rettilinei paralleli ai vertici di un quadrato percorsi da correnti uguali entranti e uscenti: determinare la direzione della forza magnetica risultante su un filo.",
+      "keywords": [
+        "forza tra fili",
+        "correnti parallele",
+        "somma vettoriale",
+        "campo magnetico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
     {
       "id": "olifis-2025-1liv-q04",
       "competitionId": "olimpiadi-fisica",
@@ -18,16 +133,66 @@
       "questionsPage": 3,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
       "solutionsPage": 1,
-      "levels": ["unico", "triennio"],
+      "levels": [
+        "unico",
+        "triennio"
+      ],
       "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
       "questionNumber": "Quesito 4",
       "primaryTopic": "lavoro-energia-potenza",
-      "secondaryTopics": ["dinamica-forze"],
-      "visuals": ["figura"],
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "figura"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
-      "summary": "Un blocco di massa M appoggiato a una molla di costante k compressa di l viene rilasciato senza attrito: ricavare simbolicamente la velocità al distacco (conservazione dell'energia o analisi dimensionale).",
-      "keywords": ["molla", "energia elastica", "energia cinetica", "analisi dimensionale"],
+      "summary": "Blocco di massa M appoggiato a una molla di costante k compressa di l rilasciato senza attrito: ricavare simbolicamente la velocità al distacco (conservazione energia o analisi dimensionale).",
+      "keywords": [
+        "molla",
+        "energia elastica",
+        "energia cinetica",
+        "analisi dimensionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q05",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Cinghia isolante di una macchina elettrostatica di larghezza w, velocità v e densità superficiale di carica sigma: determinare l'intensità di corrente raccolta.",
+      "keywords": [
+        "corrente elettrica",
+        "densita superficiale carica",
+        "generatore van de graaff"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -45,16 +210,30 @@
       "questionsPage": 4,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
       "solutionsPage": 2,
-      "levels": ["unico", "biennio"],
-      "originalLevelLabel": "Livello Unico (adatto anche al Biennio)",
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
       "questionNumber": "Quesito 6",
       "primaryTopic": "notazione-scientifica-ordini-grandezza",
-      "secondaryTopics": ["equivalenze-unita-misura", "geometria-euclidea-piana"],
-      "visuals": ["figura"],
+      "secondaryTopics": [
+        "equivalenze-unita-misura",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
-      "summary": "Stimare l'ordine di grandezza dei giri compiuti da una ruota ferroviaria sulla tratta Milano–Bologna utilizzando la cartina in scala fornita (conversione km -> m e circonferenza).",
-      "keywords": ["equivalenze", "ordine di grandezza", "scala cartografica", "treno", "circonferenza", "stima di Fermi"],
+      "summary": "Stimare l'ordine di grandezza dei giri compiuti da una ruota ferroviaria sulla tratta Milano–Bologna utilizzando la cartina in scala fornita (stima di Fermi).",
+      "keywords": [
+        "equivalenze",
+        "ordine di grandezza",
+        "scala cartografica",
+        "treno",
+        "circonferenza"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -72,16 +251,143 @@
       "questionsPage": 4,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
       "solutionsPage": 2,
-      "levels": ["unico", "biennio"],
-      "originalLevelLabel": "Livello Unico (adatto anche al Biennio)",
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
       "questionNumber": "Quesito 7",
       "primaryTopic": "fluidi-pressione",
       "secondaryTopics": [],
-      "visuals": ["figura"],
+      "visuals": [
+        "figura"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
-      "summary": "Manometro a tubo a U per la misura della pressione del gas domestico: analizzare come varia il dislivello h al cambiare di pressione atmosferica, densità del liquido e diametro del tubo (legge di Stevino).",
-      "keywords": ["manometro", "tubo a U", "stevino", "pressione atmosferica", "gas domestico", "densita"],
+      "summary": "Manometro a tubo a U per la pressione del gas domestico: analizzare come varia il dislivello h al cambiare di pressione atmosferica, densità del liquido e diametro del tubo (Stevino).",
+      "keywords": [
+        "manometro",
+        "tubo a U",
+        "stevino",
+        "pressione atmosferica",
+        "gas domestico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q08",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Filo rettilineo percorso da corrente costante avvicinato a una spira rettangolare complanare: determinare il verso della corrente indotta tramite la legge di Faraday-Lenz.",
+      "keywords": [
+        "induzione elettromagnetica",
+        "legge di lenz",
+        "flusso magnetico",
+        "spira"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q09",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Bersaglio in moto armonico semplice colpito a istanti casuali: individuare le zone di massima probabilità dove la velocità del bersaglio è minima (estremi di oscillazione).",
+      "keywords": [
+        "moto armonico",
+        "velocita",
+        "probabilita",
+        "estremi oscillazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q10",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due sbarre metalliche in serie con conducibilità termiche diverse fra 0 °C e 100 °C in condizioni stazionarie: riconoscere che il flusso termico lungo x è costante.",
+      "keywords": [
+        "conduzione termica",
+        "regime stazionario",
+        "flusso di calore",
+        "fourier"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     },
@@ -99,16 +405,4289 @@
       "questionsPage": 5,
       "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
       "solutionsPage": 3,
-      "levels": ["unico", "biennio", "triennio"],
-      "originalLevelLabel": "Livello Unico (adatto a Biennio e Triennio)",
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
       "questionNumber": "Quesito 11",
       "primaryTopic": "cinematica",
-      "secondaryTopics": ["lettura-grafici-tabelle", "funzioni-lineari-proporzionalita"],
-      "visuals": ["grafico"],
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "grafico"
+      ],
       "responseFormat": "scelta_multipla",
       "language": "it",
-      "summary": "Dal grafico velocità-tempo della gara olimpica dei 100 m di Donovan Bailey (1996), stimare l'accelerazione dell'atleta a t = 2 s tramite la pendenza della curva.",
-      "keywords": ["grafico velocita tempo", "accelerazione", "pendenza", "tangente", "100 metri"],
+      "summary": "Dal grafico velocità-tempo della gara olimpica dei 100 m di Donovan Bailey (1996), stimare l'accelerazione dell'atleta a t = 2 s tramite la pendenza della tangente.",
+      "keywords": [
+        "grafico velocita tempo",
+        "accelerazione",
+        "pendenza",
+        "100 metri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q12",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due recipienti identici contengono gas perfetti diversi alla stessa temperatura e con lo stesso numero di moli ma massa molare doppia: determinare il rapporto fra le pressioni.",
+      "keywords": [
+        "gas perfetti",
+        "equazione di stato",
+        "pressione",
+        "massa molare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q13",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Interferenza acustica da due altoparlanti a distanza d: individuare quale variazione (frequenza, distanza, intensità) aumenta la separazione fra un massimo e un minimo contiguo.",
+      "keywords": [
+        "interferenza",
+        "onde sonore",
+        "lunghezza d'onda",
+        "frequenza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q14",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Bobina avvolta attorno a un tubo a raggi catodici con fascio di elettroni lungo l'asse del solenoide: stabilire l'effetto del campo magnetico parallelo alla velocità (forza di Lorentz nulla).",
+      "keywords": [
+        "forza di lorentz",
+        "solenoide",
+        "elettroni",
+        "campo magnetico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q15",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Legge di scala per l'energia cinetica rotazionale di una ruota geometricamente simile di dimensioni lineari doppie alla stessa velocità angolare (massa ~ L^3, raggio^2 ~ L^2 -> 32 K).",
+      "keywords": [
+        "energia cinetica rotazionale",
+        "momento di inerzia",
+        "leggi di scala"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q16",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dal grafico di scarica esponenziale V(t) di un condensatore da 10 µF, leggere la costante di tempo tau = RC e stimare il valore della resistenza.",
+      "keywords": [
+        "circuito RC",
+        "scarica condensatore",
+        "costante di tempo",
+        "esponenziale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q17",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 17",
+      "primaryTopic": "equivalenze-unita-misura",
+      "secondaryTopics": [
+        "quantita-moto-urti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Individuare l'unità di misura SI equivalente a kg·m·s^-1 (quantità di moto / impulso: N·s).",
+      "keywords": [
+        "analisi dimensionale",
+        "unita SI",
+        "impulso",
+        "quantita di moto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q18",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 18",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Effetto Doppler per onde marine incontrate da una barca di lunghezza L con m creste sotto lo scafo che si muove controcorrente a velocità v.",
+      "keywords": [
+        "onde",
+        "frequenza apparente",
+        "effetto doppler",
+        "lunghezza d'onda"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q19",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 19",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "termologia-termodinamica",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Riconoscere in quali grafici (d.d.p. vs carica, forza elastica vs allungamento, volume vs 1/pressione) l'area sottesa rappresenta un'energia.",
+      "keywords": [
+        "area sottesa",
+        "energia condensatore",
+        "energia elastica",
+        "analisi dimensionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q20",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 20",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Rifrazione di un raggio luminoso che attraversa una cavità triangolare d'aria scavata in un blocco di perspex (legge di Snell).",
+      "keywords": [
+        "rifrazione",
+        "legge di snell",
+        "prisma",
+        "ottica geometrica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q21",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 21",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Gas perfetto in un recipiente rigido chiuso la cui pressione triplica: determinare come varia la velocità quadratica media delle molecole (teoria cinetica dei gas).",
+      "keywords": [
+        "teoria cinetica gas",
+        "velocita quadratica media",
+        "temperatura",
+        "isocora"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q22",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 22",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Molla sottoposta a due profili diversi di forza F(t) con stesso picco massimo: confrontare la massima energia potenziale elastica immagazzinata.",
+      "keywords": [
+        "molla",
+        "energia potenziale elastica",
+        "grafico forza tempo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q23",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 23",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Carica di prova spostata fra due punti lungo tre percorsi diversi fra superfici equipotenziali: applicare la conservatività del campo elettrostatico.",
+      "keywords": [
+        "campo conservativo",
+        "superfici equipotenziali",
+        "lavoro elettrico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q24",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 24",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare il lavoro compiuto tirando un blocco per 3,0 m lungo un piano orizzontale note le componenti orizzontale e verticale della forza.",
+      "keywords": [
+        "lavoro meccanico",
+        "componenti forza",
+        "prodotto scalare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q25",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 25",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Canna d'organo aperta a entrambi gli estremi con frequenza fondamentale 300 Hz: determinare la frequenza della seconda armonica.",
+      "keywords": [
+        "onde stazionarie",
+        "canna d'organo",
+        "armoniche",
+        "acustica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q26",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 26",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare la velocità media (in km/min) di un corridore su 4 km noti i tempi parziali di ciascun chilometro.",
+      "keywords": [
+        "velocita media",
+        "cinematica",
+        "tempi parziali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q27",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 27",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Curva di raffreddamento del naftalene durante la solidificazione (pianerottolo a temperatura costante): analizzare scambio di calore ed energia interna.",
+      "keywords": [
+        "passaggi di stato",
+        "calore latente",
+        "energia interna",
+        "solidificazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q28",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 28",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Stufa elettrica con due resistenze da 60 ohm collegate in parallelo a 240 V efficaci: calcolare la potenza elettrica totale assorbita (contesto elettrodomestici).",
+      "keywords": [
+        "potenza elettrica",
+        "resistori in parallelo",
+        "effetto joule",
+        "stufa"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q29",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 29",
+      "primaryTopic": "gravitazione-astronomia-fisica",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due pianeti di uguale densità media uno con raggio metà dell'altro: ricavare il rapporto fra le accelerazioni di gravità superficiali (g proporzionale a R).",
+      "keywords": [
+        "gravitazione universale",
+        "densita",
+        "campo gravitazionale",
+        "pianeti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q30",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 30",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Macchina termica proposta tra 400 K e 300 K con Q_ass = 100 J, Q_ced = 25 J e L = 75 J: verificare il rendimento rispetto al limite di Carnot (secondo principio).",
+      "keywords": [
+        "macchine termiche",
+        "carnot",
+        "secondo principio",
+        "rendimento"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q31",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 31",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Moto parabolico di una pallina da tennis lanciata dal suolo con angolo 25°: analizzare come varia il tempo di volo al variare di v0 e theta.",
+      "keywords": [
+        "moto parabolico",
+        "tempo di volo",
+        "trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q32",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 32",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "statica-equilibrio",
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Blocco fermo su un piano inclinato: identificare il diagramma di corpo libero corretto con peso, reazione normale e attrito statico.",
+      "keywords": [
+        "diagramma corpo libero",
+        "piano inclinato",
+        "attrito statico",
+        "forze"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q33",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 33",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Tre resistori in parallelo attraversati dalla stessa corrente I: individuare l'affermazione falsa su d.d.p., resistenze, potenze e rimozione di un ramo.",
+      "keywords": [
+        "circuiti in parallelo",
+        "legge di ohm",
+        "resistenza equivalente"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q34",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 34",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "lavoro-energia-potenza",
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Pendolo rilasciato da posizione orizzontale: calcolare la tensione del filo nel punto più basso (conservazione energia + accelerazione centripeta -> 3mg).",
+      "keywords": [
+        "pendolo",
+        "tensione filo",
+        "forza centripeta",
+        "conservazione energia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q35",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 35",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "analisi-limiti-derivate-integrali",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dal grafico della forza intermolecolare F(r) con F = -dU/dr, individuare il comportamento dell'energia potenziale nel punto R in cui F(R) = 0.",
+      "keywords": [
+        "energia potenziale",
+        "forza intermolecolare",
+        "equilibrio stabile",
+        "derivata"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q36",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 36",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Rifrazione di un'onda sismica piana al passaggio fra due strati rocciosi con velocità maggiore nel secondo mezzo: individuare i fronti d'onda rifratti.",
+      "keywords": [
+        "onde sismiche",
+        "rifrazione",
+        "fronti d'onda",
+        "snell"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q37",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 37",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Candela posta a 0,24 m da uno specchio sferico convergente di focale 0,12 m (al centro di curvatura): calcolare la posizione dell'immagine con l'equazione dei punti coniugati.",
+      "keywords": [
+        "specchio concavo",
+        "punti coniugati",
+        "distanza focale",
+        "ottica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q38",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 38",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Urto bidimensionale tra due sfere di massa uguale una inizialmente ferma: scrivere la conservazione della quantità di moto lungo le due direzioni.",
+      "keywords": [
+        "urto 2D",
+        "quantita di moto",
+        "componenti vettoriali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q39",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 39",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "esponenziali-logaritmi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Decadimento radioattivo del Francio-224 (emivita 20 min, attività iniziale 800 Bq): calcolare l'attività residua dopo un'ora (3 emivite -> 100 Bq).",
+      "keywords": [
+        "radioattivita",
+        "emivita",
+        "decadimento esponenziale",
+        "becquerel"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-1liv-q40",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (Gara 19/12/2025)",
+      "year": 2025,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26t.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/1liv26s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 40",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Transizioni fra tre livelli energetici atomici con lunghezze d'onda ordinate lambda1 < lambda2 < lambda3: ricavare la relazione fra i reciproci (principio di combinazione di Ritz).",
+      "keywords": [
+        "livelli energetici",
+        "fotoni",
+        "spettri atomici",
+        "planck"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "vettori-trasformazioni",
+      "secondaryTopics": [
+        "cinematica",
+        "pitagora-similitudine"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Bambino che cammina 5 m nord, 4 m est e 2 m sud-est: calcolare il modulo dello spostamento netto sommando le componenti cartesiane.",
+      "keywords": [
+        "vettori",
+        "spostamento",
+        "componenti",
+        "pitagora"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Compressione adiabatica reversibile seguita da espansione isoterma reversibile nel piano p-V: tradurre le trasformazioni nel piano temperatura-entropia (T-S).",
+      "keywords": [
+        "diagramma T-S",
+        "entropia",
+        "adiabatica",
+        "isoterma"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Studente fra due specchi piani paralleli distanti 3 m (a 2 m dallo specchio sinistro): trovare la distanza della seconda immagine che mostra il suo volto.",
+      "keywords": [
+        "specchi piani",
+        "riflessioni multiple",
+        "ottica geometrica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Esperimento di Millikan: da quattro misure di carica su gocce d'olio dedurre il massimo valore compatibile per la carica elementare (massimo comun divisore).",
+      "keywords": [
+        "millikan",
+        "quantizzazione carica",
+        "elettrone",
+        "MCD"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q05",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "gravitazione-astronomia-fisica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Forza gravitazionale esercitata dalla Luna sulla Terra rispetto a quella della Terra sulla Luna: applicazione diretta del terzo principio di Newton (azione e reazione).",
+      "keywords": [
+        "terzo principio newton",
+        "gravitazione",
+        "azione e reazione",
+        "terra luna"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q06",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Blocco di 4 kg tirato con forza 50 N su un piano orizzontale con accelerazione 10 m/s²: calcolare il coefficiente d'attrito dinamico.",
+      "keywords": [
+        "secondo principio newton",
+        "attrito dinamico",
+        "forze"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q07",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Circuito misto con generatore da 12 V e quattro resistori (6, 12, 36, 18 ohm): calcolare la corrente misurata dall'amperometro ideale.",
+      "keywords": [
+        "circuito misto",
+        "resistori",
+        "legge di ohm",
+        "amperometro"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q08",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Fotorivelatore spostato da 1 m a 2 m da un LED rosso puntiforme: stabilire come cambiano lunghezza d'onda (invariata) e illuminamento (legge dell'inverso del quadrato).",
+      "keywords": [
+        "legge inverso quadrato",
+        "illuminamento",
+        "led",
+        "propagazione luce"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q09",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Spiegare fisicamente perché nei supermercati si usano specchi convessi (campo visivo più ampio, immagini virtuali diritte e rimpicciolite).",
+      "keywords": [
+        "specchio convesso",
+        "campo visivo",
+        "ottica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q10",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due sorgenti coerenti in fase emettono onde di lunghezza d'onda lambda: individuare la differenza di cammino che produce interferenza distruttiva (lambda/2).",
+      "keywords": [
+        "interferenza distruttiva",
+        "differenza di cammino",
+        "onde"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q11",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "notazione-scientifica-ordini-grandezza",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Stima di Fermi: stimare la massa di una colonna di monete da 1 euro alta quanto la torre di Pisa (~56 m, spessore ~2,3 mm, massa ~7,5 g).",
+      "keywords": [
+        "stima di fermi",
+        "ordini di grandezza",
+        "monete",
+        "torre di pisa"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q12",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Esperimento di Torricelli (barometro a mercurio, 76 cm): stabilire quale variazione modifica il dislivello della colonna (ridurre la pressione sotto una campana a vuoto).",
+      "keywords": [
+        "torricelli",
+        "barometro",
+        "pressione atmosferica",
+        "mercurio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q13",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Pezzo di plastilina lasciato cadere su un disco rotante senza attrito: analizzare conservazione del momento angolare, diminuzione di velocità angolare e perdita di energia cinetica.",
+      "keywords": [
+        "momento angolare",
+        "urto anelastico rotazionale",
+        "energia cinetica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q14",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Molla verticale che si allunga di altri 7,5 cm passando da una massa di 2 kg a una di 7 kg: determinare la costante elastica k (legge di Hooke).",
+      "keywords": [
+        "legge di hooke",
+        "costante elastica",
+        "molla",
+        "equivalenze cm m"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q15",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Ciclo termodinamico reversibile con isoterma, isocora e adiabatica nel piano p-V: valutare lavoro compiuto e confronto fra le temperature nei vertici.",
+      "keywords": [
+        "ciclo termodinamico",
+        "isocora",
+        "isoterma",
+        "adiabatica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q16",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Due sfere conduttrici identiche con cariche +2 µC e +1 µC messe brevemente in contatto: determinare quale sfera acquisisce un flusso netto di elettroni.",
+      "keywords": [
+        "elettrostatica",
+        "condivisione carica",
+        "elettroni",
+        "conduttori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q17",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 17",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "goniometria-trigonometria",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Spira rettangolare rotante a velocità angolare costante in campo magnetico uniforme (alternatore): individuare il grafico sinusoidale della f.e.m. indotta.",
+      "keywords": [
+        "alternatore",
+        "faraday",
+        "fem indotta",
+        "corrente alternata"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q18",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 18",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Espansione isobara di un gas perfetto: individuare nella tabella i segni/variazioni di lavoro, energia interna, temperatura ed entropia.",
+      "keywords": [
+        "espansione isobara",
+        "primo principio",
+        "entropia",
+        "gas perfetti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q19",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 19",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Moto parabolico note le componenti iniziali della velocità in figura: calcolare le componenti vx e vy dopo 0,5 s dal lancio.",
+      "keywords": [
+        "moto parabolico",
+        "componenti velocita",
+        "gravita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q20",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 20",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "cinematica",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Pendolo semplice lasciato da fermo a t = 0: riconoscere il grafico dell'energia cinetica K(t) durante un intero periodo (frequenza doppia, sempre >= 0).",
+      "keywords": [
+        "pendolo",
+        "energia cinetica",
+        "oscillazioni",
+        "grafico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q21",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 21",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Grafico lineare lavoro-tempo di una persona che sale le scale di corsa: identificare la grandezza fisica rappresentata dalla pendenza (potenza).",
+      "keywords": [
+        "potenza meccanica",
+        "pendenza",
+        "lavoro",
+        "grafico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q22",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 22",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Raffreddamento di un corpo in un ambiente a temperatura T0 (legge di Newton): selezionare i grafici corretti di T(t) e log/velocità di raffreddamento.",
+      "keywords": [
+        "raffreddamento",
+        "asintoto",
+        "temperatura",
+        "grafici"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q23",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 23",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "struttura-atomica-periodica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Catena di decadimento dal Polonio-214 al Polonio-210: bilanciare numero di massa A e numero atomico Z (un decadimento alfa seguito da due beta-).",
+      "keywords": [
+        "decadimento radioattivo",
+        "particelle alfa",
+        "decadimento beta",
+        "nuclei"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q24",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 24",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Filo di rame di lunghezza doppia (2L) e sezione dimezzata (A/2) alla stessa temperatura: calcolare la resistenza tramite la seconda legge di Ohm (4R).",
+      "keywords": [
+        "seconda legge di ohm",
+        "resistivita",
+        "proporzionalita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q25",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 25",
+      "primaryTopic": "equivalenze-unita-misura",
+      "secondaryTopics": [
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Esprimere l'unità di misura della capacità di un condensatore (farad) come rapporto tra coulomb e volt (C V^-1).",
+      "keywords": [
+        "capacita elettrica",
+        "farad",
+        "unita di misura"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q26",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 26",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare la potenza minima sviluppata da un argano per sollevare 400 kg di 10 m in 8 s a velocità costante.",
+      "keywords": [
+        "potenza",
+        "lavoro",
+        "energia potenziale",
+        "argano"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q27",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 27",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "equivalenze-unita-misura",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Analisi dimensionale dell'area sottesa a tre grafici (F vs v, V vs I, p vs V): individuare quale area ha dimensioni di lavoro (p·V).",
+      "keywords": [
+        "analisi dimensionale",
+        "lavoro termodinamico",
+        "area sottesa"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q28",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 28",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "gravitazione-astronomia-fisica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Astronauta su una bilancia dentro un razzo che accelera verso l'alto dalla Terra: confutare l'errata affermazione che il peso apparente si annulli.",
+      "keywords": [
+        "peso apparente",
+        "sistemi non inerziali",
+        "razzo",
+        "bilancia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q29",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 29",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "esponenziali-logaritmi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Scarica esponenziale di un condensatore da 120 V a 60 V in 10^-4 s: calcolare la d.d.p. dopo ulteriori 2·10^-4 s (altri due dimezzamenti -> 15 V).",
+      "keywords": [
+        "condensatore",
+        "dimezzamento",
+        "decadimento esponenziale",
+        "circuito RC"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q30",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 30",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Dall'equazione d'onda trasversale y(x,t) = A sen(kx + omega t) con k = 5pi rad/m e omega = 4pi rad/s, determinare modulo e verso della velocità di propagazione.",
+      "keywords": [
+        "equazione d'onda",
+        "velocita di fase",
+        "numero d'onda",
+        "pulsazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q31",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 31",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "vettori-trasformazioni",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Barca a motore (3 m/s rispetto all'acqua) in un fiume con corrente 1,5 m/s: calcolare l'angolo di rotta rispetto alla corrente per attraversare perpendicolarmente alle sponde.",
+      "keywords": [
+        "moti relativi",
+        "composizione velocita",
+        "vettori",
+        "fiume"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q32",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 32",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "pitagora-similitudine"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Nelle stesse condizioni del quesito 31 (fiume largo 30 m), calcolare il tempo di attraversamento perpendicolare fra le due sponde.",
+      "keywords": [
+        "moti relativi",
+        "fiume",
+        "velocita trasversale",
+        "tempo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q33",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 33",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Tabella sperimentale di distanze oggetto e immagine per una lente convergente: stimare la distanza focale e dedurre il dato mancante.",
+      "keywords": [
+        "lente convergente",
+        "punti coniugati",
+        "tabella sperimentale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q34",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 34",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito",
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Circuito con generatore ideale, resistore variabile, voltmetro in parallelo e amperometro in serie: prevedere come variano le letture aumentando R da 1 kOhm a 10 kOhm.",
+      "keywords": [
+        "voltmetro",
+        "amperometro",
+        "legge di ohm",
+        "circuito"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q35",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 35",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Elettrone in moto perpendicolare a un campo magnetico di 2,0 T alla velocità di 2,0·10^6 m/s: calcolare il modulo della forza di Lorentz F = evB.",
+      "keywords": [
+        "forza di lorentz",
+        "elettrone",
+        "campo magnetico",
+        "notazione scientifica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q36",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "unico",
+        "biennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 36",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Da una tabella velocità-tempo in tre istanti di un'auto ad accelerazione costante, calcolare il modulo dell'accelerazione.",
+      "keywords": [
+        "accelerazione",
+        "tabella dati",
+        "mrua"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q37",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 37",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Urto completamente anelastico tra un blocco di argilla (1 kg a 6 m/s) e un blocco fermo di 3 kg senza attrito: calcolare la velocità comune dopo l'urto.",
+      "keywords": [
+        "urto anelastico",
+        "conservazione quantita di moto",
+        "meccanica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q38",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 38",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Automobile in moto circolare uniforme su una pista di raggio R: individuare la direzione dell'accelerazione centripeta in un punto assegnato.",
+      "keywords": [
+        "moto circolare uniforme",
+        "accelerazione centripeta",
+        "vettori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q39",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 39",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Effetto fotoelettrico (equazione di Einstein K_max = h(f - f0)): individuare la grandezza direttamente proporzionale all'energia cinetica massima dei fotoelettroni.",
+      "keywords": [
+        "effetto fotoelettrico",
+        "einstein",
+        "frequenza di soglia",
+        "fotoni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-1liv-q40",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (Gara 19/12/2024)",
+      "year": 2024,
+      "phase": "Gara di Primo Livello (Fase d'Istituto)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/1liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/1liv25s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "unico",
+        "triennio"
+      ],
+      "originalLevelLabel": "Livello Unico (Scuola Secondaria II grado)",
+      "questionNumber": "Quesito 40",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Confrontare cinque scenari di un carrello da 1 kg (variazioni di velocità e impulsi F·Delta t) per individuare la maggiore variazione della quantità di moto.",
+      "keywords": [
+        "teorema dell'impulso",
+        "quantita di moto",
+        "forza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Luce verde di frequenza 5·10^14 Hz in un mezzo con indice di rifrazione n = 1,5: determinare la lunghezza d'onda nel mezzo trasparente.",
+      "keywords": [
+        "rifrazione",
+        "lunghezza d'onda",
+        "velocita luce",
+        "indice di rifrazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Condensatore piano (47 pF, distanza armature 0,5 mm) inserito in una scatola conduttrice a 0,25 mm dalle armature: determinare la nuova capacità equivalente.",
+      "keywords": [
+        "condensatori",
+        "induzione elettrostatica",
+        "capacita equivalente"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Molla con energia potenziale elastica di 12 J a lunghezza 24,0 cm e 18 J quando compressa di 5,0 cm: determinare la minore lunghezza a riposo compatibile.",
+      "keywords": [
+        "energia elastica",
+        "molla",
+        "equazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "fisica-moderna",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Laser He-Ne da 1 mW a lunghezza d'onda 632,8 nm: calcolare il numero di fotoni emessi in 2,5 s.",
+      "keywords": [
+        "fotoni",
+        "laser",
+        "costante di planck",
+        "potenza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q05",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Una mole di gas perfetto compie un ciclo nel piano T-p: calcolare il lavoro netto del ciclo noti p0 = 2 atm e T0 = 400 K.",
+      "keywords": [
+        "ciclo termodinamico",
+        "piano T-p",
+        "lavoro",
+        "gas perfetti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q06",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Nuotatore lungo il perimetro di un quadrato (40 m) in un fiume con corrente 0,4 m/s: calcolare il tempo minimo combinando tratti a favore, controcorrente e trasversali.",
+      "keywords": [
+        "moti relativi",
+        "fiume",
+        "composizione velocita",
+        "tempo minimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q07",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "statica-equilibrio",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Sistema di due leve orizzontali collegate da una catenella con masse m e 3m: determinare la posizione di equilibrio x imponendo l'equilibrio dei momenti.",
+      "keywords": [
+        "leve",
+        "momenti torcenti",
+        "equilibrio statico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q08",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "analisi-limiti-derivate-integrali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Macchina di Atwood con massa nota m = 240 g e massa variabile M > m: ricavare il limite superiore della tensione (2mg) come carico minimo di rottura della fune.",
+      "keywords": [
+        "macchina di atwood",
+        "tensione fune",
+        "limite",
+        "dinamica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q09",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "lavoro-energia-potenza",
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Esperimento tipo Joule: 10 L di acqua in un recipiente adiabatico agitati da un'elica da 100 W per 10 minuti; determinare la variazione di energia interna.",
+      "keywords": [
+        "primo principio",
+        "mulinello di joule",
+        "potenza",
+        "energia interna"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-q10",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Tre resistori R, 2R e 3R collegati con (2R + 3R) in parallelo a R: determinare il rapporto tra le potenze dissipate nel resistore R e in quello da 3R.",
+      "keywords": [
+        "resistori serie parallelo",
+        "potenza dissipata",
+        "circuiti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-p01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 1 — Tiro al bersaglio",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Pendolo lanciato con velocità orizzontale v0 il cui filo viene bruciato a un angolo alfa per colpire in moto parabolico un bersaglio sulla verticale di O: tensione minima e confronto energetico.",
+      "keywords": [
+        "pendolo",
+        "distacco",
+        "moto parabolico",
+        "conservazione energia"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-p02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 2 — Cinque lampadine",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Analisi qualitativa e quantitativa di un circuito a 5 lampadine con soglie di funzionamento e rottura (6 V / 8,5 V): effetto della rimozione o cortocircuito di una o due lampadine.",
+      "keywords": [
+        "lampadine",
+        "circuiti elettrici",
+        "cortocircuito",
+        "tensione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-p03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 3 — Due fratelli allo specchio",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Specchio sferico semitrasparente (R = 10 m) fra due fratelli distanti 6 m: immagine dritta che coincide in posizione e altezza con la sorellina dietro lo specchio.",
+      "keywords": [
+        "specchio sferico",
+        "ingrandimento",
+        "punti coniugati",
+        "ottica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2026-2liv-p04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2026 (2° Livello — 24/02/2026)",
+      "year": 2026,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv26.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2026/2liv26s.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 4 — Disco di Vinile",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "cinematica",
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Analisi fisica di un disco LP in vinile (33,3 giri/min, 30 min): stima da foto della spaziatura dei solchi, lunghezza totale del solco, lunghezza d'onda del La4 (440 Hz) e accelerazione massima della puntina.",
+      "keywords": [
+        "vinile",
+        "moto circolare",
+        "frequenza",
+        "moto armonico",
+        "stima da foto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "gravitazione-astronomia-fisica",
+      "secondaryTopics": [
+        "potenze-radici",
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Terza legge di Keplero: noto il tempo impiegato dalla luce per coprire 1 UA (8,32 min) e il periodo orbitale di Giove (11,9 anni), calcolare il tempo luce Sole–Giove.",
+      "keywords": [
+        "terza legge di keplero",
+        "giove",
+        "unita astronomica",
+        "velocita luce"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Bolla di gas che risale dal fondo di uno stagno profondo 1,8 m con gradiente termico lineare: calcolare il volume in superficie combinando Stevino e legge dei gas perfetti.",
+      "keywords": [
+        "stevino",
+        "gas perfetti",
+        "bolla",
+        "gradiente termico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Due solenoidi coassiali di raggio a e 2a in parallelo con correnti discordi: calcolare il campo magnetico centrale tenendo conto della diversa resistenza del filo.",
+      "keywords": [
+        "solenoide",
+        "campo magnetico",
+        "resistori in parallelo",
+        "sovrapposizione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Sistema ottico di due lenti sottili convergenti (f1 = 20 cm, f2 = 10 cm, distanza 30 cm): determinare la posizione dell'immagine finale (oggetto virtuale per la seconda lente).",
+      "keywords": [
+        "sistema di lenti",
+        "ottica geometrica",
+        "oggetto virtuale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q05",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Auto della polizia a 90 km/h con sirena bitonale: calcolare la distanza minima fra due ricevitori affinché il suono a 466 Hz arrivi in fase (effetto Doppler + lunghezza d'onda).",
+      "keywords": [
+        "effetto doppler",
+        "sirena",
+        "lunghezza d'onda",
+        "fase"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q06",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Pallina in moto circolare su piano orizzontale legata a un filo che viene tirato attraverso un foro fino a dimezzare il raggio: applicare conservazione del momento angolare.",
+      "keywords": [
+        "momento angolare",
+        "velocita angolare",
+        "moto circolare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q07",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "funzioni-quadratiche-coniche"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Espansione quasistatica lineare p(V) di 0,5 mol di gas perfetto: calcolare la temperatura massima raggiunta (vertice della parabola T(V) = p(V)V/nR).",
+      "keywords": [
+        "trasformazione lineare p-V",
+        "temperatura massima",
+        "parabola",
+        "gas perfetti"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q08",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "statica-equilibrio",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Foglio rigido appoggiato a una parete liscia con angolo limite 70° sul pavimento: determinare il coefficiente di attrito statico imponendo l'equilibrio di forze e momenti.",
+      "keywords": [
+        "scala appoggiata",
+        "attrito statico",
+        "momenti",
+        "equilibrio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q09",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Disco rotante a p giri/s con n strisce metalliche ciascuna di carica q sul bordo: determinare l'intensità di corrente elettrica equivalente I = nqp.",
+      "keywords": [
+        "corrente elettrica",
+        "carica in rotazione",
+        "frequenza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-q10",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Canale largo 8,5 m con portata 24 m³/s sotto pioggia costante da 9,1 mm/h: calcolare la portata 3,2 km più a valle con accurate conversioni di unità.",
+      "keywords": [
+        "portata",
+        "equivalenze",
+        "pioggia",
+        "idrologia",
+        "fluidi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-p01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 1 — Rimbalzi di due palline",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "cinematica",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Due palline in caduta libera urtano elasticamente gli estremi di una sbarretta rotante: analisi cinematica, urti elastici nel riferimento mobile e grafico posizione relativa-tempo.",
+      "keywords": [
+        "urti elastici",
+        "caduta libera",
+        "moto relativo",
+        "grafico"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-p02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 2 — Circuito capacitivo",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Rete di quattro condensatori con interruttori A e B: calcolo di capacità equivalente, cariche, tensioni, carica erogata dal generatore e variazione energetica al cortocircuito di C2.",
+      "keywords": [
+        "condensatori serie parallelo",
+        "energia elettrostatica",
+        "cortocircuito"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-p03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 3 — Un cono di vetro illuminato",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Fascio parallelo verticale incidente sulla base di un cono di vetro (n = 1,5, sezione equilatera): tracciamento dei raggi rifratti, uniformità dell'irradianza e confronto fra zone sovrapposte.",
+      "keywords": [
+        "rifrazione",
+        "cono di vetro",
+        "irradianza",
+        "snell"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2025-2liv-p04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2025 (2° Livello — 13/02/2025)",
+      "year": 2025,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv25.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25t.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2025/2liv25s.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 4 — Segnali dal cielo",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Paracadutista in discesa a velocità costante che misura l'eco dal suolo di due impulsi acustici distanziati di 1 s: ricavare velocità di discesa, terzo eco e quota iniziale.",
+      "keywords": [
+        "ecolocalizzazione",
+        "velocita suono",
+        "cinematica",
+        "paracadutista"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Pendolo lungo 85 cm rilasciato da fermo a 45° dalla verticale: calcolare la velocità nel punto più basso tramite conservazione dell'energia meccanica.",
+      "keywords": [
+        "pendolo",
+        "conservazione energia",
+        "trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Carica q al centro di un guscio sferico conduttore scarico di raggio interno r e spessore alfa*r: determinare il rapporto tra le densità superficiali di carica indotta.",
+      "keywords": [
+        "induzione elettrostatica",
+        "teorema di gauss",
+        "guscio conduttore"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Reticolo di diffrazione illuminato da luce rossa (680 nm) e verde (510 nm): trovare la prima posizione fuori asse di sovrapposizione (riga gialla) tramite mcm degli ordini.",
+      "keywords": [
+        "reticolo di diffrazione",
+        "interferenza",
+        "mcm",
+        "ottica ondulatoria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Riscaldamento dell'aria in una stanza da 15 °C a 19 °C a pressione costante: calcolare la percentuale di ossigeno fuoriuscita dallo spiraglio (legge dei gas perfetti in Kelvin).",
+      "keywords": [
+        "gas perfetti",
+        "kelvin",
+        "percentuale",
+        "termodinamica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q05",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Macchina di Atwood con filo che striscia in una fenditura con forza d'attrito costante A: determinare simbolicamente l'accelerazione della massa m2.",
+      "keywords": [
+        "macchina di atwood",
+        "attrito",
+        "secondo principio newton"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q06",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Tre resistori R, 2R e 3R con la serie (2R+3R) in parallelo a R: calcolare il rapporto fra le potenze dissipate in R1 e R3.",
+      "keywords": [
+        "circuiti elettrici",
+        "potenza dissipata",
+        "resistori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q07",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Sonar a 1,18 kHz verso un fondale a 324 m con tempo di andata e ritorno 0,425 s: calcolare velocità e lunghezza d'onda del suono in acqua.",
+      "keywords": [
+        "sonar",
+        "velocita suono acqua",
+        "lunghezza d'onda",
+        "eco"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q08",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Macchina termica a 4 cicli/s con 0,1 mol di gas biatomico che cede calore a 13 L d'acqua da 20 °C a 100 °C: calcolare il tempo necessario all'ebollizione.",
+      "keywords": [
+        "ciclo termodinamico",
+        "calorimetria",
+        "ebollizione",
+        "potenza termica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q09",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "quantita-moto-urti",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Ragazza ferma su skateboard che lancia uno zainetto in avanti con angolo 18°: calcolare la distanza finale fra zainetto e skateboard combinando rinculo e moto parabolico.",
+      "keywords": [
+        "rinculo",
+        "quantita di moto",
+        "moto parabolico",
+        "skateboard"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-q10",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Foro laterale a 2,1 m da terra in un serbatoio cilindrico con zampillo che raggiunge 3,5 m di gittata: ricavare l'altezza totale dell'acqua (teorema di Torricelli + moto parabolico).",
+      "keywords": [
+        "torricelli",
+        "bernoulli",
+        "moto parabolico",
+        "serbatoio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-p01",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 1 — Auto elettriche e frenate rigenerative",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "equivalenze-unita-misura",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Compito di realtà su batterie (Ah -> kWh), auto elettrica (13,2 kWh/100 km) e frenata rigenerativa all'85% in città, in emergenza con ABS/limite 208 kW e in discesa montana.",
+      "keywords": [
+        "auto elettrica",
+        "kWh",
+        "frenata rigenerativa",
+        "potenza",
+        "compito di realta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-p02",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 2 — Radiazione infrarossa",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [
+        "fisica-moderna",
+        "notazione-scientifica-ordini-grandezza"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Corpo nero a 37 °C (schiena umana di 2000 cm²): legge di Wien per il picco infrarosso, legge di Stefan-Boltzmann per la potenza irradiata e irradianza a 5 cm vs 20 m.",
+      "keywords": [
+        "corpo nero",
+        "wien",
+        "stefan-boltzmann",
+        "infrarosso",
+        "irradianza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-p03",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 3 — Particella carica verso un filo",
+      "primaryTopic": "magnetismo-elettromagnetismo",
+      "secondaryTopics": [
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Particella carica deflessa dal campo magnetico di un filo percorso da corrente: segno della carica, invarianza della velocità, corrente tramite Biot-Savart e raggio del filo dalla dissipazione Joule.",
+      "keywords": [
+        "forza di lorentz",
+        "biot-savart",
+        "effetto joule",
+        "traiettoria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "olifis-2024-2liv-p04",
+      "competitionId": "olimpiadi-fisica",
+      "edition": "Campionati di Fisica 2024 (2° Livello — 19/02/2024)",
+      "year": 2024,
+      "phase": "Gara di Secondo Livello (Fase Locale)",
+      "sourceType": "official_exam",
+      "sourceSite": "olifis.it (AIF)",
+      "originalQuestionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "originalSolutionsUrl": "https://www.olifis.it/problemi/2liv24.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24t.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-fisica/2024/2liv24s.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio / Gara di 2° Livello",
+      "questionNumber": "Problema 4 — Massa e molla al soffitto",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "lavoro-energia-potenza",
+        "quantita-moto-urti"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Massa M appesa a una molla urtata elasticamente dal basso e successivo distacco di una frazione di massa: equilibrio, allungamento massimo e soglia per la compressione della molla.",
+      "keywords": [
+        "molla verticale",
+        "urto elastico",
+        "moto armonico",
+        "conservazione energia"
+      ],
       "archived": false,
       "verifiedAt": "2026-11-20"
     }

@@ -2,6 +2,992 @@
   "schemaVersion": 1,
   "competitionId": "robotica",
   "lastUpdated": "2026-11-20",
-  "notes": "Da popolare nello Step 8 (Campionati di Robotica MIM / Scuola di Robotica e RoboCup Junior Italia).",
-  "items": []
+  "notes": "Step 8 completato: 24 sfide progettuali e specifiche tecniche ufficiali di Robotica (Campionati Italiani di Robotica MIM 2025/2026, RoboCup Junior Academy Italia 2026, OnStage First Steps 2025, Rescue Line Entry 2024, Rescue Maze Entry 2024 e Soccer Entry 2026 — incluse tracce in inglese per attività CLIL). Tutti i 6 regolamenti ufficiali in PDF sono ospitati localmente in assets/catalogo-pdf/robotica/.",
+  "items": [
+    {
+      "id": "cr-2026-cat1-imparare-giocando",
+      "competitionId": "robotica",
+      "edition": "Campionati Italiani di Robotica 2025/2026 (X Edizione)",
+      "year": 2026,
+      "phase": "Regolamento e Tracce Ufficiali MIM",
+      "sourceType": "official_exam",
+      "sourceSite": "campionatidirobotica.it (MIM / IG Students)",
+      "originalQuestionsUrl": "https://www.campionatidirobotica.it/wp-content/uploads/2026/01/Regolamento-Campionati-Robotica-2025_2026.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/campionati-robotica-2025-2026-regolamento.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Scuole Secondarie II grado (squadre 3–20 studenti)",
+      "questionNumber": "Categoria 1 — Imparare giocando",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "controllo-automazione",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Tema 2025/2026 'Il Gioco': progettare e realizzare un prototipo robotico o simulazione digitale che trasmetta conoscenze o competenze STEM in modo interattivo e accessibile.",
+      "keywords": [
+        "campionati di robotica",
+        "prototipo",
+        "gioco educativo",
+        "STEM",
+        "compito di realta"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "cr-2026-cat2-inventa-gioco",
+      "competitionId": "robotica",
+      "edition": "Campionati Italiani di Robotica 2025/2026 (X Edizione)",
+      "year": 2026,
+      "phase": "Regolamento e Tracce Ufficiali MIM",
+      "sourceType": "official_exam",
+      "sourceSite": "campionatidirobotica.it (MIM / IG Students)",
+      "originalQuestionsUrl": "https://www.campionatidirobotica.it/wp-content/uploads/2026/01/Regolamento-Campionati-Robotica-2025_2026.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/campionati-robotica-2025-2026-regolamento.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Scuole Secondarie II grado (squadre 3–20 studenti)",
+      "questionNumber": "Categoria 2 — Inventa il tuo gioco",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "controllo-automazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Tema 2025/2026 'Il Gioco': creare un gioco originale in cui il robot è parte essenziale delle regole e delle meccaniche, integrando sensori, attuatori e logica di controllo.",
+      "keywords": [
+        "campionati di robotica",
+        "meccaniche di gioco",
+        "sensori",
+        "attuatori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "cr-2026-cat3-gioca-emoziona",
+      "competitionId": "robotica",
+      "edition": "Campionati Italiani di Robotica 2025/2026 (X Edizione)",
+      "year": 2026,
+      "phase": "Regolamento e Tracce Ufficiali MIM",
+      "sourceType": "official_exam",
+      "sourceSite": "campionatidirobotica.it (MIM / IG Students)",
+      "originalQuestionsUrl": "https://www.campionatidirobotica.it/wp-content/uploads/2026/01/Regolamento-Campionati-Robotica-2025_2026.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/campionati-robotica-2025-2026-regolamento.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Scuole Secondarie II grado (squadre 3–20 studenti)",
+      "questionNumber": "Categoria 3 — Gioca ed emoziona",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "sensori-attuatori"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Tema 2025/2026 'Il Gioco': progettare un'esperienza di gioco immersiva e interattiva in cui il robot coinvolge il pubblico sul piano sensoriale ed emotivo.",
+      "keywords": [
+        "campionati di robotica",
+        "interazione uomo robot",
+        "sensori"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "cr-2026-doc-valutazione",
+      "competitionId": "robotica",
+      "edition": "Campionati Italiani di Robotica 2025/2026 (X Edizione)",
+      "year": 2026,
+      "phase": "Regolamento e Tracce Ufficiali MIM",
+      "sourceType": "official_exam",
+      "sourceSite": "campionatidirobotica.it (MIM / IG Students)",
+      "originalQuestionsUrl": "https://www.campionatidirobotica.it/wp-content/uploads/2026/01/Regolamento-Campionati-Robotica-2025_2026.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/campionati-robotica-2025-2026-regolamento.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Scuole Secondarie II grado (squadre 3–20 studenti)",
+      "questionNumber": "Sezioni 4 & 6 — Scheda Tecnica e Griglia di Valutazione",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Specifiche ufficiali di documentazione tecnica (scheda PDF con obiettivi, strumenti e codice + video max 3 min) e pesi di valutazione: coerenza 40%, innovazione 30%, presentazione 20%, documentazione 10%.",
+      "keywords": [
+        "documentazione tecnica",
+        "rubrica valutazione",
+        "codice",
+        "progetto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-it-bando-documentazione",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Academy 2026 — Gara Nazionale Catania",
+      "year": 2026,
+      "phase": "Bando Nazionale e Requisiti di Progetto",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it (Rete Nazionale RoboCup Junior Italia)",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2025/12/Bando-Nazionale-Robocup_jr_2026_def.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-italia-bando-2026.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Under 19 / Scuole Superiori",
+      "questionNumber": "Sezione Documentazione di Progetto",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "controllo-automazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Linee guida ufficiali della Gara Nazionale RoboCup Junior Italia 2026 per l'accesso dalle reti regionali e la preparazione della documentazione tecnica di progetto.",
+      "keywords": [
+        "robocup junior italia",
+        "documentazione",
+        "bando nazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2025-onstage-performance",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Italia — OnStage First Steps 2025",
+      "year": 2025,
+      "phase": "Regolamento Tecnico e Scoresheet",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it (RoboCup Junior Italia)",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/ONSTAGE-FIRST-STEPS-regolamento-2025-modificato-dopo-riunione-Rossini.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2025/robocup-junior-onstage-first-steps-2025.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Categoria First Steps (Entry / Biennio)",
+      "questionNumber": "Sezioni 1–3 — Sfida OnStage First Steps",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "controllo-automazione",
+        "cinematica-robotica-ingranaggi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Creare una performance robotica autonoma di almeno 1 minuto (danza, narrazione o teatro) su palco bianco con tolleranza meccanica a giunture fino a 5 mm.",
+      "keywords": [
+        "onstage",
+        "performance robotica",
+        "coordinazione",
+        "palco"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2025-onstage-doc-tecnico",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Italia — OnStage First Steps 2025",
+      "year": 2025,
+      "phase": "Regolamento Tecnico e Scoresheet",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it (RoboCup Junior Italia)",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/ONSTAGE-FIRST-STEPS-regolamento-2025-modificato-dopo-riunione-Rossini.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2025/robocup-junior-onstage-first-steps-2025.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Categoria First Steps (Entry / Biennio)",
+      "questionNumber": "Sezione 1 & Scoresheet — Documento Tecnico e Intervista",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Redigere il Documento Tecnico e preparare l'intervista hardware/software: giustificazione materiali, scelta batterie, ruolo dei sensori, sostenibilità e descrizione del codice.",
+      "keywords": [
+        "documento tecnico",
+        "sensori",
+        "batterie",
+        "intervista tecnica",
+        "sostenibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2025-onstage-scoresheet",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Italia — OnStage First Steps 2025",
+      "year": 2025,
+      "phase": "Regolamento Tecnico e Scoresheet",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it (RoboCup Junior Italia)",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/ONSTAGE-FIRST-STEPS-regolamento-2025-modificato-dopo-riunione-Rossini.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2025/robocup-junior-onstage-first-steps-2025.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Categoria First Steps (Entry / Biennio)",
+      "questionNumber": "Scoresheet — Valutazione Hardware, Sensori e Software",
+      "primaryTopic": "sensori-attuatori",
+      "secondaryTopics": [
+        "sfida-progettuale-robotica",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "it",
+      "summary": "Rubrica dettagliata di valutazione RoboCup OnStage: conoscenza hardware (materiali, sensori, sostenibilità), coerenza batteria/robot, programmazione e coordinazione sul campo.",
+      "keywords": [
+        "rubrica",
+        "hardware",
+        "sensori",
+        "batterie",
+        "software"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-linefollowing",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.2–2.3 — Autonomous Line Following (1–2 cm black line)",
+      "primaryTopic": "controllo-automazione",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "navigazione-path-planning"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: progettare sensori ottici/riflettanza e controllo (es. PID o stati finiti) per seguire autonomamente una linea nera larga 1–2 cm su piastrelle modulari con interruzioni e incroci.",
+      "keywords": [
+        "line follower",
+        "PID",
+        "sensori riflessione",
+        "controllo retroazione",
+        "CLIL"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-obstacles-debris",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.5 — Speed Bumps (<=1 cm), Debris (<=3 mm) & Obstacles",
+      "primaryTopic": "navigazione-path-planning",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "controllo-automazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: dimensionare telaio, ruote e strategia di aggiramento ostacoli per superare dossi da 1 cm, detriti mobili da 3 mm e ostacoli lungo la linea rientrando sul percorso.",
+      "keywords": [
+        "ostacoli",
+        "dossi",
+        "ultrasuoni",
+        "aggiramento",
+        "telaio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-ramps-seesaws",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.7–2.8 — Ramps (max 25°) and Seesaws",
+      "primaryTopic": "cinematica-robotica-ingranaggi",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "statica-equilibrio"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: calcolare coppia motrice, rapporto di riduzione a ingranaggi, baricentro e attrito delle ruote per risalire rampe fino a 25° di pendenza e attraversare bilancieri (seesaw).",
+      "keywords": [
+        "rampe 25 gradi",
+        "ingranaggi",
+        "coppia motrice",
+        "piano inclinato",
+        "baricentro"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-victims-evacuation",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.10 — Victim Detection & Rescue (conductive silver vs black spheres)",
+      "primaryTopic": "sensori-attuatori",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "cinematica-robotica-ingranaggi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: progettare un sistema di rilevamento e manipolazione per distinguere sfere conduttive argentate (vittime vive, 4–5 cm, <=80 g) da sfere nere isolanti e trasportarle nell'area di evacuazione.",
+      "keywords": [
+        "vittime",
+        "conducibilita elettrica",
+        "pinza robotica",
+        "sensori",
+        "evacuazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-calibration-scoring",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 4.1–4.6 — Sensor Calibration & Hazard Scoring Model",
+      "primaryTopic": "controllo-automazione",
+      "secondaryTopics": [
+        "incertezza-errori-misura"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: calibrare in campo le soglie dei sensori di luce/colore al variare dell'illuminazione ambientale e modellare il punteggio di gara con moltiplicatori di evacuazione e penalità LoP.",
+      "keywords": [
+        "calibrazione sensori",
+        "illuminazione",
+        "punteggio",
+        "affidabilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-line-open-tech-eval",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Line Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Line Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/LineEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-line-entry-2024.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Line Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 6 — Open Technical Evaluation",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: documentare e presentare innovazioni originali di elettronica, meccanica o algoritmi di controllo durante la valutazione tecnica aperta con i giudici.",
+      "keywords": [
+        "valutazione tecnica",
+        "innovazione",
+        "poster tecnico",
+        "engineering journal"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-maze-navigation",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Maze Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Maze Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/MazeEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-maze-entry-2024.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Maze Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.1–2.3 — Autonomous Maze Navigation (30x30 cm tiles, 15 cm walls)",
+      "primaryTopic": "navigazione-path-planning",
+      "secondaryTopics": [
+        "grafi-strutture-dati",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: implementare la mappatura e l'esplorazione autonoma di un labirinto a griglia (piastrelle 30x30 cm, pareti 15 cm, rampe max 25°, piastrelle nere da evitare e checkpoint argentati).",
+      "keywords": [
+        "labirinto",
+        "maze",
+        "DFS",
+        "flood fill",
+        "mappatura",
+        "path planning"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-maze-obstacles-dimensions",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Maze Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Maze Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/MazeEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-maze-entry-2024.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Maze Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.4 & 3.2 — Obstacles, Clearances (>=20 cm) & Robot Geometry (H<=30 cm)",
+      "primaryTopic": "cinematica-robotica-ingranaggi",
+      "secondaryTopics": [
+        "sensori-attuatori"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: dimensionare l'ingombro del robot (altezza <=30 cm, nessun sensore sopra le pareti) e l'odometria/sensori di distanza per muoversi in corridoi con ostacoli lasciando >=20 cm di passaggio.",
+      "keywords": [
+        "dimensionamento robot",
+        "odometria",
+        "sensori distanza",
+        "ostacoli"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-maze-rescue-kits",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Maze Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Maze Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/MazeEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-maze-entry-2024.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Maze Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 2.6 — Rescue Kit Dispenser Mechanism (min 1 cm³, max 12 kits)",
+      "primaryTopic": "sensori-attuatori",
+      "secondaryTopics": [
+        "cinematica-robotica-ingranaggi",
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: progettare un attuatore/dispenser meccanico affidabile capace di trasportare fino a 12 kit di soccorso (volume >= 1 cm³) e rilasciarli precisamente accanto alla vittima.",
+      "keywords": [
+        "dispenser",
+        "attuatori",
+        "servo",
+        "volume",
+        "meccanica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-maze-victim-signaling",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Maze Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Maze Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/MazeEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-maze-entry-2024.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Maze Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 4.6 — Victim Identification, 5s LED Signaling & Exit Bonus",
+      "primaryTopic": "controllo-automazione",
+      "secondaryTopics": [
+        "sensori-attuatori",
+        "navigazione-path-planning"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: programmare la macchina a stati per fermare il robot 5 secondi lampeggiando alla rilevazione della vittima, rilasciare il kit e calcolare il percorso di ritorno alla cella iniziale per l'Exit Bonus.",
+      "keywords": [
+        "macchina a stati",
+        "segnalazione LED",
+        "ritorno base",
+        "cammino minimo"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2024-maze-engineering-journal",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Rescue Maze Entry 2024",
+      "year": 2024,
+      "phase": "Regolamento Tecnico Ufficiale (Rescue Maze Entry)",
+      "sourceType": "official_exam",
+      "sourceSite": "robocupjra.it / junior.robocup.org",
+      "originalQuestionsUrl": "https://www.robocupjra.it/wp-content/uploads/2026/04/MazeEntryRules2024.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2024/robocup-junior-rescue-maze-entry-2024.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Rescue Maze Entry (Scuole Superiori)",
+      "questionNumber": "Sec. 5 — Engineering Journal & Technical Poster",
+      "primaryTopic": "sfida-progettuale-robotica",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: strutturare un Engineering Journal e un poster tecnico che documentino iterazioni di design, moduli sensori autocostruiti e algoritmi di navigazione.",
+      "keywords": [
+        "engineering journal",
+        "poster",
+        "metodo progettuale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-soccer-architecture",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Soccer Entry 2026",
+      "year": 2026,
+      "phase": "Regolamento Tecnico Internazionale (1:1 Standard Kit & Infrared)",
+      "sourceType": "official_exam",
+      "sourceSite": "junior.robocup.org / robocup-junior.github.io",
+      "originalQuestionsUrl": "https://robocup-junior.github.io/soccer-rules-entry/master/rules.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-soccer-entry-rules-2026.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Soccer Entry 1:1 (Scuole Superiori)",
+      "questionNumber": "Preface & Sec. 1 — 1:1 Standard Kit & Infrared Autonomous Soccer",
+      "primaryTopic": "cinematica-robotica-ingranaggi",
+      "secondaryTopics": [
+        "sfida-progettuale-robotica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: progettare un robot calciatore autonomo 1:1 rispettando il limite di motori di trazione (max 2 in Standard Kit, max 3 in Infrared — es. guida differenziale vs olonomica a 3 ruote omni).",
+      "keywords": [
+        "soccer",
+        "ruote omnidirezionali",
+        "guida differenziale",
+        "cinematica robot"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-soccer-field-geometry",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Soccer Entry 2026",
+      "year": 2026,
+      "phase": "Regolamento Tecnico Internazionale (1:1 Standard Kit & Infrared)",
+      "sourceType": "official_exam",
+      "sourceSite": "junior.robocup.org / robocup-junior.github.io",
+      "originalQuestionsUrl": "https://robocup-junior.github.io/soccer-rules-entry/master/rules.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-soccer-entry-rules-2026.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Soccer Entry 1:1 (Scuole Superiori)",
+      "questionNumber": "Sec. 5 — Field Dimensions (110–160 cm), Neutral Spots & Goal Localization",
+      "primaryTopic": "navigazione-path-planning",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "sensori-attuatori"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: usare geometria del campo, bussola/giroscopio (IMU) e sensori di distanza per orientarsi rispetto alle porte senza interferenze cromatiche o magnetiche (Sec. 4.2).",
+      "keywords": [
+        "IMU",
+        "giroscopio",
+        "bussola",
+        "localizzazione",
+        "campo soccer"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-soccer-electrical-limits",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Soccer Entry 2026",
+      "year": 2026,
+      "phase": "Regolamento Tecnico Internazionale (1:1 Standard Kit & Infrared)",
+      "sourceType": "official_exam",
+      "sourceSite": "junior.robocup.org / robocup-junior.github.io",
+      "originalQuestionsUrl": "https://robocup-junior.github.io/soccer-rules-entry/master/rules.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-soccer-entry-rules-2026.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Soccer Entry 1:1 (Scuole Superiori)",
+      "questionNumber": "Sec. 8.5.A — Voltage Limits (9 V / 12 V), Mass, Dimensions & Ball-Capturing Zone",
+      "primaryTopic": "sensori-attuatori",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: verificare vincoli elettrici e meccanici (tensione nominale batterie max 9 V / 12 V con protezioni LiPo, massa, ingombro cilindrico e profondità massima zona di controllo palla).",
+      "keywords": [
+        "batterie LiPo",
+        "tensione nominale",
+        "vincoli meccanici",
+        "sicurezza elettrica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-soccer-ir-ball-spec",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Soccer Entry 2026",
+      "year": 2026,
+      "phase": "Regolamento Tecnico Internazionale (1:1 Standard Kit & Infrared)",
+      "sourceType": "official_exam",
+      "sourceSite": "junior.robocup.org / robocup-junior.github.io",
+      "originalQuestionsUrl": "https://robocup-junior.github.io/soccer-rules-entry/master/rules.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-soccer-entry-rules-2026.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Soccer Entry 1:1 (Scuole Superiori)",
+      "questionNumber": "Appendix A — Pulsed Infrared Soccer Ball (920–960 nm, 40 kHz carrier)",
+      "primaryTopic": "sensori-attuatori",
+      "secondaryTopics": [
+        "onde-suono-ottica",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: progettare un anello di fotodiodi/ricevitori IR demodulati a 40 kHz nella banda 920–960 nm per stimare direzione e distanza della palla emettitrice di impulsi infrarossi.",
+      "keywords": [
+        "infrarossi",
+        "40 kHz",
+        "fotodiodi",
+        "lunghezza d'onda",
+        "acquisizione segnali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "rcj-2026-soccer-kicker-motors",
+      "competitionId": "robotica",
+      "edition": "RoboCup Junior Soccer Entry 2026",
+      "year": 2026,
+      "phase": "Regolamento Tecnico Internazionale (1:1 Standard Kit & Infrared)",
+      "sourceType": "official_exam",
+      "sourceSite": "junior.robocup.org / robocup-junior.github.io",
+      "originalQuestionsUrl": "https://robocup-junior.github.io/soccer-rules-entry/master/rules.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/robotica/2026/robocup-junior-soccer-entry-rules-2026.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
+      "originalLevelLabel": "Soccer Entry 1:1 (Scuole Superiori)",
+      "questionNumber": "Appendix B–C — Kicker Power Test & Approved 12 V Motor Whitelist",
+      "primaryTopic": "cinematica-robotica-ingranaggi",
+      "secondaryTopics": [
+        "dinamica-forze",
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "progetto_sfida",
+      "language": "en",
+      "summary": "CLIL: calibrare l'impulso del meccanismo di calcio (kicker) entro il test di potenza regolamentare e selezionare motoriduttori DC a 12 V dalla whitelist ufficiale.",
+      "keywords": [
+        "kicker",
+        "impulso",
+        "motoriduttori DC",
+        "coppia",
+        "ingranaggi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20"
+    }
+  ]
 }

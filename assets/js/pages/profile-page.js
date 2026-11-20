@@ -191,8 +191,17 @@ function bindSaveControls() {
   });
 }
 
-window.addEventListener("ivano:ready", () => {
+let profileInitialized = false;
+function startProfilePage() {
+  if (profileInitialized) return;
+  profileInitialized = true;
   renderProfile();
   bindSaveControls();
-});
+}
+
+if (window.__ivanoReady) {
+  startProfilePage();
+} else {
+  window.addEventListener("ivano:ready", startProfilePage, { once: true });
+}
 window.addEventListener("ivano:progress-change", renderProfile);
