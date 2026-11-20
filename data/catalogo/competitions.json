@@ -58,11 +58,11 @@
         "https://www.oecd.org/en/about/programmes/pisa.html",
         "https://www.invalsi.it"
       ],
-      "subjectDomains": ["matematica", "fisica", "scienze-naturali"],
+      "subjectDomains": ["matematica", "fisica", "scienze-naturali", "informatica"],
       "typicalLevels": ["biennio"],
       "sourceFile": "data/catalogo/sources/ocse-pisa.json",
-      "status": "planned",
-      "notes": "Domande rilasciate ufficiali (Released Items) rivolte a studenti quindicenni, fortemente orientate a compiti di realtà e grafici."
+      "status": "active",
+      "notes": "Prove rilasciate ufficiali OCSE PISA in italiano (INVALSI): Matematica 2022 (incluse attività su foglio di calcolo), Financial Literacy 2022, Scienze e Matematica 2006."
     },
     {
       "id": "olimpiadi-matematica",

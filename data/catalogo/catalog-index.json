@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T08:39:31Z",
+  "generatedAt": "2026-11-20T09:25:24Z",
   "settings": {
     "defaultMinYear": null,
     "includeArchivedByDefault": false,
@@ -74,16 +74,20 @@
       "subjectDomains": [
         "matematica",
         "fisica",
-        "scienze-naturali"
+        "scienze-naturali",
+        "informatica"
       ],
       "typicalLevels": [
         "biennio"
       ],
       "sourceFile": "data/catalogo/sources/ocse-pisa.json",
-      "status": "planned",
-      "notes": "Domande rilasciate ufficiali (Released Items) rivolte a studenti quindicenni, fortemente orientate a compiti di realtà e grafici.",
-      "questionCount": 0,
-      "coveredYears": []
+      "status": "active",
+      "notes": "Prove rilasciate ufficiali OCSE PISA in italiano (INVALSI): Matematica 2022 (incluse attività su foglio di calcolo), Financial Literacy 2022, Scienze e Matematica 2006.",
+      "questionCount": 32,
+      "coveredYears": [
+        2022,
+        2006
+      ]
     },
     {
       "id": "olimpiadi-matematica",
@@ -1187,64 +1191,76 @@
     }
   ],
   "stats": {
-    "totalQuestions": 75,
+    "totalQuestions": 107,
     "years": [
       2025,
+      2022,
       2021,
-      2020
+      2020,
+      2006
     ],
     "byCompetition": {
       "invalsi": 66,
+      "ocse-pisa": 32,
       "olimpiadi-fisica": 4,
       "olimpiadi-matematica": 5
     },
     "byTopic": {
-      "frazioni-proporzioni-percentuali": 8,
-      "equivalenze-unita-misura": 7,
-      "funzioni-lineari-proporzionalita": 12,
-      "notazione-scientifica-ordini-grandezza": 5,
+      "frazioni-proporzioni-percentuali": 14,
+      "equivalenze-unita-misura": 11,
+      "funzioni-lineari-proporzionalita": 16,
+      "notazione-scientifica-ordini-grandezza": 6,
       "potenze-radici": 9,
-      "incertezza-errori-misura": 2,
-      "calcolo-letterale-polinomi": 8,
-      "lettura-grafici-tabelle": 17,
-      "teoria-numeri-divisibilita": 2,
-      "aree-perimetri": 6,
-      "geometria-euclidea-piana": 6,
-      "pitagora-similitudine": 3,
+      "incertezza-errori-misura": 3,
+      "calcolo-letterale-polinomi": 9,
+      "lettura-grafici-tabelle": 29,
+      "teoria-numeri-divisibilita": 3,
+      "aree-perimetri": 7,
+      "geometria-euclidea-piana": 8,
+      "pitagora-similitudine": 4,
       "sistemi-equazioni": 1,
       "geometria-analitica": 8,
-      "equazioni-disequazioni-lineari": 9,
-      "statistica-descrittiva": 5,
-      "funzioni-quadratiche-coniche": 9,
-      "esponenziali-logaritmi": 9,
-      "geometria-solida-volumi": 2,
+      "equazioni-disequazioni-lineari": 10,
+      "statistica-descrittiva": 11,
+      "funzioni-quadratiche-coniche": 10,
+      "esponenziali-logaritmi": 11,
+      "geometria-solida-volumi": 4,
       "probabilita-base": 5,
       "cinematica": 3,
       "onde-suono-ottica": 1,
       "goniometria-trigonometria": 4,
       "analisi-limiti-derivate-integrali": 6,
-      "successioni-serie": 1,
+      "successioni-serie": 3,
       "equazioni-secondo-grado": 4,
-      "termologia-termodinamica": 1,
+      "termologia-termodinamica": 2,
       "probabilita-condizionata-bayes": 1,
-      "ecologia-ecosistemi": 2,
-      "matematica-finanziaria": 9,
-      "logica-proposizionale-booleana": 2,
+      "ecologia-ecosistemi": 4,
+      "matematica-finanziaria": 18,
+      "logica-proposizionale-booleana": 4,
+      "scienze-astronomia-terra": 2,
+      "algoritmi-pensiero-computazionale": 2,
+      "crittografia-sicurezza": 2,
+      "acidi-basi-ph": 2,
+      "stechiometria-moli": 1,
+      "minerali-rocce-geologia": 2,
+      "anatomia-fisiologia": 4,
+      "biologia-cellulare-metabolismo": 2,
+      "atmosfera-clima-idrosfera": 2,
       "lavoro-energia-potenza": 1,
       "dinamica-forze": 1,
       "fluidi-pressione": 1,
       "calcolo-combinatorio": 1
     },
     "byLevel": {
-      "biennio": 27,
-      "anno_2": 19,
-      "triennio": 49,
+      "biennio": 59,
+      "anno_2": 49,
+      "triennio": 54,
       "anno_5": 47,
       "unico": 4
     },
     "bySourceType": {
       "official_sample": 66,
-      "official_exam": 9
+      "official_exam": 41
     }
   },
   "items": [
@@ -1637,6 +1653,984 @@
       "verifiedAt": "2026-11-20",
       "allTopics": [
         "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-beneficenza-q20",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / Banca d'Italia / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-rapporto-invalsi.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello FL 2",
+      "questionNumber": "Beneficenza — D20 (PF200Q01)",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "crittografia-sicurezza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Spiegare a quale rischio finanziario si espone chi effettua una donazione comunicando i dati della carta di credito telefonicamente a un'associazione non verificata.",
+      "keywords": [
+        "carta di credito",
+        "frode",
+        "rischio finanziario",
+        "sicurezza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "crittografia-sicurezza"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-bicicletta-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Financial-Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-prove-rilasciate.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Bicicletta nuova — D1/2",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Acquisto di una mountain bike da 600 zed tramite finanziamento personale: spiegare perché la spesa complessiva sarà superiore a 600 zed (interessi sul prestito).",
+      "keywords": [
+        "prestito",
+        "interessi",
+        "finanziamento",
+        "acquisto a rate"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-bicicletta-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Financial-Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-prove-rilasciate.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-rapporto-invalsi.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello FL 1",
+      "questionNumber": "Bicicletta nuova — D2/2 (PF082Q02)",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Individuare quale strumento finanziario/assicurativo (polizza danni sul contenuto casa, ipoteca, buoni del tesoro, ecc.) protegge dal furto della bicicletta dal garage.",
+      "keywords": [
+        "assicurazione",
+        "rischio",
+        "polizza",
+        "educazione finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-costi-auto-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / Banca d'Italia / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-rapporto-invalsi.pdf",
+      "questionsPage": 52,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello FL 3",
+      "questionNumber": "Costi di mantenimento auto — D3 (PF001Q01)",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "it",
+      "summary": "Distinguere quali voci di spesa di un'auto (rate mensili a tasso fisso, benzina, manutenzione) aumentano oppure restano invariate se la famiglia usa di più la macchina (costi fissi vs variabili).",
+      "keywords": [
+        "costi fissi",
+        "costi variabili",
+        "prestito a tasso fisso",
+        "modello lineare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "funzioni-lineari-proporzionalita"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-estratto-conto-q14",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / Banca d'Italia / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-rapporto-invalsi.pdf",
+      "questionsPage": 53,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello FL 4",
+      "questionNumber": "Estratto conto — D14 (PF010Q01)",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Leggere l'estratto conto bancario mensile della ZEDBANCA (movimenti a credito/debito e saldo) per calcolare il totale addebitato nel mese di novembre in commissioni per bonifici.",
+      "keywords": [
+        "estratto conto",
+        "commissioni bancarie",
+        "tabella",
+        "conto corrente"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "lettura-grafici-tabelle"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-estratto-conto-q15",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / Banca d'Italia / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-rapporto-invalsi.pdf",
+      "questionsPage": 54,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello FL 5",
+      "questionNumber": "Estratto conto — D15 (PF010Q02)",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Aggiornare il saldo finale dell'estratto conto (2 015,35 zed) dopo accredito stipendio (+575 zed), bonifico al figlio (-130 zed) ricordando di sottrarre la commissione bancaria implicita di 1,50 zed.",
+      "keywords": [
+        "saldo bancario",
+        "bonifico",
+        "commissione implicita",
+        "estratto conto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "lettura-grafici-tabelle"
+      ]
+    },
+    {
+      "id": "pisa-2022-fl-vendita-online-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Financial Literacy",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Financial Literacy)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Financial-Literacy.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_PISA_2022_Financial_Literacy.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-financial-literacy-prove-rilasciate.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Vendita online — D1/1",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "crittografia-sicurezza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Zelda vende online una racchetta da 150 zed e un acquirente offre 200 zed chiedendo i dati del conto corrente fuori dal sistema sicuro del sito: motivare il rifiuto.",
+      "keywords": [
+        "truffa online",
+        "sicurezza pagamenti",
+        "phishing",
+        "educazione finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "crittografia-sicurezza"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-auto-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Acquisto di un'automobile — D1/2",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali",
+        "equivalenze-unita-misura",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Confrontare il costo complessivo del primo anno di 4 automobili (prezzo d'acquisto, consumo in L/100 km su 20 000 km, costo carburante 1,54 zed/L e manutenzione 250 zed) per scegliere la più economica.",
+      "keywords": [
+        "acquisto auto",
+        "consumo carburante",
+        "L/100 km",
+        "costi annuali",
+        "equivalenze"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "frazioni-proporzioni-percentuali",
+        "equivalenze-unita-misura",
+        "lettura-grafici-tabelle"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-auto-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Acquisto di un'automobile — D2/2",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Svalutazione percentuale composta: l'automobile D (10 500 zed) perde il 5% del valore ogni anno; stimare il prezzo di rivendita approssimativo dopo 3 anni.",
+      "keywords": [
+        "svalutazione",
+        "percentuali composte",
+        "decadimento esponenziale",
+        "auto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "matematica-finanziaria",
+        "esponenziali-logaritmi",
+        "frazioni-proporzioni-percentuali"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-camion-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Camion dei traslochi — D1/2",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "figura",
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare il numero massimo di scatole cubiche medie (0,5 m × 0,5 m × 0,5 m) che possono essere caricate nel vano parallelepipedo del camion A (4 m × 2 m × 2 m).",
+      "keywords": [
+        "parallelepipedo",
+        "volume",
+        "impacchettamento",
+        "scatole",
+        "trasloco"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "geometria-solida-volumi",
+        "equivalenze-unita-misura"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-camion-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Camion dei traslochi — D2/2",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Valutare criticamente l'affermazione secondo cui il numero di scatole grandi (0,5×0,5×0,75 m) caricabili nel camion A è 2/3 di quello delle medie, verificando che 0,75 m non divide esattamente le misure del vano.",
+      "keywords": [
+        "vincoli geometrici",
+        "multipli",
+        "impacchettamento 3D",
+        "argomentazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "geometria-solida-volumi",
+        "teoria-numeri-divisibilita",
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-dvd-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 47,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello PISA 4",
+      "questionNumber": "Vendite di DVD — D1/3",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita",
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "it",
+      "summary": "Analizzare il grafico a dispersione con retta di tendenza delle vendite di DVD nel Regno Unito (2008–2014) valutando 3 affermazioni Sì/No su calo del 50%, diminuzione costante e significato della pendenza.",
+      "keywords": [
+        "grafico a dispersione",
+        "retta di tendenza",
+        "pendenza",
+        "tasso di variazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "lettura-grafici-tabelle",
+        "funzioni-lineari-proporzionalita",
+        "statistica-descrittiva"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-dvd-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Vendite di DVD — D2/3",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [
+        "funzioni-lineari-proporzionalita",
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "numerica",
+      "language": "it",
+      "summary": "Dato il modello lineare d = 254 - 22n (milioni di DVD venduti a n anni dal 2008), determinare in quale anno le vendite scenderebbero al di sotto di 1 milione.",
+      "keywords": [
+        "modello lineare",
+        "previsione",
+        "disequazione lineare",
+        "estrapolazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "equazioni-disequazioni-lineari",
+        "funzioni-lineari-proporzionalita",
+        "lettura-grafici-tabelle"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-dvd-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2",
+        "triennio"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / utile anche Triennio)",
+      "questionNumber": "Vendite di DVD — D3/3",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "esponenziali-logaritmi",
+        "funzioni-quadratiche-coniche",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Osservando la serie storica 1998–2014 delle vendite di DVD, associare agli intervalli 1998–2004 e 2005–2007 l'andamento e il modello matematico più adatto (lineare, quadratico, esponenziale).",
+      "keywords": [
+        "scelta modello matematico",
+        "esponenziale",
+        "quadratico",
+        "lineare",
+        "serie storica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "lettura-grafici-tabelle",
+        "esponenziali-logaritmi",
+        "funzioni-quadratiche-coniche",
+        "funzioni-lineari-proporzionalita"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-motivo-triangolare-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 45,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello PISA 1a",
+      "questionNumber": "Motivo triangolare — D1/3",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Calcolare la percentuale di triangoli blu (6 su 16 = 37,5%) nelle prime quattro righe del motivo geometrico a triangoli rossi e blu alternati.",
+      "keywords": [
+        "percentuale",
+        "conteggio geometrico",
+        "pattern triangolare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "frazioni-proporzioni-percentuali",
+        "geometria-euclidea-piana"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-motivo-triangolare-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello PISA 2",
+      "questionNumber": "Motivo triangolare — D2/3",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Estendere la regolarità del motivo geometrico a una quinta riga (non disegnata) e calcolare la percentuale complessiva di triangoli blu sulle cinque righe.",
+      "keywords": [
+        "estrapolazione pattern",
+        "successione",
+        "percentuali"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "successioni-serie",
+        "frazioni-proporzioni-percentuali"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-motivo-triangolare-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2",
+        "triennio"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / utile anche Triennio)",
+      "questionNumber": "Motivo triangolare — D3/3",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi",
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Argomentare se, aggiungendo un numero arbitrario di righe al motivo triangolare, la percentuale di triangoli blu resterà sempre strettamente inferiore al 50%.",
+      "keywords": [
+        "generalizzazione",
+        "dimostrazione",
+        "successioni",
+        "limite 50%"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "successioni-serie",
+        "calcolo-letterale-polinomi",
+        "frazioni-proporzioni-percentuali"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-punti-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Punti — D1/1",
+      "primaryTopic": "statistica-descrittiva",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Una squadra di basket vince tutte le partite della stagione con uno scarto medio di 19 punti: spiegare se è possibile che non abbia mai vinto una partita esattamente con 19 punti di vantaggio.",
+      "keywords": [
+        "media aritmetica",
+        "controesempio",
+        "basket",
+        "argomentazione statistica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "statistica-descrittiva",
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-sistema-solare-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello PISA 3",
+      "questionNumber": "Sistema solare — D1/2",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "equivalenze-unita-misura"
+      ],
+      "visuals": [
+        "figura",
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Dalla tabella delle distanze medie dei pianeti dal Sole in unità astronomiche (au), identificare i tre pianeti consecutivi nel modello le cui distanze reciproche valgono 4,38 au e 9,62 au.",
+      "keywords": [
+        "unita astronomica",
+        "pianeti",
+        "differenze",
+        "sistema solare"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "scienze-astronomia-terra",
+        "lettura-grafici-tabelle",
+        "equivalenze-unita-misura"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-sistema-solare-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Prove rilasciate di Matematica",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/01/PISA-2022_Matematica.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-matematica-prove-rilasciate.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio / 2° anno)",
+      "questionNumber": "Sistema solare — D2/2",
+      "primaryTopic": "equivalenze-unita-misura",
+      "secondaryTopics": [
+        "notazione-scientifica-ordini-grandezza",
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Conversione di unità astronomiche in chilometri: sapendo che 1 au ≈ 150 milioni di km e che Nettuno dista 30,05 au dal Sole, stimare la distanza in milioni di km.",
+      "keywords": [
+        "equivalenze",
+        "unita astronomica",
+        "nettuno",
+        "ordine di grandezza",
+        "milioni di km"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "equivalenze-unita-misura",
+        "notazione-scientifica-ordini-grandezza",
+        "scienze-astronomia-terra"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-superficie-boschiva-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Nazionale INVALSI",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica & Foglio di calcolo)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "questionsPage": 52,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 52,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio/Triennio) — Livello PISA 5",
+      "questionNumber": "Superficie boschiva — D1/4",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva",
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Con un foglio di calcolo contenente la % di superficie boschiva di 15 nazioni (2005, 2010, 2015), impostare differenze tra colonne e ordinamenti per trovare maggior aumento, maggior calo e nessuna variazione tra 2005 e 2015.",
+      "keywords": [
+        "foglio di calcolo",
+        "ordinamento dati",
+        "punti percentuali",
+        "foreste",
+        "informatica"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "algoritmi-pensiero-computazionale",
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva",
+        "ecologia-ecosistemi"
+      ]
+    },
+    {
+      "id": "pisa-2022-mat-superficie-boschiva-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2022 — Rapporto Nazionale INVALSI",
+      "year": 2022,
+      "phase": "Prove rilasciate ufficiali (Matematica & Foglio di calcolo)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/05/Rapporto_nazionale_PISA2022.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "questionsPage": 53,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2022/pisa-2022-rapporto-nazionale-invalsi.pdf",
+      "solutionsPage": 53,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio/Triennio) — Livello PISA 6",
+      "questionNumber": "Superficie boschiva — D3/4",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "statistica-descrittiva",
+        "lettura-grafici-tabelle",
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Progettare calcoli multi-step sul foglio di calcolo per confrontare le variazioni nei due quinquenni (2005–2010 vs 2010–2015) e individuare i 2 Paesi col cambiamento più rilevante (in aumento o in calo).",
+      "keywords": [
+        "foglio di calcolo",
+        "differenza seconda",
+        "valore assoluto",
+        "analisi dati",
+        "livello 6"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "algoritmi-pensiero-computazionale",
+        "statistica-descrittiva",
+        "lettura-grafici-tabelle",
+        "ecologia-ecosistemi"
       ]
     },
     {
@@ -4491,6 +5485,444 @@
       "allTopics": [
         "aree-perimetri",
         "geometria-euclidea-piana"
+      ]
+    },
+    {
+      "id": "pisa-2006-mat-carpentiere-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Matematica",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 120,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 120,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello Matematica 6",
+      "questionNumber": "Carpentiere — D1",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "pitagora-similitudine"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "it",
+      "summary": "Stabilire quali di 4 progetti di recinto (rettangolo, parallelogramma e figure a gradini di ingombro 6 m × 10 m) possono essere realizzati con 32 m di tavole (perimetro e obliquità).",
+      "keywords": [
+        "perimetro",
+        "parallelogramma",
+        "figure a gradini",
+        "recinto"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "aree-perimetri",
+        "geometria-euclidea-piana",
+        "pitagora-similitudine"
+      ]
+    },
+    {
+      "id": "pisa-2006-mat-esportazioni-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Matematica",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Matematica)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 121,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 121,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello Matematica 4",
+      "questionNumber": "Esportazioni — D1",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Incrociare i dati di un istogramma (esportazioni totali della Zedlandia 1996–2000) e di un grafico a torta (distribuzione 2000: succhi di frutta 9%) per calcolare l'ammontare in milioni di zed.",
+      "keywords": [
+        "grafico a barre",
+        "grafico a torta",
+        "percentuali",
+        "incrocio grafici"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "frazioni-proporzioni-percentuali",
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-effetto-serra-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 52,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 51,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello Scienze 3",
+      "questionNumber": "Effetto serra — D3 (S114Q03)",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Confrontare due grafici storici (1860–1990) di emissioni di CO2 e temperatura media atmosferica per spiegare da quale andamento comune lo studente deduce una relazione tra i due fenomeni.",
+      "keywords": [
+        "effetto serra",
+        "CO2",
+        "temperatura media",
+        "correlazione grafici",
+        "clima"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "atmosfera-clima-idrosfera",
+        "lettura-grafici-tabelle",
+        "termologia-termodinamica"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-effetto-serra-q4",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 53,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 51,
+      "levels": [
+        "biennio",
+        "anno_2",
+        "triennio"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio/Triennio) — Livelli Scienze 4–5",
+      "questionNumber": "Effetto serra — D4 (S114Q04)",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Analisi critica di evidenze empiriche: individuare nei grafici di CO2 e temperatura (1860–1990) un intervallo di anni in cui gli andamenti sono opposti e non confermano una semplice causalità diretta.",
+      "keywords": [
+        "analisi critica dati",
+        "correlazione e causalita",
+        "effetto serra",
+        "grafici"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "atmosfera-clima-idrosfera",
+        "lettura-grafici-tabelle",
+        "statistica-descrittiva"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-esercizio-fisico-q1",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 48,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello Scienze 3",
+      "questionNumber": "Esercizio fisico — D1 (S493Q01)",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "vero_falso",
+      "language": "it",
+      "summary": "Valutare tre affermazioni (Sì/No) sui reali effetti fisiologici dell'esercizio fisico regolare (prevenzione malattie cardiovascolari, dieta sana, prevenzione sovrappeso).",
+      "keywords": [
+        "esercizio fisico",
+        "apparato cardiocircolatorio",
+        "salute"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "anatomia-fisiologia"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-mary-montagu-q2",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 46,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Sistemi viventi",
+      "questionNumber": "Mary Montagu — D2 (S477Q02)",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Individuare contro quale tipologia di malattie (virali/infettive vs ereditarie o metaboliche) è possibile vaccinarsi.",
+      "keywords": [
+        "vaccini",
+        "virus",
+        "malattie infettive",
+        "sistema immunitario"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "anatomia-fisiologia",
+        "biologia-cellulare-metabolismo"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-mary-montagu-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 46,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 46,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Sistemi viventi",
+      "questionNumber": "Mary Montagu — D3 (S477Q03)",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Spiegare il meccanismo dell'immunità acquisita (produzione di anticorpi specifici) dopo la guarigione da un'infezione batterica.",
+      "keywords": [
+        "anticorpi",
+        "immunita",
+        "batteri",
+        "sistema immunitario"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "anatomia-fisiologia",
+        "biologia-cellulare-metabolismo"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-mary-montagu-q4",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 46,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 47,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Sistemi viventi",
+      "questionNumber": "Mary Montagu — D4 (S477Q04)",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Fornire una spiegazione scientifica sul perché la vaccinazione antinfluenzale è particolarmente raccomandata a bambini e persone anziane (difese immunitarie più deboli).",
+      "keywords": [
+        "vaccinazione",
+        "influenza",
+        "sistema immunitario",
+        "salute"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "anatomia-fisiologia"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-piogge-acide-q3",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 41,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 41,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Livello Scienze 2",
+      "questionNumber": "Piogge acide — D3 (S485Q03)",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "stechiometria-moli",
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Simulazione delle piogge acide sul marmo (carbonato di calcio): una scaglia di 2,0 g immersa in aceto sviluppa bolle di gas; prevedere la massa della scaglia asciutta il giorno dopo.",
+      "keywords": [
+        "piogge acide",
+        "marmo",
+        "carbonato di calcio",
+        "reazione acido-base",
+        "conservazione massa"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "acidi-basi-ph",
+        "stechiometria-moli",
+        "minerali-rocce-geologia"
+      ]
+    },
+    {
+      "id": "pisa-2006-sci-piogge-acide-q5",
+      "competitionId": "ocse-pisa",
+      "edition": "OCSE PISA 2006 — Prove rilasciate di Scienze",
+      "year": 2006,
+      "phase": "Prove rilasciate ufficiali (Scienze)",
+      "sourceType": "official_exam",
+      "sourceSite": "invalsi.it (INVALSI / OECD)",
+      "originalQuestionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "originalSolutionsUrl": "https://www.invalsi.it/wp-content/uploads/2025/11/Rapporto-Nazionale-PISA-2006.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "questionsPage": 42,
+      "solutionsPdfLocal": "assets/catalogo-pdf/ocse-pisa/2006/pisa-2006-rapporto-nazionale-scienze-matematica.pdf",
+      "solutionsPage": 42,
+      "levels": [
+        "biennio",
+        "anno_2"
+      ],
+      "originalLevelLabel": "Quindicenni (Biennio) — Indagine scientifica",
+      "questionNumber": "Piogge acide — D5 (S485Q05)",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "incertezza-errori-misura",
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "aperta",
+      "language": "it",
+      "summary": "Spiegare il ruolo del gruppo di controllo nell'esperimento sulle piogge acide (immersione di scaglie di marmo anche in acqua distillata neutra per dimostrare che è l'acido a causare la corrosione).",
+      "keywords": [
+        "esperimento di controllo",
+        "metodo scientifico",
+        "acqua distillata",
+        "piogge acide"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-20",
+      "allTopics": [
+        "acidi-basi-ph",
+        "incertezza-errori-misura",
+        "minerali-rocce-geologia"
       ]
     }
   ]
