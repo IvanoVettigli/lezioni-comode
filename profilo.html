@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Profilo &amp; Trofei — Le comode lezioni d'Ivano</title>
+  <link rel="stylesheet" href="assets/css/tokens.css" />
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/components.css" />
+  <link rel="stylesheet" href="assets/css/print.css" media="print" />
+</head>
+<body data-root="." data-page="profilo">
+  <div data-site-header></div>
+
+  <main class="site-main container">
+    <h1>🏆 Profilo Studente &amp; Bacheca Trofei</h1>
+    <p>
+      I tuoi punti esperienza (EXP), il tuo titolo e i tuoi trofei sono salvati localmente su questo browser/dispositivo.
+      Puoi esportare una copia del salvataggio in qualsiasi momento per non perderlo.
+    </p>
+
+    <section data-profile-summary></section>
+
+    <section>
+      <h2>Bacheca dei Trofei</h2>
+      <p class="muted">
+        In ogni lezione puoi conquistare il trofeo <strong>Bronzo</strong> (tutti i Facili), <strong>Argento</strong>
+        (tutti gli Intermedi), <strong>Oro</strong> (tutti i Difficili) e il trofeo di completamento integrale. Conquistali
+        tutti nel sito per sbloccare il <strong>Trofeo di Platino</strong> e il Titolo Speciale!
+      </p>
+      <div data-profile-trophies></div>
+    </section>
+
+    <section>
+      <h2>Scala dei Livelli e dei Titoli</h2>
+      <div data-profile-levels></div>
+    </section>
+
+    <section class="no-print">
+      <h2>Gestione Salvataggio Locale</h2>
+      <div class="card" style="display:flex; flex-wrap:wrap; gap:0.75rem; align-items:center;">
+        <button type="button" class="btn btn-primary" data-export-save>⬇ Esporta salvataggio (.json)</button>
+        <label class="btn" style="cursor:pointer;">
+          ⬆ Importa salvataggio (.json)
+          <input type="file" accept="application/json" data-import-save hidden />
+        </label>
+        <button type="button" class="btn btn-danger" data-reset-save>🗑 Azzera progressi locali</button>
+      </div>
+    </section>
+  </main>
+
+  <div data-site-footer></div>
+
+  <script type="module" src="assets/js/main.js"></script>
+  <script type="module" src="assets/js/pages/profile-page.js"></script>
+</body>
+</html>

@@ -1,0 +1,138 @@
+/* ==========================================================================
+   DESIGN TOKENS — Le comode lezioni d'Ivano
+   Tema scuro (Dark Mode) di default + supporto completo Tema chiaro (Light Mode)
+   ========================================================================== */
+
+:root,
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  /* Superfici */
+  --bg-page: #0d1117;
+  --bg-surface: #151b26;
+  --bg-surface-elevated: #1c2433;
+  --bg-surface-subtle: #111620;
+  --bg-code: #0b0f16;
+
+  /* Testo */
+  --text-primary: #eef2f8;
+  --text-secondary: #b4c0d3;
+  --text-muted: #8493ab;
+  --text-inverse: #0d1117;
+
+  /* Bordi */
+  --border-subtle: #263145;
+  --border-strong: #3a4966;
+
+  /* Accenti principali & materie */
+  --accent-primary: #60a5fa;
+  --accent-primary-hover: #93c5fd;
+  --accent-math: #60a5fa;
+  --accent-physics: #c084fc;
+  --accent-cs: #34d399;
+
+  /* Stati semantici */
+  --status-success: #34d399;
+  --status-success-bg: rgba(52, 211, 153, 0.14);
+  --status-warning: #fbbf24;
+  --status-warning-bg: rgba(251, 191, 36, 0.14);
+  --status-danger: #f87171;
+  --status-danger-bg: rgba(248, 113, 113, 0.14);
+  --status-info: #38bdf8;
+  --status-info-bg: rgba(56, 189, 248, 0.14);
+
+  /* Difficoltà esercizi */
+  --diff-1: #34d399;
+  --diff-2: #fbbf24;
+  --diff-3: #f87171;
+  --clil-accent: #818cf8;
+
+  /* Trofei */
+  --trophy-bronze: #d9824b;
+  --trophy-silver: #cbd5e1;
+  --trophy-gold: #facc15;
+  --trophy-platinum: #67e8f9;
+
+  /* Ombre */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 10px 28px rgba(0, 0, 0, 0.45);
+  --shadow-glow: 0 0 0 3px rgba(96, 165, 250, 0.35);
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+
+  /* Superfici */
+  --bg-page: #f5f7fb;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #eef2f9;
+  --bg-surface-subtle: #f8fafd;
+  --bg-code: #eef2f7;
+
+  /* Testo */
+  --text-primary: #111827;
+  --text-secondary: #374151;
+  --text-muted: #5b677a;
+  --text-inverse: #ffffff;
+
+  /* Bordi */
+  --border-subtle: #d6deeb;
+  --border-strong: #9fb0c9;
+
+  /* Accenti principali & materie */
+  --accent-primary: #1d4ed8;
+  --accent-primary-hover: #1e40af;
+  --accent-math: #1d4ed8;
+  --accent-physics: #7e22ce;
+  --accent-cs: #047857;
+
+  /* Stati semantici */
+  --status-success: #047857;
+  --status-success-bg: rgba(4, 120, 87, 0.1);
+  --status-warning: #b45309;
+  --status-warning-bg: rgba(180, 83, 9, 0.1);
+  --status-danger: #b91c1c;
+  --status-danger-bg: rgba(185, 28, 28, 0.1);
+  --status-info: #0369a1;
+  --status-info-bg: rgba(3, 105, 161, 0.1);
+
+  /* Difficoltà esercizi */
+  --diff-1: #047857;
+  --diff-2: #b45309;
+  --diff-3: #b91c1c;
+  --clil-accent: #4338ca;
+
+  /* Trofei */
+  --trophy-bronze: #9a4b1f;
+  --trophy-silver: #475569;
+  --trophy-gold: #a16207;
+  --trophy-platinum: #0e7490;
+
+  /* Ombre */
+  --shadow-sm: 0 2px 8px rgba(15, 23, 42, 0.08);
+  --shadow-md: 0 10px 26px rgba(15, 23, 42, 0.12);
+  --shadow-glow: 0 0 0 3px rgba(29, 78, 216, 0.25);
+}
+
+/* Token invarianti tra temi */
+:root {
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", "Cascadia Code", Consolas, "Courier New", monospace;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+
+  --container-max: 1120px;
+  --transition-fast: 160ms ease;
+  --transition-med: 260ms ease;
+}

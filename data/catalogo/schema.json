@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Schema Sorgente Catalogo Esercizi — Le comode lezioni d'Ivano",
+  "description": "Specifica dei file data/catalogo/sources/<competition-id>.json.",
+  "type": "object",
+  "required": ["schemaVersion", "competitionId", "lastUpdated", "items"],
+  "properties": {
+    "schemaVersion": { "type": "integer", "const": 1 },
+    "competitionId": { "type": "string", "minLength": 2 },
+    "lastUpdated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "notes": { "type": "string" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "competitionId",
+          "edition",
+          "year",
+          "phase",
+          "sourceType",
+          "sourceSite",
+          "originalQuestionsUrl",
+          "levels",
+          "originalLevelLabel",
+          "questionNumber",
+          "primaryTopic",
+          "summary"
+        ],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "competitionId": { "type": "string" },
+          "edition": { "type": "string" },
+          "year": { "type": "integer", "minimum": 1980, "maximum": 2100 },
+          "phase": { "type": "string" },
+          "sourceType": {
+            "type": "string",
+            "enum": [
+              "official_exam",
+              "official_sample",
+              "third_party_archive",
+              "third_party_practice"
+            ]
+          },
+          "sourceSite": { "type": "string" },
+          "originalQuestionsUrl": { "type": "string" },
+          "originalSolutionsUrl": { "type": "string" },
+          "questionsPdfLocal": { "type": "string" },
+          "questionsPage": { "type": ["integer", "null"], "minimum": 1 },
+          "solutionsPdfLocal": { "type": "string" },
+          "solutionsPage": { "type": ["integer", "null"], "minimum": 1 },
+          "levels": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string" }
+          },
+          "originalLevelLabel": { "type": "string" },
+          "questionNumber": { "type": "string" },
+          "primaryTopic": { "type": "string" },
+          "secondaryTopics": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "visuals": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["grafico", "figura", "tabella", "circuito", "codice", "schema", "nessuno"]
+            }
+          },
+          "responseFormat": {
+            "type": "string",
+            "enum": ["scelta_multipla", "numerica", "aperta", "dimostrazione", "vero_falso", "progetto_sfida", "mista"]
+          },
+          "language": { "type": "string", "default": "it" },
+          "summary": { "type": "string", "minLength": 10 },
+          "keywords": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "archived": { "type": "boolean", "default": false },
+          "verifiedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        }
+      }
+    }
+  }
+}

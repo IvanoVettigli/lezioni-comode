@@ -1,0 +1,18 @@
+# Normalizza fine riga per coerenza tra Windows, Linux e macOS
+* text=auto eol=lf
+
+# File binari
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.zip binary

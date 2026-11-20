@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "settings": {
+    "defaultMinYear": null,
+    "includeArchivedByDefault": false,
+    "pdfBaseDir": "assets/catalogo-pdf",
+    "maxRecommendedPdfSizeMb": 20
+  },
+  "sourceTypeMeta": {
+    "official_exam": {
+      "label": "Prova Ufficiale",
+      "badge": "🏛 Ufficiale",
+      "isOfficial": true,
+      "description": "Fascicolo o prova reale pubblicata direttamente dall'ente organizzatore."
+    },
+    "official_sample": {
+      "label": "Esempio Ufficiale",
+      "badge": "🏛 Esempio Ufficiale",
+      "isOfficial": true,
+      "description": "Esempio o simulazione ufficiale rilasciata dall'ente organizzatore (es. INVALSIopen CBT)."
+    },
+    "third_party_archive": {
+      "label": "Archivio Terzi",
+      "badge": "📚 Archivio Terzi",
+      "isOfficial": false,
+      "description": "Archivio curato da docenti o portali esterni che raccoglie/commenta prove ufficiali."
+    },
+    "third_party_practice": {
+      "label": "Allenamento Terzi",
+      "badge": "🧪 Allenamento Terzi",
+      "isOfficial": false,
+      "description": "Materiale di allenamento o simulazione creata da siti terzi o editori (non prova ufficiale)."
+    }
+  },
+  "competitions": [
+    {
+      "id": "invalsi",
+      "name": "Prove INVALSI (Matematica)",
+      "shortName": "INVALSI",
+      "organizer": "INVALSI — Istituto Nazionale per la Valutazione del Sistema Educativo",
+      "officialWebsites": [
+        "https://www.invalsiopen.it",
+        "https://www.invalsi.it",
+        "https://www.gestinv.it"
+      ],
+      "subjectDomains": ["matematica"],
+      "typicalLevels": ["biennio", "anno_2", "triennio", "anno_5"],
+      "sourceFile": "data/catalogo/sources/invalsi.json",
+      "status": "active",
+      "notes": "Include Grado 10 (2° anno) e Grado 13 (5° anno). Distingue chiaramente esempi/fascicoli ufficiali INVALSI da simulazioni di siti terzi."
+    },
+    {
+      "id": "ocse-pisa",
+      "name": "Prove OCSE PISA (Matematica e Scienze)",
+      "shortName": "OCSE PISA",
+      "organizer": "OECD / INVALSI Italia",
+      "officialWebsites": [
+        "https://www.oecd.org/en/about/programmes/pisa.html",
+        "https://www.invalsi.it"
+      ],
+      "subjectDomains": ["matematica", "fisica", "scienze-naturali"],
+      "typicalLevels": ["biennio"],
+      "sourceFile": "data/catalogo/sources/ocse-pisa.json",
+      "status": "planned",
+      "notes": "Domande rilasciate ufficiali (Released Items) rivolte a studenti quindicenni, fortemente orientate a compiti di realtà e grafici."
+    },
+    {
+      "id": "olimpiadi-matematica",
+      "name": "Olimpiadi e Giochi della Matematica",
+      "shortName": "Olimpiadi Matematica",
+      "organizer": "UMI — Unione Matematica Italiana (Giochi di Archimede, Febbraio, Cesenatico)",
+      "officialWebsites": [
+        "https://olimpiadi.dm.unibo.it"
+      ],
+      "subjectDomains": ["matematica"],
+      "typicalLevels": ["biennio", "triennio"],
+      "sourceFile": "data/catalogo/sources/olimpiadi-matematica.json",
+      "status": "pilot",
+      "notes": "Include Giochi di Archimede (biennio e triennio), Gara di Febbraio e Cesenatico. Espandibile con Kangourou e Giochi Bocconi."
+    },
+    {
+      "id": "olimpiadi-fisica",
+      "name": "Olimpiadi / Campionati della Fisica",
+      "shortName": "Olimpiadi Fisica",
+      "organizer": "AIF — Associazione per l'Insegnamento della Fisica (OliFis)",
+      "officialWebsites": [
+        "https://www.olifis.it"
+      ],
+      "subjectDomains": ["fisica"],
+      "typicalLevels": ["unico", "biennio", "triennio"],
+      "sourceFile": "data/catalogo/sources/olimpiadi-fisica.json",
+      "status": "pilot",
+      "notes": "Include Gara di Primo Livello (fase d'istituto, test a risposta multipla) e Gara di Secondo Livello (problemi analitici)."
+    },
+    {
+      "id": "olimpiadi-informatica",
+      "name": "Olimpiadi e Giochi di Informatica (OII & Bebras)",
+      "shortName": "Olimpiadi Informatica",
+      "organizer": "AICA / MIM (OII) e Università di Milano (Bebras Italia)",
+      "officialWebsites": [
+        "https://www.olimpiadi-informatica.it",
+        "https://training.olinfo.it/scolastiche",
+        "https://bebras.it"
+      ],
+      "subjectDomains": ["informatica", "matematica"],
+      "typicalLevels": ["biennio", "triennio", "unico"],
+      "sourceFile": "data/catalogo/sources/olimpiadi-informatica.json",
+      "status": "planned",
+      "notes": "Include Selezioni Scolastiche OII (logica, combinatoria, lettura codice) e Bebras dell'Informatica (pensiero computazionale)."
+    },
+    {
+      "id": "giochi-chimica",
+      "name": "Giochi e Campionati della Chimica",
+      "shortName": "Giochi Chimica",
+      "organizer": "SCI — Società Chimica Italiana",
+      "officialWebsites": [
+        "https://www.societachimica.it"
+      ],
+      "subjectDomains": ["chimica", "fisica"],
+      "typicalLevels": ["biennio", "triennio"],
+      "sourceFile": "data/catalogo/sources/giochi-chimica.json",
+      "status": "planned",
+      "notes": "Classi A (biennio), B (triennio non chimico) e C (triennio indirizzo chimico). Eventuali archivi commentati di terzi sono etichettati esplicitamente."
+    },
+    {
+      "id": "olimpiadi-scienze-naturali",
+      "name": "Campionati / Olimpiadi delle Scienze Naturali",
+      "shortName": "Scienze Naturali",
+      "organizer": "ANISN — Associazione Nazionale Insegnanti Scienze Naturali",
+      "officialWebsites": [
+        "http://olimpiadi.anisn.it/nazionali/"
+      ],
+      "subjectDomains": ["scienze-naturali", "chimica", "fisica"],
+      "typicalLevels": ["biennio", "triennio"],
+      "sourceFile": "data/catalogo/sources/olimpiadi-scienze-naturali.json",
+      "status": "planned",
+      "notes": "Categorie Biennio, Triennio Biologia e Triennio Scienze della Terra."
+    },
+    {
+      "id": "robotica",
+      "name": "Campionati di Robotica e RoboCup Junior",
+      "shortName": "Robotica",
+      "organizer": "MIM / Scuola di Robotica e RoboCup Junior Italia",
+      "officialWebsites": [
+        "https://www.campionatidirobotica.it",
+        "https://www.robocupjunior.it"
+      ],
+      "subjectDomains": ["robotica", "informatica", "fisica"],
+      "typicalLevels": ["biennio", "triennio", "unico"],
+      "sourceFile": "data/catalogo/sources/robotica.json",
+      "status": "planned",
+      "notes": "Tracce ufficiali, regolamenti tecnici e sfide di robotica educativa (ideali per compiti di realtà su sensori, ingranaggi, cinematica e controllo)."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 1,
+  "description": "Registro centrale di tutte le UDA del sito. Ogni nuova UDA va aggiunta qui per comparire nella Home, gestire i prerequisiti tra UDA e calcolare il Trofeo di Platino.",
+  "udas": []
+}

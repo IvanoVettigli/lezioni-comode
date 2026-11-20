@@ -1,0 +1,49 @@
+{
+  "id": "{{UDA_ID}}",
+  "slug": "{{UDA_SLUG}}",
+  "subject": "{{SUBJECT_SLUG}}",
+  "year": 1,
+  "title": "{{UDA_TITLE}}",
+  "summary": "{{UDA_SUMMARY}}",
+  "status": "draft",
+  "entryPath": "uda/{{SUBJECT_SLUG}}/{{UDA_SLUG}}/index.html",
+  "pdfPath": "uda/{{SUBJECT_SLUG}}/{{UDA_SLUG}}/stampa/{{UDA_SLUG}}-stampabile.pdf",
+  "prerequisites": [
+    "Competenze iniziali richieste"
+  ],
+  "prerequisiteUdas": [],
+  "lessons": [
+    {
+      "id": "{{UDA_ID}}-l01",
+      "title": "Lezione 1",
+      "durationMinutes": 60,
+      "path": "uda/{{SUBJECT_SLUG}}/{{UDA_SLUG}}/lezioni/lezione-01.html"
+    }
+  ],
+  "trophies": [
+    {
+      "id": "{{UDA_ID}}-l01-bronze",
+      "tier": "bronze",
+      "name": "{{UDA_TITLE}} (Lez. 1) — Bronzo",
+      "description": "Completati tutti gli esercizi facili della Lezione 1."
+    },
+    {
+      "id": "{{UDA_ID}}-l01-silver",
+      "tier": "silver",
+      "name": "{{UDA_TITLE}} (Lez. 1) — Argento",
+      "description": "Completati tutti gli esercizi intermedi della Lezione 1."
+    },
+    {
+      "id": "{{UDA_ID}}-l01-gold",
+      "tier": "gold",
+      "name": "{{UDA_TITLE}} (Lez. 1) — Oro",
+      "description": "Completati tutti gli esercizi difficili della Lezione 1."
+    },
+    {
+      "id": "{{UDA_ID}}-l01-complete",
+      "tier": "completion",
+      "name": "Completamento: {{UDA_TITLE}} (Lez. 1)",
+      "description": "Completata l'intera Lezione 1 (esercizi, compito di realtà e flashcard)."
+    }
+  ]
+}

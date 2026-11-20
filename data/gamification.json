@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "baseExp": {
+    "difficulty1": 10,
+    "difficulty2": 25,
+    "difficulty3": 50,
+    "realityTask": 80,
+    "flashcards": 20
+  },
+  "yearMultipliers": {
+    "1": 1.0,
+    "2": 1.4,
+    "3": 2.0,
+    "4": 2.8,
+    "5": 4.0
+  },
+  "difficultyLabels": {
+    "1": {
+      "name": "Facile",
+      "symbol": "★☆☆",
+      "purpose": "Per introdurre il concetto"
+    },
+    "2": {
+      "name": "Intermedio",
+      "symbol": "★★☆",
+      "purpose": "Per verificare se hai davvero capito"
+    },
+    "3": {
+      "name": "Difficile",
+      "symbol": "★★★",
+      "purpose": "Per metterti alla prova e mostrare il tuo valore"
+    }
+  },
+  "levels": [
+    {
+      "level": 1,
+      "minExp": 0,
+      "title": "Seme Deku",
+      "description": "Non ha ancora espresso il suo potenziale, ma nessuno può dire quali grandi cose potrà diventare da grande!",
+      "status": "definito"
+    },
+    {
+      "level": 2,
+      "minExp": 150,
+      "title": "Apprendista di Livello 2 (titolo da definire)",
+      "description": "I primi germogli di logica e calcolo stanno spuntando! [Titolo personalizzabile insieme al docente]",
+      "status": "placeholder"
+    },
+    {
+      "level": 3,
+      "minExp": 400,
+      "title": "Esploratore di Livello 3 (titolo da definire)",
+      "description": "Hai iniziato a domare formule, unità di misura e compiti di realtà. [Titolo personalizzabile]",
+      "status": "placeholder"
+    },
+    {
+      "level": 4,
+      "minExp": 800,
+      "title": "Avventuriero di Livello 4 (titolo da definire)",
+      "description": "Le sfide intermedie non ti fanno più paura. [Titolo personalizzabile]",
+      "status": "placeholder"
+    },
+    {
+      "level": 5,
+      "minExp": 1400,
+      "title": "Stratega di Livello 5 (titolo da definire)",
+      "description": "Riesci a collegare matematica, informatica e fisica con metodo. [Titolo personalizzabile]",
+      "status": "placeholder"
+    },
+    {
+      "level": 6,
+      "minExp": 2300,
+      "title": "Veterano di Livello 6 (titolo da definire)",
+      "description": "Anche gli esercizi di livello difficile tremano al tuo passaggio. [Titolo personalizzabile]",
+      "status": "placeholder"
+    },
+    {
+      "level": 7,
+      "minExp": 3600,
+      "title": "Maestro di Livello 7 (titolo da definire)",
+      "description": "Padronanza solida attraverso più anni e discipline. [Titolo personalizzabile]",
+      "status": "placeholder"
+    },
+    {
+      "level": 8,
+      "minExp": 5500,
+      "title": "Leggenda di Livello 8 (titolo da definire)",
+      "description": "Un punto di riferimento per tutta la gilda degli studenti. [Titolo personalizzabile]",
+      "status": "placeholder"
+    }
+  ],
+  "platinumTrophy": {
+    "id": "site-platinum",
+    "name": "Trofeo di Platino — Completamento Totale",
+    "specialTitle": "Leggenda Assoluta delle Comode Lezioni (titolo speciale da definire)",
+    "description": "Conquistato collezionando TUTTI i trofei di tutte le UDA del sito!"
+  }
+}

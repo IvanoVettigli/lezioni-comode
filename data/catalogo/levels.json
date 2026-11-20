@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "levels": [
+    {
+      "id": "biennio",
+      "label": "Primo Biennio (1°–2° anno)",
+      "shortLabel": "Biennio",
+      "order": 1,
+      "description": "Classi 1ª e 2ª superiore (es. Archimede Biennio, INVALSI Grado 10, OCSE PISA, Chimica Classe A, Scienze Naturali Biennio)."
+    },
+    {
+      "id": "anno_2",
+      "label": "2° Anno (es. INVALSI Grado 10)",
+      "shortLabel": "2° anno",
+      "order": 2,
+      "description": "Prove specificamente tarate sulla fine del secondo anno (Grado 10)."
+    },
+    {
+      "id": "triennio",
+      "label": "Triennio (3°–5° anno)",
+      "shortLabel": "Triennio",
+      "order": 3,
+      "description": "Classi 3ª, 4ª e 5ª superiore (es. Archimede Triennio, Gara di Febbraio, Olifis 2° Livello, Chimica Classi B/C, Scienze Naturali Triennio)."
+    },
+    {
+      "id": "anno_5",
+      "label": "5° Anno (es. INVALSI Grado 13)",
+      "shortLabel": "5° anno",
+      "order": 4,
+      "description": "Prove specificamente tarate sull'ultimo anno delle superiori (Grado 13)."
+    },
+    {
+      "id": "unico",
+      "label": "Livello Unico (tutte le superiori)",
+      "shortLabel": "Unico (1°–5°)",
+      "order": 5,
+      "description": "Competizioni con fascia unica aperta a tutti gli anni delle superiori (es. Olifis 1° Livello, Selezioni Scolastiche OII, gare di Robotica)."
+    }
+  ]
+}

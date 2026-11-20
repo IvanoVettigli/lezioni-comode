@@ -1,0 +1,35 @@
+{
+  "siteTitle": "Le comode lezioni d'Ivano",
+  "siteSubtitle": "Matematica, con elementi di Informatica, e Fisica",
+  "author": "Ivano",
+  "targetAudience": "Scuole Superiori",
+  "defaultTheme": "dark",
+  "language": "it",
+  "storageNamespace": "ivano_lezioni_v1",
+  "navigation": [
+    { "label": "Home & UDA", "href": "index.html" },
+    { "label": "Catalogo Esercizi", "href": "catalogo.html" },
+    { "label": "Profilo & Trofei", "href": "profilo.html" },
+    { "label": "Ringraziamenti", "href": "ringraziamenti.html" }
+  ],
+  "subjects": [
+    {
+      "id": "matematica",
+      "label": "Matematica",
+      "description": "Teoria all'osso, numeri, algebra, funzioni, probabilità e informatica applicata ai problemi reali.",
+      "accent": "math"
+    },
+    {
+      "id": "fisica",
+      "label": "Fisica",
+      "description": "Grandezze, bollette, fluidi, elettricità, esperimenti da fare a casa e sfide scientifiche.",
+      "accent": "physics"
+    },
+    {
+      "id": "informatica",
+      "label": "Elementi di Informatica",
+      "description": "Logica, algoritmi, fogli di calcolo e strumenti digitali al servizio di matematica e fisica.",
+      "accent": "cs"
+    }
+  ]
+}

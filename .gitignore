@@ -1,0 +1,58 @@
+# ==============================================================================
+# AREA PRIVATA E MATERIALI RISERVATI (MAI committare su GitHub!)
+# Qui risiedono le verifiche scritte di classe, soluzioni riservate, bozze locali
+# ==============================================================================
+private/**
+!private/
+!private/README.md
+local/
+*.private.*
+*.local.*
+*_riservata.*
+*_riservato.*
+*_soluzioni_docente.*
+
+# ==============================================================================
+# Sistema Operativo (Windows / macOS / Linux)
+# ==============================================================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==============================================================================
+# Python & Tooling locale
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==============================================================================
+# Node / Editor / IDE
+# ==============================================================================
+node_modules/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ==============================================================================
+# File temporanei e log
+# ==============================================================================
+*.tmp
+*.bak
+*.log
+tmp/
+temp/

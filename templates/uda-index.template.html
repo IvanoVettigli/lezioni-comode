@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{UDA_TITLE}} — Le comode lezioni d'Ivano</title>
+  <link rel="stylesheet" href="../../../assets/css/tokens.css" />
+  <link rel="stylesheet" href="../../../assets/css/base.css" />
+  <link rel="stylesheet" href="../../../assets/css/components.css" />
+  <link rel="stylesheet" href="../../../assets/css/print.css" media="print" />
+</head>
+<body
+  data-root="../../.."
+  data-page="uda"
+  data-uda-id="{{UDA_ID}}"
+  data-uda-title="{{UDA_TITLE}}"
+  data-uda-year="{{UDA_YEAR}}"
+>
+  <div data-site-header></div>
+
+  <main class="site-main container">
+    <!-- Intestazione compilabile visibile in stampa / PDF -->
+    <section class="print-header print-only" aria-label="Intestazione studente per stampa">
+      <div class="print-header-title">
+        Le comode lezioni d'Ivano — UDA: {{UDA_TITLE}}
+      </div>
+      <div class="print-student-grid">
+        <div class="print-field"><span class="print-field-label">Nome:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Cognome:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Anno scolastico:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Classe:</span><span class="print-field-line"></span></div>
+      </div>
+    </section>
+
+    <nav class="breadcrumb no-print" aria-label="Percorso">
+      <a href="../../../index.html">Home</a>
+      <span>/</span>
+      <span>{{SUBJECT_LABEL}}</span>
+      <span>/</span>
+      <strong>{{UDA_TITLE}}</strong>
+    </nav>
+
+    <header class="hero">
+      <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+        <span class="badge badge-subject-{{SUBJECT_SLUG}}">{{SUBJECT_LABEL}}</span>
+        <span class="badge">Anno consigliato: {{UDA_YEAR}}°</span>
+      </div>
+      <h1>{{UDA_TITLE}}</h1>
+      <p>{{UDA_SUMMARY}}</p>
+      <div class="hero-actions no-print">
+        <button type="button" class="btn btn-primary" data-print-page>🖨 Stampa / Salva PDF</button>
+        <!-- Se il PDF pre-generato esiste in stampa/, attiva anche il link diretto -->
+        <a class="btn btn-ghost" href="stampa/{{UDA_SLUG}}-stampabile.pdf" target="_blank" rel="noopener">📄 Scarica PDF UDA</a>
+      </div>
+    </header>
+
+    <!-- 1. PREREQUISITI E DIPENDENZE TRA UDA (OBBLIGATORIO) -->
+    <section class="callout callout-prereq" aria-labelledby="prerequisiti-title">
+      <div class="callout-title" id="prerequisiti-title">🧭 Prerequisiti: cosa devi saper fare prima di iniziare</div>
+      <ul>
+        <li>[Elencare qui le competenze minime necessarie prima di iniziare l'UDA]</li>
+      </ul>
+      <p style="margin-bottom:0;">
+        <strong>UDA consigliate prima di questa:</strong>
+        [Inserire eventuali link alle UDA propedeutiche, oppure indicare che è un'UDA di partenza.]
+      </p>
+    </section>
+
+    <!-- 2. ELENCO LEZIONI (~1 ORA CIASCUNA) -->
+    <section aria-labelledby="lezioni-title">
+      <h2 id="lezioni-title">📚 Lezioni dell'UDA (~1 ora ciascuna)</h2>
+      <div class="grid-2">
+        <article class="card">
+          <span class="badge">Lezione 1 · ~60 min</span>
+          <h3 style="margin-top:0.5rem;">[Titolo Lezione 1]</h3>
+          <p>[Breve descrizione orientata ai problemi e ai compiti di realtà della lezione 1.]</p>
+          <a class="btn btn-primary" href="lezioni/lezione-01.html">Inizia Lezione 1 →</a>
+        </article>
+      </div>
+    </section>
+
+    <!-- 3. MAPPA CONCETTUALE INTERATTIVA -->
+    <section id="mappa-concettuale" aria-labelledby="mappa-title">
+      <h2 id="mappa-title">🗺 Mappa concettuale interattiva</h2>
+      <div data-concept-map>
+        <script type="application/json" data-concept-map-config>
+          {
+            "title": "Mappa concettuale — {{UDA_TITLE}}",
+            "width": 760,
+            "height": 280,
+            "nodes": [
+              { "id": "root", "label": "{{UDA_TITLE}}", "x": 380, "y": 60, "w": 240, "detail": "Concetto centrale dell'UDA." },
+              { "id": "n1", "label": "Concetto A", "x": 190, "y": 200, "w": 170, "detail": "Spiegazione sintetica e formula chiave del concetto A." },
+              { "id": "n2", "label": "Concetto B", "x": 570, "y": 200, "w": 170, "detail": "Spiegazione sintetica e formula chiave del concetto B." }
+            ],
+            "edges": [
+              { "from": "root", "to": "n1", "label": "collega" },
+              { "from": "root", "to": "n2", "label": "applica" }
+            ]
+          }
+        </script>
+      </div>
+    </section>
+
+    <!-- 4. FLASHCARD DI RIEPILOGO -->
+    <section id="flashcard-uda" aria-labelledby="flashcard-title">
+      <h2 id="flashcard-title">🃏 Flashcard di riepilogo UDA</h2>
+      <div data-flashcard-deck data-deck-id="{{UDA_ID}}-fc">
+        <script type="application/json" data-flashcards-config>
+          [
+            { "front": "Domanda / Formula di esempio 1", "back": "Risposta sintetica di esempio 1." },
+            { "front": "Domanda / Formula di esempio 2", "back": "Risposta sintetica di esempio 2." }
+          ]
+        </script>
+      </div>
+    </section>
+
+    <!-- 5. DOPPIO COMPITO DI REALTÀ (GUIDATO + GEMELLO AUTONOMO) -->
+    <section id="compiti-realta" aria-labelledby="realta-title">
+      <h2 id="realta-title">🌍 Compiti di Realtà</h2>
+
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="{{UDA_ID}}-cr-guidato-ex"
+        data-reality-task-id="{{UDA_ID}}-cr-guidato"
+        data-type="number"
+        data-difficulty="2"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">1. Compito di realtà interattivo (guidato passo passo)</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body">
+          <p>[Testo del compito di realtà interattivo con dati realistici, es. bolletta o scenario concreto.]</p>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "42",
+            "tolerance": 0.01,
+            "hints": [
+              "Primo passo guidato...",
+              "Secondo passo guidato..."
+            ],
+            "solution": "Svolgimento completo del compito di realtà guidato."
+          }
+        </script>
+      </article>
+
+      <article class="callout callout-reality">
+        <div class="callout-title">2. Compito di realtà "gemello" (autonomo da consegnare al docente)</div>
+        <p>
+          [Testo del compito gemello: richiede esattamente la stessa strategia risolutiva del compito interattivo sopra,
+          ma con dati/scenario nuovi da svolgere in autonomia e consegnare al docente.]
+        </p>
+        <div class="print-only print-answer-box print-answer-box-tall" aria-hidden="true"></div>
+      </article>
+    </section>
+
+    <!-- 6. ESPERIMENTO / LABORATORIO A CASA -->
+    <section id="esperimento-casa" class="callout callout-lab" aria-labelledby="lab-title">
+      <div class="callout-title" id="lab-title">🔬 Esperimento / Attività pratica da fare a casa</div>
+      <p>[Descrivere materiale povero occorrente, passaggi sicuri, osservazioni e consegna fotografica o su quaderno.]</p>
+    </section>
+
+    <!-- 7. SIMULAZIONE VERIFICA SCRITTA (PUBBLICA) -->
+    <section id="simulazione-verifica" class="callout callout-exam" aria-labelledby="verifica-title">
+      <div class="callout-title" id="verifica-title">📝 Simulazione di verifica scritta (allenamento)</div>
+      <p>
+        Questa simulazione rispecchia struttura, tempi e difficoltà della verifica in classe.
+        (Le altre verifiche ufficiali restano riservate in locale nell'archivio docente.)
+      </p>
+      <ol>
+        <li>[Quesito 1 — livello base]</li>
+        <li>[Quesito 2 — livello intermedio]</li>
+        <li>[Quesito 3 — problema / compito di realtà]</li>
+      </ol>
+      <div class="print-only print-answer-box print-answer-box-tall" aria-hidden="true"></div>
+    </section>
+
+    <!-- 8. CANZONE / JINGLE DELL'UDA -->
+    <section id="jingle-uda" aria-labelledby="jingle-title">
+      <h2 id="jingle-title">🎵 Il Jingle dell'UDA</h2>
+      <div data-jingle-player>
+        <script type="application/json" data-jingle-config>
+          {
+            "title": "Jingle di {{UDA_TITLE}}",
+            "style": "Ritmo allegro & nerd",
+            "audioSrc": "",
+            "lyrics": "[Inserire qui le strofe brevi e divertenti con battute sugli argomenti dell'UDA]"
+          }
+        </script>
+      </div>
+    </section>
+
+    <!-- 9. FIABA INTERATTIVA DELL'UDA -->
+    <section id="fiaba-uda" aria-labelledby="fiaba-title">
+      <h2 id="fiaba-title">📖 Fiaba interattiva</h2>
+      <div data-interactive-story>
+        <script type="application/json" data-story-config>
+          {
+            "title": "Avventura — {{UDA_TITLE}}",
+            "start": "intro",
+            "scenes": {
+              "intro": {
+                "title": "Prologo",
+                "speaker": "Narratore",
+                "image": "",
+                "text": "<p>[Capitolo introduttivo ambientato nel setting ufficiale della fiaba con i protagonisti dell'autore.]</p>",
+                "choices": [
+                  { "label": "Prosegui l'avventura", "next": "finale" }
+                ]
+              },
+              "finale": {
+                "title": "Conclusione",
+                "speaker": "Narratore",
+                "text": "<p>[Conclusione della fiaba collegata alla morale matematica/fisica dell'UDA.]</p>",
+                "choices": []
+              }
+            }
+          }
+        </script>
+      </div>
+    </section>
+  </main>
+
+  <div data-site-footer></div>
+
+  <script type="module" src="../../../assets/js/main.js"></script>
+</body>
+</html>

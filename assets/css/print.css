@@ -1,0 +1,242 @@
+/* ==========================================================================
+   STAMPA & PDF — Le comode lezioni d'Ivano
+   Ottimizzato per stampa A4 sia a colori sia in bianco e nero (alto contrasto).
+   Include intestazione compilabile (Nome, Cognome, Anno, Classe) e spazi risposta.
+   ========================================================================== */
+
+@page {
+  size: A4 portrait;
+  margin: 14mm 14mm 16mm 14mm;
+}
+
+@media print {
+  :root,
+  [data-theme="dark"],
+  [data-theme="light"] {
+    color-scheme: light;
+    --bg-page: #ffffff;
+    --bg-surface: #ffffff;
+    --bg-surface-elevated: #f4f4f4;
+    --bg-surface-subtle: #ffffff;
+    --bg-code: #f5f5f5;
+    --text-primary: #000000;
+    --text-secondary: #111111;
+    --text-muted: #333333;
+    --border-subtle: #444444;
+    --border-strong: #000000;
+    --accent-primary: #000000;
+    --shadow-sm: none;
+    --shadow-md: none;
+  }
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 10.5pt;
+    line-height: 1.45;
+  }
+
+  /* Nascondi elementi interattivi non stampabili */
+  .site-header,
+  .site-footer,
+  .no-print,
+  .toast-container,
+  .exercise-actions,
+  .exercise-feedback,
+  .exercise-hints,
+  .exercise-solution,
+  .slider-group,
+  .flashcard-stage,
+  .flashcard-controls,
+  .story-choices,
+  audio,
+  .hero-actions {
+    display: none !important;
+  }
+
+  /* Mostra gli elementi dedicati alla versione cartacea */
+  .print-only {
+    display: block !important;
+  }
+
+  /* Intestazione studente all'inizio della UDA / lezione */
+  .print-header {
+    display: block !important;
+    border: 1.5pt solid #000000;
+    border-radius: 4px;
+    padding: 10pt 12pt;
+    margin-bottom: 14pt;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .print-header-title {
+    font-size: 13pt;
+    font-weight: 800;
+    margin-bottom: 8pt;
+    border-bottom: 1pt solid #000000;
+    padding-bottom: 4pt;
+  }
+
+  .print-student-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8pt 14pt;
+    font-size: 10pt;
+  }
+
+  .print-field {
+    display: flex;
+    align-items: flex-end;
+    gap: 6pt;
+  }
+
+  .print-field-label {
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .print-field-line {
+    flex: 1;
+    border-bottom: 1pt solid #000000;
+    min-height: 14pt;
+  }
+
+  /* Spazio per scrivere le risposte sul foglio */
+  .print-answer-box {
+    display: block !important;
+    margin-top: 8pt;
+    min-height: 54pt;
+    border: 1pt dashed #000000;
+    border-radius: 3px;
+    padding: 6pt;
+    background: repeating-linear-gradient(
+      to bottom,
+      #ffffff,
+      #ffffff 17pt,
+      #d0d0d0 17pt,
+      #d0d0d0 17.6pt
+    );
+  }
+
+  .print-answer-box-tall {
+    min-height: 110pt;
+  }
+
+  /* Card e blocchi: evita spezzamenti scomodi */
+  .card,
+  .callout,
+  .exercise-card,
+  .interactive-widget,
+  .concept-map-box,
+  .jingle-box,
+  .story-box {
+    background: #ffffff !important;
+    border: 1pt solid #000000 !important;
+    padding: 10pt 12pt;
+    margin-block: 10pt;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .callout {
+    border-left: 4pt solid #000000 !important;
+  }
+
+  /* Badge ben distinguibili anche in B/N */
+  .badge {
+    background: #ffffff !important;
+    color: #000000 !important;
+    border: 1pt solid #000000 !important;
+    padding: 1pt 5pt;
+    font-size: 8.5pt;
+  }
+
+  .badge-clil {
+    border-style: double !important;
+    border-width: 2pt !important;
+  }
+
+  /* Input numerici/testuali stampati come spazi da compilare */
+  .exercise-input {
+    border: none !important;
+    border-bottom: 1pt solid #000000 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    min-width: 160pt;
+    height: 18pt;
+  }
+
+  .exercise-option {
+    background: #ffffff !important;
+    border: 0.75pt solid #444444 !important;
+    padding: 4pt 7pt;
+  }
+
+  /* Flashcard stampate come tabella di ripasso */
+  .flashcard-print-list {
+    display: block !important;
+  }
+
+  .flashcard-print-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 6pt;
+    font-size: 9.5pt;
+  }
+
+  .flashcard-print-table th,
+  .flashcard-print-table td {
+    border: 1pt solid #000000;
+    padding: 5pt 7pt;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .flashcard-print-table th {
+    background: #eaeaea !important;
+    font-weight: 700;
+  }
+
+  /* Mappa concettuale SVG ad alto contrasto B/N */
+  .concept-map-node rect {
+    fill: #ffffff !important;
+    stroke: #000000 !important;
+    stroke-width: 1.5 !important;
+  }
+
+  .concept-map-node text {
+    fill: #000000 !important;
+  }
+
+  .concept-map-edge {
+    stroke: #000000 !important;
+  }
+
+  /* Link puliti senza distrazioni */
+  a {
+    color: #000000 !important;
+    text-decoration: none !important;
+  }
+
+  h1,
+  h2,
+  h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .container {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  main.site-main {
+    padding: 0;
+  }
+}

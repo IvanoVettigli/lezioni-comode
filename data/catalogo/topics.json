@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "macroAreas": [
+    { "id": "misure-numeri", "label": "Misure, Numeri & Proporzioni", "order": 1 },
+    { "id": "algebra-funzioni", "label": "Algebra, Funzioni & Analisi", "order": 2 },
+    { "id": "geometria", "label": "Geometria", "order": 3 },
+    { "id": "dati-statistica-probabilita", "label": "Dati, Statistica & Probabilità", "order": 4 },
+    { "id": "logica-informatica", "label": "Logica & Informatica", "order": 5 },
+    { "id": "fisica", "label": "Fisica", "order": 6 },
+    { "id": "chimica", "label": "Chimica", "order": 7 },
+    { "id": "scienze-naturali", "label": "Scienze Naturali", "order": 8 },
+    { "id": "robotica-controllo", "label": "Robotica & Controllo", "order": 9 }
+  ],
+  "topics": [
+    {
+      "id": "equivalenze-unita-misura",
+      "macroArea": "misure-numeri",
+      "label": "Equivalenze e unità di misura",
+      "synonyms": ["equivalenze", "conversioni", "unita di misura", "SI", "litri", "metri cubi", "km/h", "m/s", "scale"]
+    },
+    {
+      "id": "notazione-scientifica-ordini-grandezza",
+      "macroArea": "misure-numeri",
+      "label": "Notazione scientifica e ordini di grandezza",
+      "synonyms": ["notazione scientifica", "potenze di 10", "ordini di grandezza", "stime", "prefissi"]
+    },
+    {
+      "id": "frazioni-proporzioni-percentuali",
+      "macroArea": "misure-numeri",
+      "label": "Frazioni, proporzioni e percentuali",
+      "synonyms": ["percentuali", "proporzioni", "rapporti", "frazioni", "sconti", "variazioni percentuali", "bollette"]
+    },
+    {
+      "id": "potenze-radici",
+      "macroArea": "misure-numeri",
+      "label": "Potenze e radici",
+      "synonyms": ["esponenti", "radici quadrate", "proprieta delle potenze", "radicali"]
+    },
+    {
+      "id": "teoria-numeri-divisibilita",
+      "macroArea": "misure-numeri",
+      "label": "Teoria dei numeri, divisibilità e resto",
+      "synonyms": ["numeri primi", "mcd", "mcm", "divisibilita", "aritmetica modulare", "cifre", "interi"]
+    },
+    {
+      "id": "incertezza-errori-misura",
+      "macroArea": "misure-numeri",
+      "label": "Errori di misura, cifre significative e arrotondamenti",
+      "synonyms": ["cifre significative", "errore relativo", "errore assoluto", "sensibilita", "stima", "incertezza"]
+    },
+
+    {
+      "id": "calcolo-letterale-polinomi",
+      "macroArea": "algebra-funzioni",
+      "label": "Calcolo letterale, monomi e polinomi",
+      "synonyms": ["polinomi", "prodotti notevoli", "scomposizioni", "espressioni algebriche", "formule inverse"]
+    },
+    {
+      "id": "equazioni-disequazioni-lineari",
+      "macroArea": "algebra-funzioni",
+      "label": "Equazioni e disequazioni di 1° grado",
+      "synonyms": ["equazioni lineari", "disequazioni", "primo grado", "modellizzazione algebrica"]
+    },
+    {
+      "id": "equazioni-secondo-grado",
+      "macroArea": "algebra-funzioni",
+      "label": "Equazioni e disequazioni di 2° grado",
+      "synonyms": ["secondo grado", "delta", "discriminante", "grado superiore"]
+    },
+    {
+      "id": "sistemi-equazioni",
+      "macroArea": "algebra-funzioni",
+      "label": "Sistemi di equazioni e disequazioni",
+      "synonyms": ["sistemi lineari", "due incognite", "intersezione"]
+    },
+    {
+      "id": "funzioni-lineari-proporzionalita",
+      "macroArea": "algebra-funzioni",
+      "label": "Funzioni lineari, rette e proporzionalità",
+      "synonyms": ["rette", "pendenza", "coefficiente angolare", "proporzionalita diretta", "proporzionalita inversa", "tariffe"]
+    },
+    {
+      "id": "funzioni-quadratiche-coniche",
+      "macroArea": "algebra-funzioni",
+      "label": "Parabole, funzioni quadratiche e coniche",
+      "synonyms": ["parabola", "vertice", "massimo", "minimo", "circonferenza", "ellisse", "iperbole"]
+    },
+    {
+      "id": "esponenziali-logaritmi",
+      "macroArea": "algebra-funzioni",
+      "label": "Esponenziali e logaritmi",
+      "synonyms": ["crescita esponenziale", "decadimento", "logaritmi", "interesse composto", "raddoppio", "emivita"]
+    },
+    {
+      "id": "goniometria-trigonometria",
+      "macroArea": "algebra-funzioni",
+      "label": "Goniometria e trigonometria",
+      "synonyms": ["seno", "coseno", "tangente", "radianti", "triangoli rettangoli", "funzioni periodiche"]
+    },
+    {
+      "id": "successioni-serie",
+      "macroArea": "algebra-funzioni",
+      "label": "Successioni, progressioni e serie",
+      "synonyms": ["progressione aritmetica", "progressione geometrica", "ricorsione", "pattern numerici"]
+    },
+    {
+      "id": "analisi-limiti-derivate-integrali",
+      "macroArea": "algebra-funzioni",
+      "label": "Analisi matematica (limiti, derivate, integrali)",
+      "synonyms": ["studio di funzione", "derivata", "integrale", "asintoti", "massimi e minimi", "ottimizzazione"]
+    },
+
+    {
+      "id": "geometria-euclidea-piana",
+      "macroArea": "geometria",
+      "label": "Geometria piana (angoli, triangoli, poligoni, cerchio)",
+      "synonyms": ["triangoli", "angoli", "circonferenza", "poligoni", "proprieta geometriche", "parallelismo"]
+    },
+    {
+      "id": "aree-perimetri",
+      "macroArea": "geometria",
+      "label": "Aree e perimetri",
+      "synonyms": ["area", "perimetro", "superficie", "figure composte"]
+    },
+    {
+      "id": "pitagora-similitudine",
+      "macroArea": "geometria",
+      "label": "Teorema di Pitagora, Euclide e similitudine",
+      "synonyms": ["pitagora", "talete", "triangoli simili", "rapporti di scala"]
+    },
+    {
+      "id": "geometria-solida-volumi",
+      "macroArea": "geometria",
+      "label": "Geometria solida, volumi e superfici",
+      "synonyms": ["volumi", "prismi", "cilindri", "sfere", "coni", "cubi", "capacita"]
+    },
+    {
+      "id": "geometria-analitica",
+      "macroArea": "geometria",
+      "label": "Geometria analitica nel piano cartesiano",
+      "synonyms": ["piano cartesiano", "coordinate", "distanza tra punti", "punto medio"]
+    },
+    {
+      "id": "vettori-trasformazioni",
+      "macroArea": "geometria",
+      "label": "Vettori e trasformazioni geometriche",
+      "synonyms": ["vettori", "simmetrie", "rotazioni", "traslazioni", "omotetie", "componenti"]
+    },
+
+    {
+      "id": "lettura-grafici-tabelle",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Lettura e interpretazione di grafici e tabelle",
+      "synonyms": ["grafici", "tabelle", "istogrammi", "aerogrammi", "diagrammi cartesiani", "dati reali"]
+    },
+    {
+      "id": "statistica-descrittiva",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Statistica descrittiva (media, mediana, moda, variabilità)",
+      "synonyms": ["media", "mediana", "moda", "deviazione standard", "varianza", "quartili", "box plot", "frequenze"]
+    },
+    {
+      "id": "calcolo-combinatorio",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Calcolo combinatorio e conteggio",
+      "synonyms": ["permutazioni", "combinazioni", "disposizioni", "conteggio", "principio dei cassetti"]
+    },
+    {
+      "id": "probabilita-base",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Probabilità classica ed eventi",
+      "synonyms": ["probabilita", "dadi", "carte", "urne", "eventi indipendenti", "valore atteso"]
+    },
+    {
+      "id": "probabilita-condizionata-bayes",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Probabilità condizionata, Bayes e distribuzioni",
+      "synonyms": ["bayes", "probabilita condizionata", "binomiale", "gaussiana", "normale", "test diagnostici"]
+    },
+    {
+      "id": "matematica-finanziaria",
+      "macroArea": "dati-statistica-probabilita",
+      "label": "Matematica finanziaria, investimenti e tariffe",
+      "synonyms": ["conti deposito", "interessi", "tassi", "bollette", "preventivi", "costi", "economia"]
+    },
+
+    {
+      "id": "logica-proposizionale-booleana",
+      "macroArea": "logica-informatica",
+      "label": "Logica deduttiva, insiemi e algebra booleana",
+      "synonyms": ["logica", "insiemi", "and", "or", "not", "implicazione", "tabelle di verita", "cavalieri e furfanti"]
+    },
+    {
+      "id": "codifica-sistemi-numerazione",
+      "macroArea": "logica-informatica",
+      "label": "Sistemi di numerazione (binario, esadecimale) e codifica",
+      "synonyms": ["binario", "bit", "byte", "codifica", "immagini", "compressione", "basi numeriche"]
+    },
+    {
+      "id": "algoritmi-pensiero-computazionale",
+      "macroArea": "logica-informatica",
+      "label": "Algoritmi, diagrammi di flusso e pensiero computazionale",
+      "synonyms": ["algoritmi", "flowchart", "ricorsione", "greedy", "ordinamento", "ricerca", "complessita", "bebras"]
+    },
+    {
+      "id": "lettura-codice-programmazione",
+      "macroArea": "logica-informatica",
+      "label": "Lettura e tracciamento di codice",
+      "synonyms": ["c++", "python", "pseudocodice", "cicli", "array", "funzioni", "debug", "output"]
+    },
+    {
+      "id": "grafi-strutture-dati",
+      "macroArea": "logica-informatica",
+      "label": "Grafi, alberi e strutture dati",
+      "synonyms": ["grafi", "cammini minimi", "alberi", "code", "pile", "reti"]
+    },
+    {
+      "id": "crittografia-sicurezza",
+      "macroArea": "logica-informatica",
+      "label": "Crittografia e cifrari",
+      "synonyms": ["cifrario", "crittografia", "chiavi", "messaggi cifrati"]
+    },
+
+    {
+      "id": "cinematica",
+      "macroArea": "fisica",
+      "label": "Cinematica (moto rettilineo, circolare, parabolico)",
+      "synonyms": ["velocita", "accelerazione", "mru", "mrua", "caduta libera", "moto parabolico", "moto circolare", "grafici spazio-tempo"]
+    },
+    {
+      "id": "dinamica-forze",
+      "macroArea": "fisica",
+      "label": "Dinamica, principi di Newton e forze",
+      "synonyms": ["forze", "newton", "attrito", "peso", "tensione", "piano inclinato", "molla", "hooke"]
+    },
+    {
+      "id": "statica-equilibrio",
+      "macroArea": "fisica",
+      "label": "Statica, leve, momenti ed equilibrio",
+      "synonyms": ["equilibrio", "momento torcente", "baricentro", "leve", "carrucole"]
+    },
+    {
+      "id": "lavoro-energia-potenza",
+      "macroArea": "fisica",
+      "label": "Lavoro, energia meccanica e potenza",
+      "synonyms": ["energia cinetica", "energia potenziale", "conservazione energia", "lavoro", "potenza", "rendimento", "watt", "joule"]
+    },
+    {
+      "id": "quantita-moto-urti",
+      "macroArea": "fisica",
+      "label": "Quantità di moto, impulso e urti",
+      "synonyms": ["urti elastici", "urti anelastici", "impulso", "momento angolare"]
+    },
+    {
+      "id": "fluidi-pressione",
+      "macroArea": "fisica",
+      "label": "Fluidi, densità, pressione e spinta di Archimede",
+      "synonyms": ["densita", "pressione", "stevino", "pascal", "archimede", "galleggiamento", "barometro", "bernoulli", "portata"]
+    },
+    {
+      "id": "gravitazione-astronomia-fisica",
+      "macroArea": "fisica",
+      "label": "Gravitazione universale e orbite",
+      "synonyms": ["gravita", "keplero", "satelliti", "orbite", "pianeti", "velocita di fuga"]
+    },
+    {
+      "id": "termologia-termodinamica",
+      "macroArea": "fisica",
+      "label": "Calore, temperatura, gas perfetti e termodinamica",
+      "synonyms": ["calore specifico", "passaggi di stato", "dilatazione", "gas perfetti", "primo principio", "entropia", "macchine termiche"]
+    },
+    {
+      "id": "onde-suono-ottica",
+      "macroArea": "fisica",
+      "label": "Onde meccaniche, suono e ottica",
+      "synonyms": ["frequenza", "lunghezza d'onda", "doppler", "riflessione", "rifrazione", "snell", "lenti", "specchi", "interferenza"]
+    },
+    {
+      "id": "elettrostatica-circuiti",
+      "macroArea": "fisica",
+      "label": "Elettrostatica, corrente elettrica e circuiti",
+      "synonyms": ["coulomb", "campo elettrico", "ohm", "resistenze", "serie", "parallelo", "potenza elettrica", "kwh", "bolletta luce", "condensatori"]
+    },
+    {
+      "id": "magnetismo-elettromagnetismo",
+      "macroArea": "fisica",
+      "label": "Magnetismo e induzione elettromagnetica",
+      "synonyms": ["campo magnetico", "lorentz", "faraday", "lenz", "corrente alternata", "trasformatori", "onde elettromagnetiche"]
+    },
+    {
+      "id": "fisica-moderna",
+      "macroArea": "fisica",
+      "label": "Relatività, fisica quantistica e nucleare",
+      "synonyms": ["relativita", "fotoni", "effetto fotoelettrico", "radioattivita", "nucleare", "e=mc2"]
+    },
+
+    {
+      "id": "struttura-atomica-periodica",
+      "macroArea": "chimica",
+      "label": "Struttura atomica, isotopi e tavola periodica",
+      "synonyms": ["atomo", "elettroni", "configurazione elettronica", "tavola periodica", "isotopi", "proprieta periodiche"]
+    },
+    {
+      "id": "legami-nomenclatura",
+      "macroArea": "chimica",
+      "label": "Legami chimici, geometria molecolare e nomenclatura",
+      "synonyms": ["legame covalente", "ionico", "vsepr", "polarita", "numero di ossidazione", "iupac"]
+    },
+    {
+      "id": "stechiometria-moli",
+      "macroArea": "chimica",
+      "label": "Mole, stechiometria e bilanciamento reazioni",
+      "synonyms": ["moli", "avogadro", "massa molare", "reagente limitante", "resa", "bilanciamento"]
+    },
+    {
+      "id": "soluzioni-concentrazioni",
+      "macroArea": "chimica",
+      "label": "Soluzioni, concentrazioni e proprietà colligative",
+      "synonyms": ["molarita", "diluizioni", "percentuale massa", "solubilita", "osmosi"]
+    },
+    {
+      "id": "acidi-basi-ph",
+      "macroArea": "chimica",
+      "label": "Acidi, basi, pH e soluzioni tampone",
+      "synonyms": ["ph", "poh", "titolazione", "tampone", "acidi forti", "acidi deboli"]
+    },
+    {
+      "id": "termochimica-cinetica-equilibrio",
+      "macroArea": "chimica",
+      "label": "Termochimica, cinetica ed equilibrio chimico",
+      "synonyms": ["entalpia", "entropia", "velocita di reazione", "le chatelier", "costante di equilibrio", "gas chimica"]
+    },
+    {
+      "id": "redox-elettrochimica",
+      "macroArea": "chimica",
+      "label": "Reazioni redox ed elettrochimica",
+      "synonyms": ["ossidoriduzione", "pile", "elettrolisi", "potenziali standard"]
+    },
+    {
+      "id": "chimica-organica-biochimica",
+      "macroArea": "chimica",
+      "label": "Chimica organica e biomolecole",
+      "synonyms": ["idrocarburi", "gruppi funzionali", "isomeria", "carboidrati", "proteine", "lipidi", "polimeri"]
+    },
+
+    {
+      "id": "biologia-cellulare-metabolismo",
+      "macroArea": "scienze-naturali",
+      "label": "Biologia cellulare, fotosintesi e metabolismo",
+      "synonyms": ["cellula", "mitosi", "meiosi", "atp", "respirazione cellulare", "fotosintesi", "enzimi"]
+    },
+    {
+      "id": "genetica-evoluzione",
+      "macroArea": "scienze-naturali",
+      "label": "Genetica, DNA, biotecnologie ed evoluzione",
+      "synonyms": ["dna", "rna", "mendel", "ereditarieta", "mutazioni", "darwin", "selezione naturale", "biotecnologie"]
+    },
+    {
+      "id": "anatomia-fisiologia",
+      "macroArea": "scienze-naturali",
+      "label": "Anatomia, fisiologia e salute",
+      "synonyms": ["apparati", "sistema nervoso", "circolatorio", "immunitario", "ormoni", "omeostasi"]
+    },
+    {
+      "id": "ecologia-ecosistemi",
+      "macroArea": "scienze-naturali",
+      "label": "Ecologia, biodiversità e cicli biogeochimici",
+      "synonyms": ["ecosistemi", "catene alimentari", "ciclo del carbonio", "sostenibilita", "popolazioni"]
+    },
+    {
+      "id": "minerali-rocce-geologia",
+      "macroArea": "scienze-naturali",
+      "label": "Minerali, rocce, tettonica, terremoti e vulcani",
+      "synonyms": ["geologia", "tettonica delle placche", "terremoti", "onde sismiche", "vulcani", "rocce", "stratigrafia", "fossili"]
+    },
+    {
+      "id": "atmosfera-clima-idrosfera",
+      "macroArea": "scienze-naturali",
+      "label": "Atmosfera, meteorologia, clima e idrosfera",
+      "synonyms": ["clima", "effetto serra", "pressione atmosferica", "correnti", "acque", "ciclo dell'acqua"]
+    },
+    {
+      "id": "scienze-astronomia-terra",
+      "macroArea": "scienze-naturali",
+      "label": "Astronomia, moti della Terra e sistema solare",
+      "synonyms": ["stagioni", "fusi orari", "eclissi", "stelle", "pianeti", "sistema solare", "universo"]
+    },
+
+    {
+      "id": "sensori-attuatori",
+      "macroArea": "robotica-controllo",
+      "label": "Sensori, attuatori e acquisizione segnali",
+      "synonyms": ["ultrasuoni", "infrarossi", "giroscopio", "encoder", "motori", "servo", "arduino", "calibrazione"]
+    },
+    {
+      "id": "cinematica-robotica-ingranaggi",
+      "macroArea": "robotica-controllo",
+      "label": "Cinematica robotica, ruote e rapporti di ingranaggi",
+      "synonyms": ["ingranaggi", "rapporto di trasmissione", "odometria", "velocita ruote", "traiettorie", "braccio robotico"]
+    },
+    {
+      "id": "controllo-automazione",
+      "macroArea": "robotica-controllo",
+      "label": "Sistemi di controllo, retroazione e automazione",
+      "synonyms": ["feedback", "pid", "inseguitore di linea", "line follower", "stati finiti", "controllo autonomo"]
+    },
+    {
+      "id": "navigazione-path-planning",
+      "macroArea": "robotica-controllo",
+      "label": "Navigazione autonoma, labirinti e path planning",
+      "synonyms": ["maze", "rescue", "ostacoli", "mappatura", "localizzazione", "robocup"]
+    },
+    {
+      "id": "sfida-progettuale-robotica",
+      "macroArea": "robotica-controllo",
+      "label": "Sfide progettuali e compiti di realtà di robotica",
+      "synonyms": ["prototipo", "regolamento gara", "campionati di robotica", "sostenibilita", "progetto stem"]
+    }
+  ]
+}

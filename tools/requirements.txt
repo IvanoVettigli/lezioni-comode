@@ -1,0 +1,5 @@
+# Dipendenze Python opzionali per i tools del progetto
+# Gli script core (serve_local.py, validate_project.py, new_uda.py) usano SOLO la libreria standard.
+#
+# Per la futura esportazione automatizzata dei PDF stampabili da linea di comando:
+# playwright>=1.48.0
