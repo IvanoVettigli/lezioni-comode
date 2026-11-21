@@ -1043,7 +1043,7 @@ function renderCoverageSummary() {
       ? years
           .map(
             (y) =>
-              `<button type="button" class="topic-chip" data-quick-comp="${escapeHtml(c.id)}" data-quick-year="${y}" title="Filtra ${escapeHtml(c.shortName)} (${y})">${y}</button>`
+              `<button type="button" class="topic-chip" data-quick-comp="${escapeHtml(c.id)}" data-quick-year="${y}" title="Mostra i PDF delle prove di ${escapeHtml(c.shortName)} (${y})">${y}</button>`
           )
           .join("")
       : `<span class="muted"><small>Nessuna prova ancora caricata</small></span>`;
@@ -1051,7 +1051,7 @@ function renderCoverageSummary() {
     return `
       <tr>
         <td>
-          <button type="button" class="catalog-comp-link" data-quick-comp="${escapeHtml(c.id)}" title="Mostra tutti i quesiti di ${escapeHtml(c.shortName)}">
+          <button type="button" class="catalog-comp-link" data-quick-comp="${escapeHtml(c.id)}" title="Mostra tutti i PDF delle prove di ${escapeHtml(c.shortName)}">
             <strong>${escapeHtml(c.shortName)}</strong>
           </button>
         </td>
@@ -1136,7 +1136,7 @@ function buildMarkdownExport(items) {
     const topics = (item.allTopics || []).map((t) => topicMap[t]?.label || t).join(", ");
     lines.push(
       `${idx + 1}. **${comp} ${item.year} — ${item.phase}** (${item.originalLevelLabel}) · **${item.questionNumber}**` +
-        (item.questionsPage ? ` (pag. ${item.questionsPage})` : "")
+      (item.questionsPage ? ` (pag. ${item.questionsPage})` : "")
     );
     lines.push(`   - Sintesi: ${item.summary}`);
     lines.push(`   - Argomenti: ${topics}`);
@@ -1324,15 +1324,32 @@ function bindEvents() {
       const cid = quickCompBtn.dataset.quickComp || "";
       const yr = quickCompBtn.dataset.quickYear || "";
       selectedExamKey = "";
+
+      // Propone subito i PDF delle prove di quella competizione/anno nel box "Cerca direttamente una prova"
+      if (examSearchInput) examSearchInput.value = "";
+      if (examCompSelect) examCompSelect.value = cid;
+      populateExamYearOptions(cid);
+      if (examYearSelect) examYearSelect.value = yr;
+
+      // Mantiene allineati anche i filtri quesiti sottostanti
       const compEl = document.querySelector("[data-filter-competition]");
       const minEl = document.querySelector("[data-filter-year-min]");
       const maxEl = document.querySelector("[data-filter-year-max]");
       if (compEl) compEl.value = cid;
       if (minEl) minEl.value = yr;
       if (maxEl) maxEl.value = yr;
+
       renderExamFinderResults();
       renderResults();
-      document.querySelector("#risultati-title")?.scrollIntoView({ behavior: "smooth", block: "start" });
+
+      const compLabel = getCompetitionMap()[cid]?.shortName || cid;
+      const matchingCount = examIndex.filter(
+        (ex) => (!cid || ex.competitionId === cid) && (!yr || ex.year === Number(yr))
+      ).length;
+      showToast(
+        `📑 ${matchingCount === 1 ? "1 prova PDF" : `${matchingCount} prove PDF`} per ${compLabel}${yr ? ` (${yr})` : ""}`
+      );
+      document.querySelector("#cerca-prove-title")?.scrollIntoView({ behavior: "smooth", block: "start" });
       return;
     }
 
@@ -1477,7 +1494,8 @@ function bindEvents() {
 async function initCatalogPage() {
   const resultsMount = document.querySelector("[data-catalog-results]");
   try {
-    const res = await fetch(resolveRootPath("data/catalogo/catalog-index.json"));
+    // Forza la validazione ETag con GitHub Pages (evita che max-age=600 serva il vecchio JSON per 10 minuti dopo un deploy)
+    const res = await fetch(resolveRootPath("data/catalogo/catalog-index.json"), { cache: "no-cache" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     catalog = await res.json();
   } catch (err) {
