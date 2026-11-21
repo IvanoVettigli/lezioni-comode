@@ -76,7 +76,7 @@ const IT_STOPWORDS = new Set([
   "con", "per", "tra", "fra", "al", "allo", "alla", "ai", "agli", "alle", "ed"
 ]);
 
-const PAGE_SIZE = 40;
+const PAGE_SIZE = 5;
 
 let catalog = null;
 let examIndex = [];

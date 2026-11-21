@@ -3274,6 +3274,2405 @@
       ],
       "archived": false,
       "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "bebras-2023-bien-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 1 — Orto di Lisa",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Orto di Lisa: Lisa crea un orto. Vuole piantare cinque ortaggi diversi. Alcuni ortaggi vanno d’accordo tra loro , altri no : Lisa ha diviso l’orto in aree…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 2 — Scarico del treno",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Scarico del treno: Un treno traina vagoni con casse numerate. La gru si trova in una posizione fissa e scarica le casse. Per scaricare una cassa, questa deve…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 3 — Il villaggio di Martina",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Il villaggio di Martina: Nel villaggio di Martina ci sono sei case. Ci sono anche sentieri che possono essere utilizzati per camminare da una casa all’altra…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 4 — Più caldo, più freddo",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "probabilita-base",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Più caldo, più freddo: Nina e Daniel giocano alla caccia al tesoro. Su una tavola con quadrati, Nina seleziona un quadrato e lo tiene a mente. Il tesoro è…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 5 — Mattoni di castoro",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Mattoni di castoro: I mattoni di castoro Otto si differenziano per quattro caratteristiche: 1. larghezza: stretta, media, larga 2. altezza: piccola, media…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 6 — Fontana",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Fontana: L’estate è calda in città. Per questo il sindaco ha fatto installare delle fontane con acqua potabile. Le fontane devono essere posizionate in modo…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 7 — Castello per castori",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Castello per castori: Un castello per castori è composto da 4 parti, tutte in parte sott’acqua e in parte sopra l’acqua. Quando si costruisce una castello per…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 36,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 8 — Ogham",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Ogham: Sue conosce l’antico alfabeto irlandese Ogham. Ogni lettera è composta da uno o più tratti disposti su una lunga linea. Due lettere consecutive sono…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "codifica-sistemi-numerazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 39,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 40,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 9 — Escursioni",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Escursioni: A Mia piacciono le vacanze a piedi, in cui soggiorna ogni notte in un posto diverso. Per la sua prossima vacanza, Mia ha una mappa della regione…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 10 — Go-Bot",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "algoritmi-pensiero-computazionale",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Go-Bot: I Go-Bot sono robot molto semplici. Si muovono su una tavola con delle caselle. Per controllarli, bisogna prima selezionare uno dei go-bot. Quindi si…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "lettura-codice-programmazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 11 — Le commissioni di Emma",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Le commissioni di Emma: Emma è a casa . Deve svolgere tre compiti e tornare: • ritirare un pacco al chiosco • comprare frutta al mercato e • Andare in farmacia…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 52,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 12 — Missione Zerobot",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Missione Zerobot: Lo Zerobot ha un serbatoio sostituibile. Zerobot si muove in una griglia: in alto, in basso, a destra e a sinistra. Ogni volta che si sposta…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 55,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 56,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 13 — Costruiamo ponti!",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Costruiamo ponti!: I bambini si sono trasferiti nell’isola all’estrema sinistra. Bianca deve costruire dei ponti che permettano ai bambini di andare a scuola…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 59,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 60,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 14 — Notazione postfissa",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Notazione postfissa: Un’espressione matematica è costituita da . . . • . . . un operatore: +, -, · o : • . . . e gli operandi: numeri come 1, 2, . . . …",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 64,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 15 — Serratura a combinazione",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Serratura a combinazione: Bob ha una serratura a combinazione sulla porta di casa. Per aprirla, è necessario inserire un codice numerico. Tutte le cifre del…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "lettura-codice-programmazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q16",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 67,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 68,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 16 — Domino",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Domino: Ogni domino ha due caselle. Su ogni casella ci sono da 1 a 6 punti. Hai questi otto domino: Posiziona tutti e otto i domino in fila in modo che ci sia…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q17",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 71,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 72,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 17 — Pantaloni adatti",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Pantaloni adatti: Christian ha bisogno di nuovi pantaloni. Nel negozio, i suoi pantaloni preferiti sono disponibili in sette lunghezze e sette larghezze. I…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-bien-q18",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "questionsPage": 75,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-biennio-soluzioni.pdf",
+      "solutionsPage": 76,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 18 — Rilevatore di conflitti",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Rilevatore di conflitti: Anna e Ben vogliono costruire un «rilevatore di conflitti» che mostri se hanno un’opinione diversa. Decidono di utilizzare delle unità…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-trie-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 1 — Assegnazione di lavoro",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Assegnazione di lavoro: Una scuola di lingue ha in programma quattro corsi estivi. Le linee nell’immagine mostrano quale insegnante della scuola è adatto a…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "lettura-codice-programmazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-trie-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "questionsPage": 61,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "solutionsPage": 62,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 14 — Pittura ricorsiva",
+      "primaryTopic": "lettura-codice-programmazione",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Pittura ricorsiva: Tina e Ben aiutano a preparare una mostra speciale al Museo dell’Informatica. Devono dipingere un quadro di 16 × 16 metri sul pavimento di…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "lettura-codice-programmazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2023-trie-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2023",
+      "year": 2023,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2023/Castoro-informatico-2023-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2023/bebras-castoro-2023-triennio-soluzioni.pdf",
+      "solutionsPage": 64,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2023 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Decodifica",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "codifica-sistemi-numerazione",
+        "lettura-codice-programmazione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2023 · Decodifica: In un codice speciale per i testi, ogni lettera è codificata da un codice composto dalle cifre da 0 a 9. Si applica questa regola: nessuna parola…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2023",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 1 — Considerazioni epidemiologiche",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Considerazioni epidemiologiche: Biberland è composta da 12 città, che sono collegate da strade. Le città che sono direttamente o indirettamente collegate da…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 2 — Il ritmo di Tabea",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Il ritmo di Tabea: Tabea ha molto successo nel creare testi di canzoni con il marchio ttt: Tabea’s Tactful Texts. I testi possono essere prodotti con il…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 3 — Elettrodomestici",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Elettrodomestici: Nella casa del castoro Bruno ci sono cinque elettrodomestici (computer, lavatrice, televisione, macchina per il caffè e aspirapolvere) e…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 4 — Rete ferroviaria",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Rete ferroviaria: Questa è una mappa di 5 città e 4 linee ferroviarie. I punti neri sono le città, le linee colorate sono linee ferroviarie. Un diagramma…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 5 — Rete di comunicazione",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Rete di comunicazione: Ai castori piace diffondere notizie tra di loro. A tale scopo utilizzano la rete di comunicazione qui sotto. Quando un castoro riceve un…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 6 — Il castoro testardo",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Il castoro testardo: Il castoro Fred incontra i canguri su un percorso di ceppi di albero. Il percorso è piuttosto stretto, così che lui e i canguri non…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 7 — Taxi acquatico",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Taxi acquatico: I tre castori Alan, Bob e Conrad vogliono prendere un taxi acquatico. C’è solo un taxi acquatico. Alan pagherebbe 4 talleri (4× ), Bob invece 5…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 36,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 8 — Armadietti",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Armadietti: Cinque bambini hanno ciascuno un armadietto etichettato nella loro scuola. Le cinque chiavi corrispondenti hanno numeri a tre cifre…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 39,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 40,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 9 — Triangolo di Sierpiński",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Triangolo di Sierpiński: Per ottenere il cosiddetto triangolo di Sierpiński, si deve prima disegnare un triangolo bianco equilatero. Poi si procede passo dopo…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 10 — L’arcipelago dei castori",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · L’arcipelago dei castori: L’arcipelago dei castori è composto da dieci isole collegate da ponti. Qui sotto c’è una mappa. Il numero su ogni ponte indica il…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 11 — Lavagna rovinata",
+      "primaryTopic": "crittografia-sicurezza",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Lavagna rovinata: I castori utilizzano un codice segreto in cui ogni lettera è sostituita da un carattere completamente nuovo. Come creare i nuovi caratteri è…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "crittografia-sicurezza"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 52,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 12 — 4×4 sudoku con gli alberi",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · 4×4 sudoku con gli alberi: I castori piantano sedici alberi (quattro alberi di altezza 4 , quattro alberi di altezza 3 , quattro alberi di altezza 2 e quattro…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 55,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 56,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 13 — Sacchetto per i soldi",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Sacchetto per i soldi: A Bina piace andare a nuotare. Mette i suoi soldi in sacchetti impermeabili in modo che il metallo non inizi ad arrugginire. Ieri Bina…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 59,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 60,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 14 — Riscaldamento a pavimento",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Riscaldamento a pavimento: A Luis non piace vestirsi al mattino nel bagno freddo, quindi vuole che nella nuova casa venga installato il riscaldamento a…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-bien-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-biennio-soluzioni.pdf",
+      "solutionsPage": 64,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 15 — Castori rilassati",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "sistemi-equazioni"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Castori rilassati: In un villaggio idilliaco, i castori sono molto rilassati nel gestire il loro tempo. Suddividono la giornata in soli 8 periodi di 3 ore…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 1 — Sequenza di DNA",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Sequenza di DNA: Il nostro materiale genetico è immagazzinato in sequenze di DNA. Una sequenza di DNA è essenzialmente una sequenza di basi che si presentano…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 5 — Gioco con le tessere",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Gioco con le tessere: Giulia vuole comprare delle tessere per realizzare questa figura: Il negozio di giocattoli offre diverse tessere in qualsiasi quantità. I…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — Las Bebras",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Las Bebras: Al Casinò «Las Bebras» Gloria può giocare da John utilizzando delle monete. Gloria ha 4 monete con rappresentato sul davanti una testa , e sul…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 11 — Alberi digitali",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Alberi digitali: Un albero digitale cresce dal seguente pezzo di albero singolo: . Cresce gradualmente secondo una regola di crescita predeterminata. La regola…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 59,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 60,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 14 — Canguro salterino",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Canguro salterino: Un canguro vuole tornare a casa . Può solo saltare seguendo il percorso e raggiungere l’incrocio successivo con un unico grande salto. Ad un…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2020-trie-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2020",
+      "year": 2020,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2020/Castoro-informatico-2020-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "questionsPage": 63,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2020/bebras-castoro-2020-triennio-soluzioni.pdf",
+      "solutionsPage": 64,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2020 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Scomparti e biglie",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2020 · Scomparti e biglie: Hira ha una scatola divisa in 9 scomparti e un numero illimitato di biglie: Hira mette le biglie negli scomparti della scatola. Rispetta le…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2020",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q01",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 1 — Rangoli",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Rangoli: Il rangoli è una forma d’arte proveniente dall’India. Vengono posati dei motivi sul pavimento. Questi motivi sono per lo più simmetrici. Per il suo…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q02",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 2 — Bandiere variopinte",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "grafico",
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Bandiere variopinte: Il costruttore di barche dei castori costruisce barche eccellenti. Ogni castoro vuole avere una barca di quel tipo. Ma: come fanno a…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q03",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 3 — Caratteri cinesi variopinti",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Caratteri cinesi variopinti: La struttura dei caratteri cinesi ci appare estranea. Per capire meglio la composizione di alcuni caratteri cinesi si può pensare…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q04",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 4 — Ingredienti degli hamburger",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Ingredienti degli hamburger: BeaverBurger offre sei ingredienti (A, B, C, D, E e F) per i suoi hamburger fatti in casa. La tabella seguente mostra gli…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "lettura-grafici-tabelle"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q05",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 5 — Segnali di fumo",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Segnali di fumo: Un castoro si siede sempre sulla montagna e osserva il tempo. Trasmette ai castori nella valle come sarà il tempo. Usa segnali di fumo che…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "geometria-solida-volumi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q06",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 6 — Torri speciali",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Torri speciali: Una torre è speciale quando tutte le torri alla sua sinistra sono più piccole e tutte le torri alla sua destra sono più grandi. Quante torri…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q07",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 7 — Biglie traballanti",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Biglie traballanti: In una scatola rettangolare sono inserite quindici biglie della stessa dimensione. Due biglie vengono rimosse come mostrato nel disegno. La…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q08",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 8 — Un sacchetto pieno di caramelle",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Un sacchetto pieno di caramelle: Petra ha in un sacchetto opaco quattro caramelle rosse, quattro verdi e quattro gialle. Inoltre ha una ciotola vuota. Petra e…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q09",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 9 — La rete dei castori",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · La rete dei castori: Tre castori marroni chiari e tre castori marroni scuri nuotano attraverso un sistema di canali dal basso verso l’alto. Ad ogni incrocio di…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 36,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 10 — Segnali luminosi",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Segnali luminosi: Sina ha collegato otto lampade con interruttori e cavi. Può quindi mandare dei messaggi. Usa la seguente tabella di codificazione, nella…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "codifica-sistemi-numerazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q11",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 39,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 40,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 11 — Quipu",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Quipu: Gli Inca usavano in precedenza dei nodi per la trasmissione di messaggi. Ad una corda principale sono appese delle corde secondarie, alle quali erano…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 41,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 42,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 12 — Bufera di neve",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Bufera di neve: Dopo una forte bufera di neve ci sono ammassi di neve dappertutto e gli abitanti dei tre igloo sono isolati. Gli abitanti possono sgombrare i…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 13 — Che bello che ci sono gli alberi",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Che bello che ci sono gli alberi: Sergio ha scritto una canzone che descrive come da un albero possono nascere diversi oggetti. Un verso fa così: Che bello che…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 14 — Compressione video",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "grafi-strutture-dati",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Compressione video: I video hanno bisogno di molto spazio di archiviazione. Allo stesso tempo, tuttavia, due immagini fisse consecutive di un video sono spesso…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "codifica-sistemi-numerazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-bien-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 9–10 / 11–13)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici9-10-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-biennio-soluzioni.pdf",
+      "solutionsPage": 52,
+      "levels": [
+        "biennio",
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 9–10 (Biennio)",
+      "questionNumber": "Quesito 15 — Stazione di smistamento",
+      "primaryTopic": "codifica-sistemi-numerazione",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Stazione di smistamento: Un treno merci deve consegnare i singoli vagoni merci ai binari di raccordo lungo la linea principale. Per risparmiare tempo ed…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "codifica-sistemi-numerazione"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-trie-q10",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "questionsPage": 37,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "solutionsPage": 38,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 10 — La segheria",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · La segheria: In una segheria i tronchi vengono tagliati in lunghezze tra i 60 cm e i 160 cm e poi vengono caricati su dei camion. All’interno della segheria i…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-trie-q12",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "questionsPage": 43,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "solutionsPage": 44,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 12 — Pista delle biglie",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Pista delle biglie: Una pista per le biglie contiene quattro “bilzo balzo”, i quali possono avere due inclinazioni: • Se il bilzo balzo è inclinato verso…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-trie-q13",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "questionsPage": 47,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "solutionsPage": 48,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 13 — Quattro pesci",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Quattro pesci: Nell’informatica il funzionamento degli operatori come + o * in parte dipende dal tipo di dati in questione. La tabella seguente mostra diverse…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-trie-q14",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "questionsPage": 51,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "solutionsPage": 52,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 14 — Lavoro estivo",
+      "primaryTopic": "algoritmi-pensiero-computazionale",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Lavoro estivo: Come lavoro estivo consegni dei pacchi con la bicicletta. Inizi nella località A e consegni in tutte le altre sette località ogni volta un…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "algoritmi-pensiero-computazionale"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "bebras-2019-trie-q15",
+      "competitionId": "olimpiadi-informatica",
+      "edition": "Bebras / Castoro Informatico 2019",
+      "year": 2019,
+      "phase": "Gara Bebras in Italiano (Anni 11–13 — Triennio)",
+      "sourceType": "official_exam",
+      "sourceSite": "castoro-informatico.ch (Bebras SSII)",
+      "originalQuestionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "originalSolutionsUrl": "https://www.castoro-informatico.ch/documents/2019/Castoro-informatico-2019-AnniScolastici11-13-conSoluzioni.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "questionsPage": 55,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-informatica/2019/bebras-castoro-2019-triennio-soluzioni.pdf",
+      "solutionsPage": 56,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Castoro / Bebras 2019 — Anni 11–13 (Triennio)",
+      "questionNumber": "Quesito 15 — Mappa del tesoro",
+      "primaryTopic": "grafi-strutture-dati",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "mista",
+      "language": "it",
+      "summary": "Bebras 2019 · Mappa del tesoro: Il re dei castori governa su sette province i cui confini sono rappresentati sotto sulla mappa. Ha nascosto il suo tesoro in una delle…",
+      "keywords": [
+        "bebras",
+        "castoro informatico",
+        "pensiero computazionale",
+        "2019",
+        "grafi-strutture-dati"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
     }
-  ]
+  ],
+  "description": "Prove ufficiali delle Olimpiadi Italiane di Informatica (OII Selezioni Scolastiche 2022–2021) e Bebras / Castoro Informatico (2025, 2024, 2023, 2020, 2019 con soluzioni)."
 }

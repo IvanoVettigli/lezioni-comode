@@ -4240,6 +4240,3749 @@
       ],
       "archived": false,
       "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "useso-2024-s1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q1",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Shown below is a sketch of a geologic cross-section. The dots indicate two fossils located in the same rock unit. Identify the type of fold and…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q2",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Which of the following is most likely true regarding the flow of groundwater?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q3",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Consider the following temperature-salinity (T-S) diagram. Each labeled point represents a possible combination of temperature and salinity…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q4",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Io is a moon of Jupiter subjected to immense tidal forces due to its interactions with nearby moons Europa and Ganymede. Which of the following…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q5",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Paige the pilot explores three planets identical to Earth except with different directions of rotation (when viewed from above the North Pole)…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q6",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): A rising magma plume enters a section of continental crust. Which of the following minerals would be the first to crystallize from the magma?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q7",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Shown below are two atmospheric maps of the contiguous United States. The wavy black lines represent height contours at 500 mb. Which of the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q8",
+      "primaryTopic": "ecologia-ecosistemi",
+      "secondaryTopics": [
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): The concentrations of iron oxide and aluminum in tropical soil horizons are heavily influenced by leaching. Which of the following correctly…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "ecologia-ecosistemi"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q9",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Light produced by nuclear fusion in the Sun’s core powers almost all biological processes on Earth. However, this light does not follow a smooth…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q10",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "ecologia-ecosistemi"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): The graph below records a remarkable 2023 anomaly in Atlantic sea surface temperature (SST), a phenomenon which has caught widespread media…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q11",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Gwen the geologist measures temperature profiles of the crust in three regions and finds geothermal gradients of 20◦C/km, 30◦C/km, and 40◦C/km…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q12",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra",
+        "termologia-termodinamica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Mike the meteorologist creates and releases two sets of balloons into the atmosphere. The first set contains air heated to different…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q13",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): A gyre consists of ocean currents circulating around a central region. Which of the following best describes the motion of water at the center of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q14",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): The following map displays four oceanic tectonic plates and their boundaries, with arrows showing each plate’s direction of motion. At which of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q15",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Mass movements tend to occur more frequently on slopes that have been destabilized. Which of the following would likely increase the probability…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q16",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): El Ni˜no is a recurring climate phenomenon that alters the circulation pattern of air over the Pacific Ocean. This pattern is known as the Walker…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q17",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Gerry the geologist stumbles upon a rare exposed gabbro pluton surrounded by a region of metamorphic rock. After setting up a station on the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q18",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Comet Hale–Bopp reached its perihelion in April 1997, becoming visible to the naked eye for 18 months. In the year 4385 CE, Hale–Bopp is expected…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q19",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Which of the following statements accurately describe(s) radiation in the Earth system? I) Greenhouse gases increase surface temperatures mainly…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q20",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): The diagram below shows travel time curves for selected types of seismic waves released during an earthquake. Distance is measured from the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q21",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): An exoplanet is observed transiting a Sun-like star every 3.54 days, dimming the star by about 1% each time it passes in front. Given that the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q22",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Roger the rock hound collects samples from the rock layers shown below to be radiometrically dated. After processing the samples, he obtains the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q23",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): A meandering river repeatedly overflows, leading to the formation of natural levees along its banks. Which of the following cross-sectional views…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q24",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Estuaries are water bodies most commonly found in regions where rivers and oceans meet. Which of the following statements is/are true regarding…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q25",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Shown below is a map of average meridional wind speed at a pressure of 250 mb (v250). Positive v250 corresponds to northward winds and negative…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q26",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra",
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Shown below are simulated hydrothermal vent plumes in subsurface oceans of two icy moons. The plumes both originated from point heat sources on…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q27",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Which of the following sets of conditions would be most favorable for the formation of a nighttime radiation fog?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q28",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Eustatic sea level change is largely driven by freezing and thawing in polar regions. Rank the following ice masses in increasing order of effect…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q29",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): Diana knows that, beginning one million years ago at a particular section of tectonically inactive coastline, the sea level fell from its initial…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2024-s1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2024",
+      "year": 2024,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_Test_BW.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2024/03/2024_USESO_Open_Section-I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2024/useso-2024-open-section-1-key.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2024 (EN · CLIL)",
+      "questionNumber": "Q30",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2024 (Earth Science): A new planet, similar to Earth and possessing both liquid water and an atmosphere, is discovered. However, it is found to have five instead of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2024",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q1",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Consider the following map of the main channel of a graded stream segment. Tributaries are hidden and the width of the stream on the map is not…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q2",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): A sediment core is taken from the abyssal plain and layers of different sediments are marked. From top to bottom, in what order would you expect…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q3",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Which of the following conditions would most favor cloud formation?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q4",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The Bonneville Salt Flats are an extremely flat plain in northern Utah with extensive evaporite deposits. Con- sidering the formation of salt…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q5",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The coast of Antarctica is notable for producing the Antarctic Bottom Water, a dense water mass that rapidly sinks to the bottom of the ocean…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q6",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Ephemeral streams are characterized by flow almost exclusively after precipitation events. After a storm, the stream’s discharge is typically…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q7",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Volcanic explosivity can evolve over time due to various internal and external mechanisms. Which of the following conditions would likely…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q8",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Pictured below is a phase diagram for SiO2. Lunar regolith sampled during the Apollo missions was found to have high proportions of SiO2 in the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q9",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The addition of carbon dioxide to the atmosphere results in a series of reactions that create carbonic acid in seawater, resulting in ocean…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q10",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The map below shows the position of a tropical cyclone in the Indian Ocean with the equator marked by the dashed line. At which of the labeled…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q11",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Two metamorphic rocks, labeled 1 and 2, were sampled from a mountain range near an active tectonic margin. They contain index minerals that…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q12",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The biggest effect that airplanes have on the climate is surprisingly not from CO2 emissions, but from generating long cirrus-like clouds known…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q13",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Consider the following precipitation climatograph. Which of the descriptions below best matches the location it represents?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q14",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Mercury’s surface shows extensive faulting due to cooling and contraction rather than plate tectonics. Which of the following types of faults are…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q15",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The surface map below shows a partially eroded geological structure that includes multiple strata (A is youngest, C is oldest) and a reverse…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q16",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): A student is trying to identify where a thunderstorm could take place on a weather map using only pressure and temperature data. Which of the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q17",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Consider the following surface weather map. Assume X and Y are both at sea level. Which of the following can be inferred? I) X likely has denser…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q18",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Which of the following depositional environments typically have well-sorted, rounded sediment? I) Mountain stream II) Glacial outwash III) Sandy…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q19",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "struttura-atomica-periodica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Jaime finds a carbon film with the following isotopic composition: Isotope mol % 12C 98.1% 13C 1.03% 14C 0.522% 14N 0.347% 15N <0.001% He knows…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q20",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): An earthquake was recorded at four seismic stations around the globe, A, B, C, and D. The diagram below represents a cross-section of the Earth…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q21",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): As climate change melts the Greenland ice sheet, the resulting meltwater enters the northern Atlantic Ocean and remains at the surface instead of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q22",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The following diagram describes the orbit of a comet: Which of the following statements is true about the comet? I) The acceleration of the comet…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q23",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): On this planet, which of the following would likely be the most similar to Earth?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q24",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The increased rotational speed of this planet would cause water to move outward towards the equator, where it would submerge most of the land in…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q25",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Chlorofluorocarbons (CFCs) contribute to the depletion of Earth’s ozone layer, believed to be the main cause of the ‘ozone hole’ in the 1990s…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q26",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): A researcher inserts two devices at the top of a glacier and 100 meters below its surface to measure its flow speed at different levels. Which of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q27",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): The frost line is the distance from the Sun at which a volatile compound can condense into a solid phase. Which of the following statements are…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q28",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): At which of the following boundaries in Earth’s interior is there an increase in density and a sharp decrease in seismic velocity?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q29",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Pictured below is a map of the Atlantic Ocean with the equator marked by a dashed line. Which of the following correctly orders the average…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2023-s1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2023",
+      "year": 2023,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2023/03/2023_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2023/useso-2023-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2023 (EN · CLIL)",
+      "questionNumber": "Q30",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2023 (Earth Science): Martian dust storms are not as strong as Earth’s and are unlikely to damage any major equipment. Which of the following differences between the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2023",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q01",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q1",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): A petrologist infers that a rock cooled very quickly from a silica-rich melt. A rock represented by which labeled region(s) of the graph would be…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q02",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q2",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Earth’s early atmosphere, often referred to as its primary atmosphere, was largely produced by the outgassing of magma. How did the formation of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q03",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q3",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Flow between ocean basins, or interbasin transport, can have significant effects on the global ocean circulation. On average, interbasin…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q04",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q4",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Although surface conditions on Venus are very different from those on Earth, aeolian features have also been observed on Venus’s surface…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q05",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q5",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): The following image shows a map of a coastal region in the Northern Hemisphere with wind blowing over the ocean towards land. Which of the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q06",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q6",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Earthquakes with a hypocenter depth greater than 300 km are known as deep-focus earthquakes. Which of the locations on the bathymetric map below…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q07",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q7",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): A ridge on an upper-air map would dissipate most quickly if directly underlain on the surface by a:",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "fluidi-pressione"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q08",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q8",
+      "primaryTopic": "gravitazione-astronomia-fisica",
+      "secondaryTopics": [
+        "fluidi-pressione",
+        "onde-suono-ottica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Shown is a modeled density profile of the region around the mouth of the Mediterranean Sea (left - Atlantic; right - Mediterranean). On the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "gravitazione-astronomia-fisica"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q09",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q9",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Katabatic winds are strong downslope flows that dominate the Antarctic surface wind field for much of the year. Which of the following statements…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q10",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q10",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): The Isabella anomaly (IA) is an upper-mantle, high-speed P wave anomaly within California’s southern Great Valley and the foothills of the Sierra…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q11",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q11",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Historical sunspot observations are one of the oldest and most continuous records in the earth and space sciences. Sunspot minima, during which…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "termologia-termodinamica"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q12",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q12",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): The accompanying map is of the Canary Islands off the coast of Africa with the Cumbre Vieja volcano labeled. This volcano erupted over several…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q13",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q13",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): The complexity of silicate structures (e.g., complex network silicates to simple isolated tetrahedra) can influence the bulk properties of rock…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q14",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q14",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): The following image shows an unusual weather system off the southern coast of Australia. Identify all of the following statements that are likely…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q15",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q15",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Which of the following best describes how a landward shift in the grounding line would change ice flux (the volumetric rate of ice flow) over it?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q16",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q16",
+      "primaryTopic": "lavoro-energia-potenza",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Does a landward shift of the grounding line favor or work against this positive feedback loop?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "lavoro-energia-potenza"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q17",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q17",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Kirkwood gaps in the asteroid belt are cleared by orbital resonances with Jupiter. Given that Jupiter is on average 5.20 AU from the sun, at…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q18",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q18",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Consider the sea surface temperature anomaly map given. During this time, a high surface air pressure anomaly is expected to be found in the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q19",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q19",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): A sandstone enthusiast has an extensive collection of sandstones from all over the world, and decides to plot feldspar content against the range…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q20",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 10,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q20",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Alice Springs (latitude 24°S, longitude 134°E) is located in central Australia. Based on its location, which of the following can be reasonably…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q21",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 11,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q21",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Though Mars does not currently generate a magnetic field, parts of its crust are magnetized. The map shows the remanent magnetization present on…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q22",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q22",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Which of the following statements about lake temperature are true? I) A temperate lake is typically most stratified during summer months. II) In…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "termologia-termodinamica"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q23",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q23",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Based on the geologic map shown, if large-scale glaciation occurred, which of the following would most likely happen?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q24",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 12,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q24",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Although the fractions of silicon isotopes in diatoms is based on temperature, silica isotopic ratios are not as useful as oxygen isotopic ratios…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q25",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q25",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Jill digs a core and finds this order of rocks, from bottom to top: sandstone, shale, limestone, shale, sandstone. Why might this be the case?",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q26",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q26",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Which of these statements are true regarding winds and tropical cyclones (TCs)? I) Most TCs originate near the equator due to low pressure…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q27",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q27",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [
+        "minerali-rocce-geologia",
+        "scienze-astronomia-terra"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Jerry found a meteorite that he identifies to be an iron meteorite due to its high density and metallic luster once cut open. Which of the…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q28",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q28",
+      "primaryTopic": "scienze-astronomia-terra",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): A planet’s equilibrium temperature is the temperature that it would have if it were a blackbody radiating away all incident energy absorbed from…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "scienze-astronomia-terra"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q29",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q29",
+      "primaryTopic": "atmosfera-clima-idrosfera",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): A harbor experiences a mixed semidiurnal tide, shown below. Two low tides are marked with dashed lines. If the first low tide occurs on Tuesday…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "atmosfera-clima-idrosfera"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "useso-2022-s1-q30",
+      "competitionId": "olimpiadi-scienze-naturali",
+      "edition": "Earth Science Olympiad (USESO / IESO Selection) 2022",
+      "year": 2022,
+      "phase": "National Open Exam — Section I (Scienze della Terra)",
+      "sourceType": "official_exam",
+      "sourceSite": "useso.org (IESO US Open Exam)",
+      "originalQuestionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I.pdf",
+      "originalSolutionsUrl": "https://www.useso.org/wp-content/uploads/2022/04/2022_USESO_Open_Exam_Section_I_KEY.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-scienze-naturali/2022/useso-2022-open-section-1-key.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "triennio",
+        "biennio"
+      ],
+      "originalLevelLabel": "USESO / IESO Open Exam 2022 (EN · CLIL)",
+      "questionNumber": "Q30",
+      "primaryTopic": "minerali-rocce-geologia",
+      "secondaryTopics": [
+        "atmosfera-clima-idrosfera"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "USESO 2022 (Earth Science): Shown below are stratigraphic columns for the coastal towns Northtown and Southtown. Assume they are the same distance from the coast. Which of…",
+      "keywords": [
+        "useso",
+        "ieso",
+        "earth science",
+        "scienze della terra",
+        "clil",
+        "2022",
+        "minerali-rocce-geologia"
+      ],
+      "notes": "Prova ufficiale USESO (selezione internazionale IESO) in inglese con chiavi di risposta commentate, utile anche per percorsi CLIL.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
     }
-  ]
+  ],
+  "description": "Prove ufficiali internazionali di riferimento per le Olimpiadi delle Scienze Naturali (USESO/IESO 2026–2022 e IBO 2020, in inglese CLIL con soluzioni)."
 }

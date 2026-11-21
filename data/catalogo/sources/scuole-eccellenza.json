@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "competitionId": "scuole-eccellenza",
-  "description": "Prove scritte ufficiali ed esercizi di autovalutazione della Scuola Normale Superiore (2026–2024) e della Scuola Superiore Sant'Anna di Pisa (Ingegneria 2025–2023 e Scienze Mediche).",
+  "description": "Prove di ammissione ed esercizi di autovalutazione della Scuola Normale Superiore (SNS Pisa 2026–2024, autovalutazione) e della Scuola Superiore Sant'Anna (Ingegneria 2025–2018 e Scienze Mediche).",
   "items": [
     {
       "id": "sns-2026-matematica-ex1",
@@ -6413,6 +6413,802 @@
       "notes": "Raccolta ufficiale della Scuola Superiore Sant'Anna con esempi e tracce storiche delle prove scritte di ammissione a Scienze Mediche.",
       "archived": false,
       "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "santanna-ing-2020-matematica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica_20-21_0.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-matematica-2020.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Matematica: Un albero del Sant’Anna è cresciuto secondo le seguenti regole: • il tronco è un segmento verticale di lunghezza 1 metro ed il tronco si…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-matematica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica_20-21_0.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-matematica-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "analisi-limiti-derivate-integrali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Matematica: Siano a, b due numeri scelti a caso nell’intervallo [0, 1]. (a) Determinare la probabilità p3 che il polinomio P3(x) = x3 −ax + b abbia tre…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-matematica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica_20-21_0.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-matematica-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Matematica: Un’aula deve essere riconfigurata per il rientro durante una pandemia e si decide che ogni studente deve distare da ogni altro almeno 2 metri…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-fisica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica20-21.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-fisica-2020.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Fisica: La roulette La roulette di Figura 1 è costituita da un disco centrale di raggio r = 30 cm con diversi settori circolari in rotazione con velocità…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-fisica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica20-21.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-fisica-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito",
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Fisica: La resistenza equivalente Sia dato un circuito elettrico costituito da una serie in nita di rami di resistenza R disposti secondo le due con…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-fisica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica20-21.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-fisica-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "vettori-trasformazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Fisica: L'attuatore pneumatico Il laboratorio di robotica dell'Università di Frittole deve sviluppare un componente pneumatico in grado di contrarsi (un…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2020-fisica-es4",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2020/2021",
+      "year": 2020,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica20-21.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2020/santanna-ingegneria-fisica-2020.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2020/2021)",
+      "questionNumber": "Esercizio 4",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2020 · Fisica: Il sottopassaggio Il Comune di Poggio Verde ha deciso di dotare il sottopassaggio stradale di Vicolo Stretto con un semaforo intelligente di ultima…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2020"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2020/2021) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-matematica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-matematica-2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Matematica: La Scuola Sant’Anna ha comprato alcuni computer che, una volta installati e messi in funzione, hanno una probabilità p di guastarsi…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-matematica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-matematica-2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "goniometria-trigonometria",
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Matematica: Quattro allievi del Sant’Anna (Antonio, Beatrice, Cinzia e Dario, indicati con A, B, C e D per comodità) fanno il seguente gioco, dove un intero…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-matematica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/matematica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-matematica-2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Matematica: Mostrare, preliminarmente, che tra tutti i triangoli di area A il triangolo di perimetro P minimo è quello equilatero. Dedurre la più piccola…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-fisica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-fisica-2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "dinamica-forze",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "cinematica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Fisica: Il sistema di sollevamento di Figura 1, costituito da una serie di n pulegge, per metà collegate ad un telaio sso posto in alto e per metà ad una…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-fisica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-fisica-2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [
+        "cinematica",
+        "lavoro-energia-potenza"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Fisica: Una particella di massa m e carica q è vincolata a muoversi nel piano x-y mostrato in gura. Simmetricamente al suddetto piano, a una distanza di ±d…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2019-fisica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2019/2020",
+      "year": 2019,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/fisica19-20.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2019/santanna-ingegneria-fisica-2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2019/2020)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "pitagora-similitudine",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2019 · Fisica: Per testare la nostra nuova stampante 3D abbiamo deciso di realizzare un modellino in scala 1:500 della torre di Pisa. Le dimensioni reali della…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2019"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2019/2020) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-matematica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannamatematica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-matematica-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Matematica: Lo stato di Santannaland utilizza come moneta nazionale il Piso e la Banca Centrale ha deciso di stampare banconote di soltanto due tagli. Si…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-matematica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannamatematica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-matematica-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Matematica: Nello stato di Santannaland la patente a punti, segue le seguenti regole: a) al tempo 0 tutte le patenti hanno 20 punti; b) ad ogni infrazione…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-matematica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Matematica",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannamatematica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-matematica-2018.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Matematica: Un’azienda del centro Italia produce mattonelle quadrate di lato 9 cm al prezzo k1 ciascuna o una loro variante di lato 9,5 cm al prezzo…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "matematica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-fisica-es1",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannafisica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-fisica-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 1",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "dinamica-forze"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Fisica: Un piano inclinato di massa M ed inclinazione α e dotato di ruote è libero di scorrere liberamente senza attrito su un piano orrizontale. Dalla sua…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-fisica-es2",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannafisica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-fisica-2018.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 2",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Fisica: Un contenitore cilindrico di raggio R ed altezza H è riempito con un volume V di liquido avente densità σ. Il contenitore è messo in rotazione…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "santanna-ing-2018-fisica-es3",
+      "competitionId": "scuole-eccellenza",
+      "edition": "Scuola Superiore Sant'Anna — Concorso Ingegneria 2018/2019",
+      "year": 2018,
+      "phase": "Prova Scritta di Fisica e Problem Solving",
+      "sourceType": "official_exam",
+      "sourceSite": "santannapisa.it",
+      "originalQuestionsUrl": "https://www.santannapisa.it/sites/default/files/sannafisica18-19.pdf",
+      "originalSolutionsUrl": "",
+      "questionsPdfLocal": "assets/catalogo-pdf/scuole-eccellenza/2018/santanna-ingegneria-fisica-2018.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "",
+      "solutionsPage": null,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "Sant'Anna Pisa — Ingegneria (2018/2019)",
+      "questionNumber": "Esercizio 3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "matematica-finanziaria",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "dimostrazione",
+      "language": "it",
+      "summary": "Sant'Anna 2018 · Fisica: La Figura 2 mostra lo schema a blocchi di una catena di acquisizione ed elaborazione dell’elettrocardiogramma ossia di un segnale temporale che…",
+      "keywords": [
+        "sant'anna",
+        "scuole eccellenza",
+        "ingegneria",
+        "fisica",
+        "2018"
+      ],
+      "notes": "Traccia ufficiale del concorso di ammissione I anno Ingegneria (2018/2019) della Scuola Superiore Sant'Anna di Pisa.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
     }
   ]
 }

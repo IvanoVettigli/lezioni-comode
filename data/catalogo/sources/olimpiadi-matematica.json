@@ -4244,6 +4244,4543 @@
       ],
       "archived": false,
       "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "umi-arch-2022-bien-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Qual è la cifra delle unità del numero 2023(20222021)?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "equazioni-disequazioni-lineari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "sistemi-equazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Giulia ha un sacco di perline e 5 scatoline colorate dove sistemarle: ne mette 2 nella scatolina gialla, 2 nella scatolina blu, poi 3 in quella…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "sistemi-equazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): ABC è un triangolo isoscele con AC = BC. Si sceglie un punto A′ sul lato AC in modo tale che AB = BA′ = A′C. Qual è l’ampiezza dell’angolo A bCB?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Gabriele nota che il numero 2022 si scrive con 3 cifre uguali (diverse da 0) e una cifra 0. Quanti sono in tutto i numeri naturali di 4 cifre che…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Mentre pensa ad un problema di matematica, Francesco cammina come al solito avanti e indietro, facendo 1 passo in avanti, 2 indietro, 3 in avanti…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "goniometria-trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "probabilita-condizionata-bayes",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Sapendo che il minimo comune multiplo tra due numeri naturali è uguale a 240, qual è il più piccolo valore possibile della loro somma?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "probabilita-condizionata-bayes"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Considerato un parallelogramma ABCD, le rette parallele ai lati passanti per un punto interno P intersecano i lati in A′, B′, C′ e D′, come in…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "circuito"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Su un tavolo ci sono due mattoncini di legno uguali, a forma di parallelepipedo. Clara li vuole impilare uno sull’altro, facendo in modo che le due…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-solida-volumi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): In una tabella 3 × 3 sono scritti tutti i numeri naturali da 1 a 9. Si sa che: il prodotto dei numeri nella riga in alto è 84; il prodotto dei…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Quante sono le terne di numeri naturali tra loro distinti (a, b, c) tali che il numero a sia un divisore di b, il numero b sia un divisore di c ed…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Quanti sono i numeri naturali di 3 cifre dove almeno una delle cifre è uguale a 4?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Laura dipinge di blu l’intera superficie di un cubo di legno, poi lo taglia suddivi- dendolo in 63 = 216 cubetti uguali. Mescolando i cubetti ed…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-solida-volumi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): La tabella qui a fianco, con 7 colonne ed infinite righe che proseguono all’ingiù, viene riempita inserendo nelle caselle i numeri naturali, in…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "lettura-grafici-tabelle"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Un maestro ha assegnato il compito di disegnare sul quaderno un triangolo ABC a piacere, tracciare le tre altezze AA′, BB′, CC′ e misurarne le…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Lucia e Carla giocano una contro l’altra a tombola (senza altri avversari). Ciascuna ha una cartella con 15 numeri; le due cartelle hanno…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-bien-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_biennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_biennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Biennio): Nel triangolo ABC, i lati AB e AC misurano rispettivamente 10 m e 17 m, l’altezza AH misura 8 m e l’angolo bA è ottuso. Indicando con D il punto…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Dato un intero positivo n, quale tra i seguenti numeri differisce meno da n + 3 2 2 ?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): ABC è un triangolo isoscele con AC = BC. Si scelgono due punti A′, A′′ sul lato AC e un punto B′ sul lato BC in modo tale che AB = BA′ = A′B′ =…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Gabriele nota che il numero 2022 si scrive con 3 cifre uguali e una quarta cifra differente dalle altre 3. Quanti sono in tutto i numeri naturali…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "statistica-descrittiva"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Il professore ha appena riportato i compiti corretti in una classe. La media di tutti i voti ricevuti è uguale a 6; il voto medio dei compiti che…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Laura dipinge di blu l’intera superficie di un cubo di legno, poi lo taglia suddivi- dendolo in 63 = 216 cubetti uguali. Mescolando i cubetti ed…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "geometria-solida-volumi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Considerato un parallelogramma ABCD, le rette parallele ai lati passanti per un punto interno P intersecano i lati in A′, B′, C′ e D′, come in…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Quante sono le coppie di interi positivi (a, b) tali che a sia un divisore di b ed inoltre si abbia a + 2b = 1010 ?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Esternamente a un triangolo isoscele ABC (con AC = BC), si costruisce un rombo BCDE, dove C bDE = 96◦. Qual è l’ampiezza dell’angolo B bAD?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Mentre pensa ad un problema di matematica, Francesco cammina come al solito avanti e indietro, facendo 1 passo in avanti, 2 indietro, 3 in avanti…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "goniometria-trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana",
+        "funzioni-lineari-proporzionalita"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): La tabella qui a fianco, con 7 colonne ed infinite righe che proseguono all’ingiù, viene riempita inserendo nelle caselle i numeri naturali, in…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "lettura-grafici-tabelle"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Lungo la costa di un lago circolare ci sono tre porti. Su una mappa, i porti sono collocati in tre posizioni A, B, C e, misurando gli angoli, si…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Quante sono le coppie ordinate di numeri naturali (m, n), con m ⩽n, il cui minimo comune multiplo è uguale a 1515 ?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Alberto e Barbara hanno due sacchetti, che contengono rispettivamente 2022 e 999 caramelle. In qualsiasi momento, uno dei due può mangiare una…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Indicare quanti sono i valori k ∈R per i quali il polinomio p(x) = x2 −kx + 36 ha almeno una radice intera positiva che sia minore di 1000.",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Luca e Carlo giocano uno contro l’altro a tombola (senza altri avversari). Ciascuno ha una cartella con 15 numeri; le due cartelle non hanno…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2022-trie-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2022",
+      "year": 2022,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2022/12/Archimede2022.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-archimede_triennio_2022.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2022/archimede-2022-soluzioni_triennio_2022.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2022 (Triennio): Nel triangolo acutangolo ABC, i lati AB e BC misurano 17 m e 25 m, l’altezza BH misura 15 m. Consideriamo il triangolo A′B′C′, contenuto in ABC, i…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2022",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Lungo una circonferenza sono segnati tre punti rossi, due punti verdi, due punti gialli, un punto blu. Quanti triangoli si possono ottenere…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "probabilita-condizionata-bayes",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Sapendo che (5 −4x)(5x −4) = 0, quale può essere, al massimo, il valore di 3 −2x?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "probabilita-condizionata-bayes"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Dal momento che 2021 = 43 · 47, prodotto di due numeri primi differenti, possiamo dire che 2021 è un numero secondo. Quanti sono i numeri secondi…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Nel triangolo XY Z l’angolo b X misura 48◦e bZ è il triplo di bY . Qual è l’ampiezza di bY ?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Quale tra i seguenti è il quadrato di un numero intero?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "geometria-solida-volumi",
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Nell’isola dove vivono solo cavalieri (che dicono sempre il vero) e furfanti (che dicono sempre il falso), l’ufficio postale è piuttosto affollato…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Le altezze uscenti dai vertici A, B e C del triangolo ABC misurano, rispettivamente, 6 m, 8 m e 4 m. Indicata con ℓ la lunghezza del lato AB…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Paola ha preparato una bevanda mescolando 800 ml di succo di pera con 200 ml di succo di banana, ne beve 300 ml e lascia in una brocca la parte…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "equazioni-disequazioni-lineari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): L’area del triangolo DEF è di 8 m2. Si prolunga il lato DE di un segmento EE′ = DE; si prolunga il lato EF di un segmento FF ′ = EF; si prolunga il…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Emanuele scrive delle parole usando solo le lettere A, B, C. Ciascuna parola deve rispettare queste condizioni: deve contenere almeno una delle…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): Nel trapezio ABCD, di basi AB e CD, le diagonali AC e BD sono tra loro perpendicolari. I segmenti AB e BD misurano, nell’ordine, 20 m e 17 m…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-bien-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_biennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_biennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Biennio): In un tabellone 9×7, una pedina (inizialmente nella casella",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Lungo una circonferenza sono segnati quattro punti rossi, tre punti verdi, due punti gialli, un punto blu. Quanti triangoli si possono ottenere…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "probabilita-condizionata-bayes",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Sapendo che (3x + 2)(7 −4x)(4x + 7) = 0, quale può essere, al massimo, il valore di 5 −3 x ?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "probabilita-condizionata-bayes"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "geometria-solida-volumi",
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Nell’isola dove vivono solo cavalieri (che dicono sempre il vero) e furfanti (che dicono sempre il falso), l’ufficio postale è piuttosto…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Quale tra i seguenti è il quadrato di un numero intero?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "sistemi-equazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Mira e Dino, compagni di banco, sono iscritti ai Giochi di Archimede. I 49 partecipanti, con un sorteggio, vengono sistemati 35 in un’aula e 14 in…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Consideriamo i numeri interi positivi n tali che n6 + 3n5 sia multiplo di 49. Supponendo di aver disposto tali valori n in ordine crescente…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): L’esagono ABCDEF è circoscritto a una circonferenza. I suoi lati AB, BC, CD, EF misurano, rispettivamente, 27 m, 25 m, 19 m, 29 m. Qual è il…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Nel triangolo PQR, i punti S e T appartengono, nell’ordine, ai lati PQ e QR. Detto I il punto d’intersezione dei segmenti RS e PT, le aree dei…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Consideriamo i valori reali k tali che il polinomio p(x) = x2 −(k + 1)x + (3k + 1) abbia una radice che è doppia dell’altra. Indicare la somma di…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): Emanuela scrive delle parole usando solo le lettere A e B, rispettando queste condizioni: ciascuna parola non può contenere nessuna delle sequenze…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): In un parallelogramma ABCD dove bA = 76◦, siano M un punto sul lato AB e N un punto sul lato BC tali che MC = CD e DM = MN. I punti C, D, M, N…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2021-trie-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2021",
+      "year": 2021,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/12/giochi_archimede_2021.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-archimede_triennio_tradizionale.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2021/archimede-2021-risposte_triennio_tradizionale.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "probabilita-condizionata-bayes",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2021 (Triennio): La funzione a valori reali f soddisfa le uguaglianze f(x) = f(2021 −x) e f(x + 10) = f(2010 −x), per qualsiasi numero reale x. Sapendo che f(3) +…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2021",
+        "probabilita-condizionata-bayes"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Per dipingere la sua cameretta, Maria ha creato una tinta mescolando 1896 grammi di vernice gialla e 120 grammi di bianco. Suo cugino Giulio vuole…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "equazioni-disequazioni-lineari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Andrea sta provando dei vestiti in un negozio. `E indeciso tra 4 camicie, 5 maglioni, 4 felpe e 3 pantaloni. Per non spendere troppo comprerà…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "calcolo-combinatorio",
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Martina compra dei libri, che costano in tutto 141 euro. Ha in tasca 30 banconote da 5 euro e 160 monete da 1 euro. In quanti modi diversi Martina…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Quanti sono i multipli di 79 compresi tra 15000 e 36000?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "equazioni-disequazioni-lineari"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Gli angoli del triangolo DEF hanno ampiezze: bD = 71◦, bE = 56◦, bF = 53◦. Dal vertice E si tracciano l’altezza EH e la bisettrice EB. Qual è…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Quanti sono i numeri pari di tre cifre tutte diverse tra loro, dove sono presenti sia la cifra 4 che la cifra 5?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): L’area di un triangolo ABC è di 648 m2. Preso un punto F sul lato AB, siano D, E i punti she suddividono il segmento CF in tre parti uguali CD = DE…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Preso un poligono convesso, si prolungano illimitatamente tutti e 18 i suoi lati in entrambe le direzioni, suddividendo il piano in varie regioni…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): In un’isola vivono due categorie di persone: i cavalieri (che dicono sempre il vero) ed i furfanti (che dicono sempre il falso). Ad un banchetto…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Nella vasca di una fontana ci sono due diversi rubinetti, A e B, collegati a tubature indipendenti. Lasciando tutto aperto il rubinetto A occorrono…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Una scatola ha sei facce rettangolari, tre delle quali hanno aree, rispettivamente, 8 dm2, 40 dm2, 20 dm2. Quanti dm3 misura il volume della scatola?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "geometria-solida-volumi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-bien-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_biennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_biennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Biennio): Nel quadrilatero convesso ABCD le diagonali AC e BD sono perpendicolari. I lati AB, BC, CD misurano, nell’or- dine, 4 cm, 1 cm, 7 cm. Quanti cm…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2020",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Andrea sta provando dei vestiti in un negozio. `E indeciso tra 4 camicie, 5 maglioni, 4 felpe e 3 pantaloni. Comprerà precisamente tre capi, tutti…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "calcolo-combinatorio",
+        "probabilita-base"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Martina compra dei libri, che costano in tutto 141 euro. Ha in tasca 40 banconote da 5 euro e 80 monete da 2 euro. In quanti modi diversi Martina…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Quanti sono i possibili triangoli non degeneri (ossia di area non nulla), tra loro non congruenti, in cui la lunghezza di ciascun lato è una tra…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Quanti sono i numeri pari di tre cifre tutte diverse tra loro, dove sono presenti sia la cifra 0 che la cifra 7?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Indicare il massimo numero intero n tale che 24n sia un divisore di 60100.",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Lanciando 4 dadi da gioco, con facce da 1 a 6, qual è la probabilità che il prodotto dei numeri usciti sia 36?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Francesco prende il sole su una piattaforma quadrata ABCD di lato di 4 metri, circondata dall’acqua. Per una scommessa, si mette in piedi nel…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Per riempire una vasca d’acqua ci sono due rubinetti uguali. Lasciando aperto solo uno dei due, la vasca si riempie in 24 minuti. Per abbreviare i…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "goniometria-trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "geometria-solida-volumi"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): In un’isola vivono due categorie di persone: i cavalieri (che dicono sempre il vero) ed i furfanti (che dicono sempre il falso). Ad un banchetto…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "geometria-euclidea-piana",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): I lati CD, DE, EC di un triangolo CDE misurano, rispettivamente, 13 m, 17 m, 21 m. Le bisettrici uscenti dai vertici C e D intersecano i lati…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "aree-perimetri"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Nel trapezio PQRS, di basi PQ e RS, sia T il punto d’intersezione delle diagonali PR e QS. Le aree dei triangoli RST e PST sono, rispettivamente…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2020-trie-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2020",
+      "year": 2020,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2021/03/Archimede2020.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-archimede_riserva_triennio.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2020/archimede-2020-risposte_archimede_triennio.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [
+        "equazioni-secondo-grado",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2020 (Triennio): Determinare tutti i numeri primi p tali che il polinomio P(x) = x2 −(43 −p)x + 5p abbia due radici intere positive. Indicare come risposta la…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2020",
+        "calcolo-letterale-polinomi"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Per quanti numeri reali x vale la catena di disuguaglianze 0 ≤x ≤1 x ≤1?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Nel triangolo DEF, le altezze (uscenti, rispettivamente, dai vertici D, E e F) misurano, nell’ordine, 81, 82 e 79 metri. Indicando con d, e, f le…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): La pagina Instagram delle Olimpiadi di Matematica pubblica un problema al gior- no. Alberto e Barbara si sfidano a risolvere il maggior numero di…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "logica-proposizionale-booleana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Clara vuole prestare due dei suoi libri al cugino Luca. Possiede 9 libri gialli, 7 libri di viaggi, 4 libri di poesie. In quanti modi può essere…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): In un triangolo LMN gli angoli di vertici L e N hanno ampiezze, rispettivamente, 42◦e 80◦. Sia r la retta passante per M che è perpendicolare alla…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Due uomini possiedono delle monete. Se il primo ne prendesse 2 dal secondo, allora ne avrebbe tante quante ne resterebbero al secondo. Se, invece…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Romeo, Giuletta, Elena, Paride, Ulisse si siedono su una panchina. Giulietta vuole stare accanto a Romeo, Elena accanto a Paride. In quanti modi…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Il prezzo di vendita di un bene si ottiene aumentando l’importo effettivo di una certa percentuale, detta IVA (una tassa, che poi viene versata al…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "probabilita-condizionata-bayes"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Preso un rettangolo ABCD, sia E il punto sulla diagonale BD tale che la retta AE sia perpendicolare a BD. Sapendo che l’angolo \\ BAC è di 28◦…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Un ottagono convesso possiede 8 angoli interni. Quanti di essi, al massimo, possono essere retti?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Caterina sta saltando lungo una fila di mattonelle. Partendo dalla prima, con salti di 2 mattonelle alla volta (ossia, salta sulla 3a, la 5a, la…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "goniometria-trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "sistemi-equazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): I numeri reali x e y verificano l’uguaglianza (2x −3y)2 + (3x −1)2 = 0. Qual è il valore di x + y?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "sistemi-equazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Laura possiede due dadi. Uno dei due è un normale dado da gioco, con facce numerate da 1 a 6. L’altro è invece un dado speciale, che possiede due…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Quanti multipli di 7, compresi tra 1 e 5000, sono quadrati di numeri interi?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): Attorno a un tavolo ci sono 8 persone, ciascuna delle quali può essere o un cavaliere o un furfante. Ogni volta che parla un cavaliere, la frase…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-bien-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Biennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_biennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-biennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "biennio"
+      ],
+      "originalLevelLabel": "Biennio (classi 1ª–2ª)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Biennio): `E assegnato un trapezio rettangolo PQRS, con angoli retti in P e in S, dove PQ > RS e PS = RS = 31. Sia K il punto sul lato PS tale che PK = 14…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "biennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q01",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 1",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Nel triangolo DEF, le altezze (uscenti, rispettivamente, dai vertici D, E e F) misurano, nell’ordine, 84, 80 e 81 metri. Indicando con d, e, f le…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q02",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 2",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Il prezzo di vendita di un bene si ottiene aumentando l’importo effettivo di una certa percentuale, detta IVA (una tassa, che poi viene versata al…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q03",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 3",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "schema"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Caterina sta saltando lungo una fila di mattonelle. Partendo dalla prima, con salti di 3 mattonelle alla volta (ossia, salta sulla 4a, la 7a, la…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "goniometria-trigonometria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q04",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 4",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Due uomini possiedono delle monete. Se il primo ne prendesse 3 dal secondo, allora ne avrebbe tante quante ne resterebbero al secondo. Se, invece…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q05",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 5",
+      "primaryTopic": "sistemi-equazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): I numeri reali x e y verificano l’uguaglianza (6x −5y)4 + (4y −3)6 = 0. Qual è il valore di x + y?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "sistemi-equazioni"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q06",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 6",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Il prodotto di due numeri naturali è 2160. Il loro Massimo Comune Divisore è dispari e maggiore di 1. Indicando con m il minimo comune multiplo…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q07",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 7",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): I tre vertici di un triangolo rettangolo avente un angolo di 54◦sono anche vertici di un poligono regolare avente...",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q08",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 8",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Un decagono convesso possiede 10 angoli interni. Quanti di essi, al massimo, possono essere retti?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q09",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 9",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Quanti multipli di 7, compresi tra 1 e 6000, sono quadrati di numeri interi?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q10",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 1,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 10",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Il quadrilatero ABCD è inscritto in una circonferenza. Si sa che l’angolo in A è retto e che AB = 24, BC = 20, CD = 15. Qual è la misura di DA?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q11",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 11",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Marco possiede due dadi. Uno dei due è un normale dado da gioco, con facce numerate da 1 a 6. L’altro è invece un dado speciale, che possiede due…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q12",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 12",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): `E assegnato un trapezio rettangolo PQRS, con angoli retti in P e in S, dove PQ > RS e PS = 2 RS = 62/5. Sia K il punto sul lato PS tale che PK =…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q13",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 13",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Romeo, Giuletta, Elena, Paride, Achille, Ulisse si siedono su una panchina. Giu- lietta vuole sedere accanto a Romeo ed Elena accanto a Paride. In…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q14",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 14",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Ogni post pubblicato sulla pagina Instagram delle Olimpiadi di Matematica deve avere 2 oppure 3 hashtag, scelti tra 10 hashtag prestabiliti. Gli…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "calcolo-combinatorio"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q15",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 15",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Attorno a un tavolo ci sono 10 persone, ciascuna delle quali può essere o un cavaliere o un furfante. Ogni volta che parla un cavaliere, la frase…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "matematica-finanziaria"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q16",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 16",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "matematica-finanziaria"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Sui lati del triangolo equilatero ABC, che hanno lun- ghezza 1, sono costruiti tre quadrati, come in figura. Qual è il perimetro del triangolo…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q17",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 17",
+      "primaryTopic": "probabilita-base",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Carla lancia, tutti insieme, 4 dadi da gioco, con facce numerate da 1 a 6 Qual è la probabilità che il prodotto dei 4 numeri usciti sia 24?",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "probabilita-base"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q18",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 18",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "aree-perimetri"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Gli amministratori della pagina Instagram delle Olimpiadi di Matematica si sono accorti che l’icona corrispondente ai “mi piace” ricevuti è a…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q19",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 19",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Consideriamo un puzzle di forma quadrata, con n pezzi per lato. Ogni pezzo ha 4 lati e su ciascun lato può esserci o un buco o una sporgenza…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "teoria-numeri-divisibilita"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "umi-arch-2019-trie-q20",
+      "competitionId": "olimpiadi-matematica",
+      "edition": "Giochi di Archimede 2019",
+      "year": 2019,
+      "phase": "Fase d'Istituto — Gara Triennio",
+      "sourceType": "official_exam",
+      "sourceSite": "olimpiadi.dm.unibo.it (UMI)",
+      "originalQuestionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "originalSolutionsUrl": "https://olimpiadi.dm.unibo.it/wp-content/uploads/2019/11/archimede2019.zip",
+      "questionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-archimede_triennio_2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/olimpiadi-matematica/2019/archimede-2019-triennio_soluzioni_2019.pdf",
+      "solutionsPage": 1,
+      "levels": [
+        "triennio"
+      ],
+      "originalLevelLabel": "Triennio (classi 3ª–5ª)",
+      "questionNumber": "Quesito 20",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "Archimede 2019 (Triennio): Dato un triangolo DEF, ottusangolo in E, sia O il centro della circonferenza ad esso circoscritta. Detto P il punto nel quale la bisettrice…",
+      "keywords": [
+        "archimede",
+        "olimpiadi matematica",
+        "umi",
+        "triennio",
+        "2019",
+        "geometria-euclidea-piana"
+      ],
+      "archived": false,
+      "verifiedAt": "2026-11-21"
     }
-  ]
+  ],
+  "description": "Prove ufficiali UMI delle Olimpiadi della Matematica (Giochi di Archimede 2025–2019 e Gara di Febbraio 2025, con testi e soluzioni)."
 }

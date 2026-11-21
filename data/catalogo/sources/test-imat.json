@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "competitionId": "test-imat",
-  "description": "Prove ufficiali MUR dell'International Medical Admissions Test (IMAT 2024 e 2023) in lingua inglese (CLIL).",
+  "description": "Prove ufficiali MUR dell'International Medical Admissions Test (IMAT 2024, 2023, 2020, 2019) in lingua inglese (CLIL).",
   "items": [
     {
       "id": "mur-imat-2024-q05",
@@ -4718,6 +4718,4027 @@
       "notes": "Official MUR IMAT 2023 exam paper in English (CLIL): option A) is the official correct answer in all questions (see p. 16).",
       "archived": false,
       "verifiedAt": "2026-11-20"
+    },
+    {
+      "id": "mur-imat-2020-q01",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q1",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: ",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q02",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q2",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: Thousands of books and blogs – and quite a bit of legitimate science – sing the praises of positivity. Optimistic, happy people tend…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q03",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: ",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q04",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q4",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: In 1938 the Dutch artist Piet Mondrian left Paris to escape the threat of German invasion and went to live in London, where he painted…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q05",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: People who take their holidays in Las Vegas love to gamble. Gerry will be going to France for his holiday so he must not like…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q06",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q6",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: LoCost sells three different types of washing powder: Zoom, Zap and Ownbrand. Zoom is a double concentrate brand needing only half the…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q07",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q7",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [
+        "frazioni-proporzioni-percentuali"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: 36% of the contents of a tin of sweets have been eaten. Today, 25% of the remaining sweets will be eaten. The same number of sweets…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q08",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q8",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: As part of a maths project, a class of 30 children conduct a survey amongst themselves of how many brothers and sisters they have…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q09",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q9",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "matematica-finanziaria",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: Jeff is looking to buy a new car. He will only be using it for commuting to his workplace for 1 year and will have a total annual…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q10",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 9,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q10",
+      "primaryTopic": "successioni-serie",
+      "secondaryTopics": [
+        "lettura-grafici-tabelle",
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: A piece of paper is laid on a table in landscape orientation (i.e. the longer side running left to right and the shorter side running…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q23",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q23",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagram represents the fluid mosaic model of a cell membrane. Which one of the labels 1-5 shows a hydrophobic region of a molecule? 3 2 1 4 5 IMAT",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q24",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q24",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "chimica-organica-biochimica"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The structure of the amino acid asparagine is shown. In each image (V-Z) a part of the structure is enclosed by a line. Which line completely encloses the part of…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q25",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q25",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following statements about healthy living organisms are correct? 1 They are made up of one or more cells. 2 They have DNA as the genetic material. 3…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q26",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q26",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagram shows how recombinant DNA can be used to make cotton plants produce an insect toxin. The insect toxin kills any insect that can damage the cotton crop…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q27",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q27",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q28",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q28",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which one of the structures listed is NOT involved in the reabsorption of water in a healthy human? glomerulus distal convoluted tubule collecting duct loop of…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q29",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q29",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q30",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q30",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The heart of a developing human fetus normally has a hole in the septum. The septum separates the right atrium and the left atrium. Which one of the statements…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q31",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q31",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q32",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q32",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "anatomia-fisiologia",
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: What is the correct order of the following events that occur immediately after acetylcholine binds to postsynaptic receptors of a muscle fibre, causing the muscle…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q33",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q33",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagrams show five different microscopic structures. The structures are not drawn to the same scale. Which of these structures is the smallest? 2 1 3 4 5 IMAT",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q34",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q34",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q35",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q35",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following healthy cells contain circular DNA? 1 Escherichia coli 2 Saccharomyces cerevisiae (yeast) 3 human liver cell 1, 2 and 3 2 only 1 and 2 only 2…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q36",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 23,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q36",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: In 1981, an immature male finch (Geospiza conirostris) arrived on an island in the Galapagos. This male finch was similar to finches of the species (G. fortis)…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q37",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 24,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q37",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q38",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 24,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q38",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: A single base mutation occurs in a gene. Which of the following is/are possible effects on the protein produced as a result of this mutation? 1 The protein has an…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q39",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 25,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q39",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "anatomia-fisiologia",
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagrams show animal cells from organisms that sexually reproduce. Each diagram shows a single cell containing chromosomes during cell division. Which one of…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q40",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 26,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q40",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo",
+        "chimica-organica-biochimica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which one of the following will be caused by an appropriate stimulus of a rod cell in the retina of a healthy human eye? rhodopsin will form an opsin and retinal…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q41",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q41",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q42",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q42",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: What does the formula Br2 represent? a molecule of the element bromine a compound of the element bromine two separate atoms of the element bromine a molecule of…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q43",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q43",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q44",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q44",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q45",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q45",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Which of the following is the equation for the reaction of magnesium with excess cold water? Mg + 2H2O → Mg(OH)2 + H2 2Mg + 2H2O → 2MgOH + H2 Mg + H2O → MgO + H2…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q46",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q46",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q47",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q47",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [
+        "redox-elettrochimica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: In which of the following pairs of species does the vanadium, V, have the same oxidation state? VCl 4 and VO2+ VO2 and VO3 – VO2 and V2O5 V2O5 and VO2+ VCl 4 and…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q48",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 30,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q48",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q49",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 30,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q49",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [
+        "termochimica-cinetica-equilibrio"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Which of the following functional groups is present in cysteine? thiol alcohol ketone amide ester P, Q and R represent substances involved in a gaseous reaction…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q50",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q50",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q51",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q51",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Which of the following molecules has a permanent overall dipole moment? [C is in Group IV; N and P are in Group V; O and S are in Group VI; F and Cl are in Group…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q52",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q52",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: 40 cm3 of a solution of sodium hydroxide is exactly neutralised by 25 cm3 of 0.40 mol L–1 sulfuric acid. 2NaOH + H2SO4 → Na2SO4 + 2H2O What is the concentration…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q53",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 33,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 33,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q53",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: Given that what is the value of x ? 6 3 0 IMAT",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q54",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 34,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 34,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q54",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: ",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q55",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 34,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 34,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q55",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari",
+        "equazioni-secondo-grado"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: Which of the following is equal to What are the coordinates of the turning point of the graph of the quadratic equation IMAT",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q56",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 35,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q56",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella",
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: 39 male students and 36 female students were asked how many meals they had eaten in the school cafeteria during the first week of the term. The…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q57",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 36,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 36,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q57",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: The diagram represents a concave mirror, where F is the principal focus and f is the focal length. The mirror is used to produce an image of an…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q58",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 37,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 37,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q58",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: A beaker contains 1000 g of a liquid that is stirred at its boiling point. A 100 W electric heater is completely immersed in the liquid. The heater…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q59",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 38,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 38,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q59",
+      "primaryTopic": "gravitazione-astronomia-fisica",
+      "secondaryTopics": [
+        "aree-perimetri",
+        "cinematica"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: A rocket is launched vertically from the surface of the Earth. As it leaves the launch pad, the total mass of the rocket and its contents is m. The…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2020-q60",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2020 (MUR — International Medical Admissions Test)",
+      "year": 2020,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2020.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "questionsPage": 39,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2020/mur-imat-2020.pdf",
+      "solutionsPage": 39,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q60",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "goniometria-trigonometria"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: A boat crosses a river that has straight, parallel sides. In still water, the boat has a maximum speed of 4.0 m / s at maximum power. The boat is…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2020 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q01",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q1",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: ",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q02",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 2,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 2,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q2",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: A study involving a brain-training exercise was carried out on more than a thousand adults aged 65 and over, some of whom later…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q03",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q3",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: ",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q04",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 3,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q4",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: According to the current mainstream scientific view, Near Death Experiences (NDEs) are explicable in purely physiological terms…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q05",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q5",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: ",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q06",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 4,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q6",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: Researchers have tried to establish reasons for a recent drop in the catch of marlin near the Madeira coast. This drop cannot be…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q07",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 5,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q7",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana",
+        "geometria-euclidea-piana"
+      ],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: The plan of a domestic lawn with dimensions in metres is shown below. The lawn area is to be reseeded. Seed must be applied at the…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q08",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 6,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q8",
+      "primaryTopic": "lettura-grafici-tabelle",
+      "secondaryTopics": [
+        "logica-proposizionale-booleana"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: Five girls competed in five events at their sports day. The following scoring system was used for each event: Before the events…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q09",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 7,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q9",
+      "primaryTopic": "matematica-finanziaria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: At the Shawilde Theatre, tickets are priced as follows: Front stalls £35 Centre stalls £28 Rear stalls £20 Every row in the theatre…",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q10",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Logical reasoning and problem-solving",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 8,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q10",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Logical reasoning and problem-solving: Four of the following five pieces can be fitted together to make the above pattern. Which one of the pieces is NOT needed?",
+      "keywords": [
+        "logical reasoning and problem-solving",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q23",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q23",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q24",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 13,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q24",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following rows are correct about these naturally occurring biological molecules? 1, 2 and 4 only 1, 2 and 3 only 1, 3 and 4 only 2, 3 and 4 only 1, 2…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q25",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q25",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q26",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 14,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q26",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "anatomia-fisiologia",
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following statements about the metabolism of plants is/are correct? 1 CO2 is produced during the day. 2 CO2 is produced at night. 3 The CO2 produced…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q27",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 15,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q27",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which row shows a correct component of each of the three structures listed? row 4 row 2 row 3 row 1 row 5",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q28",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 16,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q28",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Beetroot is a root vegetable with cells that contain a red pigment. Normally the pigment cannot pass out of the cells because it cannot diffuse through their cell…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q29",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 17,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q29",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: If a cell divides by mitosis ten times, what is the number of cells at the end of the process? [Assume that all cells remain alive.] 1024 10 100 64 11",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q30",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 18,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q30",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [
+        "anatomia-fisiologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Familial hypercholesterolaemia (FH) is an inherited disease caused by a dominant allele. People with FH have high concentrations of cholesterol in the blood, which…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q31",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q31",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q32",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 19,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q32",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "biologia-cellulare-metabolismo"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagrams show some pathways between the central nervous system and effector organs in a healthy human. Which pathway is a possible route for impulses passing…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q33",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q33",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q34",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 20,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q34",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [
+        "genetica-evoluzione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which statement about an enzyme involved in genetic modification is correct? A restriction enzyme causes phosphodiester bonds to be broken. A ligase causes…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q35",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q35",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q36",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 21,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q36",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following regions within a sarcomere remain UNCHANGED in length when a healthy human muscle cell contracts? 1 A-band 2 I-band 3 H-zone / band 1 only 2…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q37",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q37",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: ",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q38",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 22,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q38",
+      "primaryTopic": "biologia-cellulare-metabolismo",
+      "secondaryTopics": [
+        "anatomia-fisiologia"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: Which of the following processes involve ions? 1 contraction of a muscle 2 transmission of a nerve impulse across a synapse 3 transfer of light energy into chemical…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q39",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 23,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q39",
+      "primaryTopic": "anatomia-fisiologia",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The diagram shows a nephron with collecting duct from a healthy human. Which of the regions (1- 4) contain a liquid with no urea? none of them 1 only 1 and 2 only 2…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q40",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Biology",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 24,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 24,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q40",
+      "primaryTopic": "genetica-evoluzione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Biology: The same section of an allele coding for five amino acids from two different individuals, P and Q, is shown. P ATTCCGGGATTCCCT Q ATTCCGGATTGCACT Which of the…",
+      "keywords": [
+        "biology",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q41",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 25,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q41",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q42",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 25,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q42",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [
+        "acidi-basi-ph",
+        "soluzioni-concentrazioni"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Which statement about a positive ion explains why it is positively charged? The ion has more protons than electrons. The ion has more electrons than neutrons. The…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q43",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 26,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q43",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q44",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 26,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 26,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q44",
+      "primaryTopic": "chimica-organica-biochimica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: A student observed that when powdered sugar at –1 °C was added to ice at –1 °C all of the ice melted. Which of the following statements explain this observation?…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q45",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q45",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q46",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 27,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q46",
+      "primaryTopic": "acidi-basi-ph",
+      "secondaryTopics": [
+        "redox-elettrochimica"
+      ],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Element Z reacts with water at room temperature and hydrogen gas is released. The oxide of element Z is a solid at room temperature and does not conduct…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q47",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q47",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q48",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 28,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q48",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [
+        "acidi-basi-ph"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Which of the following molecules have an overall permanent dipole moment? 1 CO2 2 H2O 3 NH3 [C is in Group IV, N is in Group V, O is in Group VI ] 2 and 3 only 1…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q49",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q49",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q50",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 29,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q50",
+      "primaryTopic": "soluzioni-concentrazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: What is the minimum mass of sulfur dioxide needed to make 500 mL of a solution of concentration 3.0 mol / L? [Ar values: O = 16; S = 32] 96 g 48 g 32 g 192 g 384…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q51",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 30,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q51",
+      "primaryTopic": "legami-nomenclatura",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: ",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q52",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Chemistry",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 30,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 30,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q52",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [
+        "termochimica-cinetica-equilibrio"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Chemistry: Hydrogen has a radioactive isotope called tritium. Tritium atoms have two neutrons. The most abundant naturally occurring isotope of hydrogen has a relative…",
+      "keywords": [
+        "chemistry",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q53",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q53",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: ",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q54",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 31,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q54",
+      "primaryTopic": "statistica-descrittiva",
+      "secondaryTopics": [
+        "calcolo-letterale-polinomi",
+        "teoria-numeri-divisibilita"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: Which of the following expressions is equal to for all integers n ? 27n 26n 26n+1 22n+5 214n The mean mass of three babies is 2.1 kg. The range of…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q55",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q55",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: ",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q56",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q56",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: ",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q57",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 32,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q57",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [
+        "equazioni-disequazioni-lineari",
+        "potenze-radici"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: What is the highest common factor of 360, 500 and 700, given as the product of powers of its prime factors? 22 × 5 2 × 5 23 × 53 22 × 32 × 5 × 7 23…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q58",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 33,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 33,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q58",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: ",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q59",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 33,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 33,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q59",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "elettrostatica-circuiti",
+        "fluidi-pressione"
+      ],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: A stone of density 5.20 g / cm3 and volume 200 cm3 is completely submerged in a liquid of density 1.20 g / cm3. What is the magnitude of the…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
+    },
+    {
+      "id": "mur-imat-2019-q60",
+      "competitionId": "test-imat",
+      "edition": "IMAT 2019 (MUR — International Medical Admissions Test)",
+      "year": 2019,
+      "phase": "Physics and Mathematics",
+      "sourceType": "official_exam",
+      "sourceSite": "accessoprogrammato.mur.gov.it",
+      "originalQuestionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "originalSolutionsUrl": "https://accessoprogrammato.mur.gov.it/compiti/CompitoInglese2019.pdf",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "questionsPage": 34,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-imat/2019/mur-imat-2019.pdf",
+      "solutionsPage": 34,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "IMAT — Medicina in Inglese (CLIL)",
+      "questionNumber": "Q60",
+      "primaryTopic": "geometria-solida-volumi",
+      "secondaryTopics": [
+        "termologia-termodinamica",
+        "elettrostatica-circuiti"
+      ],
+      "visuals": [
+        "grafico"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "en",
+      "summary": "Physics and Mathematics: A fixed mass of an ideal gas is compressed at constant temperature. The pressure is recorded continuously as the volume decreases. The pressure (…",
+      "keywords": [
+        "physics and mathematics",
+        "imat",
+        "medicina inglese",
+        "clil",
+        "mur",
+        "english"
+      ],
+      "notes": "Official MUR IMAT 2019 exam paper in English (CLIL): option A is the official correct answer in all questions.",
+      "archived": false,
+      "verifiedAt": "2026-11-21"
     }
   ]
 }
