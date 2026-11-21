@@ -119,7 +119,28 @@
       ],
       "sourceFile": "data/catalogo/sources/olimpiadi-fisica.json",
       "status": "active",
-      "notes": "Gara di Primo Livello (Dicembre 2025 e Dicembre 2024, 40 quesiti ciascuna) e Gara di Secondo Livello (2026, 2025 e 2024, 10 quesiti + 4 problemi analitici ciascuna) con testi e soluzioni ufficiali AIF."
+      "notes": "Gara di Primo Livello (2025–2020, 40 quesiti ciascuna) e Gara di Secondo Livello (2026–2020, quesiti e problemi analitici) con testi e soluzioni ufficiali AIF."
+    },
+    {
+      "id": "giochi-anacleto",
+      "category": "scuola_competizioni",
+      "name": "I Giochi di Anacleto (Fisica — Domande & Risposte e In Lab)",
+      "shortName": "Giochi di Anacleto",
+      "organizer": "AIF — Associazione per l'Insegnamento della Fisica",
+      "officialWebsites": [
+        "https://www.giochidianacleto.it",
+        "https://www.giochidianacleto.it/materiali/"
+      ],
+      "subjectDomains": [
+        "fisica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio"
+      ],
+      "sourceFile": "data/catalogo/sources/giochi-anacleto.json",
+      "status": "active",
+      "notes": "Competizione ufficiale AIF di Fisica per Biennio e Triennio: questionari «Domande & Risposte» completi di soluzioni commentate (2026–2022 e raccolta storica 2019–2013) + prove sperimentali «Anacleto In Lab» (2026–2022)."
     },
     {
       "id": "olimpiadi-informatica",
