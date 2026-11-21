@@ -44,8 +44,15 @@
         "https://www.invalsi.it",
         "https://www.gestinv.it"
       ],
-      "subjectDomains": ["matematica"],
-      "typicalLevels": ["biennio", "anno_2", "triennio", "anno_5"],
+      "subjectDomains": [
+        "matematica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "anno_2",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/invalsi.json",
       "status": "active",
       "notes": "Include Grado 10 (2° anno) e Grado 13 (5° anno). Distingue chiaramente esempi/fascicoli ufficiali INVALSI da simulazioni di siti terzi."
@@ -60,8 +67,15 @@
         "https://www.oecd.org/en/about/programmes/pisa.html",
         "https://www.invalsi.it"
       ],
-      "subjectDomains": ["matematica", "fisica", "scienze-naturali", "informatica"],
-      "typicalLevels": ["biennio"],
+      "subjectDomains": [
+        "matematica",
+        "fisica",
+        "scienze-naturali",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "biennio"
+      ],
       "sourceFile": "data/catalogo/sources/ocse-pisa.json",
       "status": "active",
       "notes": "Prove rilasciate ufficiali OCSE PISA in italiano (INVALSI): Matematica 2022 (incluse attività su foglio di calcolo), Financial Literacy 2022, Scienze e Matematica 2006."
@@ -75,8 +89,13 @@
       "officialWebsites": [
         "https://olimpiadi.dm.unibo.it"
       ],
-      "subjectDomains": ["matematica"],
-      "typicalLevels": ["biennio", "triennio"],
+      "subjectDomains": [
+        "matematica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio"
+      ],
       "sourceFile": "data/catalogo/sources/olimpiadi-matematica.json",
       "status": "active",
       "notes": "Giochi di Archimede 2025, 2024 e 2023 (Biennio e Triennio completi) + Gara di Febbraio 2025 completa (scelta multipla, numerici e dimostrativi) con PDF ufficiali UMI di testi e soluzioni."
@@ -90,8 +109,14 @@
       "officialWebsites": [
         "https://www.olifis.it"
       ],
-      "subjectDomains": ["fisica"],
-      "typicalLevels": ["unico", "biennio", "triennio"],
+      "subjectDomains": [
+        "fisica"
+      ],
+      "typicalLevels": [
+        "unico",
+        "biennio",
+        "triennio"
+      ],
       "sourceFile": "data/catalogo/sources/olimpiadi-fisica.json",
       "status": "active",
       "notes": "Gara di Primo Livello (Dicembre 2025 e Dicembre 2024, 40 quesiti ciascuna) e Gara di Secondo Livello (2026, 2025 e 2024, 10 quesiti + 4 problemi analitici ciascuna) con testi e soluzioni ufficiali AIF."
@@ -108,8 +133,15 @@
         "https://bebras.it",
         "https://www.castoro-informatico.ch"
       ],
-      "subjectDomains": ["informatica", "matematica"],
-      "typicalLevels": ["biennio", "triennio", "unico"],
+      "subjectDomains": [
+        "informatica",
+        "matematica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
       "sourceFile": "data/catalogo/sources/olimpiadi-informatica.json",
       "status": "active",
       "notes": "Selezioni Scolastiche OII 2022 e 2021 (logica, pseudocodice, algoritmi) e quesiti ufficiali Bebras / Castoro Informatico 2025 e 2024 in italiano per Biennio e Triennio con soluzioni commentate."
@@ -124,8 +156,14 @@
         "https://www.societachimica.it/giochi_della_chimica/edizioni",
         "https://www.pianetachimica.it/giochi/test_giochi.htm"
       ],
-      "subjectDomains": ["chimica", "fisica"],
-      "typicalLevels": ["biennio", "triennio"],
+      "subjectDomains": [
+        "chimica",
+        "fisica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio"
+      ],
       "sourceFile": "data/catalogo/sources/giochi-chimica.json",
       "status": "active",
       "notes": "Prove ufficiali SCI 2026 (Fase d'Istituto e Finale Regionale, Classi A/B/C) e 2025 (Fase d'Istituto, Classi A/B/C) scaricate da societachimica.it, abbinate alle griglie delle risposte ufficiali digitalizzate da pianetachimica.it."
@@ -141,8 +179,15 @@
         "https://www.ibo-info.org/en/info/papers.html",
         "https://www.useso.org/past-exams/"
       ],
-      "subjectDomains": ["scienze-naturali", "chimica", "fisica"],
-      "typicalLevels": ["biennio", "triennio"],
+      "subjectDomains": [
+        "scienze-naturali",
+        "chimica",
+        "fisica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio"
+      ],
       "sourceFile": "data/catalogo/sources/olimpiadi-scienze-naturali.json",
       "status": "active",
       "notes": "Prove ufficiali internazionali/nazionali di riferimento per le due sezioni dei Campionati (CLIL in inglese): Scienze della Terra USESO/IESO 2026 e 2025 + Biologia IBO 2020 con soluzioni commentate ufficiali (in attesa del ripristino online di olimpiadi.anisn.it per i fascicoli italiani)."
@@ -158,8 +203,16 @@
         "https://www.robocupjra.it",
         "https://junior.robocup.org"
       ],
-      "subjectDomains": ["robotica", "informatica", "fisica"],
-      "typicalLevels": ["biennio", "triennio", "unico"],
+      "subjectDomains": [
+        "robotica",
+        "informatica",
+        "fisica"
+      ],
+      "typicalLevels": [
+        "biennio",
+        "triennio",
+        "unico"
+      ],
       "sourceFile": "data/catalogo/sources/robotica.json",
       "status": "active",
       "notes": "Regolamenti tecnici e tracce ufficiali 2024–2026: Campionati Italiani di Robotica 2025/2026, RoboCup Junior Italia Bando 2026, OnStage First Steps 2025, Rescue Line Entry 2024, Rescue Maze Entry 2024 e Soccer Entry 2026 (anche CLIL EN)."
@@ -175,8 +228,16 @@
         "https://www.semestreaperto-medodovet.it",
         "https://testbuddy.it/simulazioni-ufficiali/medicina/2025"
       ],
-      "subjectDomains": ["fisica", "chimica", "scienze-naturali"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "fisica",
+        "chimica",
+        "scienze-naturali"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/semestre-filtro-medicina.json",
       "status": "active",
       "notes": "Appelli nazionali del Semestre Filtro a.a. 2025/2026 (1° appello 20/11/2025 e 2° appello 10/12/2025): Biologia, Chimica e Propedeutica Biochimica, Fisica (31 quesiti per materia tra scelta multipla e completamento). Fascicoli archiviati da TestBuddy con risposte ufficiali MUR (marcati trasparentemente come Archivio Terzi)."
@@ -190,8 +251,18 @@
       "officialWebsites": [
         "https://accessoprogrammato.mur.gov.it"
       ],
-      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "scienze-naturali",
+        "chimica",
+        "fisica",
+        "matematica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-medicina.json",
       "status": "active",
       "notes": "Prove ufficiali nazionali MUR pre-riforma (Maggio 2024, Luglio 2024 e Settembre 2022) con tutti i quesiti STEM e di ragionamento logico. Nei fascicoli ufficiali MUR la risposta esatta è convenzionalmente posizionata alla lettera A."
@@ -206,8 +277,18 @@
         "https://corsi.unibo.it/laurea/Infermieristica/test-di-ammissione-anni-passati",
         "https://www.medicina.unito.it"
       ],
-      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "scienze-naturali",
+        "chimica",
+        "fisica",
+        "matematica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-professioni-sanitarie.json",
       "status": "active",
       "notes": "Prove ufficiali d'ateneo per Professioni Sanitarie: plichi CINECA UniBo 2025 e 2024 (risposta esatta = lettera A) + prova ufficiale UniTo 2025 (con correttore) per Biologia, Chimica, Fisica, Matematica e Logica."
@@ -221,8 +302,18 @@
       "officialWebsites": [
         "https://accessoprogrammato.mur.gov.it"
       ],
-      "subjectDomains": ["scienze-naturali", "chimica", "fisica", "matematica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "scienze-naturali",
+        "chimica",
+        "fisica",
+        "matematica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-imat.json",
       "status": "active",
       "notes": "Prove ufficiali MUR dell'International Medical Admissions Test (IMAT 2024 e 2023) interamente in lingua inglese: bacino ideale per preparazione medica internazionale e percorsi CLIL. Risposta corretta alla lettera A nei fascicoli MUR."
@@ -236,8 +327,18 @@
       "officialWebsites": [
         "https://accessoprogrammato.mur.gov.it"
       ],
-      "subjectDomains": ["chimica", "scienze-naturali", "fisica", "matematica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "chimica",
+        "scienze-naturali",
+        "fisica",
+        "matematica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-veterinaria.json",
       "status": "active",
       "notes": "Prove ufficiali nazionali MUR di Medicina Veterinaria pre-riforma (Sessioni Maggio e Luglio 2024; dal 2025/26 il corso confluisce nel Semestre Filtro). Risposta esatta posizionata alla lettera A nei PDF MUR."
@@ -252,8 +353,16 @@
         "https://accessoprogrammato.mur.gov.it",
         "https://www.cisiaonline.it/altri-test/test-arched"
       ],
-      "subjectDomains": ["matematica", "fisica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "matematica",
+        "fisica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-architettura.json",
       "status": "active",
       "notes": "Prove nazionali ufficiali MUR di Architettura (2019 e 2018) focalizzate su Ragionamento Logico, Disegno e Rappresentazione (geometria descrittiva/solida/scale), Fisica e Matematica. Risposta corretta alla lettera A."
@@ -261,19 +370,27 @@
     {
       "id": "test-ingegneria-scienze-tolc",
       "category": "ingresso_universita",
-      "name": "Ingegneria, Scienze & Economia (PoliMi TOL / Politest & TOLC-E)",
+      "name": "Ingegneria, Scienze & Economia (TOLC-I, PoliMi TOL, POLItest & TOLC-E)",
       "shortName": "Ingegneria & TOLC",
-      "organizer": "Politecnico di Milano (TOL / POLItest), Università Ca' Foscari Venezia (TOLC-E) & CISIA",
+      "organizer": "CISIA (TOLC-I Ingegneria Aerospaziale / Industriale), Politecnico di Milano (TOL / POLItest) & Università Ca' Foscari Venezia (TOLC-E)",
       "officialWebsites": [
         "https://www.cisiaonline.it",
         "https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/tol-test-on-line/come-prepararsi-al-tol",
         "https://www.unive.it"
       ],
-      "subjectDomains": ["matematica", "fisica", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "matematica",
+        "fisica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/test-ingegneria-scienze-tolc.json",
       "status": "active",
-      "notes": "Test ufficiali di Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi ufficiali POLItest Matematica e Fisica del Politecnico di Milano (con soluzioni svolte) e Simulazione ufficiale TOLC-E Matematica Ca' Foscari Venezia. Per i simulatori interattivi TOLC-I/S/F/B è inoltre disponibile gratuitamente l'Area Esercitazioni su cisiaonline.it."
+      "notes": "Test ufficiali CISIA TOLC-I (adottato ad es. a Roma Sapienza per Ingegneria Aerospaziale e Politecnici), Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi POLItest Matematica e Fisica del Politecnico di Milano e simulazione TOLC-E Matematica Ca' Foscari Venezia."
     },
     {
       "id": "scuole-eccellenza",
@@ -285,8 +402,18 @@
         "https://www.sns.it/it/prove-desame-degli-anni-precedenti-ordinario",
         "https://www.santannapisa.it/it/programma-di-studio-e-prove-precedenti-ingegneria"
       ],
-      "subjectDomains": ["matematica", "fisica", "chimica", "scienze-naturali", "informatica"],
-      "typicalLevels": ["ingresso_universita", "triennio", "anno_5"],
+      "subjectDomains": [
+        "matematica",
+        "fisica",
+        "chimica",
+        "scienze-naturali",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
       "sourceFile": "data/catalogo/sources/scuole-eccellenza.json",
       "status": "active",
       "notes": "Prove scritte ufficiali di ammissione al I anno del Corso Ordinario: SNS Classe di Scienze 2026, 2025 e 2024 (Matematica, Fisica, Chimica, Biologia) + esercizi di autovalutazione SNS + Scuola Superiore Sant'Anna Ingegneria (2025, 2024, 2023) e Scienze Mediche. Serbatoio d'eccellenza per problemi aperti e dimostrativi di Livello 3."

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T21:46:36Z",
+  "generatedAt": "2026-11-21T12:03:32Z",
   "settings": {
     "defaultMinYear": null,
     "includeArchivedByDefault": false,
@@ -445,9 +445,9 @@
     {
       "id": "test-ingegneria-scienze-tolc",
       "category": "ingresso_universita",
-      "name": "Ingegneria, Scienze & Economia (PoliMi TOL / Politest & TOLC-E)",
+      "name": "Ingegneria, Scienze & Economia (TOLC-I, PoliMi TOL, POLItest & TOLC-E)",
       "shortName": "Ingegneria & TOLC",
-      "organizer": "Politecnico di Milano (TOL / POLItest), Università Ca' Foscari Venezia (TOLC-E) & CISIA",
+      "organizer": "CISIA (TOLC-I Ingegneria Aerospaziale / Industriale), Politecnico di Milano (TOL / POLItest) & Università Ca' Foscari Venezia (TOLC-E)",
       "officialWebsites": [
         "https://www.cisiaonline.it",
         "https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/tol-test-on-line/come-prepararsi-al-tol",
@@ -465,11 +465,12 @@
       ],
       "sourceFile": "data/catalogo/sources/test-ingegneria-scienze-tolc.json",
       "status": "active",
-      "notes": "Test ufficiali di Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi ufficiali POLItest Matematica e Fisica del Politecnico di Milano (con soluzioni svolte) e Simulazione ufficiale TOLC-E Matematica Ca' Foscari Venezia. Per i simulatori interattivi TOLC-I/S/F/B è inoltre disponibile gratuitamente l'Area Esercitazioni su cisiaonline.it.",
-      "questionCount": 301,
+      "notes": "Test ufficiali CISIA TOLC-I (adottato ad es. a Roma Sapienza per Ingegneria Aerospaziale e Politecnici), Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi POLItest Matematica e Fisica del Politecnico di Milano e simulazione TOLC-E Matematica Ca' Foscari Venezia.",
+      "questionCount": 341,
       "coveredYears": [
         2024,
-        2021
+        2021,
+        2019
       ]
     },
     {
@@ -1474,7 +1475,7 @@
     }
   ],
   "stats": {
-    "totalQuestions": 2038,
+    "totalQuestions": 2078,
     "years": [
       2026,
       2025,
@@ -1500,65 +1501,65 @@
       "semestre-filtro-medicina": 186,
       "test-architettura": 72,
       "test-imat": 112,
-      "test-ingegneria-scienze-tolc": 301,
+      "test-ingegneria-scienze-tolc": 341,
       "test-medicina": 168,
       "test-professioni-sanitarie": 168,
       "test-veterinaria": 112
     },
     "byTopic": {
       "equivalenze-unita-misura": 51,
-      "struttura-atomica-periodica": 74,
+      "struttura-atomica-periodica": 75,
       "legami-nomenclatura": 182,
       "fisica-moderna": 26,
       "notazione-scientifica-ordini-grandezza": 17,
-      "termologia-termodinamica": 109,
+      "termologia-termodinamica": 111,
       "soluzioni-concentrazioni": 97,
       "stechiometria-moli": 49,
       "termochimica-cinetica-equilibrio": 48,
-      "frazioni-proporzioni-percentuali": 70,
+      "frazioni-proporzioni-percentuali": 72,
       "atmosfera-clima-idrosfera": 42,
       "redox-elettrochimica": 36,
       "acidi-basi-ph": 107,
       "incertezza-errori-misura": 15,
       "chimica-organica-biochimica": 152,
-      "calcolo-combinatorio": 48,
-      "esponenziali-logaritmi": 70,
-      "onde-suono-ottica": 86,
-      "elettrostatica-circuiti": 100,
-      "fluidi-pressione": 56,
+      "calcolo-combinatorio": 50,
+      "esponenziali-logaritmi": 72,
+      "onde-suono-ottica": 87,
+      "elettrostatica-circuiti": 101,
+      "fluidi-pressione": 58,
       "minerali-rocce-geologia": 29,
       "statistica-descrittiva": 29,
       "lavoro-energia-potenza": 52,
       "ecologia-ecosistemi": 30,
       "biologia-cellulare-metabolismo": 174,
       "funzioni-lineari-proporzionalita": 25,
-      "potenze-radici": 45,
-      "calcolo-letterale-polinomi": 42,
+      "potenze-radici": 47,
+      "calcolo-letterale-polinomi": 44,
       "lettura-grafici-tabelle": 77,
-      "teoria-numeri-divisibilita": 75,
-      "aree-perimetri": 51,
-      "geometria-euclidea-piana": 126,
-      "pitagora-similitudine": 23,
+      "teoria-numeri-divisibilita": 76,
+      "aree-perimetri": 53,
+      "geometria-euclidea-piana": 127,
+      "pitagora-similitudine": 24,
       "sistemi-equazioni": 27,
-      "geometria-analitica": 49,
-      "equazioni-disequazioni-lineari": 90,
+      "geometria-analitica": 52,
+      "equazioni-disequazioni-lineari": 92,
       "funzioni-quadratiche-coniche": 27,
       "geometria-solida-volumi": 68,
       "probabilita-base": 47,
-      "cinematica": 76,
-      "goniometria-trigonometria": 63,
+      "cinematica": 78,
+      "goniometria-trigonometria": 66,
       "analisi-limiti-derivate-integrali": 12,
       "successioni-serie": 22,
-      "equazioni-secondo-grado": 43,
+      "equazioni-secondo-grado": 45,
       "probabilita-condizionata-bayes": 7,
       "matematica-finanziaria": 48,
-      "logica-proposizionale-booleana": 160,
+      "logica-proposizionale-booleana": 165,
       "scienze-astronomia-terra": 17,
       "algoritmi-pensiero-computazionale": 67,
       "crittografia-sicurezza": 6,
       "anatomia-fisiologia": 86,
       "magnetismo-elettromagnetismo": 36,
-      "vettori-trasformazioni": 26,
+      "vettori-trasformazioni": 27,
       "dinamica-forze": 84,
       "quantita-moto-urti": 22,
       "gravitazione-astronomia-fisica": 20,
@@ -1575,23 +1576,23 @@
     },
     "byLevel": {
       "biennio": 345,
-      "triennio": 1856,
+      "triennio": 1896,
       "anno_2": 49,
-      "anno_5": 1320,
+      "anno_5": 1360,
       "unico": 144,
-      "ingresso_universita": 1273
+      "ingresso_universita": 1313
     },
     "bySourceType": {
       "official_exam": 1439,
-      "official_sample": 413,
+      "official_sample": 453,
       "third_party_archive": 186
     },
     "byLanguage": {
-      "it": 1796,
+      "it": 1836,
       "en": 242
     },
     "byResponseFormat": {
-      "scelta_multipla": 1528,
+      "scelta_multipla": 1568,
       "numerica": 102,
       "aperta": 184,
       "vero_falso": 60,
@@ -88203,6 +88204,1846 @@
         "dinamica-forze",
         "lavoro-energia-potenza",
         "matematica-finanziaria"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q01",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 3,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q01",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Luigi ha due ﬁgli di 15 e 11 anni. Fra 18 anni la sua l’età sarà uguale alla somma delle età che avranno i ﬁgl...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "equazioni-disequazioni-lineari"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q02",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q02",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Per quale dei seguenti valori di xvale cos(x) + sin(x) = 0?",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "goniometria-trigonometria"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q03",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 4,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q03",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Per 0 ≤x≤π l’equazione sin(x) = 2 −k ha almeno una soluzione se e solo se:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "goniometria-trigonometria"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q04",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q04",
+      "primaryTopic": "equazioni-secondo-grado",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Nell’insieme dei numeri reali la disequazione x4 + 5 < 0 è veriﬁcata:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "equazioni-secondo-grado"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q05",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 5,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q05",
+      "primaryTopic": "equazioni-disequazioni-lineari",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: L’insieme delle soluzioni della disequazione x+ 3 x+ 1 ≥2 è costituito da tutti i numeri reali xtali che:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "equazioni-disequazioni-lineari"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q06",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q06",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Il resto della divisione del polinomio x5 −3x4 + 3 per x+ 1 è:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "calcolo-letterale-polinomi"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q07",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 6,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q07",
+      "primaryTopic": "goniometria-trigonometria",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Sia T un triangolo rettangolo isoscele. Allora la somma dei coseni degli angoli interni di T è uguale a:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "goniometria-trigonometria"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q08",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 7,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q08",
+      "primaryTopic": "calcolo-letterale-polinomi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Quale delle seguenti uguaglianze è veriﬁcata qualunque siano i numeri reali x e y?",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "calcolo-letterale-polinomi"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q09",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 8,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q09",
+      "primaryTopic": "geometria-euclidea-piana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Da un punto P esterno ad una circonferenza di centro O e raggio di 1 cm, si tracciano le tangenti a tale circo...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "geometria-euclidea-piana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q10",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 9,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q10",
+      "primaryTopic": "equazioni-secondo-grado",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: L’equazione x+ 1 x = k, con xreale non nullo, ammette una ed una sola soluzione se:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "equazioni-secondo-grado"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q11",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 10,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q11",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Nel piano cartesiano l’equazione x2 + y2 + 4x= γ, con γ numero reale positivo, è:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "geometria-analitica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q12",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 11,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q12",
+      "primaryTopic": "esponenziali-logaritmi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Dato un numero reale positivo xe posto ƒ(x) = log10 x, si ha che ƒ(10 · x−2) è uguale a:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "esponenziali-logaritmi"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q13",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 12,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q13",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Dal semicerchio di diametro AB = 2 cm e centro O si toglie il semicerchio di diametro AO. La ﬁgura così ottenu...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "aree-perimetri"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q14",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 13,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q14",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Nel piano cartesiano quanti sono i punti P(x, y) per cui sono veriﬁcate tutte e tre le seguenti condizioni? (x...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "geometria-analitica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q15",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 14,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q15",
+      "primaryTopic": "geometria-analitica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Nel piano cartesiano l’asse del segmento di estremi A (0,0), B (1, 1) ha equazione:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "geometria-analitica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q16",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 15,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q16",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Il numero \u0012 81 p 64 \u00131/4 è uguale a:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "potenze-radici"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q17",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 16,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q17",
+      "primaryTopic": "potenze-radici",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: La seguente espressione:  320 + 320 + 3201/3 (33)2 vale:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "potenze-radici"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q18",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 17,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q18",
+      "primaryTopic": "aree-perimetri",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Sia Q un quadrato di lato ℓ, C1 il cerchio circoscritto a Q, C2 il cerchio inscritto in Q. Il rapporto tra l’a...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "aree-perimetri"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q19",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q19",
+      "primaryTopic": "pitagora-similitudine",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Dato il triangolo equilatero ABC il cui lato misura 2cm, siano D, E, F i punti medi rispettivamente dei lati A...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "pitagora-similitudine"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q20",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Matematica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 18,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q20",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Matematica: Il 30% degli studenti iscritti ad un corso universitario ha supe- rato l’esame relativo al corso al primo appe...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "frazioni-proporzioni-percentuali"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q21",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 19,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q21",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Volendo disporre i numeri 28, 29, 36, 43, 55 in modo che i dispari occupino una posizione dispari ed i pari oc...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "calcolo-combinatorio"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q22",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 20,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q22",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Nell’atrio di ingresso di un condominio è appeso un cartello con il seguente avviso: È permesso giocare a calc...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q23",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 21,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q23",
+      "primaryTopic": "calcolo-combinatorio",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Nonno Peperino non ricorda più la combinazione del suo forziere elettronico. Egli ricorda solo che:  è di qua...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "calcolo-combinatorio"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q24",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 22,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q24",
+      "primaryTopic": "teoria-numeri-divisibilita",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Franco il tabaccaio ha in cassa 195 euro e non ha monete. Un cliente gli chiede se ha da cambiare 10, 20, 50 o...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "teoria-numeri-divisibilita"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q25",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 23,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q25",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Il cuoco Giovanni osserva che cucinando l’arrosto se non si usa il forno a gasla carne o è cruda all’interno o...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q26",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 24,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q26",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Il grande teorico dei numeri Kontakerikonta ha scoperto i numeri Incredibili; egli non sa ancora se essi siano...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q27",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 25,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q27",
+      "primaryTopic": "esponenziali-logaritmi",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Gli archeobatteri sono organismi unicellulari che vivono in stagni e si riproducono per scissione (cioè ogni b...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "esponenziali-logaritmi"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q28",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 26,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 49,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q28",
+      "primaryTopic": "frazioni-proporzioni-percentuali",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Un’indagine svolta tra tutti i 1000 abitanti della cittadina di Sparagna al di sopra dei 55 anni, mostra che i...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "frazioni-proporzioni-percentuali"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q29",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q29",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "tabella"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: Quali dei numeri x, y proposti vanno inseriti nella tabella?",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q30",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Logica",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 27,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q30",
+      "primaryTopic": "logica-proposizionale-booleana",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Logica: In una discussione tra amici, Antonio dice: A tutti noi piace il caffè, tranne che a Paola, a cui non piace Fa...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "logica-proposizionale-booleana"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q31",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 28,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q31",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Due corpi A e B, di volume uguale e masse mB = 3mA, sono completamente immersi in un liquido. Quando i due cor...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "fluidi-pressione"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q32",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 29,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q32",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Un corpo di peso P, situato in prossimità della superﬁcie ter- restre, cade partendo da fermo. Se g è l’accele...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "cinematica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q33",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 30,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q33",
+      "primaryTopic": "fluidi-pressione",
+      "secondaryTopics": [],
+      "visuals": [
+        "figura"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Un tubo di sezione S costante piegato ad U è aperto su un ramo e chiuso da un tappo T sull’altro (vedi ﬁgura)....",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "fluidi-pressione"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q34",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q34",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Una macchina termica ha un rendimento del 75%. Quanto calore viene assorbito in un ciclo di funzionamento, se ...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "termologia-termodinamica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q35",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 31,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q35",
+      "primaryTopic": "struttura-atomica-periodica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Secondo quale ordine sono disposti gli elementi chimici nella tavola periodica?",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "struttura-atomica-periodica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q36",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 32,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q36",
+      "primaryTopic": "onde-suono-ottica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Il suono è:",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "onde-suono-ottica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q37",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 33,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q37",
+      "primaryTopic": "termologia-termodinamica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Mescolate 60 litri d’acqua a 20 ◦C con 20 litri d’acqua a 60 ◦C. Trascurando le dissipazioni di calore, la tem...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "termologia-termodinamica"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q38",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 34,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q38",
+      "primaryTopic": "elettrostatica-circuiti",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Due sferette metalliche A e B sono sospese mediante ﬁli isolanti. Una bacchetta di vetro viene caricata positi...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "elettrostatica-circuiti"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q39",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q39",
+      "primaryTopic": "vettori-trasformazioni",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Indicando con “·” il prodotto scalare e con “×” il prodotto vettore, quale delle seguenti operazioni genera la...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "vettori-trasformazioni"
+      ]
+    },
+    {
+      "id": "cisia-tolc-i-2019-q40",
+      "competitionId": "test-ingegneria-scienze-tolc",
+      "edition": "CISIA TOLC-I (Ingegneria Aerospaziale e Ingegnerie — Es. Sapienza Roma, PoliMi, PoliTo)",
+      "year": 2019,
+      "phase": "Scienze (Fisica e Chimica)",
+      "sourceType": "official_sample",
+      "sourceSite": "cisiaonline.it",
+      "originalQuestionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "originalSolutionsUrl": "https://www.cisiaonline.it/area-tematica-tolc-ingegneria/esempio-di-prova-tolc-i/",
+      "questionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "questionsPage": 35,
+      "solutionsPdfLocal": "assets/catalogo-pdf/test-ingegneria-scienze-tolc/2019/cisia-esempio-prova-tolc-i.pdf",
+      "solutionsPage": 50,
+      "levels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "originalLevelLabel": "CISIA TOLC-I — Ingegneria Aerospaziale / Industriale",
+      "questionNumber": "Q40",
+      "primaryTopic": "cinematica",
+      "secondaryTopics": [],
+      "visuals": [
+        "nessuno"
+      ],
+      "responseFormat": "scelta_multipla",
+      "language": "it",
+      "summary": "TOLC-I · Scienze (Fisica e Chimica): Un treno viaggia alla velocità di 144km/h. Supponendo che le ruote aderiscano perfettamente ai binari (non c’è...",
+      "keywords": [
+        "cisia",
+        "tolc-i",
+        "ingegneria aerospaziale",
+        "sapienza",
+        "roma",
+        "politecnico",
+        "ammissione ingegneria",
+        "stem"
+      ],
+      "notes": "Prova ufficiale CISIA TOLC-I adottata per l'ammissione a numero programmato ai corsi di Ingegneria Aerospaziale (es. Sapienza Università di Roma, Classe L-9) e ingegnerie a livello nazionale.",
+      "archived": false,
+      "verifiedAt": "2026-11-21",
+      "allTopics": [
+        "cinematica"
       ]
     },
     {
