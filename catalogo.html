@@ -41,6 +41,61 @@
       </div>
     </section>
 
+    <!-- CERCA DIRETTAMENTE UNA PROVA COMPLETA -->
+    <section class="card catalog-exam-finder no-print" aria-labelledby="cerca-prove-title">
+      <div class="exercise-header" style="margin-bottom:0.65rem;">
+        <div>
+          <h2 id="cerca-prove-title" style="margin:0; font-size:1.15rem;">📑 Cerca direttamente una prova (PDF completo e quesiti)</h2>
+          <p class="muted" style="margin:0.2rem 0 0; font-size:0.88rem;">
+            Cerca per nome e anno (es. <em>INVALSI del 2021</em>, <em>semestre filtro medicina 2025</em>, <em>TOLC-I aerospaziale</em>) per aprire subito la prova o visualizzare i suoi quesiti.
+          </p>
+        </div>
+        <button type="button" class="btn btn-ghost btn-xs" data-exam-reset style="display:none;">↺ Pulisci ricerca prove</button>
+      </div>
+
+      <div class="catalog-exam-controls">
+        <div class="catalog-field catalog-exam-search-field">
+          <label for="exam-search">Cerca una prova specifica</label>
+          <input
+            id="exam-search"
+            type="search"
+            class="catalog-input"
+            placeholder="Es. INVALSI 2021, semestre filtro medicina 2025, Archimede 2025, TOLC-I aerospaziale..."
+            data-exam-search
+          />
+        </div>
+
+        <div class="catalog-field">
+          <label for="exam-competition">Competizione / Test</label>
+          <select id="exam-competition" class="catalog-select" data-exam-competition>
+            <option value="">Tutte le prove e competizioni</option>
+          </select>
+        </div>
+
+        <div class="catalog-field">
+          <label for="exam-year">Anno</label>
+          <select id="exam-year" class="catalog-select" data-exam-year>
+            <option value="">Tutti gli anni</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="catalog-exam-examples" aria-label="Ricerche rapide di esempio">
+        <span class="muted"><small>Esempi rapidi:</small></span>
+        <button type="button" class="topic-chip" data-exam-example="INVALSI 2021">INVALSI 2021</button>
+        <button type="button" class="topic-chip" data-exam-example="semestre filtro medicina 2025">Semestre Filtro Medicina 2025</button>
+        <button type="button" class="topic-chip" data-exam-example="Medicina 2024">Medicina 2024</button>
+        <button type="button" class="topic-chip" data-exam-example="TOLC-I aerospaziale">TOLC-I Aerospaziale</button>
+        <button type="button" class="topic-chip" data-exam-example="Archimede 2025">Archimede 2025</button>
+        <button type="button" class="topic-chip" data-exam-example="Campionati di Fisica 2026">Fisica 2026</button>
+        <button type="button" class="topic-chip" data-exam-example="IMAT 2024">IMAT 2024</button>
+      </div>
+
+      <div class="catalog-exam-results" data-exam-results>
+        <p class="muted" style="margin:0.5rem 0 0;"><small>Caricamento elenco prove...</small></p>
+      </div>
+    </section>
+
     <!-- RIEPILOGO RAPIDO COMPETIZIONI E ANNI PRESENTI A CATALOGO -->
     <section class="card catalog-coverage-banner no-print" aria-labelledby="copertura-rapida-title">
       <div class="exercise-header" style="margin-bottom:0.75rem;">
@@ -55,14 +110,21 @@
     <!-- PANNELLO FILTRI -->
     <section class="card no-print" aria-labelledby="filtri-title">
       <div class="exercise-header" style="margin-bottom:1rem;">
-        <h2 id="filtri-title" style="margin:0; font-size:1.2rem;">🔍 Filtri di ricerca ed estrazione</h2>
+        <h2 id="filtri-title" style="margin:0; font-size:1.2rem;">🔍 Filtri di ricerca ed estrazione quesiti</h2>
         <button type="button" class="btn btn-ghost" data-filter-reset>↺ Reimposta tutti i filtri</button>
       </div>
 
       <div class="catalog-filter-grid">
         <div class="catalog-field">
-          <label for="filter-search">Ricerca testuale (parole chiave, codice quesito, sintesi)</label>
-          <input id="filter-search" type="search" class="catalog-input" placeholder="Es. equivalenze, bolletta, Q7, triangolo..." data-filter-search />
+          <label for="filter-search">Ricerca testuale (parole chiave, prova, anno, sintesi)</label>
+          <input id="filter-search" type="search" class="catalog-input" placeholder="Es. equivalenze, INVALSI 2021, Q7, triangolo..." data-filter-search />
+        </div>
+
+        <div class="catalog-field">
+          <label for="filter-discipline">Disciplina / Macro-area</label>
+          <select id="filter-discipline" class="catalog-select" data-filter-discipline>
+            <option value="">Tutte le discipline</option>
+          </select>
         </div>
 
         <div class="catalog-field">
@@ -131,18 +193,18 @@
       <!-- SELETTORE ARGOMENTI CON RICERCA & CHIP -->
       <div class="catalog-topics-panel">
         <div class="catalog-topics-head">
-          <label for="filter-topic-search"><strong>Argomenti</strong> (cerca per nome o sinonimo, es. <em>equivalenze</em>, <em>percentuali</em>, <em>fluidi</em>, <em>binario</em>):</label>
+          <label for="filter-topic-search"><strong>Argomenti</strong> (cerca per disciplina, nome o sinonimo, es. <em>Fisica</em>, <em>Matematica</em>, <em>equivalenze</em>, <em>fluidi</em>):</label>
           <div class="catalog-topics-controls">
             <select id="filter-topic-mode" class="catalog-select" style="width:auto;" data-topic-match-mode aria-label="Modalità combinazione argomenti">
               <option value="or">Abbina: almeno un argomento (OR)</option>
               <option value="and">Abbina: tutti gli argomenti (AND)</option>
             </select>
-            <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:280px;" placeholder="Filtra lista argomenti..." data-topic-search />
+            <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:280px;" placeholder="Filtra per disciplina o argomento..." data-topic-search />
           </div>
         </div>
         <div class="catalog-selected-topics" data-selected-topics></div>
-        <details class="catalog-topic-accordion" open>
-          <summary>Mostra / nascondi elenco argomenti per disciplina</summary>
+        <details class="catalog-topic-accordion">
+          <summary data-topic-accordion-summary>Mostra / nascondi elenco argomenti per disciplina</summary>
           <div class="catalog-topic-groups" data-topic-groups></div>
         </details>
       </div>
@@ -191,6 +253,7 @@
         <h2 id="risultati-title" style="margin:0;">Risultati trovati</h2>
         <span class="badge" data-results-counter>0 quesiti</span>
       </div>
+      <div data-active-exam-banner></div>
       <div data-catalog-results>
         <p class="muted">Caricamento quesiti...</p>
       </div>
