@@ -55,7 +55,7 @@
       ],
       "sourceFile": "data/catalogo/sources/invalsi.json",
       "status": "active",
-      "notes": "Include Grado 10 (2° anno) e Grado 13 (5° anno). Distingue chiaramente esempi/fascicoli ufficiali INVALSI da simulazioni di siti terzi."
+      "notes": "Archivio completo ufficiale INVALSI Matematica Grado 10 (2ª Superiore: Prove Nazionali 2011–2017 con Guide alla lettura ufficiali, Nuovi Esempi 2011, Progetto Pilota 2002 ed Esempi 2020) e Grado 13 (5ª Superiore: Esempi commentati 2018, 9 prove CBT + livelli 2019 e 5 gruppi 2021 per LS/IT/LNS-PRF). Zero duplicati tra annate e indirizzi."
     },
     {
       "id": "ocse-pisa",
@@ -70,6 +70,7 @@
       "subjectDomains": [
         "matematica",
         "fisica",
+        "chimica",
         "scienze-naturali",
         "informatica"
       ],
@@ -78,7 +79,7 @@
       ],
       "sourceFile": "data/catalogo/sources/ocse-pisa.json",
       "status": "active",
-      "notes": "Prove rilasciate ufficiali OCSE PISA in italiano (INVALSI): Matematica 2022 (incluse attività su foglio di calcolo), Financial Literacy 2022, Scienze e Matematica 2006."
+      "notes": "Archivio esteso ufficiale OCSE PISA su 6 cicli (2003, 2006, 2009, 2012, 2015 e 2022) con 18 fascicoli PDF locali: prove rilasciate ufficiali INVALSI in italiano (Matematica, Scienze, Financial Literacy, Problem Solving e Pensiero Creativo Scientifico) e raccolte OECD/NCES in inglese CLIL complete di Scoring Guides."
     },
     {
       "id": "olimpiadi-matematica",
