@@ -439,6 +439,64 @@
       "sourceFile": "data/catalogo/sources/scuole-eccellenza.json",
       "status": "active",
       "notes": "Prove scritte ufficiali di ammissione al I anno del Corso Ordinario: SNS Classe di Scienze 2026, 2025 e 2024 (Matematica, Fisica, Chimica, Biologia) + esercizi di autovalutazione SNS + Scuola Superiore Sant'Anna Ingegneria (2025, 2024, 2023) e Scienze Mediche. Serbatoio d'eccellenza per problemi aperti e dimostrativi di Livello 3."
+    },
+    {
+      "id": "test-psicologia",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Psicologia (Scienze e Tecniche Psicologiche L-24 & LM-51)",
+      "shortName": "Test Psicologia",
+      "organizer": "Università Suor Orsola Benincasa di Napoli (UNISOB) & Università della Valle d'Aosta (UniVdA) — preparazione area Napoli (UNINA, Vanvitelli TOLC-PSI, UNISOB)",
+      "officialWebsites": [
+        "https://www.unisob.na.it/universita/sot/a005.htm?vr=1",
+        "https://www.psicologia.unicampania.it/didattica/corsi-di-studio/scienze-e-tecniche-psicologiche",
+        "https://www.studiumanistici.unina.it/didattica/corsi-di-studio/scienze-e-tecniche-psicologiche/",
+        "https://www.cisiaonline.it/tolc/tolc-psi/struttura-della-prova-e-sillabo",
+        "https://www.univda.it/futuro-studente/test-di-accesso-anni-precedenti/"
+      ],
+      "subjectDomains": [
+        "matematica",
+        "scienze-naturali",
+        "informatica",
+        "fisica",
+        "chimica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "sourceFile": "data/catalogo/sources/test-psicologia.json",
+      "status": "active",
+      "notes": "Accesso programmato locale: in area Napoli/Campania la Vanvitelli (ex SUN) adotta il CISIA TOLC-PSI, la Federico II (UNINA) svolge un test autonomo d'ateneo e il Suor Orsola Benincasa (UNISOB) pubblica le simulazioni ufficiali in PDF (L-24 Psicologia Cognitiva e LM-51, incluse in catalogo). Arricchito con 7 annate storiche ufficiali complete di griglie risposte dell'Università della Valle d'Aosta (2022–2013) su Ragionamento logico-matematico, Tabelle/Dati, Statistica e Biologia."
+    },
+    {
+      "id": "test-scienze-formazione",
+      "category": "ingresso_universita",
+      "name": "Test d'Ingresso Scienze della Formazione Primaria (LM-85 bis) & Educazione",
+      "shortName": "Formazione & Educazione",
+      "organizer": "Università della Campania 'Luigi Vanvitelli' (ex SUN), Suor Orsola Benincasa (UNISOB), UniPi, UniCa, UniBas & UniVdA (struttura nazionale MUR)",
+      "officialWebsites": [
+        "https://www.letterebeniculturali.unicampania.it/didattica/corsi-di-studio/magistrale-a-ciclo-unico-in-scienze-della-formazione-primaria",
+        "https://www.unisob.na.it/universita/sot/a005.htm?vr=1",
+        "https://formazioneprimaria.cfs.unipi.it/accesso-al-corso/prove-di-accesso-al-corso-anni-precedenti/",
+        "https://web.unica.it/unica/it/fac_studiumanistici_acc_uni.page",
+        "https://www.univda.it/futuro-studente/test-di-accesso-anni-precedenti/"
+      ],
+      "subjectDomains": [
+        "matematica",
+        "scienze-naturali",
+        "fisica",
+        "chimica",
+        "informatica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "sourceFile": "data/catalogo/sources/test-scienze-formazione.json",
+      "status": "active",
+      "notes": "Scienze della Formazione Primaria (LM-85 bis) è ad accesso programmato nazionale (Decreto MUR, 80 quesiti in 150 min) con prove redatte dai singoli atenei; Scienze dell'Educazione (L-19, attiva a Napoli presso UNISOB) è invece prevalentemente ad accesso libero con verifica OFA/TOLC-SU. Il catalogo copre 9 annate consecutive (2026–2018) di Ragionamento logico e Cultura matematico-scientifica, con le prove ufficiali Vanvitelli (ex SUN) 2025 e 2024, Demo UNISOB Napoli, UniPi 2026–2018, UniBas 2023 (soluzioni commentate TestBuddy), UniCa 2022 e UniVdA 2019."
     }
   ]
 }
