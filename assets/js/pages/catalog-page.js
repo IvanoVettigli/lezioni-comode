@@ -1959,7 +1959,7 @@ function renderCompetitionsOverview() {
 function buildMarkdownExport(items) {
   const compMap = getCompetitionMap();
   const topicMap = getTopicMap();
-  const lines = [`# Selezione dal Catalogo Esercizi (${items.length} quesiti)`, ""];
+  const lines = [`# Selezione da Un comodo catalogo di esercizi (${items.length} quesiti)`, ""];
   items.forEach((item, idx) => {
     const comp = compMap[item.competitionId]?.shortName || item.competitionId;
     const topics = (item.allTopics || []).map((t) => topicMap[t]?.label || t).join(", ");
