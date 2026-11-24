@@ -56,3 +56,9 @@ node_modules/
 *.log
 tmp/
 temp/
+
+# ==============================================================================
+# Bozze di programmazione (in lavorazione locale)
+# ==============================================================================
+programma-licei.html
+curricolo-integrato-licei.html

@@ -15,10 +15,10 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parent.parent
 TEMPLATES_DIR = ROOT_DIR / "templates"
 
-SUBJECTS = {
-    "matematica": ("Matematica", "mat"),
-    "fisica": ("Fisica", "fis"),
-    "informatica": ("Elementi di Informatica", "inf"),
+PERIODS = {
+    "primo-biennio": "Primo Biennio",
+    "secondo-biennio": "Secondo Biennio",
+    "quinto-anno": "Quinto Anno",
 }
 
 
@@ -31,8 +31,13 @@ def render_template(template_text: str, mapping: dict[str, str]) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Genera una nuova UDA uniforme dai template ufficiali")
-    parser.add_argument("--subject", required=True, choices=SUBJECTS.keys(), help="Materia della UDA")
-    parser.add_argument("--slug", required=True, help="Slug cartella UDA (es. m01-notazione-scientifica)")
+    parser.add_argument(
+        "--period",
+        choices=PERIODS.keys(),
+        help="Periodo dell'UDA (primo-biennio, secondo-biennio, quinto-anno)",
+    )
+    parser.add_argument("--subject", choices=["matematica", "fisica", "informatica"], help="Compatibilità legacy materia")
+    parser.add_argument("--slug", required=True, help="Slug cartella UDA (es. uda-1-1-numeri-e-conversioni)")
     parser.add_argument("--title", required=True, help="Titolo completo della UDA")
     parser.add_argument("--year", type=int, default=1, choices=[1, 2, 3, 4, 5], help="Anno consigliato (1-5)")
     parser.add_argument("--summary", default="Descrizione sintetica orientata ai problemi e compiti di realtà.", help="Breve descrizione")
@@ -40,14 +45,32 @@ def main() -> int:
     args = parser.parse_args()
 
     if not re.fullmatch(r"[a-z0-9][a-z0-9-]*", args.slug):
-        print("Errore: --slug deve contenere solo lettere minuscole, cifre e trattini (es. m01-numeri).")
+        print("Errore: --slug deve contenere solo lettere minuscole, cifre e trattini (es. uda-1-1-numeri-e-conversioni).")
         return 1
 
-    subject_label, subject_prefix = SUBJECTS[args.subject]
-    uda_id = f"{subject_prefix}-{args.slug}" if not args.slug.startswith(f"{subject_prefix}-") else args.slug
+    # Risoluzione periodo/cartella genitore
+    if args.period:
+        parent_dir = args.period
+        period_label = PERIODS[args.period]
+    elif args.subject:
+        parent_dir = args.subject
+        period_label = args.subject.capitalize()
+    else:
+        # Deduce automaticamente dall'anno
+        if args.year in (1, 2):
+            parent_dir = "primo-biennio"
+            period_label = PERIODS["primo-biennio"]
+        elif args.year in (3, 4):
+            parent_dir = "secondo-biennio"
+            period_label = PERIODS["secondo-biennio"]
+        else:
+            parent_dir = "quinto-anno"
+            period_label = PERIODS["quinto-anno"]
+
+    uda_id = args.slug
     lesson_id = f"{uda_id}-l01"
 
-    target_dir = ROOT_DIR / "uda" / args.subject / args.slug
+    target_dir = ROOT_DIR / "uda" / parent_dir / args.slug
     if target_dir.exists():
         print(f"Errore: la cartella {target_dir.relative_to(ROOT_DIR)} esiste già. Nessun file modificato.")
         return 1
