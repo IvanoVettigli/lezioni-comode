@@ -1120,3 +1120,205 @@
   flex-wrap: wrap;
   gap: 0.45rem;
 }
+
+/* ==========================================================================
+   HOME — SELETTORE PERIODI UDA & SLOT U.X.X
+   ========================================================================== */
+.uda-period-selector {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-4);
+}
+
+@media (max-width: 720px) {
+  .uda-period-selector {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+
+  .uda-period-btn {
+    padding: var(--space-4) var(--space-4);
+  }
+
+  .uda-period-btn-title {
+    font-size: 1.08rem;
+  }
+}
+
+.uda-period-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  padding: var(--space-5) var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-strong);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  font-family: inherit;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-fast), background-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.uda-period-btn:hover {
+  border-color: var(--accent-primary);
+  background: var(--bg-surface-elevated);
+  transform: translateY(-2px);
+}
+
+.uda-period-btn.is-active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: var(--text-inverse);
+  box-shadow: var(--shadow-glow);
+}
+
+.uda-period-btn-title {
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.uda-period-btn-sub {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.uda-period-btn.is-active .uda-period-btn-sub {
+  color: color-mix(in srgb, var(--text-inverse) 82%, transparent);
+}
+
+.uda-period-hint {
+  margin-top: var(--space-5);
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+.uda-period-panel {
+  margin-top: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.uda-year-heading {
+  margin: 0 0 var(--space-3);
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.uda-slot-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-4);
+}
+
+@media (max-width: 900px) {
+  .uda-slot-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .uda-slot-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-3);
+  }
+
+  .uda-slot-card {
+    min-height: 82px;
+    padding: var(--space-3) var(--space-3);
+  }
+
+  .uda-slot-card.is-ready {
+    grid-column: 1 / -1;
+  }
+
+  .uda-slot-title {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 340px) {
+  .uda-slot-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.uda-slot-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 108px;
+  padding: var(--space-4) var(--space-5);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  color: var(--text-primary);
+  text-decoration: none;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-fast), transform var(--transition-fast), background-color var(--transition-fast);
+}
+
+.uda-slot-card.is-placeholder {
+  align-items: center;
+  text-align: center;
+  border-style: dashed;
+  border-color: var(--border-strong);
+  cursor: default;
+  opacity: 0.85;
+}
+
+.uda-slot-card.is-placeholder:hover {
+  border-color: var(--accent-primary);
+  color: var(--text-primary);
+  opacity: 1;
+}
+
+.uda-slot-card.is-ready:hover {
+  border-color: var(--accent-primary);
+  transform: translateY(-2px);
+}
+
+.uda-slot-code {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--accent-primary);
+}
+
+.uda-slot-title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 800;
+  font-family: var(--font-mono);
+  letter-spacing: 0.02em;
+}
+
+.uda-slot-card.is-ready .uda-slot-title {
+  font-family: inherit;
+  font-size: 1.05rem;
+  letter-spacing: normal;
+}
+
+.uda-slot-summary {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+}
+
+.uda-slot-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2);
+  margin-top: auto;
+  padding-top: var(--space-2);
+}
