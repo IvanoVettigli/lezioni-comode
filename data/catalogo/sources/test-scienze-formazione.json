@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "competitionId": "test-scienze-formazione",
-  "description": "Prove ufficiali di ammissione al Corso di Laurea Magistrale a ciclo unico in Scienze della Formazione Primaria (LM-85 bis, struttura nazionale MUR, valide anche per la preparazione ai test di Scienze dell'Educazione L-19): Università della Campania 'Luigi Vanvitelli' (ex SUN) 2025 e 2024, Demo UNISOB Napoli, UniPi 2026–2018, UniBas 2023, UniCa 2022 e UniVdA 2019.",
+  "description": "Prove ufficiali di ammissione al Corso di Laurea Magistrale a ciclo unico in Scienze della Formazione Primaria (LM-85 bis, struttura nazionale MUR): Università della Campania 'Luigi Vanvitelli' (ex SUN) 2025 e 2024, Demo UNISOB Napoli, UniPi 2026–2018, UniBas 2023, UniCa 2022 e UniVdA 2019.",
   "items": [
     {
       "id": "sfp-vanvitelli-2025-q31",

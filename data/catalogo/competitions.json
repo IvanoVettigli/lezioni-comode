@@ -55,7 +55,8 @@
       ],
       "sourceFile": "data/catalogo/sources/invalsi.json",
       "status": "active",
-      "notes": "Archivio completo ufficiale INVALSI Matematica Grado 10 (2ª Superiore: Prove Nazionali 2011–2017 con Guide alla lettura ufficiali, Nuovi Esempi 2011, Progetto Pilota 2002 ed Esempi 2020) e Grado 13 (5ª Superiore: Esempi commentati 2018, 9 prove CBT + livelli 2019 e 5 gruppi 2021 per LS/IT/LNS-PRF). Zero duplicati tra annate e indirizzi."
+      "rules": "Rilevazioni nazionali standardizzate svolte al computer (CBT — Computer Based Testing) nella scuola secondaria di II grado: Grado 10 (2ª superiore) e Grado 13 (5ª superiore, requisito di ammissione all'Esame di Stato). Prove individuali con quesiti a scelta multipla, risposta breve, vero/falso o trascinamento su Numeri, Spazio e Figure, Relazioni e Funzioni, Dati e Previsioni; nessuna penalizzazione per gli errori.",
+      "notes": "Archivio completo ufficiale INVALSI Matematica Grado 10 (2ª Superiore: Prove Nazionali 2011–2017 con Guide alla lettura ufficiali, Nuovi Esempi 2011, Progetto Pilota 2002 ed Esempi 2020) e Grado 13 (5ª Superiore: Esempi commentati 2018, 9 prove CBT + livelli 2019 e 5 gruppi 2021 per LS/IT/LNS-PRF)."
     },
     {
       "id": "ocse-pisa",
@@ -79,6 +80,7 @@
       ],
       "sourceFile": "data/catalogo/sources/ocse-pisa.json",
       "status": "active",
+      "rules": "Indagine internazionale triennale promossa dall'OCSE per gli studenti quindicenni (circa 2ª superiore). Non verifica nozioni mnemoniche ma la capacità di applicare matematica, scienze e alfabetizzazione finanziaria a situazioni reali (bollette, grafici, esperimenti, decisioni quotidiane), con unità composte da uno stimolo iniziale e più quesiti a scelta multipla o risposta aperta valutati tramite Scoring Guides ufficiali.",
       "notes": "Archivio esteso ufficiale OCSE PISA su 6 cicli (2003, 2006, 2009, 2012, 2015 e 2022) con 18 fascicoli PDF locali: prove rilasciate ufficiali INVALSI in italiano (Matematica, Scienze, Financial Literacy, Problem Solving e Pensiero Creativo Scientifico) e raccolte OECD/NCES in inglese CLIL complete di Scoring Guides."
     },
     {
@@ -99,6 +101,7 @@
       ],
       "sourceFile": "data/catalogo/sources/olimpiadi-matematica.json",
       "status": "active",
+      "rules": "Competizione nazionale UMI articolata in tre fasi selettive: Giochi di Archimede d'istituto (novembre, 16 quesiti a risposta multipla in 100 minuti, distinti per Biennio e Triennio; +5 punti esatta, +1 bianca, 0 errata), Gara di Febbraio provinciale (quesiti a scelta multipla, numerici e 3 dimostrazioni scritte) e Finale Nazionale di Cesenatico (6 problemi dimostrativi in 4 ore e 30 minuti).",
       "notes": "Giochi di Archimede 2025, 2024 e 2023 (Biennio e Triennio completi) + Gara di Febbraio 2025 completa (scelta multipla, numerici e dimostrativi) con PDF ufficiali UMI di testi e soluzioni."
     },
     {
@@ -120,6 +123,7 @@
       ],
       "sourceFile": "data/catalogo/sources/olimpiadi-fisica.json",
       "status": "active",
+      "rules": "Competizione nazionale AIF articolata in tre fasi: Gara di 1° Livello d'istituto (dicembre, 40 quesiti a risposta multipla in 100 minuti su tutto il programma di fisica, categoria unica), Gara di 2° Livello di polo (febbraio, 10 quesiti a risposta multipla più 3 problemi analitici aperti) e Finale Nazionale di Senigallia (prova teorica e prova sperimentale di laboratorio), valida per la selezione della squadra italiana IPhO.",
       "notes": "Gara di Primo Livello (2025–2020, 40 quesiti ciascuna) e Gara di Secondo Livello (2026–2020, quesiti e problemi analitici) con testi e soluzioni ufficiali AIF."
     },
     {
@@ -141,7 +145,8 @@
       ],
       "sourceFile": "data/catalogo/sources/giochi-anacleto.json",
       "status": "active",
-      "notes": "Competizione ufficiale AIF di Fisica per Biennio e Triennio: questionari «Domande & Risposte» completi di soluzioni commentate (2026–2022 e raccolta storica 2019–2013) + prove sperimentali «Anacleto In Lab» (2026–2022)."
+      "rules": "Competizione nazionale AIF dedicata in particolare agli studenti del Biennio e del Triennio per avvicinarli al metodo sperimentale. Comprende due prove complementari: «Domande & Risposte» (questionario a scelta multipla incentrato su ragionamento fisico, grafici e fenomeni quotidiani, senza formalismi pesanti) e «Anacleto In Lab» (attività sperimentale di laboratorio con raccolta dati, misure e stima delle incertezze).",
+      "notes": "Questionari «Domande & Risposte» completi di soluzioni commentate (2026–2022 e raccolta storica 2019–2013) + prove sperimentali «Anacleto In Lab» (2026–2022)."
     },
     {
       "id": "olimpiadi-informatica",
@@ -166,6 +171,7 @@
       ],
       "sourceFile": "data/catalogo/sources/olimpiadi-informatica.json",
       "status": "active",
+      "rules": "Riunisce le due competizioni di riferimento per l'informatica scolastica: le Olimpiadi Italiane di Informatica (OII) si svolgono in Selezioni Scolastiche (logica, matematica discreta, lettura di pseudocodice/C++), Selezioni Territoriali e Finali Nazionali di programmazione algoritmica; Bebras / Castoro Informatico propone invece brevi sfide di pensiero computazionale (algoritmi, grafi, codifiche) affrontabili anche senza conoscere un linguaggio di programmazione.",
       "notes": "Selezioni Scolastiche OII 2022 e 2021 (logica, pseudocodice, algoritmi) e quesiti ufficiali Bebras / Castoro Informatico 2025 e 2024 in italiano per Biennio e Triennio con soluzioni commentate."
     },
     {
@@ -175,8 +181,7 @@
       "shortName": "Giochi Chimica",
       "organizer": "SCI — Società Chimica Italiana",
       "officialWebsites": [
-        "https://www.societachimica.it/giochi_della_chimica/edizioni",
-        "https://www.pianetachimica.it/giochi/test_giochi.htm"
+        "https://www.societachimica.it/giochi_della_chimica/edizioni"
       ],
       "subjectDomains": [
         "chimica",
@@ -188,12 +193,13 @@
       ],
       "sourceFile": "data/catalogo/sources/giochi-chimica.json",
       "status": "active",
-      "notes": "Prove ufficiali SCI 2026 (Fase d'Istituto e Finale Regionale, Classi A/B/C) e 2025 (Fase d'Istituto, Classi A/B/C) scaricate da societachimica.it, abbinate alle griglie delle risposte ufficiali digitalizzate da pianetachimica.it."
+      "rules": "Competizione nazionale SCI suddivisa in tre classi di concorso: Classe A (studenti del Biennio), Classe B (Triennio di scuole non ad indirizzo chimico) e Classe C (Triennio di istituti ad indirizzo chimico). Prevede Fase d'Istituto, Finale Regionale (60 quesiti a scelta multipla in 120–150 minuti) e Finale Nazionale, valida per selezionare la rappresentativa italiana alle Olimpiadi Internazionali della Chimica (IChO).",
+      "notes": "Prove ufficiali SCI 2026 (Fase d'Istituto e Finale Regionale, Classi A/B/C) e 2025 (Fase d'Istituto, Classi A/B/C) scaricate da societachimica.it, abbinate alle griglie delle risposte ufficiali."
     },
     {
       "id": "olimpiadi-scienze-naturali",
       "category": "scuola_competizioni",
-      "name": "Campionati / Olimpiadi delle Scienze Naturali (IBO & IESO)",
+      "name": "Campionati / Olimpiadi delle Scienze Naturali (ANISN, IBO & IESO)",
       "shortName": "Scienze Naturali",
       "organizer": "ANISN (Italia) / IBO (Biologia) / USESO-IESO (Scienze della Terra)",
       "officialWebsites": [
@@ -212,7 +218,8 @@
       ],
       "sourceFile": "data/catalogo/sources/olimpiadi-scienze-naturali.json",
       "status": "active",
-      "notes": "Prove ufficiali internazionali/nazionali di riferimento per le due sezioni dei Campionati (CLIL in inglese): Scienze della Terra USESO/IESO 2026 e 2025 + Biologia IBO 2020 con soluzioni commentate ufficiali (in attesa del ripristino online di olimpiadi.anisn.it per i fascicoli italiani)."
+      "rules": "Competizione nazionale ANISN divisa in tre categorie — Biennio, Triennio Biologia e Triennio Scienze della Terra — articolata in Fase d'Istituto, Fase Regionale e Finale Nazionale con quesiti a scelta multipla e analisi di dati sperimentali. I migliori classificati accedono alle squadre nazionali per le fasi internazionali IBO (Biologia) e IESO (Scienze della Terra), svolte in lingua inglese.",
+      "notes": "Prove ufficiali internazionali/nazionali di riferimento in inglese (ottime anche per percorsi CLIL): Scienze della Terra USESO/IESO 2026 e 2025 + Biologia IBO 2020 con soluzioni commentate ufficiali."
     },
     {
       "id": "robotica",
@@ -237,6 +244,7 @@
       ],
       "sourceFile": "data/catalogo/sources/robotica.json",
       "status": "active",
+      "rules": "Competizioni progettuali a squadre centrate su progettazione meccanica, sensori, attuatori e programmazione autonoma. Le squadre si sfidano su missioni definite da regolamenti ufficiali annuali (categorie Rescue Line, Rescue Maze, Soccer, OnStage), valutate sia in campo gara sia tramite documentazione tecnica e intervista con la giuria.",
       "notes": "Regolamenti tecnici e tracce ufficiali 2024–2026: Campionati Italiani di Robotica 2025/2026, RoboCup Junior Italia Bando 2026, OnStage First Steps 2025, Rescue Line Entry 2024, Rescue Maze Entry 2024 e Soccer Entry 2026 (anche CLIL EN)."
     },
     {
@@ -246,9 +254,8 @@
       "shortName": "Semestre Filtro Medicina",
       "organizer": "MUR — Ministero dell'Università e della Ricerca (riforma accesso a.a. 2025/2026)",
       "officialWebsites": [
-        "https://www.mur.gov.it",
-        "https://www.semestreaperto-medodovet.it",
-        "https://testbuddy.it/simulazioni-ufficiali/medicina/2025"
+        "https://www.universitaly.it",
+        "https://www.mur.gov.it"
       ],
       "subjectDomains": [
         "fisica",
@@ -262,7 +269,8 @@
       ],
       "sourceFile": "data/catalogo/sources/semestre-filtro-medicina.json",
       "status": "active",
-      "notes": "Appelli nazionali del Semestre Filtro a.a. 2025/2026 (1° appello 20/11/2025 e 2° appello 10/12/2025): Biologia, Chimica e Propedeutica Biochimica, Fisica (31 quesiti per materia tra scelta multipla e completamento). Fascicoli archiviati da TestBuddy con risposte ufficiali MUR (marcati trasparentemente come Archivio Terzi)."
+      "rules": "Modalità di accesso introdotta dalla riforma 2025/2026 (L. 26/2025, D.Lgs. 71/2025 e decreti MUR) al posto del vecchio test d'ingresso: l'iscrizione al primo semestre è libera su Universitaly (senza test selettivo iniziale) e prevede 18 CFU comuni divisi in Fisica (6 CFU), Chimica e Propedeutica Biochimica (6 CFU) e Biologia (6 CFU). Al termine si sostengono tre esami nazionali sincronizzati (due appelli ufficiali, quesiti a scelta multipla e completamento con penalità per errore, soglia di superamento 18/30 in ciascun esame) che determinano la graduatoria nazionale per l'immatricolazione al 2° semestre; chi non rientra in posizione utile conserva i CFU acquisiti per proseguire in un corso affine (Biotecnologie, Biologia, Farmacia, ecc.).",
+      "notes": "Appelli nazionali del Semestre Filtro a.a. 2025/2026 (1° appello 20/11/2025 e 2° appello 10/12/2025): Biologia, Chimica e Propedeutica Biochimica, Fisica (31 quesiti per materia tra scelta multipla e completamento), archiviati con risposte ufficiali MUR."
     },
     {
       "id": "test-medicina",
@@ -271,7 +279,8 @@
       "shortName": "Test Medicina (MUR)",
       "organizer": "MUR — Ministero dell'Università e della Ricerca (Accesso Programmato)",
       "officialWebsites": [
-        "https://accessoprogrammato.mur.gov.it"
+        "https://accessoprogrammato.mur.gov.it",
+        "https://www.universitaly.it"
       ],
       "subjectDomains": [
         "scienze-naturali",
@@ -287,15 +296,17 @@
       ],
       "sourceFile": "data/catalogo/sources/test-medicina.json",
       "status": "active",
+      "rules": "Archivio storico della prova unica nazionale MUR in vigore fino al 2024 (sostituita dal Semestre Filtro a partire dall'a.a. 2025/2026): 60 quesiti a risposta multipla in 100 minuti su Competenze di lettura e logica, Biologia, Chimica, Fisica e Matematica (+1,5 punti risposta esatta, -0,4 errata, 0 non data). I quesiti restano un bacino prezioso per allenarsi sui programmi scientifici di accesso all'area biomedica.",
       "notes": "Prove ufficiali nazionali MUR pre-riforma (Maggio 2024, Luglio 2024 e Settembre 2022) con tutti i quesiti STEM e di ragionamento logico. Nei fascicoli ufficiali MUR la risposta esatta è convenzionalmente posizionata alla lettera A."
     },
     {
       "id": "test-professioni-sanitarie",
       "category": "ingresso_universita",
-      "name": "Test d'Ingresso Professioni Sanitarie (CINECA / Atenei)",
+      "name": "Test d'Ingresso Professioni Sanitarie (Infermieristica, Fisioterapia, ecc.)",
       "shortName": "Professioni Sanitarie",
-      "organizer": "CINECA / Università degli Studi di Bologna (UniBo) & Università di Torino (UniTo)",
+      "organizer": "MUR / CINECA e singoli Atenei (es. UniBo, UniTo)",
       "officialWebsites": [
+        "https://www.mur.gov.it",
         "https://corsi.unibo.it/laurea/Infermieristica/test-di-ammissione-anni-passati",
         "https://www.medicina.unito.it"
       ],
@@ -313,16 +324,18 @@
       ],
       "sourceFile": "data/catalogo/sources/test-professioni-sanitarie.json",
       "status": "active",
+      "rules": "Accesso programmato nazionale con data unica fissata dal MUR, ma prove e graduatorie gestite dai singoli Atenei (molte università statali si appoggiano al consorzio CINECA). La struttura ministeriale prevede 60 quesiti a 5 opzioni in 100 minuti: 4 di Competenze di lettura, 5 di Ragionamento logico, 23 di Biologia, 15 di Chimica e 13 di Fisica e Matematica (+1,5 esatta, -0,4 errata, 0 omessa).",
       "notes": "Prove ufficiali d'ateneo per Professioni Sanitarie: plichi CINECA UniBo 2025 e 2024 (risposta esatta = lettera A) + prova ufficiale UniTo 2025 (con correttore) per Biologia, Chimica, Fisica, Matematica e Logica."
     },
     {
       "id": "test-imat",
       "category": "ingresso_universita",
-      "name": "IMAT — Medicina in Lingua Inglese (MUR, CLIL)",
+      "name": "IMAT — Medicina e Chirurgia in Lingua Inglese (MUR, CLIL)",
       "shortName": "IMAT (Medicina EN)",
       "organizer": "MUR — Ministero dell'Università e della Ricerca",
       "officialWebsites": [
-        "https://accessoprogrammato.mur.gov.it"
+        "https://accessoprogrammato.mur.gov.it",
+        "https://www.universitaly.it"
       ],
       "subjectDomains": [
         "scienze-naturali",
@@ -338,7 +351,8 @@
       ],
       "sourceFile": "data/catalogo/sources/test-imat.json",
       "status": "active",
-      "notes": "Prove ufficiali MUR dell'International Medical Admissions Test (IMAT 2024 e 2023) interamente in lingua inglese: bacino ideale per preparazione medica internazionale e percorsi CLIL. Risposta corretta alla lettera A nei fascicoli MUR."
+      "rules": "International Medical Admissions Test: prova unica nazionale (e internazionale) interamente in lingua inglese per l'accesso ai corsi di laurea magistrale in Medicina e Chirurgia in inglese delle università pubbliche italiane. Prevede 60 quesiti a 5 opzioni in 100 minuti su Reading/General Knowledge, Logical Reasoning, Biology, Chemistry, Physics & Mathematics (+1,5 esatta, -0,4 errata, 0 omessa), con iscrizione e graduatoria gestite su Universitaly.",
+      "notes": "Prove ufficiali MUR IMAT 2024 e 2023 interamente in lingua inglese: bacino ideale per preparazione medica internazionale e percorsi CLIL. Risposta corretta alla lettera A nei fascicoli MUR."
     },
     {
       "id": "test-veterinaria",
@@ -347,7 +361,8 @@
       "shortName": "Test Veterinaria (MUR)",
       "organizer": "MUR — Ministero dell'Università e della Ricerca (Accesso Programmato)",
       "officialWebsites": [
-        "https://accessoprogrammato.mur.gov.it"
+        "https://accessoprogrammato.mur.gov.it",
+        "https://www.universitaly.it"
       ],
       "subjectDomains": [
         "chimica",
@@ -363,17 +378,18 @@
       ],
       "sourceFile": "data/catalogo/sources/test-veterinaria.json",
       "status": "active",
-      "notes": "Prove ufficiali nazionali MUR di Medicina Veterinaria pre-riforma (Sessioni Maggio e Luglio 2024; dal 2025/26 il corso confluisce nel Semestre Filtro). Risposta esatta posizionata alla lettera A nei PDF MUR."
+      "rules": "Archivio storico della prova nazionale MUR di Medicina Veterinaria fino al 2024 (60 quesiti in 100 minuti con ampio peso su Chimica, Biologia, Fisica, Matematica e Logica; +1,5 esatta, -0,4 errata, 0 omessa). Dall'a.a. 2025/2026 Medicina Veterinaria rientra nel nuovo Semestre Filtro insieme a Medicina e Odontoiatria, ma le prove precedenti restano un ottimo strumento di allenamento.",
+      "notes": "Prove ufficiali nazionali MUR di Medicina Veterinaria pre-riforma (Sessioni Maggio e Luglio 2024). Risposta esatta posizionata alla lettera A nei PDF MUR."
     },
     {
       "id": "test-architettura",
       "category": "ingresso_universita",
-      "name": "Test d'Ingresso Architettura (MUR / TEST-ARCHED)",
+      "name": "Test d'Ingresso Architettura (MUR / CISIA TEST-ARCHED)",
       "shortName": "Test Architettura",
-      "organizer": "MUR — Ministero dell'Università e della Ricerca / CISIA ARCHED",
+      "organizer": "MUR — Ministero dell'Università e della Ricerca / CISIA (TEST-ARCHED)",
       "officialWebsites": [
-        "https://accessoprogrammato.mur.gov.it",
-        "https://www.cisiaonline.it/altri-test/test-arched"
+        "https://www.cisiaonline.it/altri-test/test-arched",
+        "https://accessoprogrammato.mur.gov.it"
       ],
       "subjectDomains": [
         "matematica",
@@ -387,18 +403,19 @@
       ],
       "sourceFile": "data/catalogo/sources/test-architettura.json",
       "status": "active",
-      "notes": "Prove nazionali ufficiali MUR di Architettura (2019 e 2018) focalizzate su Ragionamento Logico, Disegno e Rappresentazione (geometria descrittiva/solida/scale), Fisica e Matematica. Risposta corretta alla lettera A."
+      "rules": "Accesso programmato nazionale con programma definito dal MUR e gestione affidata ai singoli Atenei: la maggior parte delle università italiane utilizza il TEST-ARCHED erogato dal consorzio CISIA. La prova consiste in 50 quesiti a 5 opzioni in 100 minuti su Comprensione del testo, Conoscenze storico-artistiche, Ragionamento logico, Disegno e Rappresentazione (geometria descrittiva, solida e scale) e Fisica e Matematica (+1 esatta, -0,25 errata, 0 omessa).",
+      "notes": "Prove nazionali ufficiali MUR di Architettura (2019 e 2018) focalizzate su Ragionamento Logico, Disegno e Rappresentazione, Fisica e Matematica. Risposta corretta alla lettera A."
     },
     {
       "id": "test-ingegneria-scienze-tolc",
       "category": "ingresso_universita",
-      "name": "Ingegneria, Scienze & Economia (TOLC-I, PoliMi TOL, POLItest & TOLC-E)",
+      "name": "Ingegneria, Scienze & Economia (CISIA TOLC-I, TOLC-E & PoliMi TOL)",
       "shortName": "Ingegneria & TOLC",
-      "organizer": "CISIA (TOLC-I Ingegneria Aerospaziale / Industriale), Politecnico di Milano (TOL / POLItest) & Università Ca' Foscari Venezia (TOLC-E)",
+      "organizer": "CISIA (TOLC-I e TOLC-E) & Politecnico di Milano (TOL / POLItest)",
       "officialWebsites": [
         "https://www.cisiaonline.it",
-        "https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/tol-test-on-line/come-prepararsi-al-tol",
-        "https://www.unive.it"
+        "https://www.cisiaonline.it/tolc/tolc-i/struttura-della-prova-e-sillabo",
+        "https://www.polimi.it/futuri-studenti/test-e-ammissione/laurea/ingegneria/tol-test-on-line/come-prepararsi-al-tol"
       ],
       "subjectDomains": [
         "matematica",
@@ -412,12 +429,13 @@
       ],
       "sourceFile": "data/catalogo/sources/test-ingegneria-scienze-tolc.json",
       "status": "active",
-      "notes": "Test ufficiali CISIA TOLC-I (adottato ad es. a Roma Sapienza per Ingegneria Aerospaziale e Politecnici), Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi POLItest Matematica e Fisica del Politecnico di Milano e simulazione TOLC-E Matematica Ca' Foscari Venezia."
+      "rules": "I TOLC (Test OnLine CISIA) sono prove digitali standardizzate adottate come base dalla maggior parte delle università statali italiane sia per selezioni a numero programmato sia per la verifica delle conoscenze iniziali (OFA): si possono sostenere più volte l'anno e il punteggio è valido in tutti gli atenei aderenti. Il TOLC-I (Ingegneria e corsi tecnico-scientifici) ha 50 quesiti a 5 opzioni in 110 minuti divisi in 4 sezioni a tempo (20 Matematica, 10 Logica, 10 Scienze, 10 Comprensione verbale + sezione Inglese; +1 esatta, -0,25 errata, 0 omessa); il TOLC-E copre l'area Economica (36 quesiti in 90 min). Alcuni atenei come il Politecnico di Milano usano invece un test proprietario (TOL / POLItest).",
+      "notes": "Test ufficiali CISIA TOLC-I (adottato ad es. a Roma Sapienza per Ingegneria Aerospaziale e in molti atenei), Autovalutazione Ingegneria PoliMi (N. 1 e N. 2), volumi POLItest Matematica e Fisica del Politecnico di Milano e simulazione TOLC-E Matematica Ca' Foscari Venezia."
     },
     {
       "id": "scuole-eccellenza",
       "category": "ingresso_universita",
-      "name": "Scuole Universitarie di Eccellenza (SNS & Sant'Anna Pisa)",
+      "name": "Scuole Universitarie di Eccellenza (Normale & Sant'Anna di Pisa)",
       "shortName": "Normale & Sant'Anna",
       "organizer": "Scuola Normale Superiore (SNS) & Scuola Superiore Sant'Anna di Pisa",
       "officialWebsites": [
@@ -438,20 +456,20 @@
       ],
       "sourceFile": "data/catalogo/sources/scuole-eccellenza.json",
       "status": "active",
-      "notes": "Prove scritte ufficiali di ammissione al I anno del Corso Ordinario: SNS Classe di Scienze 2026, 2025 e 2024 (Matematica, Fisica, Chimica, Biologia) + esercizi di autovalutazione SNS + Scuola Superiore Sant'Anna Ingegneria (2025, 2024, 2023) e Scienze Mediche. Serbatoio d'eccellenza per problemi aperti e dimostrativi di Livello 3."
+      "rules": "Concorsi nazionali di ammissione al I anno del Corso Ordinario che offrono vitto, alloggio e percorso integrativo universitario gratuito agli studenti selezionati. A differenza dei test a crocette, consistono in prove scritte aperte e dimostrative di alto rigore (Matematica, Fisica, Chimica, Biologia o Ingegneria) seguite da esami orali davanti a commissioni docenti, mirati a valutare creatività risolutiva, modellizzazione e solidità teorica.",
+      "notes": "Prove scritte ufficiali SNS Classe di Scienze 2026, 2025 e 2024 + esercizi di autovalutazione SNS + Scuola Superiore Sant'Anna Ingegneria (2025, 2024, 2023) e Scienze Mediche."
     },
     {
       "id": "test-psicologia",
       "category": "ingresso_universita",
       "name": "Test d'Ingresso Psicologia (Scienze e Tecniche Psicologiche L-24 & LM-51)",
       "shortName": "Test Psicologia",
-      "organizer": "Università Suor Orsola Benincasa di Napoli (UNISOB) & Università della Valle d'Aosta (UniVdA) — preparazione area Napoli (UNINA, Vanvitelli TOLC-PSI, UNISOB)",
+      "organizer": "CISIA (TOLC-PSI) & Singoli Atenei (Vanvitelli, UNINA, UNISOB, UniVdA)",
       "officialWebsites": [
-        "https://www.unisob.na.it/universita/sot/a005.htm?vr=1",
+        "https://www.cisiaonline.it/tolc/tolc-psi/struttura-della-prova-e-sillabo",
         "https://www.psicologia.unicampania.it/didattica/corsi-di-studio/scienze-e-tecniche-psicologiche",
         "https://www.studiumanistici.unina.it/didattica/corsi-di-studio/scienze-e-tecniche-psicologiche/",
-        "https://www.cisiaonline.it/tolc/tolc-psi/struttura-della-prova-e-sillabo",
-        "https://www.univda.it/futuro-studente/test-di-accesso-anni-precedenti/"
+        "https://www.unisob.na.it/universita/sot/a005.htm?vr=1"
       ],
       "subjectDomains": [
         "matematica",
@@ -467,20 +485,20 @@
       ],
       "sourceFile": "data/catalogo/sources/test-psicologia.json",
       "status": "active",
-      "notes": "Accesso programmato locale: in area Napoli/Campania la Vanvitelli (ex SUN) adotta il CISIA TOLC-PSI, la Federico II (UNINA) svolge un test autonomo d'ateneo e il Suor Orsola Benincasa (UNISOB) pubblica le simulazioni ufficiali in PDF (L-24 Psicologia Cognitiva e LM-51, incluse in catalogo). Arricchito con 7 annate storiche ufficiali complete di griglie risposte dell'Università della Valle d'Aosta (2022–2013) su Ragionamento logico-matematico, Tabelle/Dati, Statistica e Biologia."
+      "rules": "Accesso programmato locale: non esiste una graduatoria unica nazionale e ogni università pubblica il proprio bando. Moltissimi atenei (tra cui la Vanvitelli in Campania, UniBo, UniPd, UniTo) adottano il CISIA TOLC-PSI (50 quesiti in 100 minuti: 10 Comprensione del testo, 10 Matematica di base, 10 Ragionamento verbale, 10 Ragionamento numerico, 10 Biologia + sezione Inglese; +1 esatta, -0,25 errata, 0 omessa), mentre altri atenei (come Federico II e Suor Orsola Benincasa a Napoli) svolgono una prova autonoma d'ateneo.",
+      "notes": "Simulazioni ufficiali in PDF del Suor Orsola Benincasa (L-24 Psicologia Cognitiva e LM-51) + 7 annate storiche ufficiali complete di griglie risposte dell'Università della Valle d'Aosta (2022–2013) su Ragionamento logico-matematico, Tabelle/Dati, Statistica e Biologia."
     },
     {
       "id": "test-scienze-formazione",
       "category": "ingresso_universita",
-      "name": "Test d'Ingresso Scienze della Formazione Primaria (LM-85 bis) & Educazione",
-      "shortName": "Formazione & Educazione",
-      "organizer": "Università della Campania 'Luigi Vanvitelli' (ex SUN), Suor Orsola Benincasa (UNISOB), UniPi, UniCa, UniBas & UniVdA (struttura nazionale MUR)",
+      "name": "Scienze della Formazione Primaria (LM-85 bis)",
+      "shortName": "Scienze Formazione Primaria",
+      "organizer": "MUR (struttura nazionale) & Singoli Atenei (Vanvitelli, UNISOB, UniPi, UniCa, UniBas, UniVdA)",
       "officialWebsites": [
+        "https://www.mur.gov.it",
         "https://www.letterebeniculturali.unicampania.it/didattica/corsi-di-studio/magistrale-a-ciclo-unico-in-scienze-della-formazione-primaria",
         "https://www.unisob.na.it/universita/sot/a005.htm?vr=1",
-        "https://formazioneprimaria.cfs.unipi.it/accesso-al-corso/prove-di-accesso-al-corso-anni-precedenti/",
-        "https://web.unica.it/unica/it/fac_studiumanistici_acc_uni.page",
-        "https://www.univda.it/futuro-studente/test-di-accesso-anni-precedenti/"
+        "https://formazioneprimaria.cfs.unipi.it/accesso-al-corso/prove-di-accesso-al-corso-anni-precedenti/"
       ],
       "subjectDomains": [
         "matematica",
@@ -496,7 +514,32 @@
       ],
       "sourceFile": "data/catalogo/sources/test-scienze-formazione.json",
       "status": "active",
-      "notes": "Scienze della Formazione Primaria (LM-85 bis) è ad accesso programmato nazionale (Decreto MUR, 80 quesiti in 150 min) con prove redatte dai singoli atenei; Scienze dell'Educazione (L-19, attiva a Napoli presso UNISOB) è invece prevalentemente ad accesso libero con verifica OFA/TOLC-SU. Il catalogo copre 9 annate consecutive (2026–2018) di Ragionamento logico e Cultura matematico-scientifica, con le prove ufficiali Vanvitelli (ex SUN) 2025 e 2024, Demo UNISOB Napoli, UniPi 2026–2018, UniBas 2023 (soluzioni commentate TestBuddy), UniCa 2022 e UniVdA 2019."
+      "rules": "Laurea magistrale a ciclo unico quinquennale abilitante all'insegnamento nella scuola dell'infanzia e primaria (facoltà distinta da Scienze dell'Educazione). È ad accesso programmato nazionale (Decreto MUR annuale e data unica in tutta Italia), con prove predisposte dai singoli Atenei secondo lo schema ministeriale: 80 quesiti a 4 opzioni in 150 minuti (40 Competenza linguistica e ragionamento logico, 20 Cultura letteraria/storico-sociale/geografica, 20 Cultura matematico-scientifica). Punteggio: +1 esatta, 0 errata o non data (nessuna penalità), soglia di idoneità 55/80 più punteggio bonus per certificazioni linguistiche di inglese (da B1 +3 fino a C2 +10).",
+      "notes": "9 annate consecutive (2026–2018) di Ragionamento logico e Cultura matematico-scientifica: prove ufficiali Vanvitelli (ex SUN) 2025 e 2024, Demo UNISOB Napoli, UniPi 2026–2018, UniBas 2023 (soluzioni commentate), UniCa 2022 e UniVdA 2019."
+    },
+    {
+      "id": "test-scienze-educazione",
+      "category": "ingresso_universita",
+      "name": "Scienze dell'Educazione e della Formazione (L-19)",
+      "shortName": "Scienze dell'Educazione",
+      "organizer": "Singoli Atenei / CISIA (TOLC-SU) — es. UNISOB Napoli, UniBo, UniTo",
+      "officialWebsites": [
+        "https://www.cisiaonline.it/tolc/tolc-su/struttura-della-prova-e-sillabo",
+        "https://www.unisob.na.it/universita/corsi/scienzedelleducazione/index.htm"
+      ],
+      "subjectDomains": [
+        "informatica",
+        "matematica"
+      ],
+      "typicalLevels": [
+        "ingresso_universita",
+        "triennio",
+        "anno_5"
+      ],
+      "sourceFile": "data/catalogo/sources/test-scienze-educazione.json",
+      "status": "planned",
+      "rules": "Corso di laurea triennale (classe L-19), distinto da Scienze della Formazione Primaria: forma educatori professionali socio-pedagogici ed educatori per i servizi educativi per l'infanzia (0–3 anni). Non esiste un test unico nazionale MUR: nella maggior parte degli atenei è ad accesso libero con verifica delle conoscenze iniziali (eventuali OFA) tramite CISIA TOLC-SU (50 quesiti in 100 minuti: 30 Comprensione del testo e lingua italiana, 10 Conoscenze e competenze, 10 Ragionamento logico + sezione Inglese; +1 esatta, -0,25 errata, 0 omessa) oppure prova d'ateneo; alcuni atenei prevedono invece un numero programmato locale.",
+      "notes": "Percorso prevalentemente umanistico-pedagogico (la componente logico-matematica è limitata ai 10 quesiti di Ragionamento logico del TOLC-SU). Per allenare la logica di base puoi usare i quesiti di Ragionamento logico presenti nel catalogo; fascicoli specifici TOLC-SU / L-19 potranno essere aggiunti in questa sezione dedicata."
     }
   ]
 }

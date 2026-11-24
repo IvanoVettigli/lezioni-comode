@@ -27,253 +27,233 @@
     </section>
 
     <section class="hero">
-      <span class="badge badge-subject-informatica">Banca Quesiti · Prove Ufficiali, Competizioni &amp; Test Universitari</span>
-      <h1 style="margin-top:0.75rem;">📚 Catalogo di Esercizi</h1>
-      <p style="max-width:75ch;">
-        Cerca quesiti per <strong>argomento</strong> (es. <em>equivalenze</em>, <em>probabilità</em>, <em>cinematica</em>),
-        <strong>livello</strong> (incluso il percorso dedicato <strong>Ingresso Università / Test d'Ammissione</strong>),
-        <strong>competizione o test</strong> e <strong>anno</strong>. Ogni scheda indica con chiarezza se il materiale è
-        <strong>ufficiale</strong> o di <strong>archivio/allenamento terzi</strong>, mostra il numero esatto del quesito
-        e offre il link diretto al <strong>PDF ospitato nel sito</strong> alla pagina giusta.
+      <h1 style="margin-top:0;">📚 Catalogo di Esercizi</h1>
+      <p class="muted" style="max-width:72ch; margin-bottom:0.85rem;">
+        Banca dati di prove e test ufficiali: puoi consultare le singole prove complete in PDF oppure cercare domande mirate filtrando per tematiche.
       </p>
       <div class="catalog-kpi-row" data-catalog-stats>
         <span class="badge">Caricamento catalogo...</span>
       </div>
     </section>
 
-    <!-- CERCA DIRETTAMENTE UNA PROVA COMPLETA -->
-    <section class="card catalog-exam-finder no-print" aria-labelledby="cerca-prove-title">
-      <div class="exercise-header" style="margin-bottom:0.65rem;">
-        <div>
-          <h2 id="cerca-prove-title" style="margin:0; font-size:1.15rem;">📑 Cerca direttamente una prova (PDF completo e quesiti)</h2>
-          <p class="muted" style="margin:0.2rem 0 0; font-size:0.88rem;">
-            Cerca per nome e anno (es. <em>INVALSI del 2021</em>, <em>semestre filtro medicina 2025</em>, <em>TOLC-I aerospaziale</em>) per aprire subito la prova o visualizzare i suoi quesiti.
-          </p>
-        </div>
-        <button type="button" class="btn btn-ghost btn-xs" data-exam-reset style="display:none;">↺ Pulisci ricerca prove</button>
-      </div>
-
-      <div class="catalog-exam-controls">
-        <div class="catalog-field catalog-exam-search-field">
-          <label for="exam-search">Cerca una prova specifica</label>
-          <input
-            id="exam-search"
-            type="search"
-            class="catalog-input"
-            placeholder="Es. INVALSI 2021, semestre filtro medicina 2025, Archimede 2025, TOLC-I aerospaziale..."
-            data-exam-search
-          />
-        </div>
-
-        <div class="catalog-field">
-          <label for="exam-competition">Competizione / Test</label>
-          <select id="exam-competition" class="catalog-select" data-exam-competition>
-            <option value="">Tutte le prove e competizioni</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="exam-year">Anno</label>
-          <select id="exam-year" class="catalog-select" data-exam-year>
-            <option value="">Tutti gli anni</option>
-          </select>
-        </div>
-      </div>
-
-      <div class="catalog-exam-examples" aria-label="Ricerche rapide di esempio">
-        <span class="muted"><small>Esempi rapidi:</small></span>
-        <button type="button" class="topic-chip" data-exam-example="INVALSI 2021">INVALSI 2021</button>
-        <button type="button" class="topic-chip" data-exam-example="semestre filtro medicina 2025">Semestre Filtro Medicina 2025</button>
-        <button type="button" class="topic-chip" data-exam-example="Medicina 2024">Medicina 2024</button>
-        <button type="button" class="topic-chip" data-exam-example="TOLC-I aerospaziale">TOLC-I Aerospaziale</button>
-        <button type="button" class="topic-chip" data-exam-example="Archimede 2025">Archimede 2025</button>
-        <button type="button" class="topic-chip" data-exam-example="Anacleto 2026">Giochi di Anacleto 2026</button>
-        <button type="button" class="topic-chip" data-exam-example="Campionati di Fisica 2026">Fisica 2026</button>
-        <button type="button" class="topic-chip" data-exam-example="IMAT 2024">IMAT 2024</button>
-      </div>
-
-      <div class="catalog-exam-results" data-exam-results>
-        <p class="muted" style="margin:0.5rem 0 0;"><small>Caricamento elenco prove...</small></p>
-      </div>
-    </section>
-
-    <!-- RIEPILOGO RAPIDO COMPETIZIONI E ANNI PRESENTI A CATALOGO -->
+    <!-- ESPLORA PER COMPETIZIONE O TEST D'INGRESSO -->
     <section class="card catalog-coverage-banner no-print" aria-labelledby="copertura-rapida-title">
       <div class="exercise-header" style="margin-bottom:0.75rem;">
-        <h2 id="copertura-rapida-title" style="margin:0; font-size:1.1rem;">📅 Competizioni, test universitari e anni presenti a catalogo</h2>
-        <span class="muted"><small>Clicca su una prova o su un anno per visualizzare subito i relativi PDF</small></span>
+        <h2 id="copertura-rapida-title" style="margin:0; font-size:1.15rem;">📅 Esplora per competizione o test d'ingresso</h2>
+        <span class="muted"><small>Premi una categoria per mostrare le singole gare o i test universitari e aprire i relativi PDF</small></span>
       </div>
-      <div class="catalog-coverage-table-wrap" data-coverage-summary>
-        <p class="muted" style="margin:0;">Caricamento elenco competizioni e annate...</p>
+      <div data-coverage-summary>
+        <p class="muted" style="margin:0;">Caricamento elenco competizioni e test...</p>
       </div>
+      <div id="esplora-prove-pdf" data-selected-comp-exams></div>
     </section>
 
-    <!-- PANNELLO FILTRI -->
-    <section class="card no-print" aria-labelledby="filtri-title">
-      <div class="exercise-header" style="margin-bottom:1rem;">
-        <h2 id="filtri-title" style="margin:0; font-size:1.2rem;">🔍 Filtri di ricerca ed estrazione quesiti</h2>
-        <button type="button" class="btn btn-ghost" data-filter-reset>↺ Reimposta tutti i filtri</button>
-      </div>
-
-      <div class="catalog-filter-grid">
-        <div class="catalog-field">
-          <label for="filter-search">Ricerca testuale (parole chiave, prova, anno, sintesi)</label>
-          <input id="filter-search" type="search" class="catalog-input" placeholder="Es. equivalenze, INVALSI 2021, Q7, triangolo..." data-filter-search />
+    <!-- RICERCA QUESITI PER TEMATICHE (CHIUSA DI DEFAULT) -->
+    <details class="card catalog-collapsible-card no-print" data-filters-details>
+      <summary class="catalog-collapsible-summary">
+        <span class="catalog-collapsible-title" id="filtri-title">🔍 Ricerca quesiti per tematiche</span>
+        <div class="catalog-collapsible-meta">
+          <span class="badge badge-exp" data-active-filters-count style="display:none;"></span>
+          <span class="catalog-collapsible-chevron" aria-hidden="true">▾</span>
         </div>
+      </summary>
 
-        <div class="catalog-field">
-          <label for="filter-discipline">Disciplina / Macro-area</label>
-          <select id="filter-discipline" class="catalog-select" data-filter-discipline>
-            <option value="">Tutte le discipline</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-competition">Competizione / Test d'ingresso</label>
-          <select id="filter-competition" class="catalog-select" data-filter-competition>
-            <option value="">Tutte le prove e competizioni</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-level">Livello (Scuola / Test Univ.)</label>
-          <select id="filter-level" class="catalog-select" data-filter-level>
-            <option value="">Tutti i livelli</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-language">Lingua (anche CLIL)</label>
-          <select id="filter-language" class="catalog-select" data-filter-language>
-            <option value="">Tutte le lingue</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-source-type">Ufficialità della fonte</label>
-          <select id="filter-source-type" class="catalog-select" data-filter-source-type>
-            <option value="">Tutte le fonti</option>
-            <option value="official_all">Solo fonti ufficiali (prove + esempi)</option>
-            <option value="official_exam">Solo prove ufficiali reali</option>
-            <option value="official_sample">Solo esempi ufficiali (es. INVALSIopen)</option>
-            <option value="third_party_all">Solo archivi / allenamento terzi</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-format">Formato risposta</label>
-          <select id="filter-format" class="catalog-select" data-filter-format>
-            <option value="">Tutti i formati</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label for="filter-visuals">Grafici, figure e tabelle</label>
-          <select id="filter-visuals" class="catalog-select" data-filter-visuals>
-            <option value="">Tutti i quesiti</option>
-            <option value="with_visuals">Solo con grafici / figure / tabelle</option>
-            <option value="no_visuals">Solo testo (senza figure)</option>
-          </select>
-        </div>
-
-        <div class="catalog-field">
-          <label>Intervallo anni</label>
-          <div style="display:flex; gap:0.5rem; align-items:center;">
-            <input type="number" class="catalog-input" placeholder="Da (es. 2018)" min="1980" max="2100" data-filter-year-min aria-label="Anno minimo" />
-            <span class="muted">—</span>
-            <input type="number" class="catalog-input" placeholder="A (es. 2026)" min="1980" max="2100" data-filter-year-max aria-label="Anno massimo" />
-          </div>
-          <div class="catalog-quick-years">
-            <button type="button" class="btn btn-ghost btn-xs" data-year-preset="all">Tutti</button>
-            <button type="button" class="btn btn-ghost btn-xs" data-year-preset="5">Ultimi 5 anni</button>
-            <button type="button" class="btn btn-ghost btn-xs" data-year-preset="10">Ultimi 10 anni</button>
+      <div class="catalog-collapsible-body">
+        <div class="catalog-primary-search">
+          <div class="catalog-field">
+            <label for="filter-search">🔎 Ricerca libera (parole chiave, argomento, prova, anno, numero quesito)</label>
+            <input id="filter-search" type="search" class="catalog-input" placeholder="Es. equivalenze, bolletta, Pitagora, INVALSI 2021, Q7..." data-filter-search />
           </div>
         </div>
-      </div>
 
-      <!-- SELETTORE ARGOMENTI CON RICERCA & CHIP -->
-      <div class="catalog-topics-panel">
-        <div class="catalog-topics-head">
-          <label for="filter-topic-search"><strong>Argomenti</strong> (cerca per disciplina, nome o sinonimo, es. <em>Fisica</em>, <em>Matematica</em>, <em>equivalenze</em>, <em>fluidi</em>):</label>
-          <div class="catalog-topics-controls">
-            <select id="filter-topic-mode" class="catalog-select" style="width:auto;" data-topic-match-mode aria-label="Modalità combinazione argomenti">
-              <option value="or">Abbina: almeno un argomento (OR)</option>
-              <option value="and">Abbina: tutti gli argomenti (AND)</option>
+        <div class="catalog-filter-grid catalog-filter-grid-primary">
+          <div class="catalog-field">
+            <label for="filter-discipline">📚 Disciplina / Area</label>
+            <select id="filter-discipline" class="catalog-select" data-filter-discipline>
+              <option value="">Tutte le discipline</option>
             </select>
-            <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:280px;" placeholder="Filtra per disciplina o argomento..." data-topic-search />
+          </div>
+
+          <div class="catalog-field">
+            <label for="filter-competition">🏆 Competizione / Test</label>
+            <select id="filter-competition" class="catalog-select" data-filter-competition>
+              <option value="">Tutte le prove e competizioni</option>
+            </select>
+          </div>
+
+          <div class="catalog-field">
+            <label for="filter-level" data-level-label>🎯 Livello scolastico / universitario</label>
+            <select id="filter-level" class="catalog-select" data-filter-level>
+              <option value="">Tutti i livelli</option>
+            </select>
+          </div>
+
+          <div class="catalog-field">
+            <label>📅 Intervallo anni</label>
+            <div style="display:flex; gap:0.5rem; align-items:center;">
+              <input type="number" class="catalog-input" placeholder="Da" min="1980" max="2100" data-filter-year-min aria-label="Anno minimo" />
+              <span class="muted">—</span>
+              <input type="number" class="catalog-input" placeholder="A" min="1980" max="2100" data-filter-year-max aria-label="Anno massimo" />
+            </div>
+            <div class="catalog-quick-years">
+              <button type="button" class="btn btn-ghost btn-xs" data-year-preset="all">Tutti</button>
+              <button type="button" class="btn btn-ghost btn-xs" data-year-preset="5">Ultimi 5 anni</button>
+              <button type="button" class="btn btn-ghost btn-xs" data-year-preset="10">Ultimi 10 anni</button>
+            </div>
+          </div>
+
+          <div class="catalog-field">
+            <label for="extract-limit">🔢 Quante domande estrarre</label>
+            <select id="extract-limit" class="catalog-select" data-extract-limit>
+              <option value="all">Tutte le trovate</option>
+              <option value="3">3 domande</option>
+              <option value="5">5 domande</option>
+              <option value="10">10 domande</option>
+              <option value="15">15 domande</option>
+              <option value="20">20 domande</option>
+            </select>
+          </div>
+
+          <div class="catalog-field">
+            <label for="extract-strategy">↕️ Criterio di ordinamento / estrazione</label>
+            <select id="extract-strategy" class="catalog-select" data-extract-strategy>
+              <option value="newest">Più recenti prima</option>
+              <option value="random_recent">Casuali privilegiando le più recenti</option>
+              <option value="random_all">Casuali su tutti i risultati</option>
+              <option value="oldest">Più vecchie prima</option>
+            </select>
           </div>
         </div>
-        <div class="catalog-selected-topics" data-selected-topics></div>
-        <details class="catalog-topic-accordion">
-          <summary data-topic-accordion-summary>Mostra / nascondi elenco argomenti per disciplina</summary>
-          <div class="catalog-topic-groups" data-topic-groups></div>
-        </details>
+
+        <!-- BOTTONE FILTRI AGGIUNTIVI (TEMATICHE / ARGOMENTI + FILTRI AVANZATI) -->
+        <div class="catalog-extra-filters-wrap">
+          <button type="button" class="catalog-extra-filters-btn" data-toggle-extra-filters aria-expanded="false">
+            <span class="catalog-extra-filters-btn-text">
+              <strong>🏷 Tematiche / Argomenti</strong>
+              <span class="muted">(conteggi aggiornati ai filtri scelti · include filtri avanzati CLIL, formato, figure, fonte)</span>
+            </span>
+            <span class="catalog-collapsible-meta">
+              <span class="badge badge-exp" data-extra-filters-badge style="display:none;"></span>
+              <span class="catalog-collapsible-chevron" aria-hidden="true">▾</span>
+            </span>
+          </button>
+
+          <div class="catalog-extra-filters-panel" data-extra-filters-panel hidden>
+            <!-- SELETTORE ARGOMENTI CON RICERCA & CHIP -->
+            <div class="catalog-topics-panel" style="margin-top:0; padding-top:0; border-top:none;">
+              <div class="catalog-topics-head">
+                <label for="filter-topic-search"><strong>Argomenti specifici</strong>:</label>
+                <div class="catalog-topics-controls">
+                  <select id="filter-topic-mode" class="catalog-select" style="width:auto;" data-topic-match-mode aria-label="Modalità combinazione argomenti">
+                    <option value="or">Abbina: almeno un argomento (OR)</option>
+                    <option value="and">Abbina: tutti gli argomenti (AND)</option>
+                  </select>
+                  <input id="filter-topic-search" type="search" class="catalog-input" style="max-width:260px;" placeholder="Cerca argomento (es. fluidi, equazioni...)" data-topic-search />
+                </div>
+              </div>
+              <div class="catalog-selected-topics" data-selected-topics></div>
+              <details class="catalog-topic-accordion">
+                <summary data-topic-accordion-summary>Mostra / nascondi elenco argomenti per disciplina</summary>
+                <div class="catalog-topic-groups" data-topic-groups></div>
+              </details>
+            </div>
+
+            <!-- FILTRI AVANZATI (RICHIUDIBILI) -->
+            <details class="catalog-advanced-filters" data-advanced-filters>
+              <summary>
+                <span>⚙️ Filtri avanzati (lingua CLIL, formato risposta, figure, fonte)</span>
+                <span class="badge badge-exp" data-advanced-filters-badge style="display:none;"></span>
+              </summary>
+
+              <div class="catalog-filter-grid" style="margin-top:0.85rem;">
+                <div class="catalog-field">
+                  <label for="filter-language">Lingua (anche CLIL)</label>
+                  <select id="filter-language" class="catalog-select" data-filter-language>
+                    <option value="">Tutte le lingue</option>
+                  </select>
+                </div>
+
+                <div class="catalog-field">
+                  <label for="filter-format">Formato risposta</label>
+                  <select id="filter-format" class="catalog-select" data-filter-format>
+                    <option value="">Tutti i formati</option>
+                  </select>
+                </div>
+
+                <div class="catalog-field">
+                  <label for="filter-visuals">Grafici, figure e tabelle</label>
+                  <select id="filter-visuals" class="catalog-select" data-filter-visuals>
+                    <option value="">Tutti i quesiti</option>
+                    <option value="with_visuals">Solo con grafici / figure / tabelle</option>
+                    <option value="no_visuals">Solo testo (senza figure)</option>
+                  </select>
+                </div>
+
+                <div class="catalog-field">
+                  <label for="filter-source-type">Ufficialità della fonte</label>
+                  <select id="filter-source-type" class="catalog-select" data-filter-source-type>
+                    <option value="">Tutte le fonti</option>
+                    <option value="official_all">Solo fonti ufficiali (prove + esempi)</option>
+                    <option value="official_exam">Solo prove ufficiali reali</option>
+                    <option value="official_sample">Solo esempi ufficiali (es. INVALSIopen)</option>
+                    <option value="third_party_all">Solo archivi / allenamento terzi</option>
+                  </select>
+                </div>
+
+                <div class="catalog-field" style="justify-content:flex-end;">
+                  <label class="catalog-checkbox" title="Mostra anche eventuali quesiti marcati come archiviati/obsoleti">
+                    <input type="checkbox" data-include-archived />
+                    <span>Includi quesiti archiviati</span>
+                  </label>
+                </div>
+              </div>
+            </details>
+          </div>
+        </div>
+
+        <!-- RIEPILOGO PILLOLE FILTRI ATTIVI -->
+        <div class="catalog-active-filters-bar" data-active-filters-bar style="display:none;"></div>
+
+        <!-- BARRA AZIONI -->
+        <div class="catalog-extract-bar">
+          <div class="catalog-extract-actions" style="margin-left:0;">
+            <button type="button" class="btn btn-primary" data-reroll-extract>Estrai</button>
+            <button type="button" class="btn" data-copy-markdown>📋 Copia elenco (MD)</button>
+            <button type="button" class="btn" data-export-json>⬇ Esporta JSON</button>
+            <button type="button" class="btn btn-ghost" data-print-page>🖨 Stampa</button>
+            <button type="button" class="btn btn-ghost" data-filter-reset>↺ Azzera</button>
+          </div>
+          <span class="muted" data-extract-preview style="font-size:0.86rem;"></span>
+        </div>
       </div>
-
-      <!-- BARRA ESTRAZIONE MIRATA -->
-      <div class="catalog-extract-bar">
-        <div class="catalog-field" style="min-width:170px;">
-          <label for="extract-limit">Quante domande estrarre</label>
-          <select id="extract-limit" class="catalog-select" data-extract-limit>
-            <option value="all">Tutte le trovate</option>
-            <option value="3">3 domande</option>
-            <option value="5">5 domande</option>
-            <option value="10">10 domande</option>
-            <option value="15">15 domande</option>
-            <option value="20">20 domande</option>
-          </select>
-        </div>
-
-        <div class="catalog-field" style="min-width:230px;">
-          <label for="extract-strategy">Criterio di ordinamento / estrazione</label>
-          <select id="extract-strategy" class="catalog-select" data-extract-strategy>
-            <option value="newest">Più recenti prima</option>
-            <option value="random_recent">Casuali privilegiando le più recenti</option>
-            <option value="random_all">Casuali su tutti i risultati</option>
-            <option value="oldest">Più vecchie prima</option>
-          </select>
-        </div>
-
-        <label class="catalog-checkbox" title="Mostra anche eventuali quesiti marcati come archiviati/obsoleti">
-          <input type="checkbox" data-include-archived />
-          <span>Includi archiviati</span>
-        </label>
-
-        <div class="catalog-extract-actions">
-          <button type="button" class="btn btn-primary" data-reroll-extract>🎲 Riestrai</button>
-          <button type="button" class="btn" data-copy-markdown>📋 Copia elenco (MD)</button>
-          <button type="button" class="btn" data-export-json>⬇ Esporta JSON</button>
-          <button type="button" class="btn btn-ghost" data-print-page>🖨 Stampa</button>
-        </div>
-      </div>
-    </section>
+    </details>
 
     <!-- RISULTATI -->
     <section aria-labelledby="risultati-title" style="margin-top:2rem;">
       <div class="exercise-header">
         <h2 id="risultati-title" style="margin:0;">Risultati trovati</h2>
-        <span class="badge" data-results-counter>0 quesiti</span>
+        <span class="badge" data-results-counter>In attesa di estrazione</span>
       </div>
       <div data-active-exam-banner></div>
       <div data-catalog-results>
-        <p class="muted">Caricamento quesiti...</p>
+        <p class="muted" style="margin:0.5rem 0 0;">Imposta i filtri desiderati in «Ricerca quesiti per tematiche» e clicca <strong>Estrai</strong> per visualizzare i quesiti.</p>
       </div>
     </section>
 
-    <!-- COPERTURA DELLE COMPETIZIONI -->
+    <!-- COPERTURA DEL CATALOGO -->
     <section aria-labelledby="copertura-title" style="margin-top:2.5rem;">
-      <h2 id="copertura-title">🗺 Copertura del Catalogo per Competizione</h2>
+      <h2 id="copertura-title">🗺 Copertura del Catalogo</h2>
       <p class="muted">
-        Il catalogo viene popolato progressivamente partendo dalle edizioni più recenti di ciascuna competizione e
-        proseguendo poi verso le annate storiche.
+        Elenco completo delle competizioni scolastiche e dei test d'ingresso universitari presenti nel catalogo,
+        con le regole principali di svolgimento e i rimandi ai siti ufficiali.
       </p>
-      <div class="grid-2" data-competitions-overview></div>
+      <div data-competitions-overview></div>
     </section>
   </main>
 
   <div data-site-footer></div>
 
   <script type="module" src="assets/js/main.js"></script>
-  <script type="module" src="assets/js/pages/catalog-page.js?v=20261121"></script>
+  <script type="module" src="assets/js/pages/catalog-page.js?v=20261124k"></script>
 </body>
 </html>
