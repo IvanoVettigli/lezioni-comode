@@ -1,0 +1,54 @@
+{
+  "id": "uda-1-1-numeri",
+  "code": "U.1.1",
+  "order": 1,
+  "slug": "uda-1-1-numeri",
+  "period": "primo-biennio",
+  "subject": "matematica",
+  "year": 1,
+  "title": "Numeri",
+  "summary": "Rappresentazione comoda dei numeri, relativi, razionali, notazione scientifica, algoritmi e laboratorio del calendario perpetuo con i cubi.",
+  "status": "published",
+  "entryPath": "uda/primo-biennio/uda-1-1-numeri/index.html",
+  "pdfPath": "",
+  "prerequisites": [
+    "Le quattro operazioni con numeri interi, frazioni e decimali della scuola media.",
+    "Concetto base di percentuale e lettura della retta numerica."
+  ],
+  "prerequisiteUdas": [],
+  "lessons": [
+    {
+      "id": "uda-1-1-numeri-l01",
+      "number": 1,
+      "title": "Lezione 1 — Rappresentazione comoda dei numeri",
+      "durationMinutes": 60,
+      "path": "uda/primo-biennio/uda-1-1-numeri/lezioni/lezione-01.html"
+    }
+  ],
+  "trophies": [
+    {
+      "id": "uda-1-1-numeri-l01-bronze",
+      "tier": "bronze",
+      "name": "Trasformista di Bronzo (Numeri · Lez. 1)",
+      "description": "Completati tutti gli esercizi facili (★☆☆) della Lezione 1 di Numeri."
+    },
+    {
+      "id": "uda-1-1-numeri-l01-silver",
+      "tier": "silver",
+      "name": "Cacciatore di Frazioni d'Argento (Numeri · Lez. 1)",
+      "description": "Completati tutti gli esercizi intermedi (★★☆) della Lezione 1 di Numeri."
+    },
+    {
+      "id": "uda-1-1-numeri-l01-gold",
+      "tier": "gold",
+      "name": "Maestro delle Forme d'Oro (Numeri · Lez. 1)",
+      "description": "Completati tutti gli esercizi difficili (★★★) della Lezione 1 di Numeri."
+    },
+    {
+      "id": "uda-1-1-numeri-l01-complete",
+      "tier": "completion",
+      "name": "Custode dei Mille Volti del Numero",
+      "description": "Completata integralmente la Lezione 1 di Numeri (tutti gli esercizi, compito di realtà e flashcard)."
+    }
+  ]
+}

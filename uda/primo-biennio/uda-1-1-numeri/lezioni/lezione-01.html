@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lezione 1: Rappresentazione comoda dei numeri — U.1.1 Numeri</title>
+  <meta name="description" content="Lezione 1 dell'UDA Numeri: come scegliere tra frazione, decimale, percentuale e scomposizione in fattori primi per risparmiare tempo ed evitare errori." />
+  <link rel="stylesheet" href="../../../../assets/css/tokens.css" />
+  <link rel="stylesheet" href="../../../../assets/css/base.css" />
+  <link rel="stylesheet" href="../../../../assets/css/components.css" />
+  <link rel="stylesheet" href="../../../../assets/css/print.css" media="print" />
+</head>
+<body
+  data-root="../../../.."
+  data-page="lesson"
+  data-uda-id="uda-1-1-numeri"
+  data-uda-title="U.1.1 · Numeri"
+  data-uda-year="1"
+  data-lesson-id="uda-1-1-numeri-l01"
+  data-lesson-title="Lezione 1 — Rappresentazione comoda dei numeri"
+  data-trophy-bronzo-name="Trasformista di Bronzo (Numeri · Lez. 1)"
+  data-trophy-argento-name="Cacciatore di Frazioni d'Argento (Numeri · Lez. 1)"
+  data-trophy-oro-name="Maestro delle Forme d'Oro (Numeri · Lez. 1)"
+  data-trophy-complete-name="Custode dei Mille Volti del Numero"
+>
+  <div data-site-header></div>
+
+  <main class="site-main container">
+    <!-- Intestazione compilabile per la stampa / PDF -->
+    <section class="print-header print-only" aria-label="Intestazione studente per stampa">
+      <div class="print-header-title">
+        U.1.1 · Numeri — Lezione 1: Rappresentazione comoda dei numeri
+      </div>
+      <div class="print-student-grid">
+        <div class="print-field"><span class="print-field-label">Nome:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Cognome:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Anno scolastico:</span><span class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Classe:</span><span class="print-field-line"></span></div>
+      </div>
+    </section>
+
+    <nav class="breadcrumb no-print" aria-label="Percorso">
+      <a href="../../../../index.html">Home &amp; UDA</a>
+      <span>/</span>
+      <a href="../index.html">U.1.1 · Numeri</a>
+      <span>/</span>
+      <strong>Lezione 1</strong>
+    </nav>
+
+    <header class="hero">
+      <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+        <span class="badge badge-subject-matematica">U.1.1 · Numeri</span>
+        <span class="badge">⏱ Durata: ~1 ora</span>
+        <span class="badge">🏆 Trofei: 🥉 Bronzo · 🥈 Argento · 🥇 Oro · ⭐ Completamento</span>
+      </div>
+      <h1>Lezione 1 — Rappresentazione comoda dei numeri</h1>
+      <p style="margin-bottom:0;">
+        Come «disegniamo» i numeri per capirli al volo? Prima li mettiamo in fila sulla <strong>retta dei numeri</strong>
+        (dai naturali fino ai numeri reali che tappano ogni buco), e poi scopriamo l'arte di essere <strong>pigri intelligenti</strong>:
+        scegliere per ogni numero il «vestito» più comodo tra frazione, decimale, percentuale e fattori primi!
+      </p>
+      <div class="hero-actions no-print">
+        <a class="btn btn-ghost" href="../index.html">← Torna all'Hub Numeri</a>
+        <button type="button" class="btn" data-print-page>🖨 Stampa / Salva PDF</button>
+      </div>
+    </header>
+
+    <!-- 1. LA RETTA DEI NUMERI (ℕ → ℤ → ℚ con Zoom → ℝ) -->
+    <section class="interactive-widget" aria-labelledby="retta-numeri-title">
+      <h2 id="retta-numeri-title" style="margin-top:0;">📏 Prima idea geniale: disporre i numeri su una retta</h2>
+      <p>
+        Un modo semplicissimo e potentissimo per rappresentare i numeri è <strong>disporli in ordine su una retta</strong>:
+        più ti sposti verso destra, più il numero diventa grande; più vai verso sinistra, più diventa piccolo.
+      </p>
+      <p>
+        Usa i pulsanti qui sotto per popolare la retta un insieme alla volta — e quando arrivi ai
+        <strong>numeri razionali</strong>, usa lo <strong>zoom</strong> per scoprire una sorpresa nascosta!
+      </p>
+
+      <div data-widget="number-line-sets"></div>
+
+      <div class="print-only">
+        <table class="compact-table">
+          <thead>
+            <tr>
+              <th>Insieme</th>
+              <th>Esempi</th>
+              <th>Che cosa succede sulla retta dei numeri?</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Naturali (ℕ)</strong></td>
+              <td>0, 1, 2, 3, 4…</td>
+              <td>Punti separati da 0 verso destra.</td>
+            </tr>
+            <tr>
+              <td><strong>Interi relativi (ℤ)</strong></td>
+              <td>… −3, −2, −1, 0, +1, +2…</td>
+              <td>Aggiungono i numeri negativi a sinistra dello zero; restano spazi vuoti tra un intero e l'altro.</td>
+            </tr>
+            <tr>
+              <td><strong>Razionali (ℚ)</strong></td>
+              <td>1/2, −3/4, 1,414…</td>
+              <td>Sono fittissimi (tra due frazioni ce n'è sempre un'altra!), ma restano comunque dei «buchi» (es. √2 e π).</td>
+            </tr>
+            <tr>
+              <td><strong>Reali (ℝ)</strong></td>
+              <td>Tutti i razionali + √2, π…</td>
+              <td>Tappano ogni buco: la retta diventa una linea continua completa!</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 2. TEORIA ALL'OSSO: UNO STESSO NUMERO, PIÙ VESTITI -->
+    <section class="callout callout-theory" aria-labelledby="teoria-title">
+      <div class="callout-title" id="teoria-title">🦴 Uno stesso numero, tanti vestiti: scegli la rappresentazione più comoda!</div>
+      <p>
+        Sulla retta dei numeri hai appena visto una cosa fondamentale: <code>1/4</code>, <code>0,25</code> e <code>25%</code>
+        occupano <strong>esattamente lo stesso punto</strong>! Un numero, infatti, è come il protagonista di un videogioco RPG:
+        resta sempre lo stesso personaggio, ma può indossare <strong>vestiti diversi</strong> a seconda della sfida che ha davanti:
+      </p>
+      <ul>
+        <li>
+          <strong>Frazione</strong> (es. <span class="math-frac"><span>3</span><span>4</span></span>, <span class="math-frac"><span>1</span><span>3</span></span>):
+          imbattibile per <em>moltiplicazioni, divisioni, proporzioni e calcoli esatti</em> — mai troncata e mai approssimata!
+        </li>
+        <li>
+          <strong>Numero decimale</strong> (es. <code>0,75</code>): comodissimo per <em>somme, confronti rapidi</em> e scontrini in euro.
+          Attenzione: se la frazione ridotta ha al denominatore solo fattori <code>2</code> e <code>5</code>, il decimale è <strong>finito</strong>;
+          altrimenti è <strong>periodico</strong> (infinite cifre, come <code>1/3 = 0,333…</code>)!
+        </li>
+        <li>
+          <strong>Percentuale</strong> (es. <code>75%</code>): è solo una frazione con denominatore <code>100</code>
+          (<code>75% = 75/100 = 3/4</code>). Perfetta per <em>sconti, sondaggi e statistiche</em>.
+        </li>
+        <li>
+          <strong>Fattori primi</strong> (es. <code>72 = 2³ × 3²</code>): i «mattoncini LEGO» indivisibili di ogni numero naturale.
+          Servono per semplificare frazioni al volo e trovare subito <strong>MCD</strong> (fattori comuni con esponente minimo)
+          e <strong>mcm</strong> (tutti i fattori con esponente massimo).
+        </li>
+      </ul>
+
+      <div class="patience-note">
+        <strong>🧘 Nessun panico se sei un po' arrugginito!</strong> Se guardando gli esempi non ti ricordi benissimo
+        come si semplifica una frazione, non preoccuparti minimamente: ci torneremo con calma in una lezione dedicata.
+        <strong>In matematica, oltre a essere pigri, bisogna essere anche pazienti!</strong>
+      </div>
+
+      <p style="margin-top:0.85rem; margin-bottom:0.35rem;"><strong>⚡ Kit di sopravvivenza da riconoscere a colpo d'occhio:</strong></p>
+      <div style="overflow-x:auto;">
+        <table class="compact-table">
+          <thead>
+            <tr>
+              <th>Frazione</th>
+              <th>Decimale</th>
+              <th>Percentuale</th>
+              <th>Trucco mentale lampo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>1/2</strong></td>
+              <td>0,5</td>
+              <td>50%</td>
+              <td>Dividi per 2</td>
+            </tr>
+            <tr>
+              <td><strong>1/4</strong></td>
+              <td>0,25</td>
+              <td>25%</td>
+              <td>Dividi per 4 (metà della metà!)</td>
+            </tr>
+            <tr>
+              <td><strong>3/4</strong></td>
+              <td>0,75</td>
+              <td>75%</td>
+              <td>Prendi i 3/4 (oppure togli 1/4 dall'intero)</td>
+            </tr>
+            <tr>
+              <td><strong>1/5</strong></td>
+              <td>0,2</td>
+              <td>20%</td>
+              <td>Dividi per 5 (oppure 10% × 2)</td>
+            </tr>
+            <tr>
+              <td><strong>1/10</strong></td>
+              <td>0,1</td>
+              <td>10%</td>
+              <td>Sposta la virgola di 1 posto a sinistra</td>
+            </tr>
+            <tr>
+              <td><strong>1/8</strong></td>
+              <td>0,125</td>
+              <td>12,5%</td>
+              <td>Metà di 1/4 (dividi tre volte per 2)</td>
+            </tr>
+            <tr>
+              <td><strong>1/3</strong></td>
+              <td>0,<span class="math-overline">3</span></td>
+              <td>33,<span class="math-overline">3</span>%</td>
+              <td>Dividi per 3 (tieni la frazione per conti esatti!)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 2. ATTIVITÀ INTERATTIVA -->
+    <section class="interactive-widget" aria-labelledby="lab-interattivo-title">
+      <h2 id="lab-interattivo-title" style="margin-top:0;">🎛 Esplora dal vivo: il Camerino dei Numeri</h2>
+      <p>
+        Muovi gli slider di <strong>Numeratore</strong> e <strong>Denominatore</strong> (o clicca i classici) per vedere lo stesso
+        numero indossare contemporaneamente tutti i suoi 4 «vestiti» — e scopri quando il decimale finisce e quando diventa periodico!
+      </p>
+      <div data-widget="number-forms"></div>
+      <div class="print-only">
+        <p><em>Versione cartacea: usa la tabella «Kit di sopravvivenza» qui sopra per confrontare frazione, decimale e percentuale. Ricorda la regola d'oro: dopo aver ridotto la frazione ai minimi termini, il decimale è finito se e solo se il denominatore ha come fattori primi soltanto 2 e/o 5.</em></p>
+      </div>
+    </section>
+
+    <!-- 3. BATTERIA DI ESERCIZI GRADUATI -->
+    <section aria-labelledby="esercizi-title">
+      <h2 id="esercizi-title">⚔ Problemi ed Esercizi</h2>
+      <p class="muted">
+        Completa tutti i <strong>★☆☆</strong> per il <strong>Bronzo</strong>, i <strong>★★☆</strong> per l'<strong>Argento</strong>,
+        i <strong>★★★</strong> per l'<strong>Oro</strong> — e aggiungi il Mini-Compito di Realtà e le Flashcard per il
+        <strong>Trofeo di Completamento</strong>! <em>(Ricorda: se clicchi «Mi arrendo!», l'esercizio mostra la soluzione ma assegna 0 EXP finché non ricarichi la pagina e lo risolvi da solo.)</em>
+      </p>
+
+      <!-- ESERCIZIO 1 — Livello 1 (Scelta multipla) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex01"
+        data-type="multiple-choice"
+        data-difficulty="1"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 1 — Il vestito giusto nella bottega di Hyrule</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/gemma-rupia.svg"
+            alt="Illustrazione di una gemma verde sfaccettata"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p style="margin-bottom:0;">
+              Nella bottega di Beedle (<em>The Legend of Zelda</em>) vuoi calcolare a mente il <strong>25%</strong> di
+              <code>84</code> rupie senza usare la calcolatrice. Quale rappresentazione di <code>25%</code> rende il calcolo
+              immediato in un solo passaggio?
+            </p>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "options": [
+              { "value": "a", "label": "Usare 0,25 e fare 84 × 0,25 in colonna" },
+              { "value": "b", "label": "Usare 1/4 e dividere semplicemente 84 per 4 (ottenendo 21 rupie!)" },
+              { "value": "c", "label": "Usare 25/10 e moltiplicare per 84" },
+              { "value": "d", "label": "Usare 4/1 e moltiplicare 84 per 4" }
+            ],
+            "answer": "b",
+            "hints": [
+              "Quante volte sta il 25 dentro il 100?",
+              "25% = 25/100: semplifica dividendo numeratore e denominatore per 25!"
+            ],
+            "solution": "La risposta corretta è la B: 25% = 25/100 = 1/4. Calcolare 1/4 di 84 significa fare 84 ÷ 4 = 21 rupie a mente, in due secondi netti!"
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 2 — Livello 1 (Numerico) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex02"
+        data-type="number"
+        data-difficulty="1"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 2 — Sconto lampo a mente (il trucco del 15%)</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/zaino-sconto.svg"
+            alt="Illustrazione di uno zaino da escursione con cartellino -15%"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p>
+              Uno zaino da escursione costa <strong>60 €</strong> ed è in offerta con uno sconto del <strong>15%</strong>.
+              Senza toccare la calcolatrice, calcola quanti euro <strong>risparmi</strong>.
+            </p>
+            <div class="print-only print-answer-box" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "9",
+            "tolerance": 0.01,
+            "unit": "€",
+            "placeholder": "Es. 9",
+            "hints": [
+              "Spezza il 15% in due percentuali facilissime: 15% = 10% + 5%.",
+              "Il 10% di 60 € è 6 € (basta dividere per 10). Quanto vale il 5%, cioè la metà del 10%?"
+            ],
+            "solution": "15% = 10% + 5%. Il 10% di 60 € è 6 €, quindi il 5% è la sua metà, cioè 3 €. In totale risparmi 6 + 3 = 9 € (e lo zaino ti costerà 51 €)."
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 3 — Livello 1 (Vero / Falso) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex03"
+        data-type="true-false"
+        data-difficulty="1"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 3 — La trappola del decimale tagliato</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body">
+          <p>
+            Valuta questa affermazione: <strong>«La frazione 1/3 è esattamente uguale al numero decimale 0,33.»</strong>
+          </p>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "false",
+            "hints": [
+              "Prova a moltiplicare entrambi per 3: quanto fa 1/3 × 3? E quanto fa 0,33 × 3?",
+              "0,33 è solo un'approssimazione a due cifre: in frazione vale 33/100, non 1/3!"
+            ],
+            "solution": "FALSO! 1/3 = 0,33333… (periodico, con infiniti 3), mentre 0,33 = 33/100. Se moltiplichi 0,33 × 3 ottieni 0,99 invece di 1: ecco perché nei calcoli esatti la frazione batte il decimale!"
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 4 — Livello 2 (Numerico — MCD e fattori primi) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex04"
+        data-type="number"
+        data-difficulty="2"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 4 — Le razioni di Pan di Via (Lembas) verso Mordor</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/lembas-mele.svg"
+            alt="Illustrazione di un panetto di pan di via avvolto in foglia verde con una mela"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p>
+              Prima di partire da Gran Burrone (<em>Il Signore degli Anelli</em>), Sam deve preparare dei sacchetti
+              <strong>tutti identici</strong> con le provviste, senza lasciare nessun avanzo. Ha a disposizione
+              <strong>36 pezzi di Lembas</strong> e <strong>48 mele essiccate</strong>.
+            </p>
+            <p>
+              Qual è il <strong>numero massimo di sacchetti identici</strong> che Sam può preparare?
+            </p>
+            <div class="print-only print-answer-box" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "12",
+            "tolerance": 0.001,
+            "unit": "sacchetti",
+            "placeholder": "Numero massimo di sacchetti...",
+            "hints": [
+              "Il numero di sacchetti deve dividere esattamente sia 36 sia 48, e deve essere il più grande possibile: stai cercando il MCD(36, 48)!",
+              "Scomponi in fattori primi: 36 = 2² × 3² e 48 = 2⁴ × 3.",
+              "Per il MCD prendi solo i fattori primi comuni con l'esponente più piccolo: 2² × 3 = ?"
+            ],
+            "solution": "Cerchiamo MCD(36, 48). Scomponiamo in fattori primi: 36 = 2² × 3² e 48 = 2⁴ × 3. Prendendo i fattori comuni con l'esponente minimo otteniamo MCD = 2² × 3 = 4 × 3 = 12 sacchetti (ciascuno con 3 pezzi di Lembas e 4 mele!)."
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 5 — Livello 2 (CLIL in Inglese — Scelta multipla) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex05"
+        data-type="multiple-choice"
+        data-difficulty="2"
+        data-clil="true"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Exercise 5 (CLIL) — The Black Friday Double Discount Trap!</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/cuffie-gaming.svg"
+            alt="Illustration of gaming headphones with two 20% discount tags"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p>
+              A gaming headset originally costs <strong>€100</strong>. During Black Friday, an online store offers a
+              <strong>20% discount</strong>, and then applies an <strong>extra 20% discount</strong> on the already reduced price.
+              What is the final price you actually pay?
+            </p>
+            <div class="clil-glossary">
+              <strong>Mini-glossary:</strong> <em>discount</em> = sconto · <em>reduced price</em> = prezzo già scontato · <em>final price</em> = prezzo finale.
+            </div>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "options": [
+              { "value": "a", "label": "€60 (because 20% + 20% = 40%)" },
+              { "value": "b", "label": "€64" },
+              { "value": "c", "label": "€68" },
+              { "value": "d", "label": "€72" }
+            ],
+            "answer": "b",
+            "hints": [
+              "Be careful! The second 20% discount is NOT calculated on €100, but on the price AFTER the first discount.",
+              "Step 1: after a 20% discount on €100, the price becomes €80. Step 2: now take 20% (= 1/5) off €80!"
+            ],
+            "solution": "The correct answer is B (€64)! First discount: €100 − 20% of €100 = €80. Second discount: 20% (= 1/5) of €80 is €16, so €80 − €16 = €64. Using decimals: 100 × 0.8 × 0.8 = 64 (a total discount of 36%, NOT 40%!)."
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 6 — Livello 2 (Attività su Quaderno/Tablet) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex06"
+        data-type="notebook"
+        data-difficulty="2"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 6 — Retta numerica «intelligente» (Quaderno / Tablet)</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body">
+          <p>
+            Sul tuo quaderno (o tablet) disegna una retta numerica da <strong>0</strong> a <strong>2</strong> e posiziona
+            con precisione questi cinque numeri vestiti in modi diversi:
+          </p>
+          <p style="font-family: var(--font-mono); font-weight: 700; text-align:center;">
+            0,25 &nbsp; · &nbsp; 2/5 &nbsp; · &nbsp; 75% &nbsp; · &nbsp; 1,2 &nbsp; · &nbsp; 7/4
+          </p>
+          <p>
+            <strong>Sfida nell'esercizio:</strong> prima di disegnare, scegli un'unità di misura comoda in quadretti per
+            l'intervallo da <code>0</code> a <code>1</code> (in modo da non dover stimare «a occhio» né i quarti né i quinti!).
+            Quando hai finito, controlla la soluzione nei suggerimenti e conferma qui sotto.
+          </p>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "hints": [
+              "I denominatori in gioco sono 4 (da 0,25, 75%, 7/4) e 5 (da 2/5 e 1,2 = 6/5). Qual è il minimo comune multiplo di 4 e 5?",
+              "Scegliendo 1 intero = 20 quadretti (oppure 10 cm = 1 intero), ogni quarto vale esattamente 5 quadretti e ogni quinto vale 4 quadretti!",
+              "Posizioni esatte con 1 intero = 20 quadretti: 0,25 → 5 quadretti; 2/5 → 8 quadretti; 75% → 15 quadretti; 1,2 → 24 quadretti; 7/4 → 35 quadretti (su 40 totali per arrivare a 2)."
+            ],
+            "solution": "Scegliendo l'unità 1 = 20 quadretti (= mcm(4, 5)), tutti i numeri cadono esattamente sugli incroci della quadrettatura: 0,25 = 1/4 (5 quadretti), 2/5 = 0,40 (8 quadretti), 75% = 3/4 (15 quadretti), 1,2 = 6/5 (24 quadretti), 7/4 = 1,75 (35 quadretti). Ordine crescente verificato: 0,25 < 2/5 < 75% < 1,2 < 7/4."
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 7 — Livello 3 (Boss Fight 1 — Numerico, mcm) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex07"
+        data-type="number"
+        data-difficulty="3"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 7 — Boss Fight: I tre fari della Rotta Maggiore</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/fari-notturni.svg"
+            alt="Illustrazione di tre fari costieri illuminati nella notte"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p>
+              Per guidare la <em>Thousand Sunny</em> (<em>One Piece</em>) fuori dalla nebbia notturna, tre fari costieri
+              lampeggiano a intervalli regolari:
+            </p>
+            <ul>
+              <li>il <strong>Faro A</strong> lampeggia ogni <strong>18 secondi</strong>;</li>
+              <li>il <strong>Faro B</strong> lampeggia ogni <strong>24 secondi</strong>;</li>
+              <li>il <strong>Faro C</strong> lampeggia ogni <strong>30 secondi</strong>.</li>
+            </ul>
+            <p>
+              Alle <code>21:00:00</code> lampeggiano tutti e tre esattamente nello stesso istante.
+              <strong>Dopo quanti minuti</strong> lampeggeranno di nuovo tutti e tre insieme?
+              <em>(Occhio all'unità di misura richiesta!)</em>
+            </p>
+            <div class="print-only print-answer-box print-answer-box-tall" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "6",
+            "tolerance": 0.001,
+            "unit": "minuti",
+            "placeholder": "Inserisci i minuti...",
+            "hints": [
+              "Il tempo in secondi prima del prossimo lampo simultaneo deve essere un multiplo di 18, di 24 e di 30: cerca il mcm(18, 24, 30).",
+              "Scomponi i tre numeri in fattori primi: 18 = 2 × 3², 24 = 2³ × 3, 30 = 2 × 3 × 5.",
+              "Prendi ogni fattore primo con l'esponente MASSIMO: 2³ × 3² × 5 = 8 × 9 × 5 = 360 secondi. Ora converti 360 secondi in minuti!"
+            ],
+            "solution": "Scomponiamo in fattori primi: 18 = 2 × 3², 24 = 2³ × 3, 30 = 2 × 3 × 5. Il minimo comune multiplo è mcm = 2³ × 3² × 5 = 8 × 9 × 5 = 360 secondi. Dividendo per 60 otteniamo 360 ÷ 60 = 6 minuti (lampeggeranno di nuovo insieme alle 21:06:00!)."
+          }
+        </script>
+      </article>
+
+      <!-- ESERCIZIO 8 — Livello 3 (Boss Fight 2 — Scelta multipla, decimale finito vs periodico) -->
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-ex08"
+        data-type="multiple-choice"
+        data-difficulty="3"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Esercizio 8 — Boss Fight: Il segreto dei decimali che non finiscono mai</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body">
+          <p>
+            Senza fare divisioni in colonna con la calcolatrice, quale delle seguenti frazioni produce un
+            <strong>numero decimale finito</strong> (non periodico)? <em>Attento al tranello nascosto!</em>
+          </p>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "options": [
+              { "value": "a", "label": "7/12" },
+              { "value": "b", "label": "21/28" },
+              { "value": "c", "label": "5/14" },
+              { "value": "d", "label": "11/15" }
+            ],
+            "answer": "b",
+            "hints": [
+              "Una frazione dà un decimale finito se e solo se il suo denominatore (dopo averla RIDOTTA ai minimi termini!) ha come fattori primi solo 2 e/o 5.",
+              "Controlla prima se qualcuna delle 4 frazioni si può semplificare!",
+              "Guarda 21/28: sia 21 sia 28 sono divisibili per 7! Cosa rimane al denominatore dopo aver semplificato?"
+            ],
+            "solution": "La risposta corretta è B (21/28)! A prima vista 28 = 2² × 7 sembra avere un fattore 7 «vietato», ma prima bisogna sempre ridurre ai minimi termini: 21/28 = 3/4! Poiché 4 = 2² contiene solo il fattore 2, 21/28 = 3/4 = 0,75 è un decimale finito. Le altre tre (12 = 2²×3, 14 = 2×7, 15 = 3×5) sono già ridotte e hanno fattori diversi da 2 e 5, quindi sono tutte periodiche!"
+          }
+        </script>
+      </article>
+    </section>
+
+    <!-- 4. MINI-COMPITO DI REALTÀ DELLA LEZIONE -->
+    <section aria-labelledby="realta-lezione-title">
+      <h2 id="realta-lezione-title">🌍 Mini-Compito di Realtà (al supermercato senza farsi fregare!)</h2>
+      <article
+        class="exercise-card"
+        data-exercise
+        data-exercise-id="uda-1-1-numeri-l01-cr-ex"
+        data-reality-task-id="uda-1-1-numeri-l01-cr"
+        data-type="number"
+        data-difficulty="2"
+      >
+        <div class="exercise-header">
+          <h3 class="exercise-title">Quale confezione di biscotti conviene davvero al chilogrammo?</h3>
+          <div class="exercise-badges" data-exercise-badges></div>
+        </div>
+        <div class="exercise-body exercise-body-illustrated">
+          <img
+            class="exercise-thumb"
+            src="../../../../assets/img/esercizi/biscotti-supermercato.svg"
+            alt="Illustrazione di tre confezioni di biscotti da 250g, 400g e 500g"
+            loading="lazy"
+          />
+          <div class="exercise-body-content">
+            <p>
+              Al supermercato trovi tre confezioni diverse dei tuoi biscotti preferiti, ma l'etichetta col prezzo al chilo è staccata:
+            </p>
+            <ul>
+              <li><strong>Confezione A:</strong> <code>250 g</code> a <strong>2,00 €</strong>;</li>
+              <li><strong>Confezione B:</strong> <code>400 g</code> a <strong>3,00 €</strong>;</li>
+              <li><strong>Confezione C:</strong> <code>500 g</code> a <strong>4,50 €</strong>, ma oggi ha lo <strong>sconto del 20%</strong> alla cassa!</li>
+            </ul>
+            <p>
+              Usa la rappresentazione più comoda (frazioni di chilogrammo!) per confrontarle tutte a parità di peso.
+              Quanto costa <strong>al chilogrammo (in €/kg)</strong> la confezione più conveniente?
+            </p>
+            <div class="print-only print-answer-box print-answer-box-tall" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div data-exercise-controls></div>
+        <script type="application/json" data-exercise-config>
+          {
+            "answer": "7.2",
+            "tolerance": 0.01,
+            "unit": "€/kg",
+            "placeholder": "Es. 7,20",
+            "hints": [
+              "Trasforma i grammi in frazioni di 1 kg (1000 g): 250 g = 1/4 kg, 400 g = 2/5 kg, 500 g = 1/2 kg!",
+              "Confezione A: se 1/4 kg costa 2,00 €, 1 kg costa 2,00 × 4 = 8,00 €/kg. Confezione B: se 2/5 kg costano 3,00 €, 1/5 kg costa 1,50 €, quindi 1 kg = 7,50 €/kg.",
+              "Confezione C: togli prima il 20% (= 1/5) da 4,50 € → sconto 0,90 €, quindi paghi 3,60 € per 1/2 kg. Moltiplica per 2 per avere il prezzo di 1 kg!"
+            ],
+            "solution": "Confrontiamo tutte le confezioni portandole a 1 kg: (A) 250 g = 1/4 kg → 2,00 × 4 = 8,00 €/kg; (B) 400 g = 2/5 kg → (3,00 ÷ 2) × 5 = 7,50 €/kg; (C) 4,50 € scontati del 20% (= 1/5 = 0,90 €) diventano 3,60 € per 500 g (= 1/2 kg) → 3,60 × 2 = 7,20 €/kg! La più conveniente è la Confezione C a 7,20 €/kg."
+          }
+        </script>
+      </article>
+    </section>
+
+    <!-- 5. FLASHCARD DI FINE LEZIONE -->
+    <section aria-labelledby="fc-lezione-title">
+      <h2 id="fc-lezione-title">🃏 Ripasso lampo della Lezione 1</h2>
+      <div data-flashcard-deck data-deck-id="uda-1-1-numeri-l01-fc">
+        <script type="application/json" data-flashcards-config>
+          [
+            {
+              "front": "Che differenza c'è sulla retta dei numeri tra i razionali (ℚ) e i reali (ℝ)?",
+              "back": "I razionali (ℚ) sono fittissimi — tra due ce n'è sempre un altro — ma lasciano comunque dei «buchi» (come √2 e π). I reali (ℝ) riempiono tutti i buchi rendendo la retta completamente continua!"
+            },
+            {
+              "front": "Quando conviene tenere un numero in forma di FRAZIONE invece che decimale?",
+              "back": "Quando fai moltiplicazioni, divisioni, proporzioni o quando il decimale è periodico (es. 1/3): la frazione è sempre esatta!"
+            },
+            {
+              "front": "Che cos'è una percentuale (es. 25%) scritta come frazione?",
+              "back": "È una frazione con denominatore 100: 25% = 25/100 = 1/4. Quindi il 25% di un numero si trova dividendo per 4!"
+            },
+            {
+              "front": "Come si calcola a mente il 15% di una cifra (es. 80 €)?",
+              "back": "Spezzi 15% = 10% + 5%. Il 10% di 80 è 8; il 5% è la sua metà, cioè 4. Totale: 8 + 4 = 12 €."
+            },
+            {
+              "front": "Due sconti successivi del 20% e del 20% fanno uno sconto totale del 40%?",
+              "back": "NO! Il secondo sconto si calcola sul prezzo già ridotto: 0,8 × 0,8 = 0,64, quindi lo sconto totale è il 36%."
+            },
+            {
+              "front": "Quando una frazione ridotta ai minimi termini genera un numero decimale FINITO?",
+              "back": "Solo quando nella scomposizione in fattori primi del denominatore compaiono esclusivamente il 2 e/o il 5!"
+            },
+            {
+              "front": "Qual è la differenza pratica tra MCD e mcm tramite i fattori primi?",
+              "back": "MCD = solo fattori comuni con l'esponente MINIMO (serve per dividere in parti uguali massime). mcm = tutti i fattori con l'esponente MASSIMO (serve per trovare quando più cicli si incontrano)."
+            }
+          ]
+        </script>
+      </div>
+    </section>
+
+    <!-- NAVIGAZIONE FINE LEZIONE -->
+    <nav class="card no-print" aria-label="Navigazione tra lezioni" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.75rem; margin-top:var(--space-5);">
+      <a class="btn btn-ghost" href="../index.html">← Torna all'Hub U.1.1 Numeri</a>
+      <span class="muted" style="font-size:0.9rem;">Lezione 2 (Operazioni con i numeri relativi) — in arrivo!</span>
+    </nav>
+  </main>
+
+  <div data-site-footer></div>
+
+  <script type="module" src="../../../../assets/js/main.js"></script>
+</body>
+</html>

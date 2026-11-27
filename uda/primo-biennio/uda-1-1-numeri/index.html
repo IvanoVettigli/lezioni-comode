@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="dark">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>U.1.1 · Numeri — Le comode lezioni d'Ivano</title>
+  <meta name="description"
+    content="Hub dell'UDA U.1.1 Numeri (Primo Biennio, 1° Anno): prerequisiti, obiettivi, accesso alle lezioni e laboratorio pratico per costruire un calendario perpetuo con due cubi di carta." />
+  <link rel="stylesheet" href="../../../assets/css/tokens.css" />
+  <link rel="stylesheet" href="../../../assets/css/base.css" />
+  <link rel="stylesheet" href="../../../assets/css/components.css" />
+  <link rel="stylesheet" href="../../../assets/css/print.css" media="print" />
+</head>
+
+<body data-root="../../.." data-page="uda" data-uda-id="uda-1-1-numeri" data-uda-title="U.1.1 · Numeri"
+  data-uda-year="1">
+  <div data-site-header></div>
+
+  <main class="site-main container">
+    <!-- Intestazione compilabile visibile in stampa / PDF -->
+    <section class="print-header print-only" aria-label="Intestazione studente per stampa">
+      <div class="print-header-title">
+        Le comode lezioni d'Ivano — UDA U.1.1: Numeri (Primo Biennio · 1° Anno)
+      </div>
+      <div class="print-student-grid">
+        <div class="print-field"><span class="print-field-label">Nome:</span><span class="print-field-line"></span>
+        </div>
+        <div class="print-field"><span class="print-field-label">Cognome:</span><span class="print-field-line"></span>
+        </div>
+        <div class="print-field"><span class="print-field-label">Anno scolastico:</span><span
+            class="print-field-line"></span></div>
+        <div class="print-field"><span class="print-field-label">Classe:</span><span class="print-field-line"></span>
+        </div>
+      </div>
+    </section>
+
+    <nav class="breadcrumb no-print" aria-label="Percorso">
+      <a href="../../../index.html">Home &amp; UDA</a>
+      <span>/</span>
+      <span>Primo Biennio · 1° Anno</span>
+      <span>/</span>
+      <strong>U.1.1 · Numeri</strong>
+    </nav>
+
+    <header class="hero">
+      <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+        <span class="badge badge-subject-matematica">Matematica &amp; Informatica</span>
+        <span class="badge">U.1.1 · Primo Biennio (1° Anno)</span>
+      </div>
+      <h1>Numeri</h1>
+      <p>
+        L'essere umano usa i numeri praticamente da sempre: dalle prime tacche incise nell'antichità per contare
+        le lune e i raccolti, fino all'ora sullo smartphone, ai prezzi e ai punti esperienza di un videogioco.
+        Sono talmente radicati nella nostra cultura che li usiamo ogni giorno <strong>anche senza rendercene
+          conto</strong>:
+        per esempio, persino per sapere <strong>che giorno è</strong> usiamo i numeri!
+      </p>
+      <p style="margin-bottom:0;">
+        In questa UDA impariamo a governarli scegliendo sempre la loro forma più comoda — frazioni, decimali,
+        percentuali,
+        segni meno, potenze di 10 e piccoli algoritmi — e partiamo proprio da un esempio quotidiano geniale:
+        costruire un <strong>calendario perpetuo con soli due cubi</strong>.
+      </p>
+      <div class="hero-actions no-print">
+        <a class="btn btn-primary" href="lezioni/lezione-01.html">▶ Vai alla Lezione 1</a>
+        <a class="btn btn-ghost" href="#calendario-cubi">🎲 Vai al laboratorio dei cubi</a>
+        <button type="button" class="btn btn-ghost" data-print-page>🖨 Stampa / Salva PDF</button>
+      </div>
+    </header>
+
+    <!-- 1. PREREQUISITI E OBIETTIVI DELL'UDA -->
+    <section class="uda-io-grid" aria-label="Prerequisiti e obiettivi dell'UDA">
+      <div class="callout callout-prereq" aria-labelledby="prerequisiti-title">
+        <div class="callout-title" id="prerequisiti-title">🧭 Prerequisiti (cosa ti serve prima di iniziare)</div>
+        <ul>
+          <li>Conoscere le quattro operazioni di base con numeri naturali, frazioni semplici e decimali.</li>
+          <li>Avere un'idea intuitiva di percentuale (es. sconti del 50% o del 10%) e della retta numerica.</li>
+          <li>Saper riconoscere i multipli e i divisori più piccoli (tabelline essenziali).</li>
+        </ul>
+        <p style="margin-bottom:0; font-size:0.9rem;">
+          <strong>UDA propedeutiche:</strong> nessuna — questa è l'<strong>UDA di partenza</strong> del percorso!
+        </p>
+      </div>
+
+      <div class="callout callout-objectives" aria-labelledby="obiettivi-title">
+        <div class="callout-title" id="obiettivi-title">🎯 Obiettivi (cosa saprai fare alla fine dell'UDA)</div>
+        <ul>
+          <li>Passare con agilità tra frazione, decimale, percentuale e scomposizione in fattori primi scegliendo la
+            forma più comoda.</li>
+          <li>Gestire con sicurezza operazioni con numeri relativi (ℤ) e razionali (ℚ) controllando segni e stime a
+            mente.</li>
+          <li>Usare potenze intere e notazione scientifica per confrontare ordini di grandezza reali.</li>
+          <li>Leggere, tracciare e scrivere brevi algoritmi di calcolo con variabili e progettare il calendario perpetuo
+            con due cubi.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 2. HUB DELLE LEZIONI -->
+    <section class="card" aria-labelledby="hub-lezioni-title" style="margin-block: var(--space-5);">
+      <div class="exercise-header">
+        <h2 id="hub-lezioni-title" style="margin:0;">📚 Hub delle Lezioni</h2>
+        <span class="badge">5 lezioni previste · ~1 ora ciascuna</span>
+      </div>
+      <p class="muted" style="margin-bottom:0.5rem;">
+        Scegli una lezione qui sotto per entrare nella teoria all'osso, negli strumenti interattivi, negli esercizi
+        graduati e nei trofei.
+      </p>
+
+      <div class="lesson-hub-grid">
+        <a class="lesson-hub-btn is-ready" href="lezioni/lezione-01.html">
+          <span class="lesson-hub-btn-title">Lezione 1</span>
+          <span class="lesson-hub-btn-sub">Rappresentazione comoda dei numeri →</span>
+        </a>
+
+        <span class="lesson-hub-btn is-placeholder" aria-disabled="true" title="Lezione 2 — in preparazione">
+          <span class="lesson-hub-btn-title">Lezione 2</span>
+          <span class="lesson-hub-btn-sub">In preparazione</span>
+        </span>
+
+        <span class="lesson-hub-btn is-placeholder" aria-disabled="true" title="Lezione 3 — in preparazione">
+          <span class="lesson-hub-btn-title">Lezione 3</span>
+          <span class="lesson-hub-btn-sub">In preparazione</span>
+        </span>
+
+        <span class="lesson-hub-btn is-placeholder" aria-disabled="true" title="Lezione 4 — in preparazione">
+          <span class="lesson-hub-btn-title">Lezione 4</span>
+          <span class="lesson-hub-btn-sub">In preparazione</span>
+        </span>
+
+        <span class="lesson-hub-btn is-placeholder" aria-disabled="true" title="Lezione 5 — in preparazione">
+          <span class="lesson-hub-btn-title">Lezione 5</span>
+          <span class="lesson-hub-btn-sub">In preparazione</span>
+        </span>
+      </div>
+    </section>
+
+    <!-- 3. LABORATORIO PRATICO: CALENDARIO PERPETUO CON DUE CUBI -->
+    <section id="calendario-cubi" class="callout callout-lab" aria-labelledby="lab-cubi-title">
+      <div class="callout-title" id="lab-cubi-title">🎲 Laboratorio Pratico dell'UDA — Costruisci un Calendario Perpetuo
+        con due Cubi!</div>
+
+      <p>
+        Per sapere che giorno è usiamo i numeri senza nemmeno pensarci. Un esempio geniale di calendario che puoi
+        realizzare con le tue mani è il <strong>calendario perpetuo con due cubi</strong>: con appena
+        <code>6 + 6 = 12</code> facce di cartoncino puoi mostrare <strong>tutti i giorni del mese da 01 a 31</strong>,
+        ogni singolo giorno dell'anno, per sempre — senza pile e senza dover mai cambiare calendario!
+      </p>
+
+      <h3 style="margin-top:1rem;">🧰 Occorrente</h3>
+      <ul>
+        <li>Un foglio di <strong>cartoncino</strong> (o carta spessa A4, 160–220 g/m² — vanno benissimo anche i ritagli
+          di una scatola di cereali!).</li>
+        <li>Righello, matita, forbici, colla stick (o nastro biadesivo) e un pennarello scuro a punta media.</li>
+        <li><em>Facoltativo (per i mesi):</em> 3 parallelepipedi a base quadrata (4 facce lunghe ciascuno → 12 mesi
+          dell'anno) e una piccola base di cartoncino su cui appoggiare i cubi.</li>
+      </ul>
+
+      <h3 style="margin-top:1rem;">🧠 Sfida preliminare (fermati 2 minuti prima di aprire lo spoiler!)</h3>
+      <p>
+        Ogni cifra da <code>0</code> a <code>9</code> (sono <strong>10 cifre</strong>) deve comparire sui due cubi, e
+        alcune
+        cifre devono comparire su <strong>entrambi</strong> i cubi per poter comporre giorni come <code>11</code>,
+        <code>22</code>
+        e i giorni da <code>01</code> a <code>09</code>. Conta bene: se metti <code>0, 1, 2</code> su entrambi i cubi,
+        hai già usato <strong>6 facce</strong> e te ne restano solo <strong>6 libere</strong>… ma ti mancano ancora
+        <strong>7 cifre</strong> (<code>3, 4, 5, 6, 7, 8, 9</code>)! <em>Come diavolo fai a farle entrare?!</em>
+      </p>
+
+      <details class="cube-riddle-details">
+        <summary>💡 Clicca per scoprire il trucco matematico e quali cifre scrivere sulle 12 facce</summary>
+        <div style="margin-top:0.75rem;">
+          <p>
+            <strong>Il colpo di genio:</strong> il <strong>6</strong> capovolto di 180° diventa un <strong>9</strong>!
+            Quindi ti bastano <strong>6 facce libere per 7 cifre</strong>:
+          </p>
+          <ul>
+            <li><strong>Perché <code>0</code>, <code>1</code> e <code>2</code> devono stare su entrambi i cubi:</strong>
+              <ul>
+                <li><code>1</code> e <code>2</code> servono doppi per comporre <code>11</code> e <code>22</code>.</li>
+                <li><code>0</code> serve doppio perché deve potersi accoppiare con tutte e 9 le cifre da <code>1</code>
+                  a <code>9</code> (<code>01</code>…<code>09</code>), e un solo cubo non ha 9 facce!</li>
+              </ul>
+            </li>
+            <li><strong>Distribuzione vincente delle 12 facce:</strong>
+              <ul>
+                <li><strong>Cubo A:</strong> <code>0, 1, 2, 3, 4, 5</code></li>
+                <li><strong>Cubo B:</strong> <code>0, 1, 2, 6, 7, 8</code> <em>(dove il <code>6</code> capovolto fa da
+                    <code>9</code>!)</em></li>
+              </ul>
+            </li>
+          </ul>
+          <p style="margin-bottom:0;">
+            <em>Controllo rapido:</em> per fare <code>09</code> metti lo <code>0</code> del Cubo A a sinistra e il
+            <code>6</code> del Cubo B capovolto a destra;
+            per fare <code>31</code> metti il <code>3</code> del Cubo A a sinistra e l'<code>1</code> del Cubo B a
+            destra!
+          </p>
+        </div>
+      </details>
+
+      <h3 style="margin-top:1.15rem;">✂️ Istruzioni di costruzione passo passo</h3>
+      <ol>
+        <li><strong>Disegna lo sviluppo piano a croce:</strong> sul cartoncino traccia con il righello una croce formata
+          da <strong>6 quadrati identici</strong> con lato da <strong>4 cm</strong> (o 5 cm per cubi più grandi), oppure
+          stampa direttamente questa pagina e ricalca i due schemi qui sotto.</li>
+        <li><strong>Aggiungi le alette:</strong> lascia le 7 alette trapezoidali di circa <code>1 cm</code> sui lati
+          esterni (linee tratteggiate nello schema) per poter incollare comodamente il cubo.</li>
+        <li><strong>Scrivi le cifre PRIMA di piegare:</strong> con il pennarello scrivi in grande e ben centrate le
+          cifre di <strong>Cubo A</strong> (<code>0, 1, 2, 3, 4, 5</code>) e di <strong>Cubo B</strong>
+          (<code>0, 1, 2, 6, 7, 8</code>). Disegna il <code>6</code> con una forma simmetrica (o con un trattino
+          morbido, mai asimmetrico) così capovolto sia un <code>9</code> impeccabile!</li>
+        <li><strong>Incidi leggermente le pieghe:</strong> appoggia il righello lungo ogni linea interna e passa
+          delicatamente una penna scarica (o la punta chiusa delle forbici) per avere pieghe nettissime.</li>
+        <li><strong>Ritaglia, piega e incolla:</strong> ritaglia lungo il contorno esterno, piega tutte le facce e le
+          alette verso l'interno e incolla un'aletta alla volta fino a chiudere i due cubi.</li>
+        <li><strong>Collaudo finale:</strong> prova a comporre la tua data di nascita, il giorno di oggi e tutti i casi
+          critici (<code>06</code>, <code>09</code>, <code>11</code>, <code>19</code>, <code>22</code>, <code>29</code>,
+          <code>30</code>, <code>31</code>)!</li>
+      </ol>
+
+      <!-- Sviluppi piani SVG pronti anche per la stampa A4 in B/N -->
+      <div class="cube-nets-grid">
+        <div class="cube-net-card">
+          <strong>Schema Cubo A — Facce: 0 · 1 · 2 · 3 · 4 · 5</strong>
+          <svg viewBox="0 0 204 246" class="cube-net-svg" role="img"
+            aria-label="Sviluppo piano del Cubo A con cifre 0, 1, 2, 3, 4, 5">
+            <!-- Alette di incollaggio -->
+            <polygon points="76,18 84,8 120,8 128,18" class="cube-net-flap" />
+            <polygon points="76,18 66,26 66,62 76,70" class="cube-net-flap" />
+            <polygon points="128,18 138,26 138,62 128,70" class="cube-net-flap" />
+            <polygon points="24,70 14,78 14,114 24,122" class="cube-net-flap" />
+            <polygon points="180,70 190,78 190,114 180,122" class="cube-net-flap" />
+            <polygon points="76,122 66,130 66,166 76,174" class="cube-net-flap" />
+            <polygon points="128,122 138,130 138,166 128,174" class="cube-net-flap" />
+            <!-- 6 facce quadrate (52x52) -->
+            <rect x="76" y="18" width="52" height="52" class="cube-net-cell" />
+            <rect x="24" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="128" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="122" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="174" width="52" height="52" class="cube-net-cell" />
+            <!-- Cifre -->
+            <text x="102" y="53" text-anchor="middle" class="cube-net-digit">0</text>
+            <text x="50" y="105" text-anchor="middle" class="cube-net-digit">3</text>
+            <text x="102" y="105" text-anchor="middle" class="cube-net-digit">1</text>
+            <text x="154" y="105" text-anchor="middle" class="cube-net-digit">4</text>
+            <text x="102" y="157" text-anchor="middle" class="cube-net-digit">2</text>
+            <text x="102" y="209" text-anchor="middle" class="cube-net-digit">5</text>
+          </svg>
+        </div>
+
+        <div class="cube-net-card">
+          <strong>Schema Cubo B — Facce: 0 · 1 · 2 · 6(9) · 7 · 8</strong>
+          <svg viewBox="0 0 204 246" class="cube-net-svg" role="img"
+            aria-label="Sviluppo piano del Cubo B con cifre 0, 1, 2, 6 o 9, 7, 8">
+            <!-- Alette di incollaggio -->
+            <polygon points="76,18 84,8 120,8 128,18" class="cube-net-flap" />
+            <polygon points="76,18 66,26 66,62 76,70" class="cube-net-flap" />
+            <polygon points="128,18 138,26 138,62 128,70" class="cube-net-flap" />
+            <polygon points="24,70 14,78 14,114 24,122" class="cube-net-flap" />
+            <polygon points="180,70 190,78 190,114 180,122" class="cube-net-flap" />
+            <polygon points="76,122 66,130 66,166 76,174" class="cube-net-flap" />
+            <polygon points="128,122 138,130 138,166 128,174" class="cube-net-flap" />
+            <!-- 6 facce quadrate (52x52) -->
+            <rect x="76" y="18" width="52" height="52" class="cube-net-cell" />
+            <rect x="24" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="128" y="70" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="122" width="52" height="52" class="cube-net-cell" />
+            <rect x="76" y="174" width="52" height="52" class="cube-net-cell" />
+            <!-- Cifre -->
+            <text x="102" y="53" text-anchor="middle" class="cube-net-digit">0</text>
+            <text x="50" y="105" text-anchor="middle" class="cube-net-digit">6</text>
+            <text x="102" y="105" text-anchor="middle" class="cube-net-digit">1</text>
+            <text x="154" y="105" text-anchor="middle" class="cube-net-digit">7</text>
+            <text x="102" y="157" text-anchor="middle" class="cube-net-digit">2</text>
+            <text x="102" y="209" text-anchor="middle" class="cube-net-digit">8</text>
+          </svg>
+        </div>
+      </div>
+
+      <!-- Simulatore interattivo dei 2 cubi (montato da interactive-widgets.js) -->
+      <div data-widget="cube-calendar"></div>
+    </section>
+  </main>
+
+  <div data-site-footer></div>
+
+  <script type="module" src="../../../assets/js/main.js"></script>
+</body>
+
+</html>

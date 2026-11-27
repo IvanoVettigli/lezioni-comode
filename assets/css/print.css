@@ -203,19 +203,49 @@
     font-weight: 700;
   }
 
-  /* Mappa concettuale SVG ad alto contrasto B/N */
-  .concept-map-node rect {
+  /* Mappa concettuale SVG e sviluppi cubi ad alto contrasto B/N */
+  .concept-map-node rect,
+  .cube-net-cell {
     fill: #ffffff !important;
     stroke: #000000 !important;
     stroke-width: 1.5 !important;
   }
 
-  .concept-map-node text {
+  .cube-net-flap {
+    fill: #f4f4f4 !important;
+    stroke: #000000 !important;
+    stroke-width: 1 !important;
+  }
+
+  .concept-map-node text,
+  .cube-net-digit {
     fill: #000000 !important;
   }
 
   .concept-map-edge {
     stroke: #000000 !important;
+  }
+
+  .cube-net-card,
+  .compact-table th,
+  .compact-table td {
+    background: #ffffff !important;
+    border-color: #000000 !important;
+    color: #000000 !important;
+  }
+
+  .cube-riddle-details,
+  .patience-note {
+    border: 1pt solid #000000 !important;
+    border-left: 3pt solid #000000 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  .exercise-thumb {
+    width: 58pt !important;
+    height: 58pt !important;
+    flex-basis: 58pt !important;
   }
 
   /* Link puliti senza distrazioni */

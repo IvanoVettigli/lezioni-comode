@@ -55,21 +55,15 @@ function renderSlot(year, num, publishedUda) {
   const code = `U.${year}.${num}`;
 
   if (publishedUda && publishedUda.entryPath) {
-    const lessonCount = (publishedUda.lessons || []).length;
-    const pdfLink = publishedUda.pdfPath
-      ? `<a class="btn btn-ghost" href="${resolveRootPath(publishedUda.pdfPath)}" target="_blank" rel="noopener">🖨 PDF</a>`
-      : "";
     return `
-      <article class="uda-slot-card is-ready">
-        <div class="uda-slot-code">${escapeHtml(code)}</div>
-        <h3 class="uda-slot-title">${escapeHtml(publishedUda.title || code)}</h3>
-        ${publishedUda.summary ? `<p class="uda-slot-summary">${escapeHtml(publishedUda.summary)}</p>` : ""}
-        <div class="uda-slot-actions">
-          <a class="btn btn-primary" href="${resolveRootPath(publishedUda.entryPath)}">Apri →</a>
-          ${lessonCount > 0 ? `<span class="badge">${lessonCount} lezioni</span>` : ""}
-          ${pdfLink}
-        </div>
-      </article>
+      <a
+        class="uda-slot-card is-ready"
+        href="${resolveRootPath(publishedUda.entryPath)}"
+        title="${escapeHtml(code)} — ${escapeHtml(publishedUda.title || code)}"
+      >
+        <span class="uda-slot-code">${escapeHtml(code)}</span>
+        <span class="uda-slot-title">${escapeHtml(publishedUda.title || code)}</span>
+      </a>
     `;
   }
 

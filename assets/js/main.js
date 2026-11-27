@@ -10,6 +10,7 @@ import { initFlashcards } from "./components/flashcards.js";
 import { initConceptMaps } from "./components/concept-map.js";
 import { initInteractiveStories } from "./components/interactive-story.js";
 import { initJinglePlayers } from "./components/jingle-player.js";
+import { initInteractiveWidgets } from "./components/interactive-widgets.js";
 
 function initPrintButtons() {
   document.addEventListener("click", (event) => {
@@ -33,6 +34,7 @@ async function bootstrap() {
   initConceptMaps();
   initInteractiveStories();
   initJinglePlayers();
+  initInteractiveWidgets();
 
   window.__ivanoReady = true;
   window.dispatchEvent(new CustomEvent("ivano:ready"));
